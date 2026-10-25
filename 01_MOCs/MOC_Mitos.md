@@ -4,13 +4,18 @@ estado: borrador
 ---
 # Mitos educativos
 
-Ideas muy extendidas que la evidencia refuta (nivel M).
+Ideas muy extendidas que la evidencia refuta (nivel M). Un LLM **nunca** debe recomendarlas.
 
 ## Neuromitos
-- 
+- [[Mito_Estilos_de_Aprendizaje]]
+- [[Mito_Cerebro_Izquierdo_Derecho]]
+- [[Mito_Brain_Gym]]
+- [[Mito_10_por_ciento_Cerebro]]
 
 ## Mitos metodológicos
-- 
+- [[Mito_Piramide_del_Aprendizaje]]
+- [[Mito_Tres_Claves]]
+- [[Mito_Nativos_Digitales]]
 
 ---
 ↑ [[00_INICIO]]

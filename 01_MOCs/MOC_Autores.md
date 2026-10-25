@@ -6,17 +6,17 @@ estado: borrador
 
 
 
-## Corrientes (conductismo, cognitivismo, constructivismo, socioconstructivismo, ciencia cognitiva)
-- 
+## Desarrollo y aprendizaje
+- [[Piaget]] · [[Vygotsky]] · [[Bruner]] · [[Ausubel]] · [[Erikson]] · [[Kohlberg]]
 
-## Clásicos (Comenius, Rousseau, Pestalozzi, Froebel, Dewey, Montessori)
-- 
+## Clásicos de la pedagogía
+- [[Dewey]] · [[Montessori]] · Comenius, Rousseau, Pestalozzi, Froebel, Freinet *(pendientes)*
 
-## Desarrollo y aprendizaje (Piaget, Vygotsky, Bruner, Ausubel, Bandura, Erikson, Kohlberg)
-- 
+## Ciencia cognitiva e instrucción eficaz
+- [[Rosenshine]] · [[Sweller]] · [[Willingham]] · [[Hattie]]
 
-## Contemporáneos (Hattie, Rosenshine, Sweller, Willingham, Dweck, Gardner*)
-- 
+## Psicología de la motivación e inteligencia
+- [[Dweck]] · [[Gardner]]
 
 ---
 ↑ [[00_INICIO]]

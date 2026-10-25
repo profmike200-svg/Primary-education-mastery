@@ -28,6 +28,7 @@ Lo usan dos tipos de lectores:
 | `10_Curriculos/` | Capa curricular por país |
 | `11_Fuentes/` | Fichas bibliográficas |
 | `12_Practica/` | Situaciones de aprendizaje, sesiones y actividades concretas |
+| `13_Mitos/` | Mitos educativos refutados (nivel M) |
 | `scripts/` | Validador de coherencia |
 | `90_Plantillas/` | Plantillas de cada tipo de nota |
 | `99_Inbox/` | Notas sin procesar |

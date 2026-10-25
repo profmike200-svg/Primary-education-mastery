@@ -4,28 +4,39 @@ estado: borrador
 ---
 # Metodologías y estrategias
 
-Ordenadas por familia. El nivel de evidencia se indica entre paréntesis.
+Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 
-## Instrucción explícita y directa
-- 
+## Instrucción explícita y ciencia cognitiva
+- [[Instruccion_Explicita]] (A)
+- [[Practica_de_Recuperacion]] (A)
+- [[Practica_Espaciada]] (A)
 
-## Aprendizaje activo y por indagación (ABP, indagación, aprendizaje basado en problemas)
-- 
+## Lectoescritura
+- [[Ensenanza_Fonetica_Sistematica]] (A)
+- [[Estrategias_Comprension_Lectora]] (A)
 
-## Aprendizaje cooperativo
-- 
+## Aprendizaje entre iguales
+- [[Aprendizaje_Cooperativo]] (B)
+- [[Tutoria_entre_Iguales]] (B)
 
-## Pedagogías alternativas (Montessori, Waldorf, Reggio Emilia, Freinet)
-- 
+## Aprendizaje activo y por indagación
+- [[Aprendizaje_Basado_en_Proyectos]] (C; B con buena estructura)
+- [[Aprendizaje_por_Descubrimiento]] (C sin guía)
 
-## Estrategias basadas en ciencia cognitiva (práctica espaciada, recuperación, intercalado)
-- 
+## Pedagogías alternativas
+- [[Metodo_Montessori]] (B)
+- Waldorf, Reggio Emilia, Freinet *(pendiente)*
 
-## Juego y gamificación
-- 
+## Juego y motivación
+- [[Gamificacion]] (C)
 
-## Tecnología educativa
-- 
+## Inclusión
+- [[Diseno_Universal_para_el_Aprendizaje]] (C) · [[RTI_MTSS]] (?)
+
+## Consulta dinámica
+```dataview
+TABLE nivel_evidencia, edad_min, edad_max FROM "04_Metodologias" OR "06_Diversidad" WHERE tipo = "metodologia" SORT nivel_evidencia ASC
+```
 
 ---
 ↑ [[00_INICIO]]

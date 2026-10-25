@@ -40,8 +40,8 @@ Con estos ejes un LLM puede responder "qué, cuándo y cómo" cruzando metadatos
 
 ## Orden de construcción por capas
 1. Meta + plantillas + MOCs vacíos ✅
-2. Esqueleto: etapas del desarrollo y lista de metodologías, autores y necesidades (solo títulos y metadatos)
-3. **Corte vertical piloto**: un tema desarrollado de punta a punta (p. ej. lectoescritura 6-8: desarrollo, progresión, metodologías, dislexia, evaluación, práctica y equivalencias ES/US) para validar el formato
+2. Esqueleto: etapas del desarrollo y lista de metodologías, autores y necesidades (solo títulos y metadatos) ✅ (parcial)
+3. **Corte vertical piloto**: un tema desarrollado de punta a punta (p. ej. lectoescritura 6-8: desarrollo, progresión, metodologías, dislexia, evaluación, práctica y equivalencias ES/US) para validar el formato ✅ (lectoescritura, pendiente de revisión)
 4. Progresiones de aprendizaje por área
 5. Desarrollo en profundidad, área por área
 6. Capas curriculares por país

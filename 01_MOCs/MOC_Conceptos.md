@@ -6,17 +6,14 @@ estado: borrador
 
 
 
-## Ciencia cognitiva (memoria de trabajo, carga cognitiva)
-- 
+## Ciencia cognitiva
+- [[Memoria_de_trabajo]] · [[Carga_cognitiva]]
+
+## Aprendizaje y desarrollo
+- [[Zona_de_Desarrollo_Proximo]] · [[Andamiaje]] · [[Aprendizaje_significativo]] · [[Metacognicion]]
 
 ## Motivación
-- 
-
-## Andamiaje y zona de desarrollo próximo
-- 
-
-## Metacognición
-- 
+- *(pendiente)*
 
 ---
 ↑ [[00_INICIO]]

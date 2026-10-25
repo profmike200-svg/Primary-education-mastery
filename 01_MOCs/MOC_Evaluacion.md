@@ -6,17 +6,9 @@ estado: borrador
 
 
 
-## Evaluación formativa
-- 
-
-## Instrumentos (rúbricas, listas de cotejo, portafolio)
-- 
-
-## Retroalimentación
-- 
-
-## Evaluación inclusiva
-- 
+- [[Evaluacion_Formativa]] (A)
+- [[Retroalimentacion]] (A)
+- Instrumentos: rúbricas, listas de cotejo, portafolio *(pendientes)*
 
 ---
 ↑ [[00_INICIO]]
