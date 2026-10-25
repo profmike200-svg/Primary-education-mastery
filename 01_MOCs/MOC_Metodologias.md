@@ -11,6 +11,11 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 - [[Practica_de_Recuperacion]] (A)
 - [[Practica_Espaciada]] (A)
 
+## Matemáticas
+- [[Enfoque_CPA]] (B)
+- [[Ejemplos_Resueltos]] (A)
+- [[Instruccion_Basada_en_Esquemas]] (B)
+
 ## Lectoescritura
 - [[Ensenanza_Fonetica_Sistematica]] (A)
 - [[Estrategias_Comprension_Lectora]] (A)

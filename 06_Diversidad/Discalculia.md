@@ -3,9 +3,8 @@ tipo: necesidad
 aliases: [Dyscalculia, Mathematics learning disability]
 necesidad: discalculia
 prevalencia_aprox: "≈3-7 %"
-nivel_evidencia: "?"
-fuentes: []
-pendiente_fuente: true
+nivel_evidencia: "B"
+fuentes: [Fuchs_2021_Intervencion_Matematicas_IES, EEF_2017_Matematicas_KS2_KS3, Siegler_2008_Juegos_Numericos]
 estado: borrador
 ---
 # Discalculia (dificultad específica en matemáticas)
@@ -22,14 +21,15 @@ Dificultad específica y persistente para adquirir el sentido del número, los h
 | 9-12 | No automatiza las tablas, se pierde en los procedimientos de varios pasos y presenta ansiedad matemática. |
 
 ## Estrategias de aula
-| Estrategia | Nivel de evidencia (provisional) |
+| Estrategia | Nivel de evidencia |
 |---|---|
-| Enseñanza explícita y sistemática con secuencia concreto-pictórico-abstracto | B |
-| Práctica espaciada de hechos numéricos | B |
+| Enseñanza explícita y sistemática ([[Instruccion_Explicita]]) con [[Enfoque_CPA]] | A |
+| Práctica breve y espaciada de [[Hechos_Numericos]] | A |
 | Recta numérica y sentido del número | B |
-| Juegos de mesa numéricos lineales | B |
+| Juegos de tablero numéricos lineales ([[Rutina_Juego_Tablero_Numerico]]) | B |
+| Instrucción en tipos de problemas ([[Instruccion_Basada_en_Esquemas]]) | A |
 
-> Niveles provisionales: falta enlazar las fuentes que los respaldan.
+> Fuentes: [[Fuchs_2021_Intervencion_Matematicas_IES]] · [[EEF_2017_Matematicas_KS2_KS3]] · [[Siegler_2008_Juegos_Numericos]]. Los niveles de cada fila son orientativos.
 
 ## Adaptaciones
 - Acceso (espacio, tiempo, materiales): Materiales manipulativos, tablas de apoyo y calculadora para tareas no centradas en el cálculo.
@@ -47,4 +47,5 @@ Coordinación con orientación para la evaluación y con la familia para la prá
 
 ## Relacionado
 - MOC padre: [[MOC_Diversidad]]
+- Contenidos: [[Sentido_Numerico]] · [[Hechos_Numericos]] · [[Progresion_Matematicas]]
 - Marco: [[Diseno_Universal_para_el_Aprendizaje]] · [[RTI_MTSS]]

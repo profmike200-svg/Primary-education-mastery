@@ -3,9 +3,8 @@ tipo: necesidad
 aliases: [Autism spectrum disorder, ASD, Autismo]
 necesidad: tea
 prevalencia_aprox: "≈1-2 % (las estimaciones han aumentado con mejores criterios de detección)"
-nivel_evidencia: "?"
-fuentes: []
-pendiente_fuente: true
+nivel_evidencia: "B"
+fuentes: [Hume_2021_TEA_Practicas]
 estado: borrador
 ---
 # Trastorno del espectro autista (TEA)
@@ -22,15 +21,17 @@ Trastorno del neurodesarrollo con diferencias persistentes en la comunicación y
 | 9-12 | Dificultad en las relaciones de grupo y para comprender dobles sentidos e ironía; mayor riesgo de aislamiento y acoso; ansiedad. |
 
 ## Estrategias de aula
-| Estrategia | Nivel de evidencia (provisional) |
+| Estrategia | Nivel de evidencia |
 |---|---|
-| Apoyos visuales (agendas, secuencias, pictogramas) | B |
+| Apoyos visuales (agendas, secuencias, pictogramas) | A |
 | Anticipación de cambios y rutinas estables | B |
+| Intervenciones mediadas por iguales | A |
+| Refuerzo y modelado | A |
 | Enseñanza explícita de habilidades sociales | B |
 | Uso de sus intereses como motivación | C |
 | Ajustes sensoriales (rincón tranquilo, auriculares) | C |
 
-> Niveles provisionales: falta enlazar las fuentes que los respaldan.
+> Fuentes: [[Hume_2021_TEA_Practicas]]. Los niveles de cada fila son orientativos.
 
 ## Adaptaciones
 - Acceso (espacio, tiempo, materiales): Espacio con pocos estímulos, rincón de calma, auriculares si los necesita, ubicación previsible.

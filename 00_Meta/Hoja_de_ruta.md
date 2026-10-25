@@ -1,0 +1,33 @@
+---
+tipo: meta
+estado: borrador
+aliases: [Roadmap, Pendientes]
+---
+# Hoja de ruta
+
+## Hecho (pendiente de revisión docente)
+- [x] Arquitectura, plantillas, taxonomía, validador
+- [x] Desarrollo: 3 etapas (6-12)
+- [x] Piloto de lectoescritura (progresión, 4 contenidos, métodos, dislexia, práctica, ES/US)
+- [x] Piloto de matemáticas, bloque numérico (progresión, 7 contenidos, 3 métodos, discalculia, práctica, ES/US)
+- [x] Gestión del aula (6 notas)
+- [x] Fuentes de TDAH, TEA, discalculia y altas capacidades
+
+## Tareas del docente
+- [ ] Revisar los dos pilotos y pasar a `revisado` lo que esté bien
+- [ ] Verificar las fichas de `11_Fuentes` (`verificado: pendiente` → `si`)
+- [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
+
+## Próximos bloques
+- [ ] Matemáticas: geometría, medida, estadística y probabilidad
+- [ ] Lengua: expresión escrita, ortografía, gramática, oralidad, educación literaria
+- [ ] Ciencias naturales y sociales (indagación guiada, conocimiento del mundo)
+- [ ] Lengua extranjera (inglés como L2 / ESL)
+- [ ] Educación física, artística y música
+- [ ] Educación socioemocional y ciudadanía
+- [ ] Competencia digital
+- [ ] Diversidad: TDL (fuentes), disgrafía, discapacidad intelectual, sensorial y motora, incorporación tardía, vulnerabilidad
+- [ ] Evaluación: rúbricas, listas de cotejo, portafolio
+- [ ] Autores: Comenius, Rousseau, Pestalozzi, Froebel, Freinet, Freire, Malaguzzi, Steiner, Bandura, Bloom
+- [ ] Metodologías: Waldorf, Reggio Emilia, Freinet, aprendizaje-servicio, aula invertida, rutinas de pensamiento
+- [ ] Capas curriculares de otros países (Reino Unido, etc.)

@@ -13,7 +13,7 @@ Orientaciones de aula, no diagnósticas. Términos en otros países: [[Glosario_
 - [[TDAH]] · [[TEA]] · [[TDL]]
 
 ## Dificultades específicas de aprendizaje
-- [[Dislexia]] ✅ piloto · [[Discalculia]] · Disgrafía *(pendiente)*
+- [[Dislexia]] ✅ piloto · [[Discalculia]] ✅ piloto · Disgrafía *(pendiente)*
 
 ## Altas capacidades
 - [[Altas_Capacidades]]

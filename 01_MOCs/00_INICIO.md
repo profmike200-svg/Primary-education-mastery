@@ -21,4 +21,4 @@ aliases: [Inicio, Home]
 | Dame algo concreto para clase | [[MOC_Practica]] |
 
 ## Sistema
-[[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Glosario_entre_sistemas]] · [[Panel_de_control]]
+[[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Glosario_entre_sistemas]] · [[Hoja_de_ruta]] · [[Panel_de_control]]

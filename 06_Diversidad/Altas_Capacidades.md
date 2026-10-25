@@ -3,9 +3,8 @@ tipo: necesidad
 aliases: [Gifted and talented, Giftedness, AACC, Sobredotación]
 necesidad: altas_capacidades
 prevalencia_aprox: "Depende del criterio (≈2-10 %)"
-nivel_evidencia: "?"
-fuentes: []
-pendiente_fuente: true
+nivel_evidencia: "A"
+fuentes: [Steenbergen_2016_Aceleracion]
 estado: borrador
 ---
 # Altas capacidades
@@ -22,13 +21,13 @@ Capacidad intelectual o talento significativamente superior en uno o varios ámb
 | 9-12 | Desmotivación o bajo rendimiento si no se le reta, perfeccionismo, sensibilidad intensa. |
 
 ## Estrategias de aula
-| Estrategia | Nivel de evidencia (provisional) |
+| Estrategia | Nivel de evidencia |
 |---|---|
 | Aceleración (de curso o de materia) | A |
 | Enriquecimiento y compactación curricular | B |
 | Agrupamientos flexibles por nivel en la materia | B |
 
-> Niveles provisionales: falta enlazar las fuentes que los respaldan.
+> Fuentes: [[Steenbergen_2016_Aceleracion]]. Los niveles de cada fila son orientativos.
 
 ## Adaptaciones
 - Acceso (espacio, tiempo, materiales): Acceso a materiales y recursos más avanzados.

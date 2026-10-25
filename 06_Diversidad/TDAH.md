@@ -3,9 +3,8 @@ tipo: necesidad
 aliases: [ADHD, Attention-deficit/hyperactivity disorder]
 necesidad: tdah
 prevalencia_aprox: "≈5 % de la población infantil (varía según los criterios)"
-nivel_evidencia: "?"
-fuentes: []
-pendiente_fuente: true
+nivel_evidencia: "B"
+fuentes: [DuPaul_2012_TDAH_Escuela, EEF_2019_Conducta]
 estado: borrador
 ---
 # Trastorno por déficit de atención e hiperactividad (TDAH)
@@ -22,7 +21,7 @@ Trastorno del neurodesarrollo con un patrón persistente de inatención, de hipe
 | 9-12 | Desorganización, olvidos, dificultad para planificar trabajos largos y para regular la frustración; la hiperactividad puede volverse más interna. |
 
 ## Estrategias de aula
-| Estrategia | Nivel de evidencia (provisional) |
+| Estrategia | Nivel de evidencia |
 |---|---|
 | Consignas breves, de una en una, visuales y verbales | B |
 | Rutinas y estructura previsibles, agenda visual | B |
@@ -31,7 +30,7 @@ Trastorno del neurodesarrollo con un patrón persistente de inatención, de hipe
 | [[Instruccion_Explicita]] con alta participación | B |
 | Ubicación cerca del docente y lejos de distracciones | D |
 
-> Niveles provisionales: falta enlazar las fuentes que los respaldan.
+> Fuentes: [[DuPaul_2012_TDAH_Escuela]] · [[EEF_2019_Conducta]]. Los niveles de cada fila son orientativos.
 
 ## Adaptaciones
 - Acceso (espacio, tiempo, materiales): Más tiempo, menos ítems por página, lugar con pocas distracciones; descansos con movimiento permitidos.

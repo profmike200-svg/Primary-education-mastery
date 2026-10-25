@@ -10,8 +10,11 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 - [[Progresion_Lectoescritura]]
   - [[Conciencia_Fonologica]] → [[Decodificacion]] → [[Fluidez_Lectora]] → [[Comprension_Lectora]]
 
-## Matemáticas
-- Progresión de matemáticas *(pendiente)*
+## Matemáticas ✅ piloto (bloque numérico)
+- [[Progresion_Matematicas]]
+  - [[Sentido_Numerico]] → [[Suma_y_Resta]] → [[Valor_Posicional]] → [[Multiplicacion_y_Division]] → [[Fracciones]]
+  - Transversales: [[Hechos_Numericos]] · [[Resolucion_de_Problemas]]
+  - Geometría, medida y estadística *(pendientes)*
 
 ## Lengua extranjera
 - *(pendiente)*
