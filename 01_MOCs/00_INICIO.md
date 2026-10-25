@@ -18,6 +18,7 @@ aliases: [Inicio, Home]
 | ¿Es cierto? | [[MOC_Mitos]] · [[Escala de evidencia]] |
 | ¿Qué exige la ley de mi país? | [[MOC_Curriculos]] |
 | ¿Qué fuente lo respalda? | [[MOC_Fuentes]] |
+| Dame algo concreto para clase | [[MOC_Practica]] |
 
 ## Sistema
-[[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Panel_de_control]]
+[[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Glosario_entre_sistemas]] · [[Panel_de_control]]

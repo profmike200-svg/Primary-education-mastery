@@ -27,7 +27,15 @@ Lo usan dos tipos de lectores:
 | `09_Conceptos/` | Conceptos transversales (memoria de trabajo, andamiaje…) |
 | `10_Curriculos/` | Capa curricular por país |
 | `11_Fuentes/` | Fichas bibliográficas |
+| `12_Practica/` | Situaciones de aprendizaje, sesiones y actividades concretas |
+| `scripts/` | Validador de coherencia |
 | `90_Plantillas/` | Plantillas de cada tipo de nota |
 | `99_Inbox/` | Notas sin procesar |
+
+## Validación
+`python3 scripts/validar.py` revisa el frontmatter, los enlaces rotos y las fuentes obligatorias. Se ejecuta en GitHub Actions con cada *push*.
+
+## Privacidad
+Nunca se incluyen datos de alumnos reales (ver [[Convenciones]]).
 
 > ⚠️ Repositorio de apoyo a la práctica docente. No sustituye el diagnóstico ni la intervención de profesionales sanitarios o de orientación.

@@ -7,7 +7,7 @@ estado: estable
 Usar **solo** estos valores (en minúsculas y sin tildes) para que las consultas funcionen.
 
 ## `tipo`
-`etapa` · `dimension_desarrollo` · `area` · `progresion` · `contenido` · `metodologia` · `estrategia` · `autor` · `corriente` · `necesidad` · `concepto` · `evaluacion` · `gestion_aula` · `curriculo` · `fuente` · `mito` · `moc` · `meta`
+`etapa` · `dimension_desarrollo` · `area` · `progresion` · `contenido` · `metodologia` · `estrategia` · `autor` · `corriente` · `necesidad` · `concepto` · `evaluacion` · `gestion_aula` · `curriculo` · `fuente` · `mito` · `practica` · `glosario` · `moc` · `meta`
 
 ## `area`
 `matematicas` · `lengua` · `lectoescritura` · `lengua_extranjera` · `ciencias_naturales` · `ciencias_sociales` · `artistica` · `musica` · `educacion_fisica` · `valores_ciudadania` · `competencia_digital` · `socioemocional` · `transversal`

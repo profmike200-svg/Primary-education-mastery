@@ -12,3 +12,4 @@ estado: estable
 - **Derechos de autor**: se resume con palabras propias y se cita. Nunca se copian fragmentos largos.
 - **Fuentes**: cada fuente tiene su ficha en `11_Fuentes/` (`Apellido_Año_PalabraClave.md`).
 - **Fechas**: formato ISO `AAAA-MM-DD`.
+- **Privacidad (obligatorio)**: nunca se incluyen datos de alumnos, familias o compañeros reales (nombres, iniciales, fotos, informes, casos identificables). Los ejemplos son siempre ficticios y genéricos. Así se cumple el RGPD/LOPDGDD (UE/España) y la FERPA (EE. UU.).
