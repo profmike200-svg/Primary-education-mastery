@@ -15,6 +15,9 @@ aliases: [Roadmap, Pendientes]
 - [x] Lengua: escritura, ortografía, caligrafía, oraciones, gramática, oralidad, vocabulario
 - [x] Ciencias naturales y sociales (indagación guiada, pensamiento histórico)
 - [x] Lengua extranjera (inglés) y WIDA (EE. UU.)
+- [x] Socioemocional (autorregulación, habilidades sociales, funciones ejecutivas)
+- [x] Diversidad: disgrafía, discapacidad intelectual, auditiva, visual y motora, incorporación tardía, vulnerabilidad
+- [x] Educación física, música y plástica
 
 ## Tareas del docente
 - [ ] Revisar los dos pilotos y pasar a `revisado` lo que esté bien
@@ -24,10 +27,10 @@ aliases: [Roadmap, Pendientes]
 ## Próximos bloques
 - [ ] Matemáticas: geometría, medida, estadística y probabilidad
 - [ ] Lengua: educación literaria, animación a la lectura
-- [ ] Educación física, artística y música
-- [ ] Educación socioemocional y ciudadanía
+- [ ] Ciudadanía y valores
+- [ ] Currículos: educación física, artística y socioemocional (ES/US)
 - [ ] Competencia digital
-- [ ] Diversidad: TDL (fuentes), disgrafía, discapacidad intelectual, sensorial y motora, incorporación tardía, vulnerabilidad
+- [ ] Diversidad: fuentes para TDL, discapacidades sensoriales y motora, y vulnerabilidad
 - [ ] Evaluación: rúbricas, listas de cotejo, portafolio
 - [ ] Autores: Comenius, Rousseau, Pestalozzi, Froebel, Freinet, Freire, Malaguzzi, Steiner, Bandura, Bloom
 - [ ] Metodologías: Waldorf, Reggio Emilia, Freinet, aprendizaje-servicio, aula invertida, rutinas de pensamiento

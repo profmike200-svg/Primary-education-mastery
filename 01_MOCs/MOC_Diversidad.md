@@ -13,13 +13,21 @@ Orientaciones de aula, no diagnósticas. Términos en otros países: [[Glosario_
 - [[TDAH]] · [[TEA]] · [[TDL]]
 
 ## Dificultades específicas de aprendizaje
-- [[Dislexia]] ✅ piloto · [[Discalculia]] ✅ piloto · Disgrafía *(pendiente)*
+- [[Dislexia]] ✅ piloto · [[Discalculia]] ✅ piloto · [[Disgrafia]]
 
 ## Altas capacidades
 - [[Altas_Capacidades]]
 
-## Discapacidades y contextos
-- Discapacidad intelectual, sensorial y motora; incorporación tardía; vulnerabilidad *(pendientes)*
+## Discapacidades
+- [[Discapacidad_Intelectual]] · [[Discapacidad_Auditiva]] · [[Discapacidad_Visual]] · [[Discapacidad_Motora]]
+
+## Contextos
+- [[Incorporacion_Tardia]] · [[Vulnerabilidad_Socioemocional]]
+
+## Consulta dinámica
+```dataview
+TABLE necesidad, nivel_evidencia, pendiente_fuente FROM "06_Diversidad" WHERE tipo = "necesidad" SORT file.name ASC
+```
 
 ---
 ↑ [[00_INICIO]]

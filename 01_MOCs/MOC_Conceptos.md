@@ -7,7 +7,7 @@ estado: borrador
 
 
 ## Ciencia cognitiva
-- [[Memoria_de_trabajo]] · [[Carga_cognitiva]]
+- [[Memoria_de_trabajo]] · [[Carga_cognitiva]] · [[Funciones_Ejecutivas]]
 
 ## Aprendizaje y desarrollo
 - [[Conocimiento_Previo]] · [[Ideas_Previas_y_Cambio_Conceptual]]

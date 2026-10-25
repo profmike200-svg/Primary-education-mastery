@@ -18,6 +18,12 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 ## Lengua extranjera
 - [[Munoz_2006_Edad_L2]] · [[Norris_2000_Instruccion_L2]] · [[Lyster_2010_Feedback_Oral_L2]] · [[Perez_Canado_2012_CLIL]] · [[Nation_2013_Vocabulario_L2]] · [[Baker_2014_IES_English_Learners]]
 
+## Socioemocional, actividad física y artes
+- [[Durlak_2011_ASE]] · [[Taylor_2017_ASE_Seguimiento]] · [[EEF_2019_Socioemocional]] · [[Diamond_2011_Funciones_Ejecutivas]] · [[Melby_Lervag_2013_Entrenamiento_MT]] · [[Kuyken_2022_MYRIAD]] · [[Donnelly_2016_Actividad_Fisica]] · [[OMS_2020_Actividad_Fisica]] · [[Sala_2020_Musica]] · [[Pietschnig_2010_Efecto_Mozart]] · [[Winner_2013_Educacion_Artistica]]
+
+## Diversidad
+- [[Schalock_2021_Discapacidad_Intelectual]]
+
 ## Artículos
 - [[Kirschner_2006_Guia_Minima]] · [[Rosenshine_2012_Principios]] · [[Ehri_2005_Fases_Lectura]] · [[Sweller_1988_Carga_Cognitiva]] · [[Johnson_2009_Cooperativo]] · [[Lillard_2017_Montessori]] · [[Kirschner_2017_Nativos_Digitales]] · [[Dekker_2012_Neuromitos]] · [[Letrud_2018_Piramide]] · [[Nielsen_2013_Hemisferios]] · [[Seymour_2003_Ortografias_Europeas]] · [[Siegler_2008_Juegos_Numericos]] · [[Karna_2011_KiVa]]
 

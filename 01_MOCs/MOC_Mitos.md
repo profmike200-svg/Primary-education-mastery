@@ -11,6 +11,8 @@ Ideas muy extendidas que la evidencia refuta (nivel M). Un LLM **nunca** debe re
 - [[Mito_Cerebro_Izquierdo_Derecho]]
 - [[Mito_Brain_Gym]]
 - [[Mito_10_por_ciento_Cerebro]]
+- [[Mito_Entrenamiento_Cerebral]]
+- [[Mito_Efecto_Mozart]]
 
 ## Mitos metodológicos
 - [[Mito_Piramide_del_Aprendizaje]]

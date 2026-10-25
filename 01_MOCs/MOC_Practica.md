@@ -21,6 +21,12 @@ Sesiones, secuencias y actividades concretas.
 - [[Rutina_Juego_Tablero_Numerico]] (rutina, 5-7 años)
 - [[Sesion_Fracciones_Recta_Numerica]] (sesión, 8-10 años)
 
+## Socioemocional
+- [[Rutina_Semaforo_de_Emociones]] (rutina, 6-10 años)
+
+## Educación física
+- [[Rutina_Pausa_Activa]] (rutina, 6-12 años)
+
 ## Consulta dinámica
 ```dataview
 TABLE formato, area, edad_min, edad_max, duracion_min FROM "12_Practica" SORT area ASC

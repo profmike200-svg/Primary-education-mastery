@@ -32,14 +32,18 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 - [[Progresion_Ciencias_Sociales]]
   - [[Pensamiento_Historico]]
 
-## Educación artística y música
-- *(pendiente)*
+## Educación artística y música ✅
+- [[Progresion_Musica]]
+- [[Progresion_Educacion_Artistica]]
 
-## Educación física
-- *(pendiente)*
+## Educación física ✅
+- [[Progresion_Educacion_Fisica]]
+  - [[Competencia_Motriz]]
 
-## Socioemocional y ciudadanía
-- *(pendiente)*
+## Socioemocional y ciudadanía ✅ (socioemocional)
+- [[Progresion_Socioemocional]]
+  - [[Autorregulacion_Emocional]] · [[Habilidades_Sociales]]
+- Ciudadanía y valores *(pendiente)*
 
 ## Competencia digital
 - *(pendiente)*

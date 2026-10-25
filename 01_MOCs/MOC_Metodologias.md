@@ -40,6 +40,13 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 - [[Metodo_Montessori]] (B)
 - Waldorf, Reggio Emilia, Freinet *(pendiente)*
 
+## Socioemocional
+- [[Programas_de_Aprendizaje_Socioemocional]] (A)
+- [[Mindfulness_Escolar]] (C)
+
+## Actividad física
+- [[Pausas_Activas]] (B)
+
 ## Juego y motivación
 - [[Gamificacion]] (C)
 
