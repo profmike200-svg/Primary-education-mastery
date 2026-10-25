@@ -7,13 +7,17 @@ estado: borrador
 
 
 ## Desarrollo y aprendizaje
-- [[Piaget]] · [[Vygotsky]] · [[Bruner]] · [[Ausubel]] · [[Erikson]] · [[Kohlberg]]
+- [[Piaget]] · [[Vygotsky]] · [[Bruner]] · [[Ausubel]] · [[Erikson]] · [[Kohlberg]] · [[Bandura]]
 
 ## Clásicos de la pedagogía
-- [[Dewey]] · [[Montessori]] · Comenius, Rousseau, Pestalozzi, Froebel, Freinet *(pendientes)*
+- [[Comenius]] · [[Rousseau]] · [[Pestalozzi]] · [[Froebel]]
+- Escuela nueva: [[Dewey]] · [[Montessori]] · [[Freinet]] · [[Malaguzzi]] · [[Steiner]]
+
+## Pedagogía crítica
+- [[Freire]]
 
 ## Ciencia cognitiva e instrucción eficaz
-- [[Rosenshine]] · [[Sweller]] · [[Willingham]] · [[Hattie]]
+- [[Rosenshine]] · [[Sweller]] · [[Willingham]] · [[Hattie]] · [[Bloom]]
 
 ## Psicología de la motivación e inteligencia
 - [[Dweck]] · [[Gardner]]

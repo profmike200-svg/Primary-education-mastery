@@ -13,6 +13,7 @@ estado: borrador
 
 ## Convivencia y conflictos
 - [[Convivencia_y_Acoso]] (A para los programas integrales)
+- [[Asamblea_de_Aula]] (D)
 
 ## Familias
 - [[Relacion_con_las_Familias]] (B)

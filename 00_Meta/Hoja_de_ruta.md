@@ -18,6 +18,9 @@ aliases: [Roadmap, Pendientes]
 - [x] Socioemocional (autorregulación, habilidades sociales, funciones ejecutivas)
 - [x] Diversidad: disgrafía, discapacidad intelectual, auditiva, visual y motora, incorporación tardía, vulnerabilidad
 - [x] Educación física, música y plástica
+- [x] Matemáticas: geometría, medida, estadística y probabilidad
+- [x] Competencia digital y ciudadanía
+- [x] Autores clásicos y metodologías alternativas
 
 ## Tareas del docente
 - [ ] Revisar los dos pilotos y pasar a `revisado` lo que esté bien
@@ -25,13 +28,8 @@ aliases: [Roadmap, Pendientes]
 - [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
 
 ## Próximos bloques
-- [ ] Matemáticas: geometría, medida, estadística y probabilidad
 - [ ] Lengua: educación literaria, animación a la lectura
-- [ ] Ciudadanía y valores
 - [ ] Currículos: educación física, artística y socioemocional (ES/US)
-- [ ] Competencia digital
 - [ ] Diversidad: fuentes para TDL, discapacidades sensoriales y motora, y vulnerabilidad
 - [ ] Evaluación: rúbricas, listas de cotejo, portafolio
-- [ ] Autores: Comenius, Rousseau, Pestalozzi, Froebel, Freinet, Freire, Malaguzzi, Steiner, Bandura, Bloom
-- [ ] Metodologías: Waldorf, Reggio Emilia, Freinet, aprendizaje-servicio, aula invertida, rutinas de pensamiento
 - [ ] Capas curriculares de otros países (Reino Unido, etc.)

@@ -14,7 +14,10 @@ estado: borrador
 - [[Zona_de_Desarrollo_Proximo]] · [[Andamiaje]] · [[Aprendizaje_significativo]] · [[Metacognicion]]
 
 ## Motivación
-- *(pendiente)*
+- [[Autoeficacia]]
+
+## Diseño de tareas
+- [[Taxonomia_de_Bloom]]
 
 ---
 ↑ [[00_INICIO]]

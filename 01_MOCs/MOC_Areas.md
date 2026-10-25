@@ -18,7 +18,7 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 - [[Progresion_Matematicas]]
   - [[Sentido_Numerico]] → [[Suma_y_Resta]] → [[Valor_Posicional]] → [[Multiplicacion_y_Division]] → [[Fracciones]]
   - Transversales: [[Hechos_Numericos]] · [[Resolucion_de_Problemas]]
-  - Geometría, medida y estadística *(pendientes)*
+  - [[Geometria]] · [[Medida]] · [[Estadistica_y_Probabilidad]]
 
 ## Lengua extranjera ✅
 - [[Progresion_Lengua_Extranjera]]
@@ -43,10 +43,11 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 ## Socioemocional y ciudadanía ✅ (socioemocional)
 - [[Progresion_Socioemocional]]
   - [[Autorregulacion_Emocional]] · [[Habilidades_Sociales]]
-- Ciudadanía y valores *(pendiente)*
+- [[Progresion_Ciudadania_y_Valores]]
 
-## Competencia digital
-- *(pendiente)*
+## Competencia digital ✅
+- [[Progresion_Competencia_Digital]]
+  - [[Pensamiento_Computacional]] · [[Alfabetizacion_Mediatica_e_Informacional]] · [[Ciudadania_Digital_y_Seguridad]]
 
 ---
 ↑ [[00_INICIO]]

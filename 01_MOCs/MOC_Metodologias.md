@@ -10,6 +10,7 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 - [[Instruccion_Explicita]] (A)
 - [[Practica_de_Recuperacion]] (A)
 - [[Practica_Espaciada]] (A)
+- [[Aprendizaje_para_el_Dominio]] (B)
 
 ## Matemáticas
 - [[Enfoque_CPA]] (B)
@@ -38,7 +39,9 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 
 ## Pedagogías alternativas
 - [[Metodo_Montessori]] (B)
-- Waldorf, Reggio Emilia, Freinet *(pendiente)*
+- [[Pedagogia_Freinet]] (D)
+- [[Reggio_Emilia]] (D)
+- [[Pedagogia_Waldorf]] (D)
 
 ## Socioemocional
 - [[Programas_de_Aprendizaje_Socioemocional]] (A)
@@ -46,6 +49,17 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 
 ## Actividad física
 - [[Pausas_Activas]] (B)
+
+## Pensamiento y ciudadanía
+- [[Rutinas_de_Pensamiento]] (C)
+- [[Aprendizaje_Servicio]] (C)
+
+## Matemáticas: otros bloques
+- Ver [[Geometria]] · [[Medida]] · [[Estadistica_y_Probabilidad]]
+
+## Tecnología educativa
+- [[Aula_Invertida]] (C)
+- [[Pensamiento_Computacional]] (B)
 
 ## Juego y motivación
 - [[Gamificacion]] (C)

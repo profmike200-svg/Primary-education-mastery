@@ -21,6 +21,9 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 ## Socioemocional, actividad física y artes
 - [[Durlak_2011_ASE]] · [[Taylor_2017_ASE_Seguimiento]] · [[EEF_2019_Socioemocional]] · [[Diamond_2011_Funciones_Ejecutivas]] · [[Melby_Lervag_2013_Entrenamiento_MT]] · [[Kuyken_2022_MYRIAD]] · [[Donnelly_2016_Actividad_Fisica]] · [[OMS_2020_Actividad_Fisica]] · [[Sala_2020_Musica]] · [[Pietschnig_2010_Efecto_Mozart]] · [[Winner_2013_Educacion_Artistica]]
 
+## Matemáticas, competencia digital y ciudadanía
+- [[Van_Hiele_1986_Geometria]] · [[Vuorikari_2022_DigComp]] · [[Scherer_2019_Programacion]] · [[Wineburg_2019_Lectura_Lateral]] · [[OCDE_2015_Ordenadores]] · [[Ritchhart_2011_Rutinas_Pensamiento]] · [[Celio_2011_Aprendizaje_Servicio]] · [[Anderson_2001_Taxonomia_Bloom]] · [[Bandura_1977_Autoeficacia]]
+
 ## Diversidad
 - [[Schalock_2021_Discapacidad_Intelectual]]
 

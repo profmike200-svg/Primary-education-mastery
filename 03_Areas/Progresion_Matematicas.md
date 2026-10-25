@@ -9,7 +9,7 @@ estado: borrador
 ---
 # Progresión de matemáticas (bloque numérico)
 
-> Edades orientativas. Esta progresión cubre **número y operaciones**. Geometría, medida, estadística y probabilidad: *(pendientes)*.
+> Edades orientativas. La tabla cubre **número y operaciones**; los otros bloques tienen su propia nota: [[Geometria]] · [[Medida]] · [[Estadistica_y_Probabilidad]].
 
 ## Principios
 - Las matemáticas son acumulativas: cada paso se apoya en el anterior, y las lagunas no detectadas se arrastran.
