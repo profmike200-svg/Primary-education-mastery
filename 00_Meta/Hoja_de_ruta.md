@@ -21,6 +21,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Matemáticas: geometría, medida, estadística y probabilidad
 - [x] Competencia digital y ciudadanía
 - [x] Autores clásicos y metodologías alternativas
+- [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, 14 pruebas)
 
 ## Tareas del docente
 - [ ] Revisar los dos pilotos y pasar a `revisado` lo que esté bien
@@ -28,6 +29,8 @@ aliases: [Roadmap, Pendientes]
 - [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
 
 ## Próximos bloques
+- [ ] Nota sobre deberes y tareas inacabadas
+- [ ] Búsqueda semántica (RAG con embeddings) o servidor MCP
 - [ ] Lengua: educación literaria, animación a la lectura
 - [ ] Currículos: educación física, artística y socioemocional (ES/US)
 - [ ] Diversidad: fuentes para TDL, discapacidades sensoriales y motora, y vulnerabilidad

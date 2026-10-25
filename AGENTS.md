@@ -2,6 +2,11 @@
 
 Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6-12 años). Antes de responder con ella:
 
+## Herramientas (si puedes ejecutar Python)
+- `python3 scripts/consultar.py "pregunta" --contexto` → devuelve las notas relevantes, detecta edad, necesidades y área y separa los mitos. Es el punto de partida más rápido.
+- `indice.json` → índice de todas las notas (tipo, metadatos, resumen, enlaces). Regenerar con `python3 scripts/indexar.py` tras editar.
+- Detalles y *prompt* recomendado: `00_Meta/Uso_con_LLM.md`.
+
 ## Cómo navegar
 1. Empieza por `01_MOCs/00_INICIO.md` y baja por los MOCs. No recorras las carpetas a ciegas.
 2. Cada nota tiene un **frontmatter YAML** (ver `00_Meta/Taxonomia.md`). Filtra por `tipo`, `edad_min`/`edad_max`, `area`, `necesidades`.

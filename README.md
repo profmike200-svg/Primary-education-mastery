@@ -33,8 +33,14 @@ Lo usan dos tipos de lectores:
 | `90_Plantillas/` | Plantillas de cada tipo de nota |
 | `99_Inbox/` | Notas sin procesar |
 
+## Consultar con IA
+```bash
+python3 scripts/consultar.py "Alumno de 8 años con TDAH que no termina las tareas de matemáticas" --contexto
+```
+Ver [[Uso_con_LLM]] para el *prompt* recomendado y las formas de dar acceso a un modelo.
+
 ## Validación
-`python3 scripts/validar.py` revisa el frontmatter, los enlaces rotos y las fuentes obligatorias. Se ejecuta en GitHub Actions con cada *push*.
+`python3 scripts/validar.py` revisa el frontmatter, los enlaces rotos y las fuentes obligatorias. En GitHub Actions se ejecutan además las pruebas de consulta y se comprueba que `indice.json` está actualizado.
 
 ## Privacidad
 Nunca se incluyen datos de alumnos reales (ver [[Convenciones]]).

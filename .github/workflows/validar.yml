@@ -8,4 +8,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python3 scripts/validar.py
+      - name: Validar notas
+        run: python3 scripts/validar.py
+      - name: Comprobar que indice.json está actualizado
+        run: |
+          python3 scripts/indexar.py
+          git diff --exit-code indice.json || (echo "Ejecuta python3 scripts/indexar.py y sube indice.json" && exit 1)
+      - name: Pruebas de consulta
+        run: cd scripts && python3 test_consultas.py
