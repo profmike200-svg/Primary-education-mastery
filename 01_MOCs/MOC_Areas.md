@@ -6,9 +6,13 @@ estado: borrador
 
 Cada área tiene una nota de **progresión** que ordena sus contenidos por edad. *(pendiente)* = por crear.
 
-## Lengua y lectoescritura ✅ piloto
-- [[Progresion_Lectoescritura]]
+## Lengua y lectoescritura ✅
+- [[Progresion_Lectoescritura]] (lectura)
   - [[Conciencia_Fonologica]] → [[Decodificacion]] → [[Fluidez_Lectora]] → [[Comprension_Lectora]]
+- [[Progresion_Escritura]] (escritura)
+  - [[Grafomotricidad_y_Caligrafia]] · [[Ortografia]] · [[Construccion_de_Oraciones]] · [[Composicion_Escrita]]
+- Transversales: [[Vocabulario]] · [[Expresion_Oral]] · [[Gramatica_y_Reflexion_Linguistica]]
+- Educación literaria *(pendiente)*
 
 ## Matemáticas ✅ piloto (bloque numérico)
 - [[Progresion_Matematicas]]
@@ -16,14 +20,17 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
   - Transversales: [[Hechos_Numericos]] · [[Resolucion_de_Problemas]]
   - Geometría, medida y estadística *(pendientes)*
 
-## Lengua extranjera
-- *(pendiente)*
+## Lengua extranjera ✅
+- [[Progresion_Lengua_Extranjera]]
+  - [[Comprension_Oral_L2]] · [[Vocabulario_L2]] · [[Lectoescritura_en_Ingles]]
 
-## Ciencias naturales
-- *(pendiente)*
+## Ciencias naturales ✅
+- [[Progresion_Ciencias_Naturales]]
+  - [[Destrezas_de_Indagacion]]
 
-## Ciencias sociales
-- *(pendiente)*
+## Ciencias sociales ✅
+- [[Progresion_Ciencias_Sociales]]
+  - [[Pensamiento_Historico]]
 
 ## Educación artística y música
 - *(pendiente)*

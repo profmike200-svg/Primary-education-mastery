@@ -19,6 +19,14 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 ## Lectoescritura
 - [[Ensenanza_Fonetica_Sistematica]] (A)
 - [[Estrategias_Comprension_Lectora]] (A)
+- [[Ensenanza_Estrategica_Escritura_SRSD]] (A)
+
+## Ciencias
+- [[Indagacion_Guiada]] (B)
+
+## Lengua extranjera
+- [[Ensenanza_Comunicativa_con_Foco_en_la_Forma]] (B)
+- [[AICLE_CLIL]] (C)
 
 ## Aprendizaje entre iguales
 - [[Aprendizaje_Cooperativo]] (B)

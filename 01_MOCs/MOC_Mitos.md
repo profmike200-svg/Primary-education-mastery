@@ -16,6 +16,8 @@ Ideas muy extendidas que la evidencia refuta (nivel M). Un LLM **nunca** debe re
 - [[Mito_Piramide_del_Aprendizaje]]
 - [[Mito_Tres_Claves]]
 - [[Mito_Nativos_Digitales]]
+- [[Mito_Gramatica_Aislada_Mejora_Escritura]]
+- [[Mito_Cuanto_Antes_Mejor_L2]]
 
 ---
 ↑ [[00_INICIO]]
