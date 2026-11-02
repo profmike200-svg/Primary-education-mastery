@@ -17,6 +17,7 @@ verificado_titulos: parcial
 
 ## Origen del temario
 Temario de Inglés del Cuerpo de Maestros aprobado por la **Orden de 9 de septiembre de 1993 (BOE de 21 de septiembre)** y mantenido en vigor por la **Orden ECD/191/2012**. Son **25 temas**. Lista reconstruida en noviembre de 2026 a partir de varias fuentes secundarias (Junta de Castilla y León, ANPE, Comunidad de Madrid, academias y editoriales) porque el texto del BOE no se pudo abrir desde este entorno.
+- **✅ Oficial**: título confirmado con los documentos de temas aportados por el docente (versión en inglés).
 - **Fiabilidad alta**: el título coincide casi literalmente en varias fuentes.
 - **Fiabilidad media**: solo se confirmó el contenido general; la redacción exacta puede variar.
 - **Antes de estudiar, compara con el anexo de temarios de tu convocatoria.** El temario puede cambiar con la reforma estatal ([[Reforma_Oposiciones_2026]]).
@@ -24,11 +25,11 @@ Temario de Inglés del Cuerpo de Maestros aprobado por la **Orden de 9 de septie
 ## Los 25 temas y las notas de la biblioteca para prepararlos
 | Nº | Tema (redacción reconstruida) | Fiab. | Notas de la biblioteca |
 |---|---|---|---|
-| 1 | La lengua como comunicación: lenguaje oral y lenguaje escrito. Factores que definen la situación comunicativa: emisor, receptor, funcionalidad y contexto | Alta | [[Expresion_Oral]] · [[Comprension_Oral_L2]] · [[Lectura_y_Escritura_L2]] |
-| 2 | La comunicación verbal y no verbal en la clase de lengua extranjera (estrategias extralingüísticas, respuestas físicas a requerimientos verbales) | Media | [[Respuesta_Fisica_Total_TPR]] · [[Expresion_e_Interaccion_Oral_L2]] |
-| 3 | Desarrollo de las destrezas lingüísticas: comprensión y expresión oral, comprensión y expresión escrita | Alta | [[Comprension_Oral_L2]] · [[Expresion_e_Interaccion_Oral_L2]] · [[Lectura_y_Escritura_L2]] · [[Mediacion_en_L2]] |
-| 4 | Valoración del conocimiento de las lenguas extranjeras como instrumento de comunicación entre las personas y los pueblos. Interés por la diversidad lingüística a través del conocimiento de una nueva lengua y su cultura | Alta | [[Plurilinguismo_e_Interculturalidad]] · [[Crianza_Bilingue]] |
-| 5 | Marco geográfico, histórico y cultural de los países de habla inglesa. Aplicación didáctica de los aspectos geográficos, históricos y culturales más significativos | Alta | [[Plurilinguismo_e_Interculturalidad]] · [[SA_Ingles_3er_Ciclo_Town_Guide]] |
+| 1 | **Language as communication. Spoken language and written language. Factors defining a linguistic situation: sender, receiver, functionality and context** | ✅ Oficial | [[Expresion_Oral]] · [[Comprension_Oral_L2]] · [[Lectura_y_Escritura_L2]] |
+| 2 | **Communication in the foreign language classroom: verbal and non-verbal communication. Extralinguistic strategies: non-verbal reactions to messages in different contexts** | ✅ Oficial | [[Respuesta_Fisica_Total_TPR]] · [[Expresion_e_Interaccion_Oral_L2]] |
+| 3 | **Developing linguistic skills: listening comprehension and expression, written comprehension and expression. Communicative competence in English** | ✅ Oficial | [[Comprension_Oral_L2]] · [[Expresion_e_Interaccion_Oral_L2]] · [[Lectura_y_Escritura_L2]] · [[Mediacion_en_L2]] |
+| 4 | **The second language as a means of communication among people and nations. Generating an interest in linguistic diversity through another language and culture** | ✅ Oficial | [[Plurilinguismo_e_Interculturalidad]] · [[Crianza_Bilingue]] |
+| 5 | **Geographical, historical and cultural background of English-speaking countries. Didactic application of the most important geographic, historic and cultural aspects** | ✅ Oficial | [[Plurilinguismo_e_Interculturalidad]] · [[SA_Ingles_3er_Ciclo_Town_Guide]] |
 | 6 | Aportaciones de la lingüística a la enseñanza de las lenguas extranjeras. El proceso de aprendizaje lingüístico: semejanzas y diferencias entre la adquisición de la primera lengua escolar y de la lengua extranjera | Alta | [[Progresion_Lengua_Extranjera]] · [[Mito_Cuanto_Antes_Mejor_L2]] · [[Munoz_2006_Edad_L2]] · [[Linea_Desarrollo_Lenguaje]] · [[CLM_Supuesto_03_Analisis_de_Errores]] (interlengua) |
 | 7 | La lengua extranjera oral: aproximación a la comprensión y la expresión oral; estrategias y técnicas | Media | [[Comprension_Oral_L2]] · [[Expresion_e_Interaccion_Oral_L2]] |
 | 8 | La lengua extranjera escrita: aproximación a la lectura y la escritura; estrategias y técnicas | Media | [[Lectura_y_Escritura_L2]] · [[Lectoescritura_en_Ingles]] |
