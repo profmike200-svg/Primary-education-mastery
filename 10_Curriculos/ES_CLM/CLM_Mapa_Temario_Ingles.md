@@ -23,6 +23,7 @@ Temario de Inglés del Cuerpo de Maestros aprobado por la **Orden de 9 de septie
 - **Antes de estudiar, compara con el anexo de temarios de tu convocatoria.** El temario puede cambiar con la reforma estatal ([[Reforma_Oposiciones_2026]]).
 
 ## Los 25 temas y las notas de la biblioteca para prepararlos
+Índices mejorados de cada tema: [[CLM_Indices_Temario_Ingles]].
 | Nº | Tema (redacción reconstruida) | Fiab. | Notas de la biblioteca |
 |---|---|---|---|
 | 1 | **Language as communication. Spoken language and written language. Factors defining a linguistic situation: sender, receiver, functionality and context** | ✅ Oficial | [[Expresion_Oral]] · [[Comprension_Oral_L2]] · [[Lectura_y_Escritura_L2]] |
@@ -46,10 +47,10 @@ Temario de Inglés del Cuerpo de Maestros aprobado por la **Orden de 9 de septie
 | 19 | **Techniques for animation and expression as a resource for learning English. Dramatization of everyday situations and performance of stories, characters, etc. Group work for creative tasks. Teacher's role** | ✅ Oficial | [[Respuesta_Fisica_Total_TPR]] · [[Expresion_e_Interaccion_Oral_L2]] · [[Aprendizaje_Cooperativo]] |
 | 20 | **The area of foreign languages in the curriculum. Criteria to be reflected in the educational project of the centre and in the curricular project of the centre** *(terminología anterior a la LOMLOE: hoy, proyecto educativo con su concreción curricular y programaciones didácticas)* | ✅ Oficial | [[ES_Marco_Curricular_LOMLOE]] · [[Progresion_Lengua_Extranjera]] · [[CLM_Normativa_Educativa]] · [[ES_Documentos_de_Centro]] |
 | 21 | **Programming in the foreign language area: programming units. Criteria for the sequencing and temporization of content and objectives. Selection of the methodology to be used in learning and evaluation activities** | ✅ Oficial | [[CLM_Programacion_Oposiciones_Ingles]] · [[ES_Programacion_y_Situaciones_de_Aprendizaje]] · [[Evaluacion_en_Lengua_Extranjera]] |
-| 22 | La organización de la clase de inglés: agrupamiento del alumnado, distribución del espacio y del tiempo, papel del profesor | Media | [[Organizacion_Espacio_y_Tiempo]] · [[Aprendizaje_Cooperativo]] · [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]] |
-| 23 | Materiales curriculares: criterios de selección y uso del libro de texto; documentos auténticos y adaptados | Media | [[CLM_Supuesto_06_Analisis_de_Material]] |
-| 24 | Recursos tecnológicos y audiovisuales en la clase de inglés | Media | [[Progresion_Competencia_Digital]] · [[OCDE_2015_Ordenadores]] · [[Mito_Nativos_Digitales]] |
-| 25 | El proceso de enseñanza y aprendizaje centrado en el alumno: motivaciones y actitudes ante la lengua extranjera *(las fuentes no coinciden en la redacción)* | Media | [[Autoeficacia]] · [[Ryan_2000_Autodeterminacion]] · [[Diseno_Universal_para_el_Aprendizaje]] · [[Metacognicion]] |
+| 22 | **Variables to consider in the organization of the English language class: student grouping, distribution of space and time, selection of methodologies, role of the teacher, etc.** | ✅ Oficial | [[Organizacion_Espacio_y_Tiempo]] · [[Aprendizaje_Cooperativo]] · [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]] |
+| 23 | **The development of curriculum materials for the English class: criteria for selecting and using textbooks. Authentic materials and adapted materials: limitations of their use. Student collaboration in material design** | ✅ Oficial | [[CLM_Supuesto_06_Analisis_de_Material]] |
+| 24 | **Technological and pedagogical aspects of using audiovisual materials. The computer as an auxiliary resource for learning and improving foreign languages** | ✅ Oficial | [[Progresion_Competencia_Digital]] · [[OCDE_2015_Ordenadores]] · [[Mito_Nativos_Digitales]] |
+| 25 | **The student-centred teaching and learning process in a foreign language: foundations and applications. Identifying motivations and attitudes towards the English language. Practical applications** | ✅ Oficial | [[Autoeficacia]] · [[Ryan_2000_Autodeterminacion]] · [[Diseno_Universal_para_el_Aprendizaje]] · [[Metacognicion]] |
 
 ## Temas transversales que la biblioteca ya cubre bien
 Atención a la diversidad ([[CLM_Inclusion_Educativa]]), evaluación ([[Evaluacion_en_Lengua_Extranjera]]) y desarrollo infantil ([[MOC_Desarrollo]]) aparecen en casi todos los temas: úsalos para enriquecer la aplicación al aula.

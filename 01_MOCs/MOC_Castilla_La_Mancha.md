@@ -15,7 +15,8 @@ aliases: [Castilla-La Mancha, CLM, Oposiciones CLM]
 - [[CLM_Oposiciones_Ingles_2028]]: estructura, reforma estatal, plan de preparación
 - [[CLM_Programacion_Oposiciones_Ingles]]: estructura y fundamentación con evidencia
 - [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]: situación de aprendizaje modelo (4º, en inglés)
-- [[CLM_Mapa_Temario_Ingles]]: bloques del temario ↔ notas de la biblioteca
+- [[CLM_Mapa_Temario_Ingles]]: los 25 títulos oficiales ↔ notas de la biblioteca
+- **[[CLM_Indices_Temario_Ingles]]**: índices mejorados de los 25 temas
 - **[[CLM_Supuestos_Practicos_Ingles]]**: banco de 8 supuestos prácticos resueltos (diversidad, fonética, análisis de errores, cuentos, evaluación, materiales, convivencia, AICLE)
 
 ## Fuentes
