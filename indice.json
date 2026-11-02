@@ -613,10 +613,13 @@
     "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_08",
     "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_10",
     "CLM_Tema_11",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
@@ -3577,6 +3580,8 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_02_Fonetica",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_08",
+    "CLM_Tema_10",
     "Lectura_y_Escritura_L2",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -5630,6 +5635,7 @@
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "CLM_Supuesto_03_Analisis_de_Errores",
     "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Tema_12",
     "MOC_Metodologias",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Plan_de_Lectura",
@@ -5758,6 +5764,7 @@
    ],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_10",
     "Decodificacion",
     "Dislexia",
     "ES_LOMLOE_Lengua_Lectoescritura",
@@ -10230,10 +10237,13 @@
     "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_08",
     "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_10",
     "CLM_Tema_11",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
@@ -10318,8 +10328,11 @@
     "CLM_Tema_05",
     "CLM_Tema_06",
     "CLM_Tema_07",
+    "CLM_Tema_08",
     "CLM_Tema_09",
+    "CLM_Tema_10",
     "CLM_Tema_11",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "Hoja_de_ruta",
@@ -10768,7 +10781,8 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
-    "CLM_Supuestos_Practicos_Ingles"
+    "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_12"
    ]
   },
   "CLM_Supuesto_04_Cuento_Literatura": {
@@ -11100,8 +11114,11 @@
     "CLM_Tema_05",
     "CLM_Tema_06",
     "CLM_Tema_07",
+    "CLM_Tema_08",
     "CLM_Tema_09",
+    "CLM_Tema_10",
     "CLM_Tema_11",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14"
    ],
@@ -11114,8 +11131,11 @@
     "CLM_Tema_05",
     "CLM_Tema_06",
     "CLM_Tema_07",
+    "CLM_Tema_08",
     "CLM_Tema_09",
+    "CLM_Tema_10",
     "CLM_Tema_11",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "MOC_Castilla_La_Mancha"
@@ -11172,10 +11192,13 @@
     "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_08",
     "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_10",
     "CLM_Tema_11",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
@@ -11199,10 +11222,13 @@
     "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_08",
     "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_10",
     "CLM_Tema_11",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
@@ -11357,6 +11383,7 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_08",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11568,6 +11595,7 @@
     "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_12",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11680,6 +11708,62 @@
     "MOC_Castilla_La_Mancha"
    ]
   },
+  "CLM_Tema_08": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_08.md",
+   "titulo": "Topic 8",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 8",
+    "Topic 8",
+    "Topic 8 full text",
+    "Written language reading and writing process"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Ehri_2005_Fases_Lectura",
+     "Castles_2018_Reading_Wars",
+     "Nation_2013_Vocabulario_L2",
+     "Graham_2012_Metaanalisis_Escritura",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "WRITTEN LANGUAGE: APPROXIMATION, MATURATION AND IMPROVEMENT OF THE READING-WRITING PROCESS. EXTENSIVE AND INTENSIVE READING. WRITING: FROM INTERPRETATION TO PRODUCTION OF TEXTS",
+   "secciones": [
+    "1. Introduction",
+    "2. Written language and its place in Primary",
+    "3. Approximation, maturation and improvement of the reading-writing process",
+    "4. Extensive and intensive reading",
+    "5. Writing: from interpretation to production of texts",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03",
+    "CLM_Tema_10",
+    "Ehri_2005_Fases_Lectura",
+    "Lectoescritura_en_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_10",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
   "CLM_Tema_09": {
    "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_09.md",
    "titulo": "Topic 9",
@@ -11730,6 +11814,7 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_10",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11786,6 +11871,62 @@
     "MOC_Castilla_La_Mancha"
    ]
   },
+  "CLM_Tema_10": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_10.md",
+   "titulo": "Topic 10",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 10",
+    "Topic 10",
+    "Topic 10 full text",
+    "English orthographic codes sound and spelling"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Seymour_2003_Ortografias_Europeas",
+     "NRP_2000_Lectura",
+     "Castles_2018_Reading_Wars",
+     "Graham_2014_Ortografia",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "ENGLISH ORTHOGRAPHIC CODES. SOUND AND ORTHOGRAPHY. PROPOSALS FOR TEACHING THE WRITTEN CODE. ORTHOGRAPHIC APPLICATIONS IN WRITTEN PRODUCTIONS",
+   "secciones": [
+    "1. Introduction",
+    "2. The English orthographic code",
+    "3. Sound and orthography",
+    "4. Proposals for teaching the written code",
+    "5. Orthographic applications in written productions",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_08",
+    "CLM_Tema_09",
+    "Ensenanza_Fonetica_Sistematica",
+    "Lectoescritura_en_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_08",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
   "CLM_Tema_11": {
    "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_11.md",
    "titulo": "Topic 11",
@@ -11834,6 +11975,7 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_12",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11886,6 +12028,59 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_11",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_12": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_12.md",
+   "titulo": "Topic 12",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 12",
+    "Topic 12",
+    "Topic 12 full text",
+    "Morphosyntax and basic communicative structures"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Norris_2000_Instruccion_L2",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "ESSENTIAL MORPHOSYNTACTIC ELEMENTS OF THE ENGLISH LANGUAGE. BASIC COMMUNICATIVE STRUCTURES. PROGRESSIVE USAGE OF GRAMMATICAL CATEGORIES IN ORAL AND WRITTEN PRODUCTIONS",
+   "secciones": [
+    "1. Introduction",
+    "2. Essential morphosyntactic elements of English",
+    "3. Basic communicative structures",
+    "4. Progressive usage of grammatical categories in oral and written productions",
+    "5. Errors and feedback",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Tema_06",
+    "CLM_Tema_11",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -14645,6 +14840,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_08",
     "Decodificacion",
     "Ensenanza_Fonetica_Sistematica",
     "MOC_Fuentes"

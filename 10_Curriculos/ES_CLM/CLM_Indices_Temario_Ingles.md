@@ -164,6 +164,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; tipos de escucha y procesamiento; retroalimentación con evidencia.
 
 ### Topic 8 · Written language: the reading-writing process. Extensive and intensive reading. Writing
+> 📘 Tema completo: [[CLM_Tema_08]]
 1. Introduction
 2. Written language: features and its place in Primary
 3. Approximation, maturation and improvement of the reading-writing process
@@ -201,6 +202,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el ritmo y el acento (en el título) tienen apartado propio; los modelos y técnicas van **antes** de la corrección (primero enseñar, luego corregir); análisis contrastivo con el español.
 
 ### Topic 10 · English orthographic codes. Sound and spelling. Teaching the written code. Orthographic applications
+> 📘 Tema completo: [[CLM_Tema_10]]
 1. Introduction
 2. The English orthographic code
    2.1. An opaque orthography: why (history, borrowings, the Great Vowel Shift)
@@ -235,6 +237,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el punto 5 se organiza por fases (presentar → practicar → consolidar) y se apoya en la evidencia sobre recuperación y espaciado.
 
 ### Topic 12 · Essential morphosyntactic elements. Basic communicative structures. Progressive use of grammatical categories
+> 📘 Tema completo: [[CLM_Tema_12]]
 1. Introduction
 2. Essential morphosyntactic elements of English
    2.1. Word classes and their morphology
