@@ -354,6 +354,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque V · Curriculum, planning and organisation
 
 ### Topic 20 · The FL area in the curriculum. Criteria for the school's educational project and curricular project
+> 📘 Tema completo: [[CLM_Tema_20]]
 1. Introduction
 2. The curriculum: concept and levels of concretion (State, Castilla-La Mancha, school, classroom)
 3. The FL area in the curriculum
@@ -368,6 +369,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el título usa la terminología anterior ("Proyecto Curricular de Centro"): conviene explicarlo y actualizarlo.
 
 ### Topic 21 · Programming in the FL area. Sequencing and timing. Methodology for learning and assessment activities
+> 📘 Tema completo: [[CLM_Tema_21]]
 1. Introduction
 2. Programming in the FL area: levels and principles (backward design)
 3. Learning situations: elements and design (RD 157/2022 Annex III; Decreto 81/2022)
@@ -380,6 +382,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: aprendizaje y evaluación en apartados separados; situaciones de aprendizaje de la LOMLOE.
 
 ### Topic 22 · Organizing the English class: grouping, space and time, methodology, teacher's role
+> 📘 Tema completo: [[CLM_Tema_22]]
 1. Introduction
 2. Student grouping according to the purpose of the activity (whole class, pairs, small groups, individual; flexible grouping; evidence on cooperative learning)
 3. Space distribution (layouts, corners, English classroom vs. ordinary classroom)
@@ -391,6 +394,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: espacio y tiempo en apartados separados.
 
 ### Topic 23 · Curriculum materials: selecting and using textbooks. Authentic and adapted materials. Student collaboration
+> 📘 Tema completo: [[CLM_Tema_23]]
 1. Introduction
 2. Development of curriculum materials for the English class (principles; Tomlinson)
 3. Criteria for selecting and using textbooks (the textbook as a resource, not the programme)
@@ -402,6 +406,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el desarrollo de materiales, que es lo primero del título, pasa al principio.
 
 ### Topic 24 · Audiovisual materials. The computer as an auxiliary resource for learning FLs
+> 📘 Tema completo: [[CLM_Tema_24]]
 1. Introduction
 2. Technological and pedagogical aspects of audiovisual materials
    2.1. Pedagogical frameworks: TPACK, SAMR
@@ -414,6 +419,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: marcos pedagógicos y evidencia; seguridad digital.
 
 ### Topic 25 · The student-centred process: foundations and applications. Motivations and attitudes towards English
+> 📘 Tema completo: [[CLM_Tema_25]]
 1. Introduction
 2. The student-centred teaching and learning process
    2.1. Foundations: humanism (Rogers), constructivism, self-determination theory

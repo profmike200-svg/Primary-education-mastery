@@ -602,6 +602,7 @@
     "CLM_Orden_185_2022",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Programas_Bilingues",
+    "CLM_Referencias_de_los_Temas",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
     "CLM_Tema_01",
@@ -628,6 +629,12 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
     "MOC_Sistema_Educativo_Espanol",
     "Reforma_Oposiciones_2026"
    ],
@@ -2418,6 +2425,7 @@
    ],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_24",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Pantallas_en_la_Infancia",
@@ -5278,6 +5286,7 @@
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Tema_14_Guion",
     "CLM_Tema_19",
+    "CLM_Tema_22",
     "Estrategias_Comprension_Lectora",
     "Habilidades_Sociales",
     "Instruccion_Explicita",
@@ -6386,6 +6395,7 @@
    ],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_25",
     "Diseno_Universal_para_el_Aprendizaje",
     "Dislexia",
     "Gardner",
@@ -6424,6 +6434,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_24",
     "MOC_Mitos",
     "Pantallas_en_la_Infancia",
     "Progresion_Competencia_Digital"
@@ -8427,6 +8438,7 @@
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "CLM_Tema_03_Guion",
     "CLM_Tema_11_Guion",
+    "CLM_Tema_23",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -9030,6 +9042,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_05_Evaluacion",
+    "CLM_Tema_21",
     "ES_Evaluacion_y_Promocion",
     "Evaluacion_en_Lengua_Extranjera",
     "Instrumentos_de_Evaluacion",
@@ -9289,6 +9302,7 @@
     "Apego",
     "CLM_Indices_Temario_Ingles",
     "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Tema_22",
     "Convivencia_y_Acoso",
     "ES_Organizacion_del_Centro",
     "Gestion_de_la_Conducta",
@@ -9508,6 +9522,7 @@
    "enlazada_desde": [
     "Asamblea_de_Aula",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_22",
     "Clima_y_Relacion",
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
@@ -9554,6 +9569,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_22",
     "MOC_Gestion_Aula"
    ]
   },
@@ -9777,6 +9793,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_25",
     "Deberes_y_Tareas_Inacabadas",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos",
@@ -10044,6 +10061,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_25",
     "Comprension_Lectora",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Estrategias_Comprension_Lectora",
@@ -10260,6 +10278,12 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
     "Cameron_2001_Ninos_Lenguas",
     "Castles_2018_Reading_Wars",
     "Ciudadania_Digital_y_Seguridad",
@@ -10334,6 +10358,7 @@
     "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Referencias_de_los_Temas",
     "CLM_Tema_01",
     "CLM_Tema_02",
     "CLM_Tema_03",
@@ -10353,6 +10378,12 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha"
    ]
@@ -10519,6 +10550,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Tema_20",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -10663,6 +10695,7 @@
     "CLM_Normativa_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_21",
     "MOC_Castilla_La_Mancha",
     "Plan_de_Lectura",
     "SA_Ingles_1er_Ciclo_Animal_Party",
@@ -10931,7 +10964,8 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
-    "CLM_Supuestos_Practicos_Ingles"
+    "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_23"
    ]
   },
   "CLM_Supuesto_07_Conflicto_y_Convivencia": {
@@ -11144,10 +11178,17 @@
     "CLM_Tema_16",
     "CLM_Tema_17",
     "CLM_Tema_18",
-    "CLM_Tema_19"
+    "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25"
    ],
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Referencias_de_los_Temas",
     "CLM_Tema_01",
     "CLM_Tema_02",
     "CLM_Tema_03",
@@ -11167,6 +11208,12 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11212,6 +11259,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
+    "CLM_Referencias_de_los_Temas",
     "CLM_Tema_01",
     "CLM_Tema_02",
     "CLM_Tema_03",
@@ -11236,6 +11284,12 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
     "Cameron_2001_Ninos_Lenguas",
     "Consejo_Europa_2020_MCER",
     "Dunlosky_2013_Tecnicas_Estudio",
@@ -11247,6 +11301,7 @@
    "enlazada_desde": [
     "CLM_Bloques_Comunes_Temario",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Referencias_de_los_Temas",
     "CLM_Tema_01",
     "CLM_Tema_02",
     "CLM_Tema_03",
@@ -11271,6 +11326,42 @@
     "CLM_Tema_17",
     "CLM_Tema_18",
     "CLM_Tema_19",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "CLM_Tema_24",
+    "CLM_Tema_25",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Referencias_de_los_Temas": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Referencias_de_los_Temas.md",
+   "titulo": "Referencias bibliográficas de los 25 temas",
+   "tipo": "meta",
+   "aliases": [
+    "Referencias de los temas",
+    "Referencias pendientes de verificar",
+    "Bibliografía de oposiciones"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "estado": "borrador"
+   },
+   "resumen": "- Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan, 80*(2), 139–144, 146–148. — temas 21 - Cameron, L. (2001). *Teaching languages to young learners*. Cambridge University Press. — temas 1, 2, 3, 7, 8, 10, 11, 12, 14, 20, 21, 22,…",
+   "secciones": [
+    "✅ Verificadas en línea",
+    "⏳ Pendientes de comprobar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11636,6 +11727,7 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_12",
+    "CLM_Tema_25",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -12232,6 +12324,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_13",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_25",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -12566,6 +12659,346 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_18",
+    "CLM_Tema_22",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_20": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_20.md",
+   "titulo": "Topic 20",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 20",
+    "Topic 20",
+    "Topic 20 full text",
+    "The FL area in the curriculum and school documents"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "THE AREA OF FOREIGN LANGUAGES IN THE CURRICULUM. CRITERIA FOR THE EDUCATIONAL PROJECT AND THE CURRICULAR PROJECT OF THE SCHOOL",
+   "secciones": [
+    "1. Introduction",
+    "2. The curriculum: concept and levels of concretion",
+    "3. The foreign language area in the curriculum",
+    "4. Criteria for the school's documents",
+    "5. Conclusion",
+    "6. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Programas_Bilingues",
+    "CLM_Tema_21",
+    "CLM_Tema_22",
+    "ES_Documentos_de_Centro",
+    "ES_Marco_Curricular_LOMLOE"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_21",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_21": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_21.md",
+   "titulo": "Topic 21",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 21",
+    "Topic 21",
+    "Topic 21 full text",
+    "Programming in the FL area"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Black_1998_Black_Box",
+     "Hattie_2007_Feedback",
+     "Dunlosky_2013_Tecnicas_Estudio",
+     "Norris_2000_Instruccion_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "PROGRAMMING IN THE FOREIGN LANGUAGE AREA: PROGRAMMING UNITS. CRITERIA FOR SEQUENCING AND TIMING OBJECTIVES AND CONTENTS. SELECTION OF METHODOLOGY FOR LEARNING AND EVALUATION ACTIVITIES",
+   "secciones": [
+    "1. Introduction",
+    "2. Programming in the foreign language area",
+    "3. Programming units: learning situations",
+    "4. Criteria for sequencing and timing objectives and contents",
+    "5. Selection of methodology for learning activities",
+    "6. Selection of methodology for assessment activities",
+    "7. Attention to diversity",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_20",
+    "CLM_Tema_22",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Evaluacion_Formativa"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_20",
+    "CLM_Tema_22",
+    "CLM_Tema_23",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_22": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_22.md",
+   "titulo": "Topic 22",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 22",
+    "Topic 22",
+    "Topic 22 full text",
+    "Organisation of the English class"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Johnson_2009_Cooperativo",
+     "EEF_2019_Conducta",
+     "Cameron_2001_Ninos_Lenguas",
+     "Pinter_2017_Jovenes_Aprendices"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "VARIABLES IN THE ORGANIZATION OF THE ENGLISH CLASS: STUDENT GROUPING ACCORDING TO THE ACTIVITY, SPACE AND TIME DISTRIBUTION, SELECTION OF METHODOLOGY ACCORDING TO PUPILS' CHARACTERISTICS. THE TEACHER'S ROLE",
+   "secciones": [
+    "1. Introduction",
+    "2. Student grouping according to the purpose of the activity",
+    "3. Space distribution",
+    "4. Time distribution",
+    "5. Selection of methodology according to pupils' characteristics",
+    "6. The teacher's role",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "Aprendizaje_Cooperativo",
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_19",
+    "CLM_Tema_21",
+    "Clima_y_Relacion",
+    "Normas_y_Rutinas",
+    "Organizacion_Espacio_y_Tiempo"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_20",
+    "CLM_Tema_21",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_23": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_23.md",
+   "titulo": "Topic 23",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 23",
+    "Topic 23",
+    "Topic 23 full text",
+    "Curriculum materials textbooks authentic materials"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Cameron_2001_Ninos_Lenguas",
+     "Nation_2013_Vocabulario_L2",
+     "Pinter_2017_Jovenes_Aprendices"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "DEVELOPMENT OF CURRICULUM MATERIALS FOR THE ENGLISH CLASS. CRITERIA FOR SELECTING AND USING TEXTBOOKS. AUTHENTIC AND ADAPTED MATERIALS. STUDENT COLLABORATION IN MATERIAL DESIGN",
+   "secciones": [
+    "1. Introduction",
+    "2. Development of curriculum materials for the English class",
+    "3. Criteria for selecting and using textbooks",
+    "4. Authentic and adapted materials",
+    "5. Student collaboration in material design",
+    "6. Attention to diversity and accessibility",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Tema_21",
+    "CLM_Tema_24",
+    "Diseno_Universal_para_el_Aprendizaje"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_24",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_24": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_24.md",
+   "titulo": "Topic 24",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 24",
+    "Topic 24",
+    "Topic 24 full text",
+    "Audiovisual materials and the computer in FL teaching"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "OCDE_2015_Ordenadores",
+     "Vuorikari_2022_DigComp",
+     "Kirschner_2017_Nativos_Digitales",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "TECHNOLOGICAL AND PEDAGOGICAL ASPECTS OF THE USE OF AUDIOVISUAL MATERIALS IN THE FOREIGN LANGUAGE CLASS. THE COMPUTER AS AN AUXILIARY RESOURCE FOR LEARNING FOREIGN LANGUAGES",
+   "secciones": [
+    "1. Introduction",
+    "2. Technological and pedagogical aspects",
+    "3. Audiovisual materials in the English class",
+    "4. The computer as an auxiliary resource for learning foreign languages",
+    "5. Digital competence of pupils and teachers",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_23",
+    "Ciudadania_Digital_y_Seguridad",
+    "Mito_Nativos_Digitales",
+    "OCDE_2015_Ordenadores",
+    "Vuorikari_2022_DigComp"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_23",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_25": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_25.md",
+   "titulo": "Topic 25",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 25",
+    "Topic 25",
+    "Topic 25 full text",
+    "Student-centred learning and motivation towards English"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Ryan_2000_Autodeterminacion",
+     "Bandura_1977_Autoeficacia",
+     "Pashler_2008_Estilos_Aprendizaje",
+     "Hattie_2007_Feedback",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "THE STUDENT-CENTRED TEACHING AND LEARNING PROCESS: FOUNDATIONS AND APPLICATIONS. IDENTIFYING MOTIVATIONS AND ATTITUDES TOWARDS ENGLISH. PRACTICAL APPLICATIONS",
+   "secciones": [
+    "1. Introduction",
+    "2. The student-centred teaching and learning process: foundations",
+    "3. Applications of the student-centred approach",
+    "4. Motivations and attitudes towards English",
+    "5. Identifying motivations and attitudes",
+    "6. Practical applications",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "Autoeficacia",
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_06",
+    "CLM_Tema_14",
+    "Metacognicion",
+    "Mito_Estilos_de_Aprendizaje",
+    "Ryan_2000_Autodeterminacion"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -12735,6 +13168,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
+    "CLM_Tema_20",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -13145,6 +13579,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
+    "CLM_Tema_20",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -13251,6 +13686,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Tema_21",
     "ES_Acceso_a_la_Profesion",
     "ES_Documentos_de_Centro",
     "ES_Marco_Curricular_LOMLOE",
@@ -14236,6 +14672,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "CLM_Supuesto_08_AICLE",
+    "CLM_Tema_20",
     "MOC_Castilla_La_Mancha",
     "MOC_Fuentes"
    ]
@@ -16403,6 +16840,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_24",
     "MOC_Fuentes",
     "Progresion_Competencia_Digital"
    ]
@@ -16946,6 +17384,7 @@
     "Autonomia_y_Responsabilidades",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_25",
     "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Fuentes",
@@ -17579,6 +18018,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_24",
     "Ciudadania_Digital_y_Seguridad",
     "MOC_Fuentes",
     "Progresion_Competencia_Digital"

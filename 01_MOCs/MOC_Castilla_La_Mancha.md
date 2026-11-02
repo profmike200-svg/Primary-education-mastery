@@ -17,7 +17,8 @@ aliases: [Castilla-La Mancha, CLM, Oposiciones CLM]
 - [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]: situación de aprendizaje modelo (4º, en inglés)
 - [[CLM_Mapa_Temario_Ingles]]: los 25 títulos oficiales ↔ notas de la biblioteca
 - **[[CLM_Indices_Temario_Ingles]]**: índices mejorados de los 25 temas
-- **Temas desarrollados (texto completo, APA)**: [[CLM_Tema_01]] · [[CLM_Tema_02]] · [[CLM_Tema_03]] · [[CLM_Tema_04]] · [[CLM_Tema_05]] · [[CLM_Tema_06]] · [[CLM_Tema_07]] · [[CLM_Tema_08]] · [[CLM_Tema_09]] · [[CLM_Tema_10]] · [[CLM_Tema_11]] · [[CLM_Tema_12]] · [[CLM_Tema_13]] · [[CLM_Tema_14]] · [[CLM_Tema_15]] · [[CLM_Tema_16]] · [[CLM_Tema_17]] · [[CLM_Tema_18]] · [[CLM_Tema_19]]
+- **Temas desarrollados (texto completo, APA)**: [[CLM_Tema_01]] · [[CLM_Tema_02]] · [[CLM_Tema_03]] · [[CLM_Tema_04]] · [[CLM_Tema_05]] · [[CLM_Tema_06]] · [[CLM_Tema_07]] · [[CLM_Tema_08]] · [[CLM_Tema_09]] · [[CLM_Tema_10]] · [[CLM_Tema_11]] · [[CLM_Tema_12]] · [[CLM_Tema_13]] · [[CLM_Tema_14]] · [[CLM_Tema_15]] · [[CLM_Tema_16]] · [[CLM_Tema_17]] · [[CLM_Tema_18]] · [[CLM_Tema_19]] · [[CLM_Tema_20]] · [[CLM_Tema_21]] · [[CLM_Tema_22]] · [[CLM_Tema_23]] · [[CLM_Tema_24]] · [[CLM_Tema_25]]
+- **[[CLM_Referencias_de_los_Temas]]**: todas las referencias de los temas, separando las verificadas de las pendientes
 - **[[CLM_Bloques_Comunes_Temario]]**: familias de temas, bibliografía compartida y bloques para memorizar una vez y usar en varios temas
 - **[[CLM_Como_Escribir_un_Tema_de_10]]** y guiones de desarrollo: [[CLM_Tema_03_Guion]] · [[CLM_Tema_07_Guion]] · [[CLM_Tema_09_Guion]] · [[CLM_Tema_11_Guion]] · [[CLM_Tema_14_Guion]]
 - **[[CLM_Supuestos_Practicos_Ingles]]**: banco de 8 supuestos prácticos resueltos (diversidad, fonética, análisis de errores, cuentos, evaluación, materiales, convivencia, AICLE)

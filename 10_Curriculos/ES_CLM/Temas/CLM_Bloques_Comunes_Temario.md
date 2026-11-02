@@ -46,9 +46,9 @@ Aprende cada paquete una vez y combínalo según el tema. En cada tema, usa el *
 | **P5 · Métodos** | 13, 14 | Anthony (1963); Prabhu (1990); Wilkins (1976); Krashen & Terrell (1983); Howatt & Widdowson (2004); Richards & Rodgers (2014); Larsen-Freeman & Anderson (2011); Willis (1996); Coyle et al. (2010); Kumaravadivelu (2006) |
 | **P6 · Cultura** | 4, 5 | Byram (1997); Kramsch (1993); Crystal (2003); Kachru (1985); Baugh & Cable (2013); García & Li Wei (2014) |
 | **P7 · Recursos creativos** | 15, 16, 17, 18, 19 | Ellis & Brewster (2014); Wright (2009); Hunt (1994); Opie & Opie (1951); Werlich (1976); Bland (2013); Whitehurst et al. (1988); Elley & Mangubhai (1983); Mol & Bus (2011); Murphey (1990); Ludke et al. (2014); Pietschnig et al. (2010); Sala & Gobet (2020); Huizinga (1949); Piaget (1962); Guilford (1950); Sailer & Homner (2020); Heathcote & Bolton (1995); Harmer (2015); Wright et al. (2006); Murphey (1992); Graham (1978); Maley & Duff (2005); Phillips (1999); Johnson & Johnson (2009) |
-| **P8 · Planificación y recursos** | 20, 21, 22, 23, 24 | Wiggins & McTighe (2005); Tomlinson (2011); Mishra & Koehler (2006); OECD (2015); Vuorikari et al. (2022) |
+| **P8 · Planificación y recursos** | 20, 21, 22, 23, 24 | Tyler (1949); Stenhouse (1975); Jackson (1968); Council of the EU (2018); Wiggins & McTighe (2005); Bruner (1960); Rosenshine (2012); Black & Wiliam (1998); Hattie & Timperley (2007); Kounin (1970); EEF (2019); Harmer (2015); Cunningsworth (1995); Widdowson (1978); Gilmore (2007); Paivio (1986); Mayer (2009); Montero Perez et al. (2013); Redecker (2017); Kirschner & De Bruyckere (2017); Tomlinson (2011); Mishra & Koehler (2006); OECD (2015); Vuorikari et al. (2022) |
 | **P10 · Comunicación no verbal** | 2, 19 | Hall (1966); Mehrabian (1971) (¡solo sentimientos y actitudes!); Knapp, Hall & Horgan (2014) |
-| **P9 · Motivación** | 2, 18, 25 | Gardner (1985); Dörnyei (2001); Ryan & Deci (2000) |
+| **P9 · Motivación** | 2, 18, 25 | Gardner (1985); Dörnyei (2001, 2009); Ryan & Deci (2000); Rogers (1969); Bandura (1977); Flavell (1979); Horwitz et al. (1986); Pashler et al. (2008) |
 
 Las referencias completas en APA están en la sección 5 de esta nota.
 
@@ -261,5 +261,5 @@ European Commission. (n.d.). *eTwinning*. https://school-education.ec.europa.eu/
 
 ## Relacionado
 - [[CLM_Indices_Temario_Ingles]] · [[CLM_Como_Escribir_un_Tema_de_10]]
-- Temas desarrollados: [[CLM_Tema_01]] · [[CLM_Tema_02]] · [[CLM_Tema_03]] · [[CLM_Tema_04]] · [[CLM_Tema_05]] · [[CLM_Tema_06]] · [[CLM_Tema_07]] · [[CLM_Tema_08]] · [[CLM_Tema_09]] · [[CLM_Tema_10]] · [[CLM_Tema_11]] · [[CLM_Tema_12]] · [[CLM_Tema_13]] · [[CLM_Tema_14]] · [[CLM_Tema_15]] · [[CLM_Tema_16]] · [[CLM_Tema_17]] · [[CLM_Tema_18]] · [[CLM_Tema_19]]
+- Temas desarrollados: [[CLM_Tema_01]] · [[CLM_Tema_02]] · [[CLM_Tema_03]] · [[CLM_Tema_04]] · [[CLM_Tema_05]] · [[CLM_Tema_06]] · [[CLM_Tema_07]] · [[CLM_Tema_08]] · [[CLM_Tema_09]] · [[CLM_Tema_10]] · [[CLM_Tema_11]] · [[CLM_Tema_12]] · [[CLM_Tema_13]] · [[CLM_Tema_14]] · [[CLM_Tema_15]] · [[CLM_Tema_16]] · [[CLM_Tema_17]] · [[CLM_Tema_18]] · [[CLM_Tema_19]] · [[CLM_Tema_20]] · [[CLM_Tema_21]] · [[CLM_Tema_22]] · [[CLM_Tema_23]] · [[CLM_Tema_24]] · [[CLM_Tema_25]]
 - Las referencias completas de cada autor están en la bibliografía del tema donde aparece.

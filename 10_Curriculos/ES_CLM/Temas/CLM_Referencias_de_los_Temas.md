@@ -1,0 +1,162 @@
+---
+tipo: meta
+aliases: [Referencias de los temas, Referencias pendientes de verificar, Bibliografía de oposiciones]
+pais: ES
+marco: Oposiciones Maestros Inglés - Castilla-La Mancha
+estado: borrador
+---
+# Referencias bibliográficas de los 25 temas
+
+> Lista única generada a partir de la bibliografía de los temas desarrollados. **31 referencias verificadas** en línea (coinciden con una fuente `verificado: si` de `11_Fuentes/`) y **112 pendientes**: son obras clásicas citadas con sus datos habituales, pero conviene comprobar autor, año, título y editorial antes del examen (por ejemplo, en el catálogo de la editorial o en Google Books). **Mejor no citar que citar mal.**
+>
+> Las obras literarias (cuentos, novelas) y la normativa no se incluyen.
+
+## ✅ Verificadas en línea
+- Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. *Phi Delta Kappan, 80*(2), 139–144, 146–148. — temas 21
+- Cameron, L. (2001). *Teaching languages to young learners*. Cambridge University Press. — temas 1, 2, 3, 7, 8, 10, 11, 12, 14, 20, 21, 22, 24
+- Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. *Psychological Science in the Public Interest, 19*(1), 5–51. — temas 8, 10
+- Council of Europe. (2020). *Common European framework of reference for languages: Learning, teaching, assessment – Companion volume*. Council of Europe Publishing. — temas 3, 4, 7, 14, 20
+- Derwing, T. M., & Munro, M. J. (2005). Second language accent and pronunciation teaching: A research-based approach. *TESOL Quarterly, 39*(3), 379–397. — temas 9
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. — temas 11, 14, 18, 21
+- Education Endowment Foundation. (2019). *Improving behaviour in schools: Guidance report*. EEF. — temas 22
+- Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. *Scientific Studies of Reading, 9*(2), 167–188. — temas 8
+- Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. *Reading and Writing, 27*(9), 1703–1743. — temas 10
+- Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. *Journal of Educational Psychology, 104*(4), 879–896. — temas 3, 8
+- Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. — temas 21, 25
+- Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. — temas 14, 18, 19, 22
+- Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. *Teaching and Teacher Education, 67*, 135–142. — temas 24
+- Lee, J., Jang, J., & Plonsky, L. (2015). The effectiveness of second language pronunciation instruction: A meta-analysis. *Applied Linguistics, 36*(3), 345–366. — temas 9
+- Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. *Psychological Bulletin, 139*(1), 1–34. — temas 18
+- Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. *Studies in Second Language Acquisition, 32*(2), 265–302. — temas 3, 7, 9, 12
+- Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. *Psychological Bulletin, 137*(2), 267–296. — temas 15, 16
+- Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. *Early Education and Development, 19*(1), 7–26. — temas 16
+- Muñoz, C. (Ed.). (2006). *Age and the rate of foreign language learning*. Multilingual Matters. — temas 6
+- Nation, I. S. P. (2013). *Learning vocabulary in another language* (2nd ed.). Cambridge University Press. — temas 3, 8, 11, 15, 16, 23
+- Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. *Language Learning, 50*(3), 417–528. — temas 6, 12, 13, 14, 21
+- OECD. (2015). *Students, computers and learning: Making the connection*. OECD Publishing. — temas 24
+- Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. *Psychological Science in the Public Interest, 9*(3), 105–119. — temas 25
+- Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect–Shmozart effect: A meta-analysis. *Intelligence, 38*(3), 314–323. — temas 17
+- Pinter, A. (2017). *Teaching young language learners* (2nd ed.). Oxford University Press. — temas 14, 22
+- Pérez-Cañado, M. L. (2012). CLIL research in Europe: Past, present, and future. *International Journal of Bilingual Education and Bilingualism, 15*(3), 315–341. — temas 13, 14
+- Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. *American Educator, 36*(1), 12–19, 39. — temas 21
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. — temas 25
+- Sala, G., & Gobet, F. (2020). Cognitive and academic benefits of music training with children: A multilevel meta-analysis. *Memory & Cognition, 48*(8), 1429–1441. — temas 17
+- Seymour, P. H. K., Aro, M., & Erskine, J. M. (2003). Foundation literacy acquisition in European orthographies. *British Journal of Psychology, 94*(2), 143–174. — temas 8, 10
+- Vuorikari, R., Kluzer, S., & Punie, Y. (2022). *DigComp 2.2: The digital competence framework for citizens*. Publications Office of the European Union. — temas 24
+
+## ⏳ Pendientes de comprobar
+- Anthony, E. M. (1963). Approach, method and technique. *English Language Teaching, 17*(2), 63–67. — temas 13, 14
+- Asher, J. J. (1969). The total physical response approach to second language learning. *The Modern Language Journal, 53*(1), 3–17. — temas 2, 7, 13, 14, 17, 19
+- Bachman, L. F. (1990). *Fundamental considerations in language testing*. Oxford University Press. — temas 3
+- Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*(2), 191–215. — temas 25
+- Baugh, A. C., & Cable, T. (2013). *A history of the English language* (6th ed.). Routledge. — temas 5, 10
+- Bland, J. (2013). *Children's literature and learner empowerment: Children and teenagers in English language education*. Bloomsbury Academic. — temas 15
+- Bloch, B., & Trager, G. L. (1942). *Outline of linguistic analysis*. Linguistic Society of America. — temas 1
+- Bloomfield, L. (1933). *Language*. Henry Holt. — temas 6
+- Brown, G., & Yule, G. (1983). *Teaching the spoken language*. Cambridge University Press. — temas 7
+- Brumfit, C. (1984). *Communicative methodology in language teaching: The roles of fluency and accuracy*. Cambridge University Press. — temas 7
+- Bruner, J. (1983). *Child's talk: Learning to use language*. W. W. Norton. — temas 6
+- Bruner, J. S. (1960). *The process of education*. Harvard University Press. — temas 21
+- Byram, M. (1997). *Teaching and assessing intercultural communicative competence*. Multilingual Matters. — temas 4, 5
+- Canale, M. (1983). From communicative competence to communicative language pedagogy. In J. C. Richards & R. W. Schmidt (Eds.), *Language and communication* (pp. 2–27). Longman. — temas 3
+- Canale, M., & Swain, M. (1980). Theoretical bases of communicative approaches to second language teaching and testing. *Applied Linguistics, 1*(1), 1–47. — temas 3, 14
+- CAST. (2018). *Universal Design for Learning guidelines version 2.2*. http://udlguidelines.cast.org — temas 25
+- Celce-Murcia, M., Brinton, D. M., & Goodwin, J. M. (2010). *Teaching pronunciation: A course book and reference guide* (2nd ed.). Cambridge University Press. — temas 9
+- Chomsky, N. (1959). A review of B. F. Skinner's *Verbal behavior*. *Language, 35*(1), 26–58. — temas 6, 13
+- Chomsky, N. (1965). *Aspects of the theory of syntax*. MIT Press. — temas 6
+- Corder, S. P. (1967). The significance of learners' errors. *International Review of Applied Linguistics in Language Teaching, 5*(4), 161–170. — temas 6, 12
+- Council of Europe. (2001). *Common European framework of reference for languages: Learning, teaching, assessment*. Cambridge University Press. — temas 3
+- Coyle, D., Hood, P., & Marsh, D. (2010). *CLIL: Content and language integrated learning*. Cambridge University Press. — temas 13, 14
+- Crystal, D. (2003). *English as a global language* (2nd ed.). Cambridge University Press. — temas 4, 5
+- Crystal, D. (2010). *The Cambridge encyclopedia of language* (3rd ed.). Cambridge University Press. — temas 1
+- Cunningsworth, A. (1995). *Choosing your coursebook*. Macmillan Heinemann. — temas 23
+- Day, R. R., & Bamford, J. (1998). *Extensive reading in the second language classroom*. Cambridge University Press. — temas 8, 16
+- Dörnyei, Z. (2001). *Motivational strategies in the language classroom*. Cambridge University Press. — temas 25
+- Dörnyei, Z. (2009). The L2 motivational self system. In Z. Dörnyei & E. Ushioda (Eds.), *Motivation, language identity and the L2 self* (pp. 9–42). Multilingual Matters. — temas 25
+- Elley, W. B., & Mangubhai, F. (1983). The impact of reading on second language learning. *Reading Research Quarterly, 19*(1), 53–67. — temas 16
+- Ellis, G., & Brewster, J. (2014). *Tell it again! The storytelling handbook for primary English language teachers*. British Council. — temas 16
+- Ellis, R. (2003). *Task-based language learning and teaching*. Oxford University Press. — temas 13
+- Field, J. (2008). *Listening in the language classroom*. Cambridge University Press. — temas 3, 7
+- Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911. — temas 25
+- Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387. — temas 8
+- García, O., & Li Wei. (2014). *Translanguaging: Language, bilingualism and education*. Palgrave Macmillan. — temas 4
+- Gardner, R. C. (1985). *Social psychology and second language learning: The role of attitudes and motivation*. Edward Arnold. — temas 25
+- Gilmore, A. (2007). Authentic materials and authenticity in foreign language learning. *Language Teaching, 40*(2), 97–118. — temas 23
+- Gough, P. B., & Tunmer, W. E. (1986). Decoding, reading, and reading disability. *Remedial and Special Education, 7*(1), 6–10. — temas 8
+- Graham, C. (1978). *Jazz chants*. Oxford University Press. — temas 9, 17
+- Guilford, J. P. (1950). Creativity. *American Psychologist, 5*(9), 444–454. — temas 18
+- Hall, E. T. (1966). *The hidden dimension*. Doubleday. — temas 2
+- Halliday, M. A. K. (1975). *Learning how to mean: Explorations in the development of language*. Edward Arnold. — temas 1, 6
+- Harmer, J. (2015). *The practice of English language teaching* (5th ed.). Pearson. — temas 3, 19, 22
+- Heathcote, D., & Bolton, G. (1995). *Drama for learning: Dorothy Heathcote's mantle of the expert approach to education*. Heinemann. — temas 19
+- Hockett, C. F. (1960). The origin of speech. *Scientific American, 203*(3), 88–96. — temas 1
+- Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. *The Modern Language Journal, 70*(2), 125–132. — temas 25
+- Howatt, A. P. R., & Widdowson, H. G. (2004). *A history of English language teaching* (2nd ed.). Oxford University Press. — temas 13
+- Huizinga, J. (1949). *Homo ludens: A study of the play-element in culture*. Routledge & Kegan Paul. (Original work published 1938) — temas 18
+- Hunt, P. (1994). *An introduction to children's literature*. Oxford University Press. — temas 15
+- Hymes, D. (1972). On communicative competence. In J. B. Pride & J. Holmes (Eds.), *Sociolinguistics: Selected readings* (pp. 269–293). Penguin. — temas 3, 6, 13, 14
+- Hymes, D. (1974). *Foundations in sociolinguistics: An ethnographic approach*. University of Pennsylvania Press. — temas 1
+- Jackson, P. W. (1968). *Life in classrooms*. Holt, Rinehart and Winston. — temas 20
+- Jakobson, R. (1960). Closing statement: Linguistics and poetics. In T. A. Sebeok (Ed.), *Style in language* (pp. 350–377). MIT Press. — temas 1, 16, 17
+- Jenkins, J. (2000). *The phonology of English as an international language*. Oxford University Press. — temas 9
+- Kachru, B. B. (1985). Standards, codification and sociolinguistic realism: The English language in the outer circle. In R. Quirk & H. G. Widdowson (Eds.), *English in the world: Teaching and learning the language and literatures* (pp. 11–30). Cambridge University Press. — temas 4, 5
+- Knapp, M. L., Hall, J. A., & Horgan, T. G. (2014). *Nonverbal communication in human interaction* (8th ed.). Wadsworth, Cengage Learning. — temas 2
+- Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart and Winston. — temas 22
+- Kramsch, C. (1993). *Context and culture in language teaching*. Oxford University Press. — temas 5
+- Krashen, S. D. (1982). *Principles and practice in second language acquisition*. Pergamon. — temas 2, 3, 6
+- Krashen, S. D., & Terrell, T. D. (1983). *The natural approach: Language acquisition in the classroom*. Pergamon. — temas 13
+- Kumaravadivelu, B. (2006). *Understanding language teaching: From method to postmethod*. Lawrence Erlbaum. — temas 13, 14
+- Larsen-Freeman, D. (2003). *Teaching language: From grammar to grammaring*. Heinle. — temas 12
+- Lenneberg, E. H. (1967). *Biological foundations of language*. Wiley. — temas 6
+- Lewis, M. (1993). *The lexical approach: The state of ELT and a way forward*. Language Teaching Publications. — temas 11
+- Long, M. H. (1991). Focus on form: A design feature in language teaching methodology. In K. de Bot, R. B. Ginsberg, & C. Kramsch (Eds.), *Foreign language research in cross-cultural perspective* (pp. 39–52). John Benjamins. — temas 12
+- Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. C. Ritchie & T. K. Bhatia (Eds.), *Handbook of second language acquisition* (pp. 413–468). Academic Press. — temas 2, 6, 7
+- Ludke, K. M., Ferreira, F., & Overy, K. (2014). Singing can facilitate foreign language learning. *Memory & Cognition, 42*(1), 41–52. — temas 17
+- Lyons, J. (1977). *Semantics* (Vols. 1–2). Cambridge University Press. — temas 11
+- Maley, A., & Duff, A. (2005). *Drama techniques: A resource book of communication activities for language teachers* (3rd ed.). Cambridge University Press. — temas 19
+- Mayer, R. E. (2009). *Multimedia learning* (2nd ed.). Cambridge University Press. — temas 24
+- Mehrabian, A. (1971). *Silent messages*. Wadsworth. — temas 2
+- Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. *Teachers College Record, 108*(6), 1017–1054. — temas 24
+- Montero Perez, M., Van Den Noortgate, W., & Desmet, P. (2013). Captioned video for L2 listening and vocabulary learning: A meta-analysis. *System, 41*(3), 720–739. — temas 24
+- Murphey, T. (1990). The song stuck in my head phenomenon: A melodic din in the LAD? *System, 18*(1), 53–64. — temas 17
+- Murphey, T. (1992). *Music and song*. Oxford University Press. — temas 17
+- National Reading Panel. (2000). *Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction*. National Institute of Child Health and Human Development. — temas 10
+- Opie, I., & Opie, P. (1951). *The Oxford dictionary of nursery rhymes*. Clarendon Press. — temas 15
+- Paivio, A. (1986). *Mental representations: A dual coding approach*. Oxford University Press. — temas 24
+- Phillips, S. (1999). *Drama with children*. Oxford University Press. — temas 19
+- Piaget, J. (1962). *Play, dreams and imitation in childhood*. W. W. Norton. (Original work published 1945) — temas 18
+- Prabhu, N. S. (1990). There is no best method—why? *TESOL Quarterly, 24*(2), 161–176. — temas 13
+- Redecker, C. (2017). *European framework for the digital competence of educators: DigCompEdu*. Publications Office of the European Union. — temas 24
+- Richards, J. C., & Rodgers, T. S. (2014). *Approaches and methods in language teaching* (3rd ed.). Cambridge University Press. — temas 13, 14
+- Roach, P. (2009). *English phonetics and phonology: A practical course* (4th ed.). Cambridge University Press. — temas 9
+- Rogers, C. R. (1969). *Freedom to learn*. Charles E. Merrill. — temas 25
+- Rose, J. (2006). *Independent review of the teaching of early reading: Final report*. Department for Education and Skills. — temas 10
+- Sailer, M., & Homner, L. (2020). The gamification of learning: A meta-analysis. *Educational Psychology Review, 32*(1), 77–112. — temas 18
+- Selinker, L. (1972). Interlanguage. *International Review of Applied Linguistics in Language Teaching, 10*(3), 209–231. — temas 6, 12
+- Shannon, C. E., & Weaver, W. (1949). *The mathematical theory of communication*. University of Illinois Press. — temas 1
+- Skinner, B. F. (1957). *Verbal behavior*. Appleton-Century-Crofts. — temas 6, 13
+- Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and type of language feature: A meta-analysis. *Language Learning, 60*(2), 263–308. — temas 12
+- Stenhouse, L. (1975). *An introduction to curriculum research and development*. Heinemann. — temas 20
+- Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible output in its development. In S. M. Gass & C. G. Madden (Eds.), *Input in second language acquisition* (pp. 235–253). Newbury House. — temas 2, 6, 7
+- Swan, M. (2016). *Practical English usage* (4th ed.). Oxford University Press. — temas 12
+- Thornbury, S. (1999). *How to teach grammar*. Longman. — temas 12
+- Thornbury, S. (2002). *How to teach vocabulary*. Longman. — temas 11
+- Tomlinson, B. (Ed.). (2011). *Materials development in language teaching* (2nd ed.). Cambridge University Press. — temas 23
+- Trier, J. (1931). *Der deutsche Wortschatz im Sinnbezirk des Verstandes* [German vocabulary in the conceptual field of the intellect]. Carl Winter. — temas 11
+- Tyler, R. W. (1949). *Basic principles of curriculum and instruction*. University of Chicago Press. — temas 20
+- Vandergrift, L., & Goh, C. C. M. (2012). *Teaching and learning second language listening: Metacognition in action*. Routledge. — temas 7
+- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press. — temas 6, 18, 25
+- Webster, N. (1828). *An American dictionary of the English language*. S. Converse. — temas 10
+- Werlich, E. (1976). *A text grammar of English*. Quelle & Meyer. — temas 15
+- Whitehurst, G. J., Falco, F. L., Lonigan, C. J., Fischel, J. E., DeBaryshe, B. D., Valdez-Menchaca, M. C., & Caulfield, M. (1988). Accelerating language development through picture book reading. *Developmental Psychology, 24*(4), 552–559. — temas 16
+- Widdowson, H. G. (1978). *Teaching language as communication*. Oxford University Press. — temas 23
+- Wiggins, G., & McTighe, J. (2005). *Understanding by design* (2nd ed.). ASCD. — temas 21
+- Wilkins, D. A. (1972). *Linguistics in language teaching*. Edward Arnold. — temas 11
+- Wilkins, D. A. (1976). *Notional syllabuses*. Oxford University Press. — temas 13
+- Willis, J. (1996). *A framework for task-based learning*. Longman. — temas 13, 14
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. — temas 14
+- Wright, A. (2009). *Storytelling with children* (2nd ed.). Oxford University Press. — temas 16
+- Wright, A., Betteridge, D., & Buckby, M. (2006). *Games for language learning* (3rd ed.). Cambridge University Press. — temas 18
+
+## Relacionado
+- [[CLM_Bloques_Comunes_Temario]] · [[CLM_Como_Escribir_un_Tema_de_10]] · [[CLM_Indices_Temario_Ingles]]
