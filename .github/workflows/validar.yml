@@ -16,3 +16,5 @@ jobs:
           git diff --exit-code indice.json || (echo "Ejecuta python3 scripts/indexar.py y sube indice.json" && exit 1)
       - name: Pruebas de consulta
         run: cd scripts && python3 test_consultas.py
+      - name: Extensión de los temas de oposición (1500-2000 palabras)
+        run: python3 scripts/contar_palabras_temas.py --estricto

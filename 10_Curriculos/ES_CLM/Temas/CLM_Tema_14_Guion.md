@@ -12,6 +12,8 @@ estado: borrador
 ---
 # Topic 14 · Development script
 
+> 📘 **Texto completo del tema: [[CLM_Tema_14]]**
+
 **Title**: Methods and techniques focused on the acquisition of communicative competence. Specific methodological basis for English language teaching.
 
 > Guion para redactar el tema. Diferéncialo del tema 13: aquí lo central son las **técnicas actuales y los principios para Primaria**, no la historia de los métodos. Comprueba antes de citar las referencias marcadas como *clásico*. Ver [[CLM_Como_Escribir_un_Tema_de_10]].

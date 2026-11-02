@@ -71,7 +71,7 @@ estado: borrador
 - Memorizar primero el **esqueleto** (índice + 1 autor + 1 ejemplo por apartado); el texto completo después.
 
 ## Temas desarrollados (texto completo)
-[[CLM_Tema_03]] · [[CLM_Tema_07]] · [[CLM_Tema_09]] · [[CLM_Tema_11]]
+[[CLM_Tema_03]] · [[CLM_Tema_07]] · [[CLM_Tema_09]] · [[CLM_Tema_11]] · [[CLM_Tema_13]] · [[CLM_Tema_14]]
 
 ## Guiones de desarrollo
 [[CLM_Tema_03_Guion]] · [[CLM_Tema_07_Guion]] · [[CLM_Tema_09_Guion]] · [[CLM_Tema_11_Guion]] · [[CLM_Tema_14_Guion]]

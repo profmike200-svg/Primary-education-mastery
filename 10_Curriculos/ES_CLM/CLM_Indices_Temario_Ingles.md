@@ -247,6 +247,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque III · Methodology
 
 ### Topic 13 · Foreign language teaching evolution: from grammar-translation to current approaches
+> 📘 Tema completo: [[CLM_Tema_13]]
 1. Introduction
 2. Traditional methods: grammar-translation; direct method; audio-lingual
 3. Humanistic and alternative methods: TPR, Silent Way, Suggestopedia, Community Language Learning, Natural Approach
@@ -258,7 +259,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el apartado 2 estaba sin numerar; se añade un bloque de métodos humanistas y otro de evidencia.
 
 ### Topic 14 · Methods and techniques for communicative competence. Specific methodological basis for ELT
-> 📝 Guion de desarrollo: [[CLM_Tema_14_Guion]]
+> 📘 Tema completo: [[CLM_Tema_14]] · 📝 Guion: [[CLM_Tema_14_Guion]]
 1. Introduction
 2. Approach, method and technique (Anthony; Richards & Rodgers)
 3. Communicative competence (reference to topic 3)
