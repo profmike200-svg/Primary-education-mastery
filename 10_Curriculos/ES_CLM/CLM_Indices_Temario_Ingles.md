@@ -31,6 +31,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque I · Language and communication
 
 ### Topic 1 · Language as communication. Spoken and written language. Factors defining a linguistic situation
+> 📘 Tema completo: [[CLM_Tema_01]]
 1. Introduction: communication in daily life and at school; LOMLOE key competences (CCL, CP).
 2. Language as communication
    2.1. Definitions of language (Bloch & Trager, Crystal) and of communication
@@ -51,6 +52,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: se añade Halliday (desarrollo infantil del lenguaje) y un subapartado de aplicación en los puntos 3 y 5.
 
 ### Topic 2 · Communication in the FL classroom: verbal and non-verbal communication. Extralinguistic strategies
+> 📘 Tema completo: [[CLM_Tema_02]]
 1. Introduction
 2. Communication in the foreign language classroom
    2.1. The classroom as a communicative context: input, interaction, output
@@ -91,6 +93,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; la competencia comunicativa (parte del título) gana modelos y su encaje con las competencias específicas de la LOMLOE; se añade la mediación.
 
 ### Topic 4 · The second language as a means of communication among people and nations. Linguistic diversity
+> 📘 Tema completo: [[CLM_Tema_04]]
 1. Introduction
 2. Foreign language knowledge as a tool for communication between individuals and peoples
    2.1. Ways of getting around the language barrier (lingua franca, translation, plurilingualism)
@@ -105,6 +108,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: se añade Byram y la competencia plurilingüe (clave en la LOMLOE) y un apartado de aplicaciones.
 
 ### Topic 5 · Geographical, historical and cultural background of English-speaking countries. Didactic application
+> 📘 Tema completo: [[CLM_Tema_05]]
 1. Introduction
 2. English in the world
    2.1. Origin and evolution: Old, Middle and Modern English
@@ -122,6 +126,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el punto 3 se divide por países e incluye el inglés fuera del mundo anglosajón tradicional.
 
 ### Topic 6 · Contributions of linguistics to FL teaching. First language acquisition vs. foreign language learning
+> 📘 Tema completo: [[CLM_Tema_06]]
 1. Introduction
 2. Contributions of linguistics to foreign language teaching
    2.1. Structuralism and behaviourism (Bloomfield, Skinner)

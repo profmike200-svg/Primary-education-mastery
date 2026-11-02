@@ -604,8 +604,13 @@
     "CLM_Programas_Bilingues",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09",
@@ -1341,6 +1346,7 @@
    "enlazada_desde": [
     "00_INICIO",
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_02",
     "Mito_10_por_ciento_Cerebro",
     "Mito_Bilinguismo_Confunde",
     "Mito_Brain_Gym",
@@ -3992,6 +3998,8 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
     "MOC_Areas",
     "Mediacion_en_L2",
     "Progresion_Lengua_Extranjera",
@@ -7254,6 +7262,7 @@
     "Andamiaje",
     "Aprendizaje_por_Descubrimiento",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_06",
     "Enfoque_CPA",
     "Etapa_6_8_anos",
     "MOC_Autores",
@@ -7992,6 +8001,7 @@
     "Aprendizaje_Cooperativo",
     "Bruner",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_06",
     "MOC_Autores",
     "MOC_Desarrollo",
     "Piaget",
@@ -10211,8 +10221,13 @@
     "CLM_Supuesto_04_Cuento_Literatura",
     "CLM_Supuesto_06_Analisis_de_Material",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09",
@@ -10296,7 +10311,12 @@
     "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_09",
     "CLM_Tema_11",
@@ -11073,12 +11093,26 @@
    "enlaces": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
-    "CLM_Tema_07"
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
+    "CLM_Tema_07",
+    "CLM_Tema_09",
+    "CLM_Tema_11",
+    "CLM_Tema_13",
+    "CLM_Tema_14"
    ],
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_09",
     "CLM_Tema_11",
@@ -11129,8 +11163,13 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09",
@@ -11151,8 +11190,13 @@
    "enlazada_desde": [
     "CLM_Bloques_Comunes_Temario",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_01",
+    "CLM_Tema_02",
     "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_04",
+    "CLM_Tema_05",
+    "CLM_Tema_06",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09",
@@ -11162,6 +11206,104 @@
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_01": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_01.md",
+   "titulo": "Topic 1",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 1",
+    "Topic 1",
+    "Topic 1 full text",
+    "Language as communication"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "LANGUAGE AS COMMUNICATION. SPOKEN LANGUAGE AND WRITTEN LANGUAGE. FACTORS DEFINING A LINGUISTIC SITUATION: SENDER, RECEIVER, FUNCTIONALITY AND CONTEXT",
+   "secciones": [
+    "1. Introduction",
+    "2. Language as communication",
+    "3. Spoken language and written language",
+    "4. Functionality of language",
+    "5. Factors defining a linguistic situation",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_02": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_02.md",
+   "titulo": "Topic 2",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 2",
+    "Topic 2",
+    "Topic 2 full text",
+    "Verbal and non-verbal communication in the FL classroom"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Cameron_2001_Ninos_Lenguas",
+     "Asher_1969_TPR",
+     "Consejo_Europa_2020_MCER"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "COMMUNICATION IN THE FOREIGN LANGUAGE CLASSROOM: VERBAL AND NON-VERBAL COMMUNICATION. EXTRALINGUISTIC STRATEGIES: NON-VERBAL REACTIONS TO MESSAGES IN DIFFERENT CONTEXTS",
+   "secciones": [
+    "1. Introduction",
+    "2. Communication in the foreign language classroom",
+    "3. Verbal communication in the English classroom",
+    "4. Non-verbal communication",
+    "5. Extralinguistic strategies: non-verbal reactions to messages in different contexts",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Mitos"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11271,6 +11413,161 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_03",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_04": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_04.md",
+   "titulo": "Topic 4",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 4",
+    "Topic 4",
+    "Topic 4 full text",
+    "Second language as communication among nations and linguistic diversity"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "THE SECOND LANGUAGE AS A MEANS OF COMMUNICATION AMONG PEOPLE AND NATIONS. GENERATING AN INTEREST IN LINGUISTIC DIVERSITY THROUGH ANOTHER LANGUAGE AND CULTURE",
+   "secciones": [
+    "1. Introduction",
+    "2. The foreign language as a means of communication among people and nations",
+    "3. Generating an interest in linguistic diversity",
+    "4. Plurilingual and intercultural competence",
+    "5. Classroom applications",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_05",
+    "Mito_Bilinguismo_Confunde",
+    "Plurilinguismo_e_Interculturalidad"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_05",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_05": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_05.md",
+   "titulo": "Topic 5",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 5",
+    "Topic 5",
+    "Topic 5 full text",
+    "English-speaking countries background and culture"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "GEOGRAPHICAL, HISTORICAL AND CULTURAL BACKGROUND OF ENGLISH-SPEAKING COUNTRIES. DIDACTIC APPLICATION OF THESE ASPECTS IN THE FOREIGN LANGUAGE CLASSROOM",
+   "secciones": [
+    "1. Introduction",
+    "2. English in the world",
+    "3. Geographical, historical and cultural background of English-speaking countries",
+    "4. Didactic application in the foreign language classroom",
+    "5. Attention to diversity and assessment",
+    "6. Conclusion",
+    "7. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_04",
+    "Plurilinguismo_e_Interculturalidad"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_04",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_06": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_06.md",
+   "titulo": "Topic 6",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 6",
+    "Topic 6",
+    "Topic 6 full text",
+    "Linguistics and language acquisition vs foreign language learning"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Munoz_2006_Edad_L2",
+     "Norris_2000_Instruccion_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "CONTRIBUTIONS OF LINGUISTICS TO FOREIGN LANGUAGE TEACHING. THE PROCESS OF LANGUAGE LEARNING: FIRST LANGUAGE ACQUISITION AND FOREIGN LANGUAGE LEARNING",
+   "secciones": [
+    "1. Introduction",
+    "2. Contributions of linguistics to foreign language teaching",
+    "3. First language acquisition",
+    "4. Foreign language learning",
+    "5. First language acquisition and foreign language learning compared",
+    "6. Implications for the classroom",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "Bruner",
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "Mito_Cuanto_Antes_Mejor_L2",
+    "Munoz_2006_Edad_L2",
+    "Vygotsky"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11429,6 +11726,7 @@
     "CLM_Tema_09_Guion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_09_Guion",
@@ -11532,6 +11830,7 @@
     "CLM_Tema_11_Guion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_11_Guion",
@@ -11635,6 +11934,7 @@
     "CLM_Tema_14"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_14",
@@ -11690,6 +11990,7 @@
     "CLM_Tema_14_Guion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_13",
@@ -15383,6 +15684,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_06",
     "MOC_Fuentes",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Progresion_Lengua_Extranjera",
@@ -17777,6 +18079,7 @@
    ],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_04",
     "Crianza_Bilingue",
     "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Lenguaje",
@@ -17817,6 +18120,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_06",
     "Crianza_Bilingue",
     "MOC_Mitos",
     "Progresion_Lengua_Extranjera"

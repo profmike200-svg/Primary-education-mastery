@@ -39,14 +39,15 @@ Aprende cada paquete una vez y combínalo según el tema. En cada tema, usa el *
 | Paquete | Temas | Referencias |
 |---|---|---|
 | **P0 · Base (todos)** | 1-25 | LOMLOE; RD 157/2022; Decreto 81/2022; Orden 185/2022; Decreto 85/2018; Council of Europe (2001, 2020); Cameron (2001); Pinter (2017); CAST (2018) |
-| **P1 · Competencia comunicativa** | 1, 2, 3, 14 | Jakobson (1960); Hymes (1972); Canale & Swain (1980); Canale (1983); Bachman (1990) |
-| **P2 · Adquisición de lenguas (SLA)** | 3, 6, 7, 12, 13, 14, 25 | Krashen (1982); Long (1996); Swain (1985); Lightbown & Spada (2013); Norris & Ortega (2000); Lyster & Saito (2010) |
+| **P1 · Competencia comunicativa** | 1, 2, 3, 14 | Bloch & Trager (1942); Shannon & Weaver (1949); Hockett (1960); Jakobson (1960); Halliday (1975); Hymes (1972, 1974); Canale & Swain (1980); Canale (1983); Bachman (1990) |
+| **P2 · Adquisición de lenguas (SLA)** | 3, 6, 7, 12, 13, 14, 25 | Skinner (1957); Chomsky (1959, 1965); Lenneberg (1967); Corder (1967); Selinker (1972); Vygotsky (1978); Bruner (1983); Krashen (1982); Long (1996); Swain (1985); Muñoz (2006); Lightbown & Spada (2013); Norris & Ortega (2000); Lyster & Saito (2010) |
 | **P3 · Destrezas** | 3, 7, 8 | Harmer (2015); Brown & Yule (1983); Brumfit (1984); Field (2008); Vandergrift & Goh (2012); Nation (2013); Graham et al. (2012) |
 | **P4 · Sistema de la lengua** | 9, 10, 11, 12 | Roach (2009); Celce-Murcia et al. (2010); Derwing & Munro (2005); Lee et al. (2015); Nation (2013); Thornbury (2002); Lewis (1993); Larsen-Freeman (2003); Swan (2016) |
-| **P5 · Métodos** | 13, 14 | Anthony (1963); Howatt & Widdowson (2004); Richards & Rodgers (2014); Larsen-Freeman & Anderson (2011); Willis (1996); Coyle et al. (2010); Kumaravadivelu (2006) |
-| **P6 · Cultura** | 4, 5 | Byram (1997); Crystal (2003); Kachru (1985) |
+| **P5 · Métodos** | 13, 14 | Anthony (1963); Prabhu (1990); Wilkins (1976); Krashen & Terrell (1983); Howatt & Widdowson (2004); Richards & Rodgers (2014); Larsen-Freeman & Anderson (2011); Willis (1996); Coyle et al. (2010); Kumaravadivelu (2006) |
+| **P6 · Cultura** | 4, 5 | Byram (1997); Kramsch (1993); Crystal (2003); Kachru (1985); Baugh & Cable (2013); García & Li Wei (2014) |
 | **P7 · Recursos creativos** | 15, 16, 17, 18, 19 | Ellis & Brewster (2014); Wright (2009); Wright et al. (2006); Murphey (1992); Graham (1978); Maley & Duff (2005); Phillips (1999); Johnson & Johnson (2009) |
 | **P8 · Planificación y recursos** | 20, 21, 22, 23, 24 | Wiggins & McTighe (2005); Tomlinson (2011); Mishra & Koehler (2006); OECD (2015); Vuorikari et al. (2022) |
+| **P10 · Comunicación no verbal** | 2, 19 | Hall (1966); Mehrabian (1971) (¡solo sentimientos y actitudes!); Knapp, Hall & Horgan (2014) |
 | **P9 · Motivación** | 2, 18, 25 | Gardner (1985); Dörnyei (2001); Ryan & Deci (2000) |
 
 Las referencias completas en APA están en la sección 5 de esta nota.
@@ -259,4 +260,6 @@ European Commission. (n.d.). *eTwinning*. https://school-education.ec.europa.eu/
 > ⚠️ Las referencias marcadas como verificadas en la biblioteca (Cameron, Pinter, Council of Europe, Nation, Lyster & Saito, Norris & Ortega, Graham et al., Derwing & Munro, Lee et al., Johnson & Johnson, Ryan & Deci, OECD, Vuorikari et al., CAST) están contrastadas en línea. El resto son obras de referencia clásicas con sus datos habituales: haz una comprobación rápida antes del examen.
 
 ## Relacionado
-- [[CLM_Indices_Temario_Ingles]] · [[CLM_Como_Escribir_un_Tema_de_10]] · [[CLM_Tema_03]] · [[CLM_Tema_07]]
+- [[CLM_Indices_Temario_Ingles]] · [[CLM_Como_Escribir_un_Tema_de_10]]
+- Temas desarrollados: [[CLM_Tema_01]] · [[CLM_Tema_02]] · [[CLM_Tema_03]] · [[CLM_Tema_04]] · [[CLM_Tema_05]] · [[CLM_Tema_06]] · [[CLM_Tema_07]] · [[CLM_Tema_09]] · [[CLM_Tema_11]] · [[CLM_Tema_13]] · [[CLM_Tema_14]]
+- Las referencias completas de cada autor están en la bibliografía del tema donde aparece.
