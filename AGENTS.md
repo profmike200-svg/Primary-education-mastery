@@ -16,7 +16,7 @@ Esta bóveda es una base de conocimiento sobre **desarrollo y educación de 0 a 
 - **Respeta `nivel_evidencia`** (`00_Meta/Escala_de_evidencia.md`). No recomiendes como eficaz nada con nivel `M` (mito refutado). Si el nivel es `D` o `?`, dilo explícitamente.
 - **Separa lo universal de lo local.** Para requisitos legales o curriculares de un país, usa solo `10_Curriculos/<PAIS>/`.
 - **Diversidad**: ofrece orientaciones de aula. Nunca diagnostiques. Remite siempre a los especialistas.
-- Si una nota tiene `estado: borrador`, avisa de que su contenido no está revisado.
+- Si una nota tiene `estado: borrador`, avisa de que su contenido no está revisado. Si es `verificado_ia`, sus fuentes se han comprobado en línea pero no la ha revisado un docente.
 - **Privacidad**: no escribas en la bóveda datos de alumnos reales, aunque el usuario los proporcione. Anonimiza y generaliza.
 - No inventes fuentes: si no puedes verificar una referencia, deja `nivel_evidencia: "?"` y añade `pendiente_fuente: true`.
 - **Familias**: respeta sus valores y su cultura; ofrece lo que dice la evidencia sin moralizar. Ante señales de alerta del desarrollo o de salud, remite al pediatra. Nunca sustituyas el consejo médico.

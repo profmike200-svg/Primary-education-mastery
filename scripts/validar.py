@@ -22,7 +22,7 @@ NECESIDADES = {"tdah", "tea", "dislexia", "discalculia", "disgrafia", "tdl", "di
                "altas_capacidades", "discapacidad_sensorial", "discapacidad_motora",
                "incorporacion_tardia", "vulnerabilidad_socioemocional"}
 EVIDENCIA = {"A", "B", "C", "D", "M", "?"}
-ESTADOS = {"borrador", "revisado", "estable"}
+ESTADOS = {"borrador", "verificado_ia", "revisado", "estable"}
 CAMPOS_NECESIDAD = ("necesidad", "necesidades", "necesidades_compatibles", "necesidades_contempladas")
 
 ENLACE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]")

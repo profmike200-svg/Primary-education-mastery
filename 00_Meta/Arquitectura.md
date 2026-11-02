@@ -38,7 +38,7 @@ Con estos ejes un LLM puede responder "qué, cuándo y cómo" cruzando metadatos
 1. **Captura**: cualquier idea o lectura va a `99_Inbox/`, sin formato.
 2. **Procesado** (semanal): convertir lo capturado en una nota atómica con la plantilla correspondiente, crear su ficha de fuente y asignarle un `nivel_evidencia`.
 3. **Enlazado**: al menos 1 MOC padre y 2 notas relacionadas. Una nota sin enlaces es una nota huérfana y se considera no terminada.
-4. **Revisión**: `estado` pasa de `borrador` → `revisado` → `estable`. **Solo el docente responsable** sube una nota a `revisado`; el contenido generado por IA entra siempre como `borrador`.
+4. **Revisión**: `estado` pasa de `borrador` → `verificado_ia` (la IA comprueba en línea las fuentes y los datos clave) → `revisado` (el docente, cuando pueda) → `estable`. **Solo el docente responsable** sube una nota a `revisado`; el contenido generado por IA entra siempre como `borrador`.
 5. **Validación**: `python3 scripts/validar.py` antes de cada commit.
 
 ## Orden de construcción por capas

@@ -39,7 +39,10 @@ Familia: `crianza`
 `A` · `B` · `C` · `D` · `M` · `?` (ver [[Escala de evidencia]])
 
 ## `estado`
-`borrador` · `revisado` · `estable`
+`borrador` (redactado, fuentes sin comprobar) · `verificado_ia` (fuentes y datos clave comprobados en línea por la IA) · `revisado` (leído y validado por el docente) · `estable`
+
+## `verificado` (fichas de fuente)
+`pendiente` · `parcial` (encontrada en fuentes secundarias) · `si` (cita y conclusiones comprobadas) · `corregida` (había un error y se ha corregido)
 
 ## Etiquetas (`tags`)
 Solo para facetas que no tienen campo propio, por ejemplo `#cooperativo`, `#manipulativo`, `#juego`, `#exterior`. Se prefieren los campos a las etiquetas.

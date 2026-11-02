@@ -61,6 +61,7 @@
    "enlazada_desde": [
     "00_INICIO",
     "MOC_Metodologias",
+    "Plan_de_Lectura",
     "README",
     "Taxonomia"
    ]
@@ -171,6 +172,55 @@
     "00_INICIO"
    ]
   },
+  "Plan_de_Lectura": {
+   "ruta": "00_Meta/Plan_de_Lectura.md",
+   "titulo": "Plan de lectura: lo esencial en 4 semanas (10 minutos al día)",
+   "tipo": "meta",
+   "aliases": [
+    "Plan de lectura",
+    "Ruta de lectura",
+    "Por dónde empezar a leer"
+   ],
+   "metadatos": {
+    "estado": "estable"
+   },
+   "resumen": "No hace falta leer la biblioteca entera: está pensada para consultarla (tú o una IA) cuando surja una necesidad. Esta ruta reúne las ~20 notas que dan la visión de conjunto. Una nota al día, de lunes a viernes.",
+   "secciones": [
+    "Semana 1 · Cómo funciona y qué es verdad",
+    "Semana 2 · El niño",
+    "Semana 3 · El aula",
+    "Semana 4 · Tu especialidad y tus oposiciones",
+    "Después"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Deberes_y_Tareas_Inacabadas",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Escala_de_evidencia",
+    "Evaluacion_Formativa",
+    "Funciones_Ejecutivas",
+    "Gestion_de_la_Conducta",
+    "Instruccion_Explicita",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Mitos",
+    "MOC_Por_Curso",
+    "Pilares_del_Desarrollo_Integral",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
+    "Progresion_Lengua_Extranjera",
+    "Retroalimentacion",
+    "Uso_con_LLM"
+   ],
+   "enlazada_desde": [
+    "00_INICIO"
+   ]
+  },
   "Taxonomia": {
    "ruta": "00_Meta/Taxonomia.md",
    "titulo": "Taxonomía: valores permitidos en el frontmatter",
@@ -188,6 +238,7 @@
     "`necesidades`",
     "`nivel_evidencia`",
     "`estado`",
+    "`verificado` (fichas de fuente)",
     "Etiquetas (`tags`)"
    ],
    "enlaces": [
@@ -234,6 +285,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "Plan_de_Lectura",
     "README"
    ]
   },
@@ -277,6 +329,7 @@
     "MOC_Practica",
     "MOC_Sistema_Educativo_Espanol",
     "Panel_de_control",
+    "Plan_de_Lectura",
     "Taxonomia",
     "Uso_con_LLM"
    ],
@@ -298,6 +351,7 @@
     "MOC_Por_Curso",
     "MOC_Practica",
     "MOC_Sistema_Educativo_Espanol",
+    "Plan_de_Lectura",
     "README"
    ]
   },
@@ -1192,7 +1246,8 @@
     "Mito_Test_de_la_Golosina",
     "Mito_Tres_Claves",
     "Mito_Un_Cachete_a_Tiempo",
-    "Mito_Videos_Educativos_Bebes"
+    "Mito_Videos_Educativos_Bebes",
+    "Plan_de_Lectura"
    ]
   },
   "MOC_Por_Curso": {
@@ -1282,7 +1337,8 @@
     "00_INICIO",
     "ES_Marco_Curricular_LOMLOE",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
-    "Hoja_de_ruta"
+    "Hoja_de_ruta",
+    "Plan_de_Lectura"
    ]
   },
   "MOC_Practica": {
@@ -1856,7 +1912,8 @@
     "ES_Educacion_Infantil",
     "Etapa_6_8_anos",
     "MOC_Desarrollo",
-    "MOC_Infantil"
+    "MOC_Infantil",
+    "Plan_de_Lectura"
    ]
   },
   "Linea_Desarrollo_Lenguaje": {
@@ -1915,7 +1972,8 @@
     "MOC_Desarrollo",
     "MOC_Infantil",
     "Mito_Videos_Educativos_Bebes",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Plan_de_Lectura"
    ]
   },
   "Linea_Desarrollo_Motor": {
@@ -2020,7 +2078,8 @@
     "Etapa_6_8_anos",
     "MOC_Desarrollo",
     "MOC_Infantil",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Plan_de_Lectura"
    ]
   },
   "Alfabetizacion_Mediatica_e_Informacional": {
@@ -3962,6 +4021,7 @@
     "Lectoescritura_en_Ingles",
     "MOC_Areas",
     "MOC_Por_Curso",
+    "Plan_de_Lectura",
     "US_WIDA_ELD",
     "Vocabulario_L2"
    ]
@@ -5001,6 +5061,7 @@
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Metodologias",
     "Mito_Cuanto_Antes_Mejor_L2",
+    "Plan_de_Lectura",
     "Progresion_Lengua_Extranjera"
    ]
   },
@@ -5432,6 +5493,7 @@
     "Metacognicion",
     "Metodo_Montessori",
     "Normas_y_Rutinas",
+    "Plan_de_Lectura",
     "Practica_de_Recuperacion",
     "Progresion_Ciencias_Naturales",
     "Progresion_Matematicas",
@@ -5989,6 +6051,7 @@
     "MOC_Metodologias",
     "MOC_Por_Curso",
     "Ortografia",
+    "Plan_de_Lectura",
     "Practica_de_Recuperacion",
     "Progresion_Matematicas",
     "Vocabulario",
@@ -6051,6 +6114,7 @@
     "MOC_Por_Curso",
     "Mito_Piramide_del_Aprendizaje",
     "Ortografia",
+    "Plan_de_Lectura",
     "Practica_Espaciada",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Pausa_Activa",
@@ -7639,6 +7703,7 @@
     "MOC_Metodologias",
     "MOC_Por_Curso",
     "Mito_Estilos_de_Aprendizaje",
+    "Plan_de_Lectura",
     "RTI_MTSS",
     "TDAH",
     "TDL",
@@ -8200,6 +8265,7 @@
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
     "MOC_Por_Curso",
+    "Plan_de_Lectura",
     "RTI_MTSS",
     "Retroalimentacion",
     "Rubricas",
@@ -8306,6 +8372,7 @@
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
     "MOC_Por_Curso",
+    "Plan_de_Lectura",
     "Rubricas"
    ]
   },
@@ -8558,6 +8625,7 @@
     "Entorno_de_Aprendizaje_en_Casa",
     "MOC_Crianza",
     "MOC_Gestion_Aula",
+    "Plan_de_Lectura",
     "Uso_con_LLM"
    ]
   },
@@ -8612,6 +8680,7 @@
     "Estilos_Parentales",
     "MOC_Gestion_Aula",
     "Normas_y_Rutinas",
+    "Plan_de_Lectura",
     "Programas_de_Aprendizaje_Socioemocional",
     "Progresion_Socioemocional"
    ]
@@ -9050,6 +9119,7 @@
     "Mito_Entrenamiento_Cerebral",
     "Mito_Test_de_la_Golosina",
     "Pilares_del_Desarrollo_Integral",
+    "Plan_de_Lectura",
     "Progresion_Musica",
     "Progresion_Socioemocional",
     "Rabietas_y_Regulacion_Emocional_Temprana"
@@ -9484,7 +9554,8 @@
    ],
    "enlazada_desde": [
     "ES_Acceso_a_la_Profesion",
-    "MOC_Castilla_La_Mancha"
+    "MOC_Castilla_La_Mancha",
+    "Plan_de_Lectura"
    ]
   },
   "CLM_Programacion_Oposiciones_Ingles": {
@@ -9547,7 +9618,8 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
-    "MOC_Castilla_La_Mancha"
+    "MOC_Castilla_La_Mancha",
+    "Plan_de_Lectura"
    ]
   },
   "ES_Acceso_a_la_Profesion": {
@@ -13968,7 +14040,8 @@
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Castilla_La_Mancha",
-    "MOC_Practica"
+    "MOC_Practica",
+    "Plan_de_Lectura"
    ]
   },
   "Rutina_Cuentacuentos_en_Ingles": {
@@ -15360,7 +15433,8 @@
     "Apego",
     "Autonomia_y_Responsabilidades",
     "MOC_Crianza",
-    "Mito_Primeros_Tres_Anos"
+    "Mito_Primeros_Tres_Anos",
+    "Plan_de_Lectura"
    ]
   },
   "Rabietas_y_Regulacion_Emocional_Temprana": {

@@ -25,4 +25,6 @@ Para **docentes** de Infantil y Primaria y para **familias**. El desarrollo evol
 | Dame algo concreto para clase | [[MOC_Practica]] |
 
 ## Sistema
+**¿Primera vez? → [[Plan_de_Lectura]]** (lo esencial en 4 semanas, 10 minutos al día)
+
 [[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Glosario_entre_sistemas]] · [[Hoja_de_ruta]] · [[Uso_con_LLM]] · [[Panel_de_control]]
