@@ -99,6 +99,16 @@ CASOS = [
      ["Etapa_1_3_anos"], []),
     ("¿Cómo trabajar los rincones y las rutinas en infantil de 4 años?",
      ["Metodologia_en_Educacion_Infantil"], []),
+    ("¿Cómo enseño la pronunciación del inglés a niños españoles?",
+     ["Pronunciacion_Ingles"], []),
+    ("Situación de aprendizaje de inglés para 6º de primaria",
+     ["SA_Ingles_3er_Ciclo_Town_Guide"], []),
+    ("¿Funciona el TPR para enseñar inglés en primero?",
+     ["Respuesta_Fisica_Total_TPR"], []),
+    ("¿Qué es la mediación en la clase de inglés?",
+     ["Mediacion_en_L2"], []),
+    ("¿Debo hablar solo en inglés en clase o puedo usar el español?",
+     ["Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"], []),
 ]
 
 

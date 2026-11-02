@@ -39,6 +39,9 @@ El tribunal valora la **coherencia** y la **fundamentación**. Puedes justificar
 | Vocabulary | High-frequency words, spaced retrieval | [[Vocabulario_L2]] ([[Nation_2013_Vocabulario_L2]]) |
 | Oral feedback | Prompts for self-correction | [[Comprension_Oral_L2]] ([[Lyster_2010_Feedback_Oral_L2]]) |
 | Literacy in English | Systematic phonics for an opaque orthography | [[Lectoescritura_en_Ingles]] |
+| Pronunciation | Intelligibility as the goal; explicit teaching works | [[Pronunciacion_Ingles]] ([[Lee_2015_Pronunciacion]], [[Derwing_2005_Inteligibilidad]]) |
+| Mediation | CEFR Companion Volume (2020) | [[Mediacion_en_L2]] ([[Consejo_Europa_2020_MCER]]) |
+| Young learners | Meaning, routines, scaffolding, stories | [[Cameron_2001_Ninos_Lenguas]] · [[Pinter_2017_Jovenes_Aprendices]] |
 | Storytelling | Repeated shared reading with visual support | [[Rutina_Cuentacuentos_en_Ingles]] |
 | Cooperative learning | Structured roles and individual accountability | [[Aprendizaje_Cooperativo]] |
 | Assessment | Formative assessment, rubrics, exit tickets | [[Evaluacion_Formativa]] · [[Rubricas]] |
@@ -54,8 +57,13 @@ Citar a autores reconocidos (Krashen con matices, Long, Lyster, Nation, Cameron 
 - Metodologías de moda sin justificar o basadas en mitos.
 - No coherencia entre la programación y la situación de aprendizaje que se expone.
 
-## Ejemplo
-- [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]
+## Ejemplos de situaciones de aprendizaje (una por ciclo)
+- 1er ciclo: [[SA_Ingles_1er_Ciclo_Animal_Party]]
+- 2º ciclo: [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]
+- 3er ciclo: [[SA_Ingles_3er_Ciclo_Town_Guide]]
+
+## Contenidos de la especialidad en la biblioteca
+[[Expresion_e_Interaccion_Oral_L2]] · [[Lectura_y_Escritura_L2]] · [[Pronunciacion_Ingles]] · [[Mediacion_en_L2]] · [[Plurilinguismo_e_Interculturalidad]] · [[Evaluacion_en_Lengua_Extranjera]] · [[Respuesta_Fisica_Total_TPR]] · [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]]
 
 ## Relacionado
 - MOC padre: [[MOC_Castilla_La_Mancha]]

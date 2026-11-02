@@ -28,6 +28,8 @@ Nivel de evidencia entre paréntesis (ver [[Escala_de_evidencia|Escala de eviden
 ## Lengua extranjera
 - [[Ensenanza_Comunicativa_con_Foco_en_la_Forma]] (B)
 - [[AICLE_CLIL]] (C)
+- [[Respuesta_Fisica_Total_TPR]] (C)
+- [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]] (C)
 
 ## Aprendizaje entre iguales
 - [[Aprendizaje_Cooperativo]] (B)

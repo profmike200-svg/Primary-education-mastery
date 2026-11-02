@@ -22,7 +22,7 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 
 ## Lengua extranjera ✅
 - [[Progresion_Lengua_Extranjera]]
-  - [[Comprension_Oral_L2]] · [[Vocabulario_L2]] · [[Lectoescritura_en_Ingles]]
+  - [[Comprension_Oral_L2]] · [[Expresion_e_Interaccion_Oral_L2]] · [[Lectura_y_Escritura_L2]] · [[Lectoescritura_en_Ingles]] · [[Vocabulario_L2]] · [[Pronunciacion_Ingles]] · [[Mediacion_en_L2]] · [[Plurilinguismo_e_Interculturalidad]] · [[Evaluacion_en_Lengua_Extranjera]]
 
 ## Ciencias naturales ✅
 - [[Progresion_Ciencias_Naturales]]

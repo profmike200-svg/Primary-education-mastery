@@ -16,7 +16,9 @@ Sesiones, secuencias y actividades concretas.
 
 ## Lengua extranjera
 - [[Rutina_Cuentacuentos_en_Ingles]] (rutina, 6-9 años)
+- [[SA_Ingles_1er_Ciclo_Animal_Party]] (situación de aprendizaje, 2º)
 - [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]] (situación de aprendizaje, 4º)
+- [[SA_Ingles_3er_Ciclo_Town_Guide]] (situación de aprendizaje, 6º)
 
 ## Matemáticas
 - [[Rutina_Juego_Tablero_Numerico]] (rutina, 5-7 años)

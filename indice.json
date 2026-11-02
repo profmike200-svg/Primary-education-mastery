@@ -435,7 +435,9 @@
     "Destrezas_de_Indagacion",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Estadistica_y_Probabilidad",
+    "Evaluacion_en_Lengua_Extranjera",
     "Expresion_Oral",
+    "Expresion_e_Interaccion_Oral_L2",
     "Fluidez_Lectora",
     "Fracciones",
     "Geometria",
@@ -444,11 +446,14 @@
     "Habilidades_Sociales",
     "Hechos_Numericos",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
+    "Mediacion_en_L2",
     "Medida",
     "Multiplicacion_y_Division",
     "Ortografia",
     "Pensamiento_Computacional",
     "Pensamiento_Historico",
+    "Plurilinguismo_e_Interculturalidad",
     "Progresion_Ciencias_Naturales",
     "Progresion_Ciencias_Sociales",
     "Progresion_Ciudadania_y_Valores",
@@ -461,6 +466,7 @@
     "Progresion_Matematicas",
     "Progresion_Musica",
     "Progresion_Socioemocional",
+    "Pronunciacion_Ingles",
     "Resolucion_de_Problemas",
     "Sentido_Numerico",
     "Suma_y_Resta",
@@ -936,6 +942,7 @@
     "00_INICIO",
     "AAP_2016_Pantallas",
     "Anderson_2001_Taxonomia_Bloom",
+    "Asher_1969_TPR",
     "Baker_2014_IES_English_Learners",
     "Bakermans_2003_Sensibilidad_Apego",
     "Bandura_1977_Autoeficacia",
@@ -952,13 +959,16 @@
     "CLM_Orden_121_2022",
     "CLM_Orden_185_2022",
     "CLM_Programas_Bilingues",
+    "Cameron_2001_Ninos_Lenguas",
     "Castles_2018_Reading_Wars",
     "Celio_2011_Aprendizaje_Servicio",
     "Chen_2019_ABP",
     "Clements_2014_Trayectorias",
+    "Consejo_Europa_2020_MCER",
     "Cooper_2006_Deberes",
     "DeLoache_2010_Videos_Bebes",
     "Dekker_2012_Neuromitos",
+    "Derwing_2005_Inteligibilidad",
     "Diamond_2011_Funciones_Ejecutivas",
     "Donnelly_2016_Actividad_Fisica",
     "DuPaul_2012_TDAH_Escuela",
@@ -998,6 +1008,7 @@
     "Klahr_2004_Control_Variables",
     "Kuyken_2022_MYRIAD",
     "Lazonder_2016_Indagacion",
+    "Lee_2015_Pronunciacion",
     "Letrud_2018_Piramide",
     "Lillard_2013_Juego_Simbolico",
     "Lillard_2017_Montessori",
@@ -1019,6 +1030,7 @@
     "Pashler_2008_Estilos_Aprendizaje",
     "Perez_Canado_2012_CLIL",
     "Pietschnig_2010_Efecto_Mozart",
+    "Pinter_2017_Jovenes_Aprendices",
     "Plomin_2018_Genetica",
     "Randolph_2023_Montessori",
     "Recht_1988_Conocimiento_Previo",
@@ -1205,8 +1217,10 @@
     "Programas_de_Aprendizaje_Socioemocional",
     "RTI_MTSS",
     "Reggio_Emilia",
+    "Respuesta_Fisica_Total_TPR",
     "Rutinas_de_Pensamiento",
-    "Tutoria_entre_Iguales"
+    "Tutoria_entre_Iguales",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"
    ],
    "enlazada_desde": [
     "00_INICIO",
@@ -1237,8 +1251,10 @@
     "Practica_de_Recuperacion",
     "Programas_de_Aprendizaje_Socioemocional",
     "Reggio_Emilia",
+    "Respuesta_Fisica_Total_TPR",
     "Rutinas_de_Pensamiento",
-    "Tutoria_entre_Iguales"
+    "Tutoria_entre_Iguales",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"
    ]
   },
   "MOC_Mitos": {
@@ -1412,6 +1428,8 @@
     "Rutina_Lectura_en_Parejas",
     "Rutina_Pausa_Activa",
     "Rutina_Semaforo_de_Emociones",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
@@ -1426,6 +1444,8 @@
     "Rutina_Lectura_en_Parejas",
     "Rutina_Pausa_Activa",
     "Rutina_Semaforo_de_Emociones",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
@@ -2383,7 +2403,6 @@
     "TDAH"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Graham_2014_Ortografia",
@@ -2446,7 +2465,6 @@
    ],
    "enlazada_desde": [
     "Alfabetizacion_Mediatica_e_Informacional",
-    "CLM_Mapa_Temario_Ingles",
     "Conocimiento_Previo",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Estrategias_Comprension_Lectora",
@@ -2498,6 +2516,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "Expresion_e_Interaccion_Oral_L2",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "Rutina_Cuentacuentos_en_Ingles"
@@ -2845,6 +2864,59 @@
     "Progresion_Matematicas"
    ]
   },
+  "Evaluacion_en_Lengua_Extranjera": {
+   "ruta": "03_Areas/Evaluacion_en_Lengua_Extranjera.md",
+   "titulo": "Evaluación en lengua extranjera",
+   "tipo": "contenido",
+   "aliases": [
+    "Evaluación en inglés",
+    "Assessment in EFL",
+    "Can-do statements",
+    "Portfolio de lenguas"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [],
+    "metodologias_recomendadas": [
+     "Evaluacion_Formativa"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Black_1998_Black_Box",
+     "Consejo_Europa_2020_MCER"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Evaluar las cuatro actividades comunicativas (comprensión, producción, interacción, mediación), no solo la gramática y el vocabulario escritos. - Evaluación formativa como base (Evaluacion_Formativa, Black_1998_Black_Box). - Descriptores de tipo \"puedo hacer\" (*can-do*) inspirados en el MCER, adap…",
+   "secciones": [
+    "Principios",
+    "Instrumentos por actividad",
+    "Errores frecuentes",
+    "Adaptaciones",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Black_1998_Black_Box",
+    "CLM_Inclusion_Educativa",
+    "Consejo_Europa_2020_MCER",
+    "Dislexia",
+    "Evaluacion_Formativa",
+    "Instrumentos_de_Evaluacion",
+    "Progresion_Lengua_Extranjera",
+    "Rubricas"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Expresion_e_Interaccion_Oral_L2",
+    "MOC_Areas",
+    "Progresion_Lengua_Extranjera"
+   ]
+  },
   "Expresion_Oral": {
    "ruta": "03_Areas/Expresion_Oral.md",
    "titulo": "Expresión y comprensión oral",
@@ -2890,7 +2962,6 @@
     "TEA"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Etapa_3_6_anos",
     "MOC_Areas",
     "MOC_Infantil",
@@ -2899,6 +2970,64 @@
     "Progresion_Escritura",
     "TDL",
     "US_WIDA_ELD"
+   ]
+  },
+  "Expresion_e_Interaccion_Oral_L2": {
+   "ruta": "03_Areas/Expresion_e_Interaccion_Oral_L2.md",
+   "titulo": "Expresión e interacción oral en inglés",
+   "tipo": "contenido",
+   "aliases": [
+    "Speaking",
+    "Interacción oral",
+    "Expresión oral en inglés",
+    "Oral interaction"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [
+     "Comprension_Oral_L2"
+    ],
+    "metodologias_recomendadas": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+     "Aprendizaje_Cooperativo"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Lyster_2010_Feedback_Oral_L2",
+     "Cameron_2001_Ninos_Lenguas",
+     "Consejo_Europa_2020_MCER"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Mucho input antes del output (Comprension_Oral_L2): en el primer ciclo, aceptar que respondan con gestos o con una palabra. - Bloques de lenguaje (*chunks*) y marcos de frase visibles (*I like… because…*): andamiaje que se retira (Andamiaje, Cameron_2001_Ninos_Lenguas). - Tareas con vacío de infor…",
+   "secciones": [
+    "Qué debe saber o saber hacer el alumno (competencias específicas de producción e interacción)",
+    "Cómo enseñarlo",
+    "Errores frecuentes al enseñarlo",
+    "Cómo evaluarlo",
+    "Adaptaciones para la diversidad",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Andamiaje",
+    "Cameron_2001_Ninos_Lenguas",
+    "Comprension_Oral_L2",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Lyster_2010_Feedback_Oral_L2",
+    "Progresion_Lengua_Extranjera",
+    "TDL",
+    "TEA"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Areas",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_1er_Ciclo_Animal_Party"
    ]
   },
   "Fluidez_Lectora": {
@@ -3324,9 +3453,116 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Areas",
     "MOC_Por_Curso",
+    "Progresion_Lengua_Extranjera",
+    "Pronunciacion_Ingles"
+   ]
+  },
+  "Lectura_y_Escritura_L2": {
+   "ruta": "03_Areas/Lectura_y_Escritura_L2.md",
+   "titulo": "Lectura y escritura en inglés por ciclos",
+   "tipo": "contenido",
+   "aliases": [
+    "Reading and writing in English",
+    "Lectura en inglés",
+    "Escritura en inglés",
+    "Written production L2"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [
+     "Lectoescritura_en_Ingles"
+    ],
+    "metodologias_recomendadas": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+     "Ensenanza_Fonetica_Sistematica"
+    ],
+    "nivel_evidencia": "C",
+    "fuentes": [
+     "Nation_2013_Vocabulario_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Leer lo que ya se conoce oralmente: la palabra escrita llega después de haberla oído y usado muchas veces (Cameron_2001_Ninos_Lenguas). - Correspondencias letra-sonido del inglés enseñadas de forma explícita (Lectoescritura_en_Ingles). - Lectura extensiva con libros graduados muy fáciles: para dis…",
+   "secciones": [
+    "Qué debe saber o saber hacer el alumno",
+    "Cómo enseñarlo",
+    "Errores frecuentes al enseñarlo",
+    "Adaptaciones para la diversidad",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Cameron_2001_Ninos_Lenguas",
+    "Dislexia",
+    "Ensenanza_Estrategica_Escritura_SRSD",
+    "Lectoescritura_en_Ingles",
+    "Nation_2013_Vocabulario_L2",
     "Progresion_Lengua_Extranjera"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Areas",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
+   ]
+  },
+  "Mediacion_en_L2": {
+   "ruta": "03_Areas/Mediacion_en_L2.md",
+   "titulo": "Mediación en lengua extranjera",
+   "tipo": "contenido",
+   "aliases": [
+    "Mediación",
+    "Mediation",
+    "Competencia de mediación"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "8",
+    "edad_max": "12",
+    "requisitos_previos": [
+     "Expresion_e_Interaccion_Oral_L2"
+    ],
+    "metodologias_recomendadas": [
+     "Aprendizaje_Cooperativo"
+    ],
+    "nivel_evidencia": "C",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "Actividad en la que el alumno facilita la comunicación o la comprensión entre otras personas: explicar a un compañero lo que dice un texto, resumir, transmitir información de una lengua a otra o reformular de forma más sencilla. Es una de las competencias específicas de la LOMLOE y procede del MCER …",
+   "secciones": [
+    "Qué es",
+    "Qué debe saber o saber hacer el alumno (niveles iniciales)",
+    "Cómo enseñarlo",
+    "Evidencia",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Aprendizaje_Cooperativo",
+    "Consejo_Europa_2020_MCER",
+    "Incorporacion_Tardia",
+    "Plurilinguismo_e_Interculturalidad",
+    "Progresion_Lengua_Extranjera"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Areas",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Medida": {
@@ -3585,6 +3821,60 @@
     "US_C3_Estudios_Sociales"
    ]
   },
+  "Plurilinguismo_e_Interculturalidad": {
+   "ruta": "03_Areas/Plurilinguismo_e_Interculturalidad.md",
+   "titulo": "Plurilingüismo e interculturalidad",
+   "tipo": "contenido",
+   "aliases": [
+    "Plurilingüismo",
+    "Interculturalidad",
+    "Competencia plurilingüe",
+    "Intercultural competence",
+    "Conciencia lingüística"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera",
+     "valores_ciudadania"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [],
+    "metodologias_recomendadas": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma"
+    ],
+    "nivel_evidencia": "C",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Byers_Heinlein_2013_Bilinguismo"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Plurilingüismo: reflexionar sobre las lenguas que se conocen (español, inglés, lenguas familiares del alumnado), compararlas y usar ese conocimiento para aprender mejor (estrategias, semejanzas y diferencias, transferencias). - Interculturalidad: conocer y valorar la diversidad cultural asociada a…",
+   "secciones": [
+    "Qué es (bloques B y C de los saberes básicos)",
+    "Qué debe saber o saber hacer el alumno",
+    "Cómo enseñarlo",
+    "Evidencia",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Crianza_Bilingue",
+    "Incorporacion_Tardia",
+    "Progresion_Ciudadania_y_Valores",
+    "Progresion_Lengua_Extranjera",
+    "Rutina_Cuentacuentos_en_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Areas",
+    "Mediacion_en_L2",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"
+   ]
+  },
   "Progresion_Ciencias_Naturales": {
    "ruta": "03_Areas/Progresion_Ciencias_Naturales.md",
    "titulo": "Progresión de ciencias naturales",
@@ -3737,7 +4027,8 @@
     "Freire",
     "MOC_Areas",
     "MOC_Por_Curso",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Plurilinguismo_e_Interculturalidad"
    ]
   },
   "Progresion_Competencia_Digital": {
@@ -3787,7 +4078,8 @@
     "MOC_Areas",
     "MOC_Por_Curso",
     "Pantallas_en_la_Infancia",
-    "Pensamiento_Computacional"
+    "Pensamiento_Computacional",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Progresion_Educacion_Artistica": {
@@ -4036,24 +4328,40 @@
    "secciones": [
     "Referencia: niveles del MCER (CEFR)",
     "Principios",
+    "Estructura LOMLOE (Real Decreto 157/2022 y Decreto 81/2022)",
     "Contenidos",
+    "Situaciones de aprendizaje de ejemplo",
     "Cómo enseñarlo",
     "Diversidad",
     "Relacionado"
    ],
    "enlaces": [
     "AICLE_CLIL",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Cameron_2001_Ninos_Lenguas",
     "Comprension_Oral_L2",
+    "Consejo_Europa_2020_MCER",
     "Dislexia",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Expresion_e_Interaccion_Oral_L2",
     "Glosario_entre_sistemas",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Areas",
+    "Mediacion_en_L2",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Munoz_2006_Edad_L2",
+    "Pinter_2017_Jovenes_Aprendices",
+    "Plurilinguismo_e_Interculturalidad",
+    "Pronunciacion_Ingles",
+    "Respuesta_Fisica_Total_TPR",
     "Rutina_Cuentacuentos_en_Ingles",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "TDL",
     "US_WIDA_ELD",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles",
     "Vocabulario_L2"
    ],
    "enlazada_desde": [
@@ -4063,12 +4371,20 @@
     "Comprension_Oral_L2",
     "ES_Marco_Curricular_LOMLOE",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Expresion_e_Interaccion_Oral_L2",
     "Incorporacion_Tardia",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Areas",
     "MOC_Por_Curso",
+    "Mediacion_en_L2",
     "Plan_de_Lectura",
+    "Plurilinguismo_e_Interculturalidad",
+    "Pronunciacion_Ingles",
+    "Respuesta_Fisica_Total_TPR",
     "US_WIDA_ELD",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles",
     "Vocabulario_L2"
    ]
   },
@@ -4253,6 +4569,60 @@
     "MOC_Por_Curso",
     "Programas_de_Aprendizaje_Socioemocional",
     "Progresion_Ciudadania_y_Valores"
+   ]
+  },
+  "Pronunciacion_Ingles": {
+   "ruta": "03_Areas/Pronunciacion_Ingles.md",
+   "titulo": "Pronunciación del inglés para hispanohablantes",
+   "tipo": "contenido",
+   "aliases": [
+    "Pronunciación",
+    "Pronunciation",
+    "Fonética inglesa",
+    "Phonics and phonology",
+    "Inteligibilidad"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [
+     "Comprension_Oral_L2"
+    ],
+    "metodologias_recomendadas": [
+     "Instruccion_Explicita",
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Lee_2015_Pronunciacion",
+     "Derwing_2005_Inteligibilidad"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "La meta es que el alumnado se haga entender con facilidad; tener acento no es un problema en sí (Derwing_2005_Inteligibilidad). La pronunciación sí mejora con enseñanza explícita (Lee_2015_Pronunciacion).",
+   "secciones": [
+    "Objetivo: inteligibilidad, no acento nativo",
+    "Dificultades típicas de los hispanohablantes (prioritarias)",
+    "Cómo enseñarlo",
+    "Para las oposiciones",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Mapa_Temario_Ingles",
+    "Derwing_2005_Inteligibilidad",
+    "Lectoescritura_en_Ingles",
+    "Lee_2015_Pronunciacion",
+    "Progresion_Lengua_Extranjera"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Areas",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Resolucion_de_Problemas": {
@@ -4752,7 +5122,9 @@
     "Instruccion_Explicita",
     "MOC_Metodologias",
     "MOC_Por_Curso",
+    "Mediacion_en_L2",
     "Organizacion_Espacio_y_Tiempo",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Tutoria_entre_Iguales"
    ]
   },
@@ -5108,7 +5480,8 @@
     "MOC_Metodologias",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Plan_de_Lectura",
-    "Progresion_Lengua_Extranjera"
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Ensenanza_Estrategica_Escritura_SRSD": {
@@ -5166,6 +5539,7 @@
    "enlazada_desde": [
     "Composicion_Escrita",
     "Disgrafia",
+    "Lectura_y_Escritura_L2",
     "MOC_Metodologias",
     "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura",
@@ -5545,6 +5919,8 @@
     "Progresion_Matematicas",
     "RTI_MTSS",
     "Rosenshine",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Presentacion_Grafema_m",
     "TDAH",
     "Uso_con_LLM"
@@ -5963,6 +6339,7 @@
     "MOC_Metodologias",
     "MOC_Por_Curso",
     "Progresion_Educacion_Fisica",
+    "Respuesta_Fisica_Total_TPR",
     "Rutina_Pausa_Activa"
    ]
   },
@@ -6164,6 +6541,8 @@
     "Practica_Espaciada",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Pausa_Activa",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Vocabulario_L2"
    ]
   },
@@ -6267,6 +6646,61 @@
     "Malaguzzi"
    ]
   },
+  "Respuesta_Fisica_Total_TPR": {
+   "ruta": "04_Metodologias/Respuesta_Fisica_Total_TPR.md",
+   "titulo": "Respuesta física total (TPR)",
+   "tipo": "metodologia",
+   "aliases": [
+    "TPR",
+    "Total Physical Response",
+    "Respuesta física total"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "3",
+    "edad_max": "9",
+    "nivel_evidencia": "C",
+    "autores": [],
+    "necesidades_compatibles": [
+     "tdah",
+     "incorporacion_tardia",
+     "tdl"
+    ],
+    "fuentes": [
+     "Asher_1969_TPR",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El alumnado responde con el cuerpo a órdenes en inglés (*stand up, touch your nose, jump three times*) antes de tener que producir la lengua.",
+   "secciones": [
+    "En una frase",
+    "Cómo se aplica (paso a paso)",
+    "Cuándo usarla / cuándo no",
+    "Evidencia",
+    "Adaptaciones para la diversidad",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Asher_1969_TPR",
+    "Incorporacion_Tardia",
+    "MOC_Metodologias",
+    "Pausas_Activas",
+    "Progresion_Lengua_Extranjera",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "TDAH",
+    "TDL"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Metodologias",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_1er_Ciclo_Animal_Party"
+   ]
+  },
   "Rutinas_de_Pensamiento": {
    "ruta": "04_Metodologias/Rutinas_de_Pensamiento.md",
    "titulo": "Rutinas de pensamiento",
@@ -6314,7 +6748,8 @@
    ],
    "enlazada_desde": [
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
-    "MOC_Metodologias"
+    "MOC_Metodologias",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Tutoria_entre_Iguales": {
@@ -6363,6 +6798,56 @@
     "MOC_Metodologias",
     "Mito_Piramide_del_Aprendizaje",
     "Rutina_Lectura_en_Parejas"
+   ]
+  },
+  "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles": {
+   "ruta": "04_Metodologias/Uso_de_la_Lengua_Materna_en_Clase_de_Ingles.md",
+   "titulo": "Uso de la lengua materna en la clase de inglés",
+   "tipo": "metodologia",
+   "aliases": [
+    "English only",
+    "Uso de la L1",
+    "Translanguaging",
+    "Lengua materna en clase de inglés"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "nivel_evidencia": "C",
+    "autores": [],
+    "necesidades_compatibles": [
+     "incorporacion_tardia",
+     "tdl"
+    ],
+    "fuentes": [
+     "Cameron_2001_Ninos_Lenguas",
+     "Munoz_2006_Edad_L2"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "El inglés debe ser la lengua principal del aula, porque el input es clave en un contexto con pocas horas; la lengua materna se usa de forma planificada y limitada cuando ahorra tiempo o mejora la comprensión.",
+   "secciones": [
+    "En una frase",
+    "Cuándo puede ayudar el español (u otra lengua del alumno)",
+    "Cuándo no",
+    "Estrategias para mantener el inglés",
+    "Evidencia",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "MOC_Metodologias",
+    "Munoz_2006_Edad_L2",
+    "Plurilinguismo_e_Interculturalidad",
+    "Progresion_Lengua_Extranjera"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Metodologias",
+    "Progresion_Lengua_Extranjera"
    ]
   },
   "Ainsworth": {
@@ -7431,6 +7916,8 @@
     "Progresion_Educacion_Artistica",
     "Progresion_Matematicas",
     "Resolucion_de_Problemas",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Prueba_Justa_Rampas"
@@ -7869,11 +8356,13 @@
     "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
+    "Evaluacion_en_Lengua_Extranjera",
     "Fluidez_Lectora",
     "Instruccion_Basada_en_Esquemas",
     "Instruccion_Explicita",
     "Instrumentos_de_Evaluacion",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Diversidad",
     "Ortografia",
     "Progresion_Escritura",
@@ -7882,6 +8371,7 @@
     "RTI_MTSS",
     "Resolucion_de_Problemas",
     "Rutina_Lectura_en_Parejas",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Presentacion_Grafema_m"
    ]
@@ -7934,7 +8424,11 @@
     "Crianza_Bilingue",
     "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
-    "MOC_Diversidad"
+    "MOC_Diversidad",
+    "Mediacion_en_L2",
+    "Plurilinguismo_e_Interculturalidad",
+    "Respuesta_Fisica_Total_TPR",
+    "SA_Ingles_1er_Ciclo_Animal_Party"
    ]
   },
   "RTI_MTSS": {
@@ -8077,8 +8571,11 @@
     "Progresion_Educacion_Fisica",
     "Progresion_Escritura",
     "Progresion_Socioemocional",
+    "Respuesta_Fisica_Total_TPR",
     "Rutina_Pausa_Activa",
     "Rutina_Semaforo_de_Emociones",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
@@ -8136,6 +8633,7 @@
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Etapa_6_8_anos",
     "Expresion_Oral",
+    "Expresion_e_Interaccion_Oral_L2",
     "Gramatica_y_Reflexion_Linguistica",
     "Instruccion_Basada_en_Esquemas",
     "Linea_Desarrollo_Lenguaje",
@@ -8146,6 +8644,7 @@
     "Progresion_Lectoescritura",
     "Progresion_Lengua_Extranjera",
     "Resolucion_de_Problemas",
+    "Respuesta_Fisica_Total_TPR",
     "Rutina_Cuentacuentos_en_Ingles",
     "Sesion_Presentacion_Grafema_m",
     "Vocabulario"
@@ -8196,6 +8695,7 @@
     "ES_Atencion_a_la_Diversidad",
     "Etapa_6_8_anos",
     "Expresion_Oral",
+    "Expresion_e_Interaccion_Oral_L2",
     "Gestion_de_la_Conducta",
     "Habilidades_Sociales",
     "Linea_Desarrollo_Lenguaje",
@@ -8210,6 +8710,8 @@
     "Progresion_Socioemocional",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Semaforo_de_Emociones",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Sesion_Prueba_Justa_Rampas"
    ]
   },
@@ -8308,6 +8810,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "ES_Evaluacion_y_Promocion",
+    "Evaluacion_en_Lengua_Extranjera",
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
     "MOC_Por_Curso",
@@ -8364,9 +8867,9 @@
     "TDAH"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "ES_Evaluacion_y_Promocion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Evaluacion_en_Lengua_Extranjera",
     "MOC_Evaluacion"
    ]
   },
@@ -8466,9 +8969,11 @@
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Evaluacion_y_Promocion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Evaluacion_en_Lengua_Extranjera",
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
-    "MOC_Por_Curso"
+    "MOC_Por_Curso",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Asamblea_de_Aula": {
@@ -8898,7 +9403,10 @@
    ],
    "enlazada_desde": [
     "Bruner",
+    "Cameron_2001_Ninos_Lenguas",
+    "Expresion_e_Interaccion_Oral_L2",
     "MOC_Conceptos",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
     "Vygotsky",
     "Zona_de_Desarrollo_Proximo"
    ]
@@ -9114,6 +9622,7 @@
     "MOC_Conceptos",
     "Progresion_Ciencias_Sociales",
     "Rutinas_de_Pensamiento",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Taxonomia_de_Bloom"
    ]
   },
@@ -9426,6 +9935,7 @@
     "CLM_Normativa_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Evaluacion_en_Lengua_Extranjera",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -9463,8 +9973,6 @@
     "Bruner",
     "CLM_Inclusion_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
-    "Composicion_Escrita",
-    "Comprension_Lectora",
     "Comprension_Oral_L2",
     "Conciencia_Fonologica",
     "Construccion_de_Oraciones",
@@ -9474,24 +9982,31 @@
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
     "Evaluacion_Formativa",
-    "Expresion_Oral",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Expresion_e_Interaccion_Oral_L2",
     "Gramatica_y_Reflexion_Linguistica",
-    "Instrumentos_de_Evaluacion",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Castilla_La_Mancha",
     "MOC_Diversidad",
+    "Mediacion_en_L2",
     "Mito_Cuanto_Antes_Mejor_L2",
+    "Plurilinguismo_e_Interculturalidad",
     "Progresion_Competencia_Digital",
     "Progresion_Lengua_Extranjera",
+    "Pronunciacion_Ingles",
+    "Respuesta_Fisica_Total_TPR",
     "Rubricas",
     "Rutina_Cuentacuentos_en_Ingles",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles",
     "Vocabulario_L2",
     "Vygotsky"
    ],
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
     "Hoja_de_ruta",
-    "MOC_Castilla_La_Mancha"
+    "MOC_Castilla_La_Mancha",
+    "Pronunciacion_Ingles"
    ]
   },
   "CLM_Normativa_Educativa": {
@@ -9636,7 +10151,8 @@
     "Estructura recomendada (en inglés)",
     "Cómo convertir la biblioteca en una programación sólida",
     "Errores frecuentes en las programaciones",
-    "Ejemplo",
+    "Ejemplos de situaciones de aprendizaje (una por ciclo)",
+    "Contenidos de la especialidad en la biblioteca",
     "Relacionado"
    ],
    "enlaces": [
@@ -9644,19 +10160,34 @@
     "Aprendizaje_Cooperativo",
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Cameron_2001_Ninos_Lenguas",
     "Comprension_Oral_L2",
+    "Consejo_Europa_2020_MCER",
+    "Derwing_2005_Inteligibilidad",
     "Diseno_Universal_para_el_Aprendizaje",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Evaluacion_Formativa",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Expresion_e_Interaccion_Oral_L2",
     "Lectoescritura_en_Ingles",
+    "Lectura_y_Escritura_L2",
+    "Lee_2015_Pronunciacion",
     "Lyster_2010_Feedback_Oral_L2",
     "MOC_Castilla_La_Mancha",
+    "Mediacion_en_L2",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Mito_Estilos_de_Aprendizaje",
     "Nation_2013_Vocabulario_L2",
     "Norris_2000_Instruccion_L2",
+    "Pinter_2017_Jovenes_Aprendices",
+    "Plurilinguismo_e_Interculturalidad",
+    "Pronunciacion_Ingles",
+    "Respuesta_Fisica_Total_TPR",
     "Rubricas",
     "Rutina_Cuentacuentos_en_Ingles",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles",
     "Vocabulario_L2"
    ],
    "enlazada_desde": [
@@ -9665,7 +10196,9 @@
     "CLM_Normativa_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Castilla_La_Mancha",
-    "Plan_de_Lectura"
+    "Plan_de_Lectura",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "ES_Acceso_a_la_Profesion": {
@@ -10663,6 +11196,35 @@
     "Taxonomia_de_Bloom"
    ]
   },
+  "Asher_1969_TPR": {
+   "ruta": "11_Fuentes/Asher_1969_TPR.md",
+   "titulo": "Asher, J. J. (1969). The total physical response approach to second language learning. The Modern Language Journal, 53(1), 3-17.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Asher"
+    ],
+    "anio": "1969",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "media",
+    "referencia_apa": "Asher, J. J. (1969). The total physical response approach to second language learning. The Modern Language Journal, 53(1), 3-17.",
+    "verificado": "parcial",
+    "identificador": "Mod Lang J 53(1):3-17",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Artículo que presenta el método de respuesta física total (TPR).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Respuesta_Fisica_Total_TPR"
+   ]
+  },
   "Baker_2014_IES_English_Learners": {
    "ruta": "11_Fuentes/Baker_2014_IES_English_Learners.md",
    "titulo": "Baker, S., et al. (2014). Teaching academic content and literacy to English learners in elementary and middle school (NCEE 2014-4012). Institute of Education Sciences, U.S. Department of Education.",
@@ -10850,6 +11412,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Evaluacion_Formativa",
+    "Evaluacion_en_Lengua_Extranjera",
     "MOC_Fuentes"
    ]
   },
@@ -11146,6 +11709,40 @@
     "MOC_Fuentes"
    ]
   },
+  "Cameron_2001_Ninos_Lenguas": {
+   "ruta": "11_Fuentes/Cameron_2001_Ninos_Lenguas.md",
+   "titulo": "Cameron, L. (2001). Teaching languages to young learners. Cambridge University Press.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Cameron"
+    ],
+    "anio": "2001",
+    "tipo_fuente": "libro",
+    "fiabilidad": "alta",
+    "referencia_apa": "Cameron, L. (2001). Teaching languages to young learners. Cambridge University Press.",
+    "verificado": "si",
+    "identificador": "CUP 2001",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Obra de referencia sobre la enseñanza de lenguas extranjeras a niños.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [
+    "Andamiaje"
+   ],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Expresion_e_Interaccion_Oral_L2",
+    "Lectura_y_Escritura_L2",
+    "MOC_Fuentes",
+    "Progresion_Lengua_Extranjera"
+   ]
+  },
   "Castles_2018_Reading_Wars": {
    "ruta": "11_Fuentes/Castles_2018_Reading_Wars.md",
    "titulo": "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5-51.",
@@ -11267,6 +11864,38 @@
     "MOC_Fuentes"
    ]
   },
+  "Consejo_Europa_2020_MCER": {
+   "ruta": "11_Fuentes/Consejo_Europa_2020_MCER.md",
+   "titulo": "Council of Europe. (2020). Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume. Council of Europe Publishing.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Consejo de Europa"
+    ],
+    "anio": "2020",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "Council of Europe. (2020). Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume. Council of Europe Publishing.",
+    "verificado": "si",
+    "identificador": "Council of Europe 2020",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Volumen complementario del Marco Común Europeo de Referencia para las Lenguas (MCER).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Evaluacion_en_Lengua_Extranjera",
+    "MOC_Fuentes",
+    "Mediacion_en_L2",
+    "Progresion_Lengua_Extranjera"
+   ]
+  },
   "Cooper_2006_Deberes": {
    "ruta": "11_Fuentes/Cooper_2006_Deberes.md",
    "titulo": "Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987-2003. Review of Educational Research, 76(1), 1-62.",
@@ -11365,6 +11994,37 @@
    "enlaces": [],
    "enlazada_desde": [
     "MOC_Fuentes"
+   ]
+  },
+  "Derwing_2005_Inteligibilidad": {
+   "ruta": "11_Fuentes/Derwing_2005_Inteligibilidad.md",
+   "titulo": "Derwing, T. M., & Munro, M. J. (2005). Second language accent and pronunciation teaching: A research-based approach. TESOL Quarterly, 39(3), 379-397.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Derwing",
+     "Munro"
+    ],
+    "anio": "2005",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Derwing, T. M., & Munro, M. J. (2005). Second language accent and pronunciation teaching: A research-based approach. TESOL Quarterly, 39(3), 379-397.",
+    "verificado": "si",
+    "identificador": "TESOL Q 39(3):379-397",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Artículo que reorienta la enseñanza de la pronunciación hacia la inteligibilidad.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Fuentes",
+    "Pronunciacion_Ingles"
    ]
   },
   "Diamond_2011_Funciones_Ejecutivas": {
@@ -12593,6 +13253,38 @@
     "MOC_Fuentes"
    ]
   },
+  "Lee_2015_Pronunciacion": {
+   "ruta": "11_Fuentes/Lee_2015_Pronunciacion.md",
+   "titulo": "Lee, J., Jang, J., & Plonsky, L. (2015). The effectiveness of second language pronunciation instruction: A meta-analysis. Applied Linguistics, 36(3), 345-366.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Lee",
+     "Jang",
+     "Plonsky"
+    ],
+    "anio": "2015",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Lee, J., Jang, J., & Plonsky, L. (2015). The effectiveness of second language pronunciation instruction: A meta-analysis. Applied Linguistics, 36(3), 345-366.",
+    "verificado": "si",
+    "identificador": "Appl Linguist 36(3):345-366",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Metaanálisis de 86 estudios sobre la enseñanza de la pronunciación en segundas lenguas.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Fuentes",
+    "Pronunciacion_Ingles"
+   ]
+  },
   "Letrud_2018_Piramide": {
    "ruta": "11_Fuentes/Letrud_2018_Piramide.md",
    "titulo": "Letrud, K., & Hernes, S. (2018). Excavating the origins of the learning pyramid myths. Cogent Education, 5(1), 1518638.",
@@ -12722,6 +13414,7 @@
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Comprension_Oral_L2",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Expresion_e_Interaccion_Oral_L2",
     "MOC_Fuentes"
    ]
   },
@@ -12880,7 +13573,8 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Mito_Cuanto_Antes_Mejor_L2",
-    "Progresion_Lengua_Extranjera"
+    "Progresion_Lengua_Extranjera",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"
    ]
   },
   "NRP_2000_Lectura": {
@@ -12943,6 +13637,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "Lectura_y_Escritura_L2",
     "MOC_Fuentes",
     "Rutina_Cuentacuentos_en_Ingles",
     "Vocabulario_L2"
@@ -13260,6 +13955,36 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Mito_Efecto_Mozart"
+   ]
+  },
+  "Pinter_2017_Jovenes_Aprendices": {
+   "ruta": "11_Fuentes/Pinter_2017_Jovenes_Aprendices.md",
+   "titulo": "Pinter, A. (2017). Teaching young language learners (2nd ed.). Oxford University Press.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Pinter"
+    ],
+    "anio": "2017",
+    "tipo_fuente": "libro",
+    "fiabilidad": "alta",
+    "referencia_apa": "Pinter, A. (2017). Teaching young language learners (2nd ed.). Oxford University Press.",
+    "verificado": "si",
+    "identificador": "OUP 2017, 2ª ed.",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Manual sobre la enseñanza de lenguas a niños, con atención al desarrollo infantil.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Fuentes",
+    "Progresion_Lengua_Extranjera"
    ]
   },
   "Plomin_2018_Genetica": {
@@ -14291,7 +15016,10 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Castilla_La_Mancha",
     "MOC_Practica",
-    "Plan_de_Lectura"
+    "Plan_de_Lectura",
+    "Progresion_Lengua_Extranjera",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
    ]
   },
   "Rutina_Cuentacuentos_en_Ingles": {
@@ -14355,7 +15083,10 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Practica",
-    "Progresion_Lengua_Extranjera"
+    "Plurilinguismo_e_Interculturalidad",
+    "Progresion_Lengua_Extranjera",
+    "Respuesta_Fisica_Total_TPR",
+    "SA_Ingles_1er_Ciclo_Animal_Party"
    ]
   },
   "Rutina_Juego_Tablero_Numerico": {
@@ -14589,6 +15320,172 @@
     "Autorregulacion_Emocional",
     "MOC_Practica",
     "Rabietas_y_Regulacion_Emocional_Temprana"
+   ]
+  },
+  "SA_Ingles_1er_Ciclo_Animal_Party": {
+   "ruta": "12_Practica/SA_Ingles_1er_Ciclo_Animal_Party.md",
+   "titulo": "Learning situation: \"The Animal Party\" (2º de Primaria, Inglés)",
+   "tipo": "practica",
+   "aliases": [
+    "The Animal Party",
+    "Situación de aprendizaje inglés primer ciclo"
+   ],
+   "metadatos": {
+    "formato": "secuencia",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "7",
+    "edad_max": "8",
+    "duracion_min": "360",
+    "agrupamiento": "pequeno_grupo",
+    "contenidos": [
+     "Comprension_Oral_L2",
+     "Vocabulario_L2",
+     "Expresion_e_Interaccion_Oral_L2"
+    ],
+    "metodologias": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+     "Aprendizaje_Cooperativo",
+     "Instruccion_Explicita"
+    ],
+    "necesidades_contempladas": [
+     "tdah",
+     "dislexia",
+     "tea",
+     "altas_capacidades",
+     "incorporacion_tardia"
+    ],
+    "materiales": [
+     "flashcards",
+     "picture books",
+     "speaking frames",
+     "rubric"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Norris_2000_Instruccion_L2",
+     "Nation_2013_Vocabulario_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Year: 2º (first cycle) · Timing: 6 sessions of 45 minutes. - Challenge: *The animals of the zoo are having a party! Each child creates an animal mask and presents their animal to the class: what it looks like, what it can do and what it likes eating. Final event: the Animal Party with a song and a…",
+   "secciones": [
+    "1. Identification",
+    "2. Curricular references",
+    "3. Learning objectives",
+    "4. Sequence",
+    "5. Inclusion (Decreto 85/2018)",
+    "6. Assessment",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "Andamiaje",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Expresion_e_Interaccion_Oral_L2",
+    "Incorporacion_Tardia",
+    "Instruccion_Explicita",
+    "Lectura_y_Escritura_L2",
+    "MOC_Practica",
+    "Practica_de_Recuperacion",
+    "Respuesta_Fisica_Total_TPR",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "TDAH",
+    "TEA"
+   ],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Practica",
+    "Progresion_Lengua_Extranjera"
+   ]
+  },
+  "SA_Ingles_3er_Ciclo_Town_Guide": {
+   "ruta": "12_Practica/SA_Ingles_3er_Ciclo_Town_Guide.md",
+   "titulo": "Learning situation: \"Our Town Guide for Visitors\" (6º de Primaria, Inglés)",
+   "tipo": "practica",
+   "aliases": [
+    "Town guide",
+    "Situación de aprendizaje inglés tercer ciclo"
+   ],
+   "metadatos": {
+    "formato": "secuencia",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "11",
+    "edad_max": "12",
+    "duracion_min": "360",
+    "agrupamiento": "pequeno_grupo",
+    "contenidos": [
+     "Lectura_y_Escritura_L2",
+     "Expresion_e_Interaccion_Oral_L2",
+     "Mediacion_en_L2",
+     "Plurilinguismo_e_Interculturalidad"
+    ],
+    "metodologias": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+     "Aprendizaje_Cooperativo",
+     "Instruccion_Explicita"
+    ],
+    "necesidades_contempladas": [
+     "tdah",
+     "dislexia",
+     "tea",
+     "altas_capacidades",
+     "incorporacion_tardia"
+    ],
+    "materiales": [
+     "flashcards",
+     "picture books",
+     "speaking frames",
+     "rubric"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Norris_2000_Instruccion_L2",
+     "Nation_2013_Vocabulario_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "- Year: 6º (third cycle) · Timing: 8 sessions of 60 minutes. - Link with other areas: Conocimiento del Medio (local heritage), Competencia digital. - Challenge: *Our town will receive visitors from a partner school abroad. In teams, students create an illustrated bilingual guide (printed and digital…",
+   "secciones": [
+    "1. Identification",
+    "2. Curricular references",
+    "3. Learning objectives",
+    "4. Sequence",
+    "5. Inclusion (Decreto 85/2018)",
+    "6. Assessment",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "Aprendizaje_Cooperativo",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Conocimiento_Previo",
+    "Dislexia",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Instruccion_Explicita",
+    "Lectura_y_Escritura_L2",
+    "MOC_Practica",
+    "Mediacion_en_L2",
+    "Plurilinguismo_e_Interculturalidad",
+    "Practica_de_Recuperacion",
+    "Progresion_Competencia_Digital",
+    "Pronunciacion_Ingles",
+    "Rubricas",
+    "Rutinas_de_Pensamiento",
+    "TDAH",
+    "TEA"
+   ],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Practica",
+    "Progresion_Lengua_Extranjera"
    ]
   },
   "Sesion_Escritura_Narrativa_SRSD": {
@@ -15313,7 +16210,8 @@
    "enlazada_desde": [
     "Lectura_Compartida_en_Familia",
     "MOC_Crianza",
-    "Mito_Bilinguismo_Confunde"
+    "Mito_Bilinguismo_Confunde",
+    "Plurilinguismo_e_Interculturalidad"
    ]
   },
   "Disciplina_Positiva_y_Limites": {

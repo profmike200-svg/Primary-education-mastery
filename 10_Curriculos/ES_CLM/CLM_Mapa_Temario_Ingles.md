@@ -19,15 +19,15 @@ El temario de Inglés (Orden de 9 de septiembre de 1993, 25 temas) se agrupa en 
 
 | Bloque del temario | Notas de la biblioteca que sirven de base |
 |---|---|
-| Lengua y comunicación; destrezas (comprensión y expresión oral y escrita) | [[Comprension_Oral_L2]] · [[Expresion_Oral]] · [[Comprension_Lectora]] · [[Composicion_Escrita]] |
+| Lengua y comunicación; destrezas (comprensión y expresión oral y escrita) | [[Comprension_Oral_L2]] · [[Expresion_e_Interaccion_Oral_L2]] · [[Lectura_y_Escritura_L2]] · [[Mediacion_en_L2]] |
 | Adquisición de la lengua extranjera; factores (edad, exposición) | [[Progresion_Lengua_Extranjera]] · [[Mito_Cuanto_Antes_Mejor_L2]] |
-| Fonética, ritmo y entonación; lectoescritura en inglés | [[Lectoescritura_en_Ingles]] · [[Conciencia_Fonologica]] |
+| Fonética, ritmo y entonación; lectoescritura en inglés | [[Pronunciacion_Ingles]] · [[Lectoescritura_en_Ingles]] · [[Conciencia_Fonologica]] |
 | Vocabulario y gramática; reflexión sobre la lengua | [[Vocabulario_L2]] · [[Gramatica_y_Reflexion_Linguistica]] · [[Construccion_de_Oraciones]] |
-| Aspectos socioculturales de los países de habla inglesa; literatura infantil en inglés | [[Educacion_Literaria_y_Lectura_por_Placer]] · [[Rutina_Cuentacuentos_en_Ingles]] |
-| Métodos y enfoques (comunicativo, por tareas, AICLE) | [[Ensenanza_Comunicativa_con_Foco_en_la_Forma]] · [[AICLE_CLIL]] |
+| Aspectos socioculturales de los países de habla inglesa; literatura infantil en inglés | [[Plurilinguismo_e_Interculturalidad]] · [[Educacion_Literaria_y_Lectura_por_Placer]] · [[Rutina_Cuentacuentos_en_Ingles]] |
+| Métodos y enfoques (comunicativo, por tareas, AICLE, TPR) | [[Ensenanza_Comunicativa_con_Foco_en_la_Forma]] · [[AICLE_CLIL]] · [[Respuesta_Fisica_Total_TPR]] · [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]] |
 | Desarrollo infantil y aprendizaje | [[Etapa_6_8_anos]] · [[Etapa_8_10_anos]] · [[Etapa_10_12_anos]] · [[Vygotsky]] · [[Bruner]] |
 | Programación, materiales y recursos (incluidos los digitales) | [[CLM_Programacion_Oposiciones_Ingles]] · [[Progresion_Competencia_Digital]] |
-| Evaluación | [[Evaluacion_Formativa]] · [[Rubricas]] · [[Instrumentos_de_Evaluacion]] |
+| Evaluación | [[Evaluacion_en_Lengua_Extranjera]] · [[Evaluacion_Formativa]] · [[Rubricas]] |
 | Atención a la diversidad | [[CLM_Inclusion_Educativa]] · [[MOC_Diversidad]] |
 
 ## Consejo para redactar los temas

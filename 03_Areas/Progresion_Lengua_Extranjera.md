@@ -25,14 +25,30 @@ Orientativo para el inglés en un contexto escolar estándar (2-3 horas semanale
 - Comunicación con significado **y** atención explícita a la forma ([[Ensenanza_Comunicativa_con_Foco_en_la_Forma]]).
 - El inglés tiene una ortografía opaca: la lectura necesita enseñanza fonética propia ([[Lectoescritura_en_Ingles]]).
 
+## Estructura LOMLOE (Real Decreto 157/2022 y Decreto 81/2022)
+- **Seis competencias específicas**: comprensión, producción, interacción, mediación, plurilingüismo e interculturalidad.
+- **Saberes básicos en tres bloques**: A. Comunicación · B. Plurilingüismo · C. Interculturalidad.
+*(Verificar la redacción y los códigos exactos en el decreto.)*
+
 ## Contenidos
-- [[Comprension_Oral_L2]]
-- [[Vocabulario_L2]]
-- [[Lectoescritura_en_Ingles]]
+| Competencia o bloque | Nota |
+|---|---|
+| Comprensión oral | [[Comprension_Oral_L2]] |
+| Producción e interacción oral | [[Expresion_e_Interaccion_Oral_L2]] |
+| Comprensión y producción escrita | [[Lectura_y_Escritura_L2]] · [[Lectoescritura_en_Ingles]] |
+| Mediación | [[Mediacion_en_L2]] |
+| Plurilingüismo e interculturalidad | [[Plurilinguismo_e_Interculturalidad]] |
+| Vocabulario y pronunciación | [[Vocabulario_L2]] · [[Pronunciacion_Ingles]] |
+| Evaluación | [[Evaluacion_en_Lengua_Extranjera]] |
+
+## Situaciones de aprendizaje de ejemplo
+- 1er ciclo: [[SA_Ingles_1er_Ciclo_Animal_Party]] · 2º ciclo: [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]] · 3er ciclo: [[SA_Ingles_3er_Ciclo_Town_Guide]]
 
 ## Cómo enseñarlo
 - [[Ensenanza_Comunicativa_con_Foco_en_la_Forma]] (B)
 - [[AICLE_CLIL]] en programas bilingües (C)
+- [[Respuesta_Fisica_Total_TPR]] (C) · [[Uso_de_la_Lengua_Materna_en_Clase_de_Ingles]] (C)
+- Referencias para niños: [[Cameron_2001_Ninos_Lenguas]] · [[Pinter_2017_Jovenes_Aprendices]] · [[Consejo_Europa_2020_MCER]]
 - [[Rutina_Cuentacuentos_en_Ingles]]
 
 ## Diversidad

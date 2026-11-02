@@ -16,6 +16,7 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 - [[Lazonder_2016_Indagacion]] · [[Furtak_2012_Indagacion_Ciencias]] · [[Klahr_2004_Control_Variables]] · [[Vosniadou_1992_Modelos_Mentales]] · [[Recht_1988_Conocimiento_Previo]] · [[Seixas_2013_Pensamiento_Historico]]
 
 ## Lengua extranjera
+- [[Lee_2015_Pronunciacion]] · [[Derwing_2005_Inteligibilidad]] · [[Consejo_Europa_2020_MCER]] · [[Cameron_2001_Ninos_Lenguas]] · [[Pinter_2017_Jovenes_Aprendices]] · [[Asher_1969_TPR]]
 - [[Munoz_2006_Edad_L2]] · [[Norris_2000_Instruccion_L2]] · [[Lyster_2010_Feedback_Oral_L2]] · [[Perez_Canado_2012_CLIL]] · [[Nation_2013_Vocabulario_L2]] · [[Baker_2014_IES_English_Learners]]
 
 ## Socioemocional, actividad física y artes
