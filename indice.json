@@ -623,6 +623,11 @@
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "MOC_Sistema_Educativo_Espanol",
     "Reforma_Oposiciones_2026"
    ],
@@ -2919,6 +2924,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Tema_15",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Documentos_de_Centro",
     "Lectura_Compartida_en_Familia",
@@ -5271,6 +5277,7 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_19",
     "Estrategias_Comprension_Lectora",
     "Habilidades_Sociales",
     "Instruccion_Explicita",
@@ -5877,6 +5884,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_18",
     "Hechos_Numericos",
     "Juego_en_la_Infancia",
     "MOC_Metodologias"
@@ -10247,6 +10255,11 @@
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "Cameron_2001_Ninos_Lenguas",
     "Castles_2018_Reading_Wars",
     "Ciudadania_Digital_y_Seguridad",
@@ -10335,6 +10348,11 @@
     "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha"
    ]
@@ -10827,7 +10845,8 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
-    "CLM_Supuestos_Practicos_Ingles"
+    "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_16"
    ]
   },
   "CLM_Supuesto_05_Evaluacion": {
@@ -11120,7 +11139,12 @@
     "CLM_Tema_11",
     "CLM_Tema_12",
     "CLM_Tema_13",
-    "CLM_Tema_14"
+    "CLM_Tema_14",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19"
    ],
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
@@ -11138,6 +11162,11 @@
     "CLM_Tema_12",
     "CLM_Tema_13",
     "CLM_Tema_14",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11202,6 +11231,11 @@
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "Cameron_2001_Ninos_Lenguas",
     "Consejo_Europa_2020_MCER",
     "Dunlosky_2013_Tecnicas_Estudio",
@@ -11232,6 +11266,11 @@
     "CLM_Tema_13",
     "CLM_Tema_14",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_15",
+    "CLM_Tema_16",
+    "CLM_Tema_17",
+    "CLM_Tema_18",
+    "CLM_Tema_19",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11330,6 +11369,7 @@
     "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_19",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11815,6 +11855,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_09_Guion",
     "CLM_Tema_10",
+    "CLM_Tema_17",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11976,6 +12017,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_11_Guion",
     "CLM_Tema_12",
+    "CLM_Tema_18",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -12251,6 +12293,279 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_14",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_15": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_15.md",
+   "titulo": "Topic 15",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 15",
+    "Topic 15",
+    "Topic 15 full text",
+    "Literary periods authors genres and text types"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Mol_2011_Exposicion_Lectora",
+     "Cameron_2001_Ninos_Lenguas",
+     "Nation_2013_Vocabulario_L2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "APPROPRIATE PERIODS, AUTHORS AND LITERARY GENRES FOR DIDACTIC APPLICATION IN THE FOREIGN LANGUAGE CLASSROOM. TYPOLOGY OF TEXTS",
+   "secciones": [
+    "1. Introduction",
+    "2. Why literature in the English classroom?",
+    "3. Periods and authors suitable for Primary",
+    "4. Literary genres",
+    "5. Typology of texts",
+    "6. Didactic application by cycle",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_16",
+    "Educacion_Literaria_y_Lectura_por_Placer"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_16",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_16": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_16.md",
+   "titulo": "Topic 16",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 16",
+    "Topic 16",
+    "Topic 16 full text",
+    "Children's literature in English"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Mol_2011_Exposicion_Lectora",
+     "Mol_2008_Lectura_Dialogica",
+     "Cameron_2001_Ninos_Lenguas",
+     "Nation_2013_Vocabulario_L2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "CHILDREN'S LITERATURE IN ENGLISH. DIDACTIC APPLICATIONS TO DEVELOP ORAL COMPREHENSION, PROMOTE READING HABITS AND APPRECIATE THE POETIC FUNCTION OF LANGUAGE",
+   "secciones": [
+    "1. Introduction",
+    "2. Children's literature in English",
+    "3. Didactic applications to develop oral comprehension",
+    "4. Promoting reading habits",
+    "5. Appreciating the poetic function of language",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Tema_15",
+    "Mol_2008_Lectura_Dialogica",
+    "Rutina_Cuentacuentos_en_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_15",
+    "CLM_Tema_17",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_17": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_17.md",
+   "titulo": "Topic 17",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 17",
+    "Topic 17",
+    "Topic 17 full text",
+    "Songs in the English classroom"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Sala_2020_Musica",
+     "Cameron_2001_Ninos_Lenguas",
+     "Asher_1969_TPR"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "SONGS AS A POETIC VEHICLE AND LITERARY CREATION. TYPES OF SONGS. TECHNIQUES FOR USING SONGS TO LEARN PHONETICS, VOCABULARY AND CULTURE",
+   "secciones": [
+    "1. Introduction",
+    "2. The song as a poetic vehicle and literary creation",
+    "3. Types of songs",
+    "4. Techniques for using songs",
+    "5. A note on evidence",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_09",
+    "CLM_Tema_16",
+    "Mito_Efecto_Mozart",
+    "Sala_2020_Musica"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_18": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_18.md",
+   "titulo": "Topic 18",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 18",
+    "Topic 18",
+    "Topic 18 full text",
+    "Games and creativity in the English classroom"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Lillard_2013_Juego_Simbolico",
+     "Dunlosky_2013_Tecnicas_Estudio",
+     "Cameron_2001_Ninos_Lenguas",
+     "Johnson_2009_Cooperativo"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "FUNCTIONS OF GAMES AND CREATIVITY IN THE FOREIGN LANGUAGE CLASS. DEFINITION AND CLASSIFICATION OF GAMES FOR LANGUAGE LEARNING. GAMES AS A CREATIVE TECHNIQUE TO ACHIEVE COMMUNICATIVE COMPETENCE",
+   "secciones": [
+    "1. Introduction",
+    "2. Play and creativity: concepts",
+    "3. Functions of games and creativity in language learning",
+    "4. Classification of games for language learning",
+    "5. Games as a creative technique to achieve communicative competence",
+    "6. Managing games in the classroom",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_11",
+    "CLM_Tema_19",
+    "Gamificacion",
+    "Juego_en_la_Infancia",
+    "Lillard_2013_Juego_Simbolico"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_19",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_19": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_19.md",
+   "titulo": "Topic 19",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 19",
+    "Topic 19",
+    "Topic 19 full text",
+    "Drama animation group work and teacher's role"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Johnson_2009_Cooperativo",
+     "Cameron_2001_Ninos_Lenguas",
+     "Asher_1969_TPR"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "TECHNIQUES FOR ANIMATION AND EXPRESSION. DRAMATIZATION OF EVERYDAY SITUATIONS AND PERFORMANCE OF STORIES AND CHARACTERS. GROUP WORK FOR CREATIVE TASKS. THE TEACHER'S ROLE",
+   "secciones": [
+    "1. Introduction",
+    "2. Techniques for animation and expression",
+    "3. Dramatization of everyday situations and performance of stories and characters",
+    "4. Group work for creative tasks",
+    "5. The teacher's role",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "Aprendizaje_Cooperativo",
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_02",
+    "CLM_Tema_18",
+    "Johnson_2009_Cooperativo"
+   ],
+   "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_18",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -15327,6 +15642,7 @@
    "enlazada_desde": [
     "Aprendizaje_Cooperativo",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_19",
     "MOC_Fuentes"
    ]
   },
@@ -15616,6 +15932,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_18",
     "Juego_en_la_Infancia",
     "MOC_Fuentes",
     "Metodologia_en_Educacion_Infantil"
@@ -15816,6 +16133,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_16",
     "Lectura_Compartida_en_Familia",
     "Linea_Desarrollo_Lenguaje",
     "MOC_Fuentes"
@@ -16661,6 +16979,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_17",
     "MOC_Fuentes",
     "Mito_Efecto_Mozart",
     "Progresion_Musica"
@@ -17573,6 +17892,7 @@
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_04_Cuento_Literatura",
     "CLM_Tema_14_Guion",
+    "CLM_Tema_16",
     "MOC_Practica",
     "Plurilinguismo_e_Interculturalidad",
     "Progresion_Lengua_Extranjera",
@@ -18356,6 +18676,7 @@
    ],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_17",
     "Errores_Frecuentes_en_la_Crianza",
     "Etapa_Prenatal",
     "MOC_Crianza",
@@ -19040,6 +19361,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_18",
     "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "Etapa_3_6_anos",

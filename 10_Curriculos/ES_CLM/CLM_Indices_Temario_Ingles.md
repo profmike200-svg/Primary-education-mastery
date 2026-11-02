@@ -285,6 +285,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque IV · Literature, songs, games and drama
 
 ### Topic 15 · Appropriate periods, authors and literary genres for didactic application. Typology of texts
+> 📘 Tema completo: [[CLM_Tema_15]]
 1. Introduction
 2. Why literature in the English class (brief; developed in topic 16)
 3. Periods and authors suitable for Primary
@@ -300,6 +301,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: se elimina el solapamiento con el tema 16; la tipología textual (en el título) gana apartado propio con clasificación.
 
 ### Topic 16 · Children's literature in English. Oral comprehension, reading habits and the poetic function
+> 📘 Tema completo: [[CLM_Tema_16]]
 1. Introduction
 2. Children's literature in English: concept and benefits (input, motivation, culture, emotions)
 3. Didactic applications to develop oral comprehension: storytelling, shared and dialogic reading, pre-/while-/post-reading
@@ -311,6 +313,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: se centra en la **didáctica** y deja autores y épocas al tema 15; cada parte del título tiene apartado propio.
 
 ### Topic 17 · Songs as a poetic vehicle and literary creation. Types of songs. Songs for phonetics, vocabulary and culture
+> 📘 Tema completo: [[CLM_Tema_17]]
 1. Introduction
 2. The song as a poetic vehicle, literary creation and learning tool (rhythm, rhyme, repetition, memory, affect)
 3. Criteria for selecting songs (age, language, length, cultural value, action potential)
@@ -325,6 +328,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el punto 5 se divide en los tres usos del título; matiz con evidencia.
 
 ### Topic 18 · Functions of games and creativity. Classification of games. Games for communicative competence
+> 📘 Tema completo: [[CLM_Tema_18]]
 1. Introduction
 2. Play and creativity: concepts (Huizinga; Piaget's stages of play; Vygotsky's ZPD in play; Guilford on creativity)
 3. Functions of games and creativity in language learning (motivation, repetition, low anxiety, real use)
@@ -336,6 +340,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: se añade la gestión del juego en el aula y el matiz sobre la evidencia de la gamificación.
 
 ### Topic 19 · Animation and expression techniques. Dramatization. Group work for creative tasks. Teacher's role
+> 📘 Tema completo: [[CLM_Tema_19]]
 1. Introduction
 2. Animation and expression techniques (mime, puppets, role-play, storytelling, Readers' Theatre)
 3. Dramatization of everyday situations and performance of stories and characters
