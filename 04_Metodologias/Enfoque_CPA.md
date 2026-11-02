@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: []
 necesidades_compatibles: [discalculia, discapacidad_intelectual, tdah]
 fuentes: [EEF_2017_Matematicas_KS2_KS3, Fuchs_2021_Intervencion_Matematicas_IES]
-estado: borrador
+estado: verificado_ia
 ---
 # Enfoque concreto-pictórico-abstracto (CPA)
 

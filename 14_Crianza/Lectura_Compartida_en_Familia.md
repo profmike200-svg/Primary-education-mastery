@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Mol_2008_Lectura_Dialogica, Mol_2011_Exposicion_Lectora, Sylva_2004_EPPE]
-estado: borrador
+estado: verificado_ia
 ---
 # Lectura compartida en familia
 

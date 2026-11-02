@@ -8,7 +8,7 @@ requisitos_previos: [Sentido_Numerico]
 metodologias_recomendadas: [Enfoque_CPA, Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [EEF_2017_Matematicas_KS2_KS3, Fuchs_2021_Intervencion_Matematicas_IES]
-estado: borrador
+estado: verificado_ia
 ---
 # Valor posicional
 

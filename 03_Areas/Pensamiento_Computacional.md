@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita, Aprendizaje_Basado_en_Proyectos]
 nivel_evidencia: "B"
 fuentes: [Scherer_2019_Programacion]
-estado: borrador
+estado: verificado_ia
 ---
 # Pensamiento computacional y programación
 

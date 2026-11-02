@@ -13,7 +13,7 @@ necesidades_contempladas: [tdah, tea, altas_capacidades]
 materiales: [tablas o cartones como rampas, libros para variar la altura, pelotas o coches de juguete de distinto tamaño, cinta métrica, plantilla de investigación]
 nivel_evidencia: "B"
 fuentes: [Klahr_2004_Control_Variables]
-estado: borrador
+estado: verificado_ia
 ---
 # Sesión: ¿qué hace que una pelota llegue más lejos? (prueba justa)
 

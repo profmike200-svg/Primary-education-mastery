@@ -8,7 +8,7 @@ requisitos_previos: [Multiplicacion_y_Division]
 metodologias_recomendadas: [Enfoque_CPA, Instruccion_Explicita]
 nivel_evidencia: "A"
 fuentes: [Siegler_2010_Fracciones_IES, EEF_2017_Matematicas_KS2_KS3]
-estado: borrador
+estado: verificado_ia
 ---
 # Fracciones
 

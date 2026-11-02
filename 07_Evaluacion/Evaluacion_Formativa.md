@@ -6,7 +6,7 @@ edad_min: 6
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Black_1998_Black_Box, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Evaluación formativa
 

@@ -5,7 +5,9 @@ anio: 2021
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (s. f.). Teaching and Learning Toolkit. https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit"
-verificado: pendiente
+verificado: si
+identificador: "educationendowmentfoundation.org.uk"
+fecha_verificacion: 2026-11-02
 ---
 # Education Endowment Foundation. (s. f.). Teaching and Learning Toolkit. https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
 

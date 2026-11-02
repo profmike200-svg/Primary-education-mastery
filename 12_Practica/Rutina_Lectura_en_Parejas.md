@@ -13,7 +13,7 @@ necesidades_contempladas: [dislexia]
 materiales: [textos de nivel adecuado, tarjeta de pasos]
 nivel_evidencia: "B"
 fuentes: [EEF_Toolkit, NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Rutina: lectura en parejas (3 veces por semana)
 

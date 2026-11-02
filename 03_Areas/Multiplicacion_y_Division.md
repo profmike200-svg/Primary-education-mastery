@@ -8,7 +8,7 @@ requisitos_previos: [Suma_y_Resta, Valor_Posicional]
 metodologias_recomendadas: [Enfoque_CPA, Instruccion_Basada_en_Esquemas]
 nivel_evidencia: "B"
 fuentes: [EEF_2017_Matematicas_KS2_KS3]
-estado: borrador
+estado: verificado_ia
 ---
 # Multiplicación y división
 

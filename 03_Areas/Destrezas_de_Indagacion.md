@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Indagacion_Guiada, Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [Klahr_2004_Control_Variables, Lazonder_2016_Indagacion]
-estado: borrador
+estado: verificado_ia
 ---
 # Destrezas de indagación científica
 

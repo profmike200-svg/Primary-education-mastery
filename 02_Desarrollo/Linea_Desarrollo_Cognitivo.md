@@ -5,7 +5,7 @@ edad_min: 0
 edad_max: 12
 dimension: [cognitiva, ejecutiva]
 fuentes: [Zubler_2022_Hitos_CDC, Diamond_2011_Funciones_Ejecutivas]
-estado: borrador
+estado: verificado_ia
 ---
 # Línea de desarrollo: cognitivo (0-12)
 

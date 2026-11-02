@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Estilos de aprendizaje (VAK), Learning styles, VAK, Visual-auditivo-kinestésico]
 nivel_evidencia: M
 fuentes: [Pashler_2008_Estilos_Aprendizaje, Dekker_2012_Neuromitos]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Estilos de aprendizaje (VAK)
 

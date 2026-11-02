@@ -5,7 +5,7 @@ necesidad: dislexia
 prevalencia_aprox: "≈5-10 % según el criterio"
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura, Castles_2018_Reading_Wars, Seymour_2003_Ortografias_Europeas, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Dislexia
 

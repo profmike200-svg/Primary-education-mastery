@@ -5,7 +5,7 @@ anio: 2021
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2021). Working with parents to support children's learning: Guidance report. EEF."
-verificado: pendiente
+verificado: parcial
 ---
 # Education Endowment Foundation. (2021). Working with parents to support children's learning: Guidance report. EEF.
 

@@ -5,7 +5,9 @@ anio: 2017
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2017). Improving mathematics in Key Stages 2 and 3: Guidance report. EEF."
-verificado: pendiente
+verificado: si
+identificador: "EEF 2017 (actualización 2022)"
+fecha_verificacion: 2026-11-02
 ---
 # Education Endowment Foundation. (2017). Improving mathematics in Key Stages 2 and 3: Guidance report. EEF.
 

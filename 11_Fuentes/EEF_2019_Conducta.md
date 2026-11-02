@@ -5,7 +5,7 @@ anio: 2019
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF."
-verificado: pendiente
+verificado: parcial
 ---
 # Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF.
 

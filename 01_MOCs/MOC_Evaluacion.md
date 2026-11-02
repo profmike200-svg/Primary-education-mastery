@@ -9,7 +9,7 @@ estado: borrador
 - [[Evaluacion_Formativa]] (A)
 - [[Retroalimentacion]] (A)
 - [[Instrumentos_de_Evaluacion]] (C)
-- [[Rubricas]] (B)
+- [[Rubricas]] (C)
 
 ---
 ↑ [[00_INICIO]]

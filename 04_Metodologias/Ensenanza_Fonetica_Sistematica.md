@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: []
 necesidades_compatibles: [dislexia, tdl, tdah, incorporacion_tardia]
 fuentes: [NRP_2000_Lectura, Castles_2018_Reading_Wars, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Enseñanza fonética sistemática
 

@@ -4,9 +4,9 @@ aliases: [Rúbricas, Rubrics, Matriz de evaluación]
 area: [transversal]
 edad_min: 6
 edad_max: 12
-nivel_evidencia: "B"
+nivel_evidencia: "C"
 fuentes: [Panadero_2013_Rubricas]
-estado: borrador
+estado: verificado_ia
 ---
 # Rúbricas
 
@@ -25,7 +25,7 @@ Instrumento que describe los criterios de calidad de una tarea y distintos nivel
 4. Pocos criterios, observables y centrados en el aprendizaje (no en la limpieza o el color).
 
 ## Evidencia
-**Nivel:** B · Mejoran el rendimiento y la autorregulación cuando el alumnado las usa para autoevaluarse ([[Panadero_2013_Rubricas]]).
+**Nivel:** C · Pueden favorecer el rendimiento y la autorregulación cuando el alumnado las usa para autoevaluarse, pero la evidencia aún no es concluyente ([[Panadero_2013_Rubricas]]). Su valor depende de usarlas de forma formativa, dentro de la [[Evaluacion_Formativa]] (nivel A).
 
 ## Errores frecuentes
 - Rúbricas de cinco niveles con descriptores vagos ("bastante bien", "muy bien").

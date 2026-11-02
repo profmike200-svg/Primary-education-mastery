@@ -6,7 +6,7 @@ edad_min: 6
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Hattie_2007_Feedback, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Retroalimentación (*feedback*)
 

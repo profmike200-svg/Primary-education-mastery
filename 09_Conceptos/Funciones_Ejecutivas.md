@@ -3,7 +3,7 @@ tipo: concepto
 aliases: [Funciones ejecutivas, Executive functions, Control ejecutivo]
 area: [transversal, socioemocional]
 fuentes: [Diamond_2011_Funciones_Ejecutivas]
-estado: borrador
+estado: verificado_ia
 ---
 # Funciones ejecutivas
 

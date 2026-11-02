@@ -6,7 +6,7 @@ edad_min: 1
 edad_max: 6
 nivel_evidencia: "B"
 fuentes: [Sanders_2014_Triple_P, Diamond_2011_Funciones_Ejecutivas]
-estado: borrador
+estado: verificado_ia
 ---
 # Rabietas y regulación emocional en la primera infancia
 

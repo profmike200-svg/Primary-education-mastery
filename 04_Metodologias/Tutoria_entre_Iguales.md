@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: [—]
 necesidades_compatibles: []
 fuentes: [EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Tutoría entre iguales
 

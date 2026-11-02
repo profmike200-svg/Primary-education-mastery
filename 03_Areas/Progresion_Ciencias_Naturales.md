@@ -5,7 +5,7 @@ area: [ciencias_naturales]
 edad_min: 6
 edad_max: 12
 fuentes: [Furtak_2012_Indagacion_Ciencias, Lazonder_2016_Indagacion]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de ciencias naturales
 

@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Cuanto antes mejor, The earlier the better, Periodo crítico en el aula]
 nivel_evidencia: M
 fuentes: [Munoz_2006_Edad_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Cuanto antes se empiece con la lengua extranjera en la escuela, mejor
 

@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: []
 necesidades_compatibles: [discalculia, tdah]
 fuentes: [Sweller_1988_Carga_Cognitiva, EEF_2017_Matematicas_KS2_KS3]
-estado: borrador
+estado: verificado_ia
 ---
 # Ejemplos resueltos
 

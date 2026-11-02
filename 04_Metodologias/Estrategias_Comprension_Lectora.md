@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: [Palincsar, Brown]
 necesidades_compatibles: [tdl, dislexia, tdah]
 fuentes: [EEF_Toolkit, NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Estrategias de comprensión lectora
 

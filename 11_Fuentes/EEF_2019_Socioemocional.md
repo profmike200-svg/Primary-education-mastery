@@ -5,7 +5,7 @@ anio: 2019
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2019). Improving social and emotional learning in primary schools: Guidance report. EEF."
-verificado: pendiente
+verificado: parcial
 ---
 # Education Endowment Foundation. (2019). Improving social and emotional learning in primary schools: Guidance report. EEF.
 

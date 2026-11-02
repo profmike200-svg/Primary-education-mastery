@@ -5,7 +5,9 @@ anio: 2020
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2020). Improving mathematics in the Early Years and Key Stage 1: Guidance report. EEF."
-verificado: pendiente
+verificado: si
+identificador: "EEF 2020"
+fecha_verificacion: 2026-11-02
 ---
 # Education Endowment Foundation. (2020). Improving mathematics in the Early Years and Key Stage 1: Guidance report. EEF.
 

@@ -8,7 +8,7 @@ requisitos_previos: [Sentido_Numerico]
 metodologias_recomendadas: [Enfoque_CPA, Instruccion_Explicita, Instruccion_Basada_en_Esquemas]
 nivel_evidencia: "B"
 fuentes: [Fuchs_2021_Intervencion_Matematicas_IES, EEF_2020_Matematicas_Infantil_KS1]
-estado: borrador
+estado: verificado_ia
 ---
 # Suma y resta
 

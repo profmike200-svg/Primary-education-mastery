@@ -5,7 +5,9 @@ anio: 2019
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. Teachers College Record, 121(11), 1-40."
-verificado: pendiente
+verificado: si
+identificador: "10.1177/016146811912101102"
+fecha_verificacion: 2026-11-02
 ---
 # Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. Teachers College Record, 121(11), 1-40.
 

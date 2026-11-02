@@ -8,7 +8,7 @@ requisitos_previos: [Suma_y_Resta]
 metodologias_recomendadas: [Practica_Espaciada, Practica_de_Recuperacion]
 nivel_evidencia: "A"
 fuentes: [Fuchs_2021_Intervencion_Matematicas_IES, EEF_2017_Matematicas_KS2_KS3, Dunlosky_2013_Tecnicas_Estudio]
-estado: borrador
+estado: verificado_ia
 ---
 # Hechos numéricos y fluidez
 

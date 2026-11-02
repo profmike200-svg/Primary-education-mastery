@@ -3,12 +3,12 @@ tipo: concepto
 aliases: [Ideas previas, Concepciones alternativas, Misconceptions, Cambio conceptual, Conceptual change]
 area: [ciencias_naturales, matematicas, transversal]
 fuentes: [Vosniadou_1992_Modelos_Mentales]
-estado: borrador
+estado: verificado_ia
 ---
 # Ideas previas y cambio conceptual
 
 ## Definición
-Los alumnos llegan con explicaciones intuitivas del mundo que a menudo no coinciden con las científicas. Son coherentes para ellos, se basan en la experiencia y son resistentes al cambio ([[Vosniadou_1992_Modelos_Mentales]]).
+Los alumnos llegan con explicaciones intuitivas del mundo que a menudo no coinciden con las científicas. Son coherentes para ellos, se basan en la experiencia y son resistentes al cambio ([[Vosniadou_1992_Modelos_Mentales]]). *Matiz: hasta qué punto forman "modelos" estables se discute; parte depende de cómo se pregunta. Lo que sí está bien establecido es que existen y que hay que trabajarlas de forma explícita.*
 
 ## Ejemplos frecuentes en Primaria
 | Idea previa | Idea científica |

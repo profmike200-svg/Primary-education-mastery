@@ -8,7 +8,7 @@ requisitos_previos: [Comprension_Lectora]
 metodologias_recomendadas: [Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [Wineburg_2019_Lectura_Lateral]
-estado: borrador
+estado: verificado_ia
 ---
 # Alfabetización mediática e informacional
 

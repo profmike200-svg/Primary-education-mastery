@@ -8,7 +8,7 @@ requisitos_previos: [Fluidez_Lectora]
 metodologias_recomendadas: [Estrategias_Comprension_Lectora]
 nivel_evidencia: "A"
 fuentes: [Castles_2018_Reading_Wars, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Comprensión lectora
 

@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Solo usamos el 10 % del cerebro, 10% of the brain myth]
 nivel_evidencia: M
 fuentes: [Dekker_2012_Neuromitos]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Solo usamos el 10 % del cerebro
 

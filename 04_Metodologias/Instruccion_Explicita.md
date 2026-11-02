@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: [Rosenshine, Sweller]
 necesidades_compatibles: [tdah, dislexia, discalculia, tdl, discapacidad_intelectual]
 fuentes: [Rosenshine_2012_Principios, Kirschner_2006_Guia_Minima, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Instrucción explícita
 

@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: []
 necesidades_compatibles: [discalculia, tdl, dislexia]
 fuentes: [Fuchs_2021_Intervencion_Matematicas_IES, EEF_2017_Matematicas_KS2_KS3]
-estado: borrador
+estado: verificado_ia
 ---
 # Instrucción basada en esquemas (problemas verbales)
 

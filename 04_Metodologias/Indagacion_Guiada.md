@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: []
 necesidades_compatibles: [tdah, altas_capacidades]
 fuentes: [Furtak_2012_Indagacion_Ciencias, Lazonder_2016_Indagacion]
-estado: borrador
+estado: verificado_ia
 ---
 # Indagación guiada
 

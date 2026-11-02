@@ -846,7 +846,7 @@
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- Evaluacion_Formativa (A) - Retroalimentacion (A) - Instrumentos_de_Evaluacion (C) - Rubricas (B)",
+   "resumen": "- Evaluacion_Formativa (A) - Retroalimentacion (A) - Instrumentos_de_Evaluacion (C) - Rubricas (C)",
    "secciones": [],
    "enlaces": [
     "00_INICIO",
@@ -1888,7 +1888,7 @@
      "Zubler_2022_Hitos_CDC",
      "Diamond_2011_Funciones_Ejecutivas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Funciones ejecutivas (memoria de trabajo, control inhibitorio, flexibilidad): se desarrollan de forma continua desde los 3 años hasta la edad adulta; se cultivan con juegos de reglas, música, deporte, rutinas (Funciones_Ejecutivas, Diamond_2011_Funciones_Ejecutivas).",
    "secciones": [
@@ -2111,7 +2111,7 @@
     "fuentes": [
      "Wineburg_2019_Lectura_Lateral"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Buscar información con palabras clave adecuadas. - Evaluar las fuentes: ¿quién lo dice?, ¿qué pruebas aporta?, ¿qué dicen otras fuentes? - Distinguir información, opinión, publicidad y desinformación. - Citar las fuentes y respetar la autoría.",
    "secciones": [
@@ -2377,7 +2377,7 @@
      "Castles_2018_Reading_Wars",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Construir el significado de un texto: comprensión literal, inferencial y crítica.",
    "secciones": [
@@ -2666,7 +2666,7 @@
      "Klahr_2004_Control_Variables",
      "Lazonder_2016_Indagacion"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- 6-8: observar con detalle, hacer preguntas investigables, predecir, comparar y clasificar, registrar con dibujos. - 8-10: diseñar una prueba justa cambiando una sola variable (control de variables), medir con instrumentos, registrar en tablas. - 10-12: formular hipótesis, interpretar gráficos, sac…",
    "secciones": [
@@ -2943,7 +2943,7 @@
      "Siegler_2010_Fracciones_IES",
      "EEF_2017_Matematicas_KS2_KS3"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Entender la fracción como parte de un todo, como medida, como cociente y, sobre todo, como número con un lugar en la recta numérica. - Comparar, encontrar equivalencias, sumar y restar, y (en el tercer ciclo) multiplicar y dividir comprendiendo los procedimientos. - Relacionar las fracciones con l…",
    "secciones": [
@@ -3201,7 +3201,7 @@
      "EEF_2017_Matematicas_KS2_KS3",
      "Dunlosky_2013_Tecnicas_Estudio"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Recuperar de memoria y con rapidez las sumas y restas hasta 20 y las tablas de multiplicar (y las divisiones asociadas).",
    "secciones": [
@@ -3363,7 +3363,7 @@
     "fuentes": [
      "EEF_2017_Matematicas_KS2_KS3"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Comprender los significados: grupos iguales, disposición rectangular (*array*), comparación (\"el triple de\"), área, reparto y agrupamiento (los dos sentidos de la división). - Propiedades conmutativa, asociativa y distributiva (base del cálculo mental y de los algoritmos). - Algoritmos escritos co…",
    "secciones": [
@@ -3472,7 +3472,7 @@
     "fuentes": [
      "Scherer_2019_Programacion"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Conceptos: algoritmo (secuencia de instrucciones), secuencias, bucles, condicionales, variables y eventos. - Prácticas: descomponer problemas, reconocer patrones, abstraer, depurar errores (*debugging*), probar y mejorar.",
    "secciones": [
@@ -3560,7 +3560,7 @@
      "Furtak_2012_Indagacion_Ciencias",
      "Lazonder_2016_Indagacion"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "1. Conocimiento científico (conceptos y grandes ideas). 2. Prácticas científicas: observar, preguntar, predecir, experimentar, medir, registrar, explicar con evidencias, comunicar (Destrezas_de_Indagacion).",
    "secciones": [
@@ -4239,7 +4239,7 @@
      "Fuchs_2021_Intervencion_Matematicas_IES",
      "EEF_2017_Matematicas_KS2_KS3"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Comprender la situación, representarla (dibujo, modelo de barras), elegir la operación, resolver y comprobar si el resultado tiene sentido. - Reconocer tipos de problemas por su estructura (cambio, combinación, comparación, grupos iguales…).",
    "secciones": [
@@ -4354,7 +4354,7 @@
      "Fuchs_2021_Intervencion_Matematicas_IES",
      "EEF_2020_Matematicas_Infantil_KS1"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Comprender las situaciones de suma y resta: juntar, añadir, quitar, comparar, completar. - Estrategias de cálculo: contar a partir del mayor, dobles y casi dobles, complementos a 10, descomposición, compensación. - La relación inversa entre suma y resta. - Algoritmos escritos con reagrupación comp…",
    "secciones": [
@@ -4408,7 +4408,7 @@
      "EEF_2017_Matematicas_KS2_KS3",
      "Fuchs_2021_Intervencion_Matematicas_IES"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Comprender que el valor de una cifra depende de su posición: 10 unidades = 1 decena, 10 decenas = 1 centena… - Leer, escribir, descomponer y comparar números (347 = 300 + 40 + 7 = 34 decenas y 7 unidades). - Ampliarlo a los decimales (décimas, centésimas) en el tercer ciclo.",
    "secciones": [
@@ -4675,7 +4675,7 @@
      "Johnson_2009_Cooperativo",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los alumnos trabajan en equipos pequeños estructurados de forma que cada uno es responsable de su aprendizaje y del de los demás.",
    "secciones": [
@@ -4918,7 +4918,7 @@
      "Sweller_1988_Carga_Cognitiva",
      "EEF_2017_Matematicas_KS2_KS3"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Mostrar y analizar la solución completa de un problema, paso a paso, antes de que el alumno resuelva problemas similares por sí mismo.",
    "secciones": [
@@ -4976,7 +4976,7 @@
      "EEF_2017_Matematicas_KS2_KS3",
      "Fuchs_2021_Intervencion_Matematicas_IES"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Introducir cada concepto matemático con materiales concretos, pasar después a representaciones gráficas y, por último, a los símbolos, siempre conectando las tres.",
    "secciones": [
@@ -5159,7 +5159,7 @@
      "Castles_2018_Reading_Wars",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar de forma explícita y en una secuencia planificada las correspondencias entre letras y sonidos, y cómo unirlas para leer y segmentarlas para escribir.",
    "secciones": [
@@ -5228,7 +5228,7 @@
      "EEF_Toolkit",
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar de forma explícita estrategias que los buenos lectores usan para comprender: predecir, preguntar, aclarar, resumir, inferir y supervisar.",
    "secciones": [
@@ -5327,7 +5327,7 @@
      "Furtak_2012_Indagacion_Ciencias",
      "Lazonder_2016_Indagacion"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los alumnos investigan preguntas científicas con una guía docente estructurada: el docente selecciona la pregunta, ofrece los procedimientos y andamia las conclusiones.",
    "secciones": [
@@ -5391,7 +5391,7 @@
      "Fuchs_2021_Intervencion_Matematicas_IES",
      "EEF_2017_Matematicas_KS2_KS3"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar a los alumnos a reconocer la estructura de un problema verbal (su esquema) y a representarla con un diagrama antes de calcular.",
    "secciones": [
@@ -5452,7 +5452,7 @@
      "Kirschner_2006_Guia_Minima",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El docente enseña de forma clara y estructurada, modela, guía la práctica y retira la ayuda poco a poco hasta lograr la autonomía.",
    "secciones": [
@@ -5674,7 +5674,7 @@
     "fuentes": [
      "Dekker_2012_Neuromitos"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Las personas solo usan el 10 % de su cerebro y el resto se puede activar.",
    "secciones": [
@@ -5774,7 +5774,7 @@
      "Pashler_2008_Estilos_Aprendizaje",
      "Dekker_2012_Neuromitos"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Cada alumno aprende mejor si recibe la información en su estilo preferido (visual, auditivo o kinestésico).",
    "secciones": [
@@ -6295,7 +6295,7 @@
     "fuentes": [
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Un alumno ayuda a otro con un protocolo estructurado. Suele ser de un curso superior o del mismo con más dominio, o recíproca.",
    "secciones": [
@@ -7783,7 +7783,7 @@
      "Seymour_2003_Ortografias_Europeas",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Dificultad específica y persistente en el reconocimiento preciso o fluido de las palabras y en la ortografía, de origen neurobiológico y frecuentemente con base en un déficit fonológico. Es un continuo, no una categoría cerrada. No es falta de inteligencia, problema visual, \"ver las letras al revés\"…",
    "secciones": [
@@ -8060,7 +8060,7 @@
      "Bishop_2017_CATALISE",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Dificultades persistentes en la adquisición y el uso del lenguaje oral (vocabulario, gramática, comprensión o narración) sin causa médica asociada que lo explique. Antes se denominaba TEL.",
    "secciones": [
@@ -8241,7 +8241,7 @@
      "Black_1998_Black_Box",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Recoger evidencias del aprendizaje durante el proceso para ajustar la enseñanza y orientar al alumno, no para poner nota.",
    "secciones": [
@@ -8346,7 +8346,7 @@
      "Hattie_2007_Feedback",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Información sobre el desempeño que ayuda al alumno a reducir la distancia entre dónde está y dónde debe llegar.",
    "secciones": [
@@ -8393,11 +8393,11 @@
     ],
     "edad_min": "6",
     "edad_max": "12",
-    "nivel_evidencia": "B",
+    "nivel_evidencia": "C",
     "fuentes": [
      "Panadero_2013_Rubricas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Instrumento que describe los criterios de calidad de una tarea y distintos niveles de desempeño para cada uno.",
    "secciones": [
@@ -9090,7 +9090,7 @@
     "fuentes": [
      "Diamond_2011_Funciones_Ejecutivas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Procesos mentales que permiten controlar la propia conducta y el pensamiento para alcanzar metas. Las tres nucleares: 1. Control inhibitorio: frenar un impulso o una respuesta automática. 2. Memoria_de_trabajo: mantener y manipular información. 3. Flexibilidad cognitiva: cambiar de perspectiva o de …",
    "secciones": [
@@ -9147,9 +9147,9 @@
     "fuentes": [
      "Vosniadou_1992_Modelos_Mentales"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
-   "resumen": "Los alumnos llegan con explicaciones intuitivas del mundo que a menudo no coinciden con las científicas. Son coherentes para ellos, se basan en la experiencia y son resistentes al cambio (Vosniadou_1992_Modelos_Mentales).",
+   "resumen": "Los alumnos llegan con explicaciones intuitivas del mundo que a menudo no coinciden con las científicas. Son coherentes para ellos, se basan en la experiencia y son resistentes al cambio (Vosniadou_1992_Modelos_Mentales). *Matiz: hasta qué punto forman \"modelos\" estables se discute; parte depende de…",
    "secciones": [
     "Definición",
     "Ejemplos frecuentes en Primaria",
@@ -10759,7 +10759,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Bishop, D. V. M., Snowling, M. J., Thompson, P. A., Greenhalgh, T., & CATALISE-2 consortium. (2017). Phase 2 of CATALISE: A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068-1080.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1111/jcpp.12721",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Consenso internacional (método Delphi) sobre la terminología de los trastornos del lenguaje infantil.",
    "secciones": [
@@ -11222,7 +11224,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987-2003. Review of Educational Research, 76(1), 1-62.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "RER 76(1):1-62",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis de la investigación sobre los deberes y el rendimiento académico.",
    "secciones": [
@@ -11290,7 +11294,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Dekker, S., Lee, N. C., Howard-Jones, P., & Jolles, J. (2012). Neuromyths in education: Prevalence and predictors of misconceptions among teachers. Frontiers in Psychology, 3, 429.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3389/fpsyg.2012.00429",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Encuesta a docentes del Reino Unido y de los Países Bajos sobre neuromitos.",
    "secciones": [
@@ -11317,7 +11323,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Diamond, A., & Lee, K. (2011). Interventions shown to aid executive function development in children 4 to 12 years old. Science, 333(6045), 959-964.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1126/science.1204529",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión de intervenciones que mejoran las funciones ejecutivas infantiles.",
    "secciones": [
@@ -11477,7 +11485,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2017). Improving mathematics in Key Stages 2 and 3: Guidance report. EEF.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "EEF 2017 (actualización 2022)",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía con ocho recomendaciones basadas en evidencia para enseñar matemáticas de los 7 a los 14 años.",
    "secciones": [
@@ -11506,7 +11516,7 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Guía con seis recomendaciones para mejorar la conducta en los centros.",
    "secciones": [
@@ -11536,7 +11546,7 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2019). Improving social and emotional learning in primary schools: Guidance report. EEF.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Guía con recomendaciones para el aprendizaje socioemocional en Primaria.",
    "secciones": [
@@ -11564,7 +11574,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2020). Improving mathematics in the Early Years and Key Stage 1: Guidance report. EEF.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "EEF 2020",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía con recomendaciones para enseñar matemáticas de los 3 a los 7 años.",
    "secciones": [
@@ -11590,7 +11602,7 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2021). Working with parents to support children's learning: Guidance report. EEF.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Guía sobre cómo implicar a las familias en el aprendizaje.",
    "secciones": [
@@ -11644,7 +11656,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (s. f.). Teaching and Learning Toolkit. https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "educationendowmentfoundation.org.uk",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis viva de la evidencia internacional sobre unos 30 enfoques. Para cada uno estima impacto (en meses de progreso), coste y solidez de la evidencia. Se actualiza periódicamente: consultar siempre la versión vigente.",
    "secciones": [
@@ -11922,7 +11936,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. Review of Educational Research, 82(3), 300-329.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "RER 82(3):300-329",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de la enseñanza de las ciencias por indagación.",
    "secciones": [
@@ -12406,7 +12422,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction: Effects of direct instruction and discovery learning. Psychological Science, 15(10), 661-667.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Psychol Sci 15(10):661-667",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Experimento con alumnado de 3º y 4º sobre la estrategia de control de variables (rampas).",
    "secciones": [
@@ -12467,7 +12485,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Lazonder, A. W., & Harmsen, R. (2016). Meta-analysis of inquiry-based learning: Effects of guidance. Review of Educational Research, 86(3), 681-718.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3102/0034654315627366",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre el efecto de la guía en el aprendizaje por indagación.",
    "secciones": [
@@ -12720,7 +12740,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267-296.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/a0021890",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la exposición a la lectura (leer por placer) y las habilidades lingüísticas.",
    "secciones": [
@@ -12748,7 +12770,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "alta",
     "referencia_apa": "Muñoz, C. (Ed.). (2006). Age and the rate of foreign language learning. Multilingual Matters.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Multilingual Matters 2006",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Resultados del proyecto BAF (Barcelona Age Factor) sobre el inicio de la lengua extranjera en contexto escolar.",
    "secciones": [
@@ -12993,7 +13017,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Panadero, E., & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. Educational Research Review, 9, 129-144.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1016/j.edurev.2013.01.002",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión sobre el uso formativo de las rúbricas.",
    "secciones": [
@@ -13206,7 +13232,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Recht, D. R., & Leslie, L. (1988). Effect of prior knowledge on good and poor readers' memory of text. Journal of Educational Psychology, 80(1), 16-20.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "J Educ Psychol 80(1):16-20",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio clásico con un texto sobre béisbol.",
    "secciones": [
@@ -13511,7 +13539,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Scherer, R., Siddiq, F., & Sánchez Viveros, B. (2019). The cognitive benefits of learning computer programming: A meta-analysis of transfer effects. Journal of Educational Psychology, 111(5), 764-792.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/edu0000314",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la transferencia del aprendizaje de la programación a otras habilidades.",
    "secciones": [
@@ -13851,7 +13881,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change in childhood. Cognitive Psychology, 24(4), 535-585.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1016/0010-0285(92)90018-W",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio sobre los modelos mentales infantiles de la forma de la Tierra.",
    "secciones": [
@@ -13967,7 +13999,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. Teachers College Record, 121(11), 1-40.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/016146811912101102",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Comparación de cómo evalúan la información en línea los verificadores profesionales, los historiadores y los estudiantes universitarios.",
    "secciones": [
@@ -14293,7 +14327,7 @@
      "EEF_Toolkit",
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Mejorar la precisión, la velocidad y la expresión lectora mediante la lectura repetida con retroalimentación de un compañero.",
    "secciones": [
@@ -14665,7 +14699,7 @@
     "fuentes": [
      "Klahr_2004_Control_Variables"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Al terminar, el alumnado diseñará un experimento que cambie una sola variable y explicará por qué es necesario mantener las demás iguales.",
    "secciones": [
@@ -14740,7 +14774,7 @@
     "fuentes": [
      "Munoz_2006_Edad_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los niños pequeños aprenden idiomas mucho más rápido, así que empezar la lengua extranjera a los 3 años garantiza un nivel más alto.",
    "secciones": [
@@ -15367,7 +15401,7 @@
      "Mol_2011_Exposicion_Lectora",
      "Sylva_2004_EPPE"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Leer con los hijos cada día es una de las prácticas familiares con más evidencia: amplía el vocabulario, la comprensión, el conocimiento del mundo y el gusto por leer (Mol_2008_Lectura_Dialogica, Mol_2011_Exposicion_Lectora), y forma parte del entorno de aprendizaje en casa que más influye (Sylva_20…",
    "secciones": [
@@ -15548,7 +15582,7 @@
      "Sanders_2014_Triple_P",
      "Diamond_2011_Funciones_Ejecutivas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Entre 1 y 4 años, las rabietas son normales: el niño siente emociones intensas, quiere autonomía y todavía no tiene lenguaje ni control inhibitorio suficientes (Funciones_Ejecutivas). Suelen disminuir a partir de los 4 años. Se regula primero con el adulto (corregulación) y después solo.",
    "secciones": [

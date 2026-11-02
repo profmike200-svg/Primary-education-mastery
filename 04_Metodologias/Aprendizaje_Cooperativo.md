@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: [Johnson y Johnson, Kagan, Slavin]
 necesidades_compatibles: [tea, tdah, altas_capacidades]
 fuentes: [Johnson_2009_Cooperativo, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Aprendizaje cooperativo
 

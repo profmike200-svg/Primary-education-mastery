@@ -5,7 +5,7 @@ necesidad: tdl
 prevalencia_aprox: "≈7 %"
 nivel_evidencia: "B"
 fuentes: [Bishop_2017_CATALISE, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Trastorno del desarrollo del lenguaje (TDL)
 
