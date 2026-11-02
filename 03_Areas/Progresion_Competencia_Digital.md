@@ -5,7 +5,7 @@ area: [competencia_digital]
 edad_min: 6
 edad_max: 12
 fuentes: [Vuorikari_2022_DigComp, OCDE_2015_Ordenadores]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de competencia digital
 

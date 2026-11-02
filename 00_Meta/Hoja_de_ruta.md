@@ -24,6 +24,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
 - [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
+- [x] Bóveda lista para Obsidian como segundo cerebro: grafo por colores, marcadores, mapa visual (canvas), nota diaria, guía de uso ([[Guia_Obsidian]]); enlaces por alias corregidos y validador que lo impide
 - [x] Ampliación a 0-12 años: etapas 0-1, 1-3 y 3-6, líneas de desarrollo 0-12, Educación Infantil, bloque de crianza ([[MOC_Crianza]], [[MOC_Infantil]])
 - [x] Castilla-La Mancha: normativa, inclusión y bloque de oposiciones de Inglés 2028 ([[MOC_Castilla_La_Mancha]])
 - [x] Vista "qué se trabaja en cada curso" ([[MOC_Por_Curso]])
@@ -34,7 +35,9 @@ aliases: [Roadmap, Pendientes]
 - [x] Tanda 3 (2026-11-02): 17 fuentes verificadas (EEF Toolkit, 2 guías EEF de matemáticas, Mol 2011, Cooper 2006, Panadero 2013, Bishop 2017, Lazonder 2016, Furtak 2012, Klahr 2004, Vosniadou 1992, Recht 1988, Muñoz 2006, Scherer 2019, Wineburg 2019, Dekker 2012, Diamond 2011). Rúbricas rebajadas de B a C. Matices en Klahr, Vosniadou, Recht y Scherer. 35 notas más en `verificado_ia` (total: 72).
 - [x] Tanda 4 (2026-11-02): 16 fuentes (Kärnä 2011, DuPaul 2012, Hume 2021, Sisk 2018, Randolph 2023, Lillard 2017, Chen 2019, Celio 2011, Kirschner 2017, Letrud 2018, Hyatt 2007, Nielsen 2013, Pietschnig 2010, Sala 2020, Winner 2013, Donnelly 2016). Refuerzo positivo en TDAH rebajado de A a B. Transferencias concretas de las artes marcadas como pendientes.
 - [x] Tanda 5 (2026-11-02): 18 fuentes (guías EEF de conducta, socioemocional, familias y lectoescritura; Byers-Heinlein, Baumrind, OCDE 2015, Taylor 2017, OMS 2020, Nation, Romeo, Bruer, Gopnik, Plomin, Baker 2014, Hattie 2009, Schalock, Pérez-Cañado). Correcciones: guía EEF de familias es de 2018 y su evidencia es mixta (nota rebajada a C); discapacidad intelectual con inicio antes de los 22 años; MYRIAD parcial.
-- [ ] Tanda 6: Anderson_2001_Taxonomia_Bloom, Bandura_1977_Autoeficacia, CAST_2018_DUA, Clements_2014_Trayectorias, ES_LOE_LOMLOE, ES_LOPDGDD_2018, ES_LOPIVI_2021, ES_RD_157_2022, ES_RD_276_2007, ES_RD_95_2022, Graham_2012_IES_Escritura, Ritchhart_2011_Rutinas_Pensamiento, Seixas_2013_Pensamiento_Historico, Siegler_2008_Juegos_Numericos, Van_Hiele_1986_Geometria, Vuorikari_2022_DigComp, Willingham_2009_Por_que_no_gusta; normativa (BOE / DOCM)
+- [x] Tanda 6 (2026-11-02): RD 95/2022, Graham 2012 (IES), DigComp 2.2, CAST (DUA 3.0), RD 276/2007, LOPDGDD verificadas; LOE/LOMLOE, RD 157/2022 y LOPIVI `parcial` (falta contrastar en el BOE: ratio, días lectivos, escala IN-SB, deber de comunicación).
+- [ ] Pendientes (8 libros clásicos): Anderson 2001, Bandura 1977, Clements 2014, Ritchhart 2011, Seixas 2013, Siegler 2008, Van Hiele 1986, Willingham 2009
+- [ ] Normativa: contrastar con el BOE / DOCM los puntos `parcial`
 - [ ] Tanda 3: resto de fuentes y normativa (BOE / DOCM)
 
 ## Tareas del docente

@@ -9,7 +9,7 @@ edad_min: 0
 edad_max: 6
 equivale_a: [Etapa_0_1_ano, Etapa_1_3_anos, Etapa_3_6_anos]
 fuentes: [ES_RD_95_2022]
-estado: borrador
+estado: verificado_ia
 ---
 # España (LOMLOE): Educación Infantil
 

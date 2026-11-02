@@ -2,6 +2,8 @@
 
 Un Zettelkasten (bóveda de Obsidian) con el conocimiento necesario para **educar a niños y niñas de 0 a 12 años**: cómo se desarrollan, qué enseñar, cuándo, cómo, a quién y con qué evidencia. Sirve a la vez para **docentes** (Infantil y Primaria) y para **familias** que quieren criar a sus hijos de la mejor manera posible. El hilo conductor es el **desarrollo evolutivo** ([[MOC_Desarrollo]]).
 
+**Es una bóveda de Obsidian lista para usar como segundo cerebro (Zettelkasten)**: descarga la carpeta, ábrela en Obsidian y sigue [[Guia_Obsidian]].
+
 Lo usan tres tipos de lectores:
 - **Familias**: empezar por [[MOC_Crianza]].
 - **Docentes**: abrir la carpeta como bóveda en Obsidian. Se empieza por [[00_INICIO]].
@@ -9,7 +11,7 @@ Lo usan tres tipos de lectores:
 
 ## Principios
 1. **Universal primero, local después.** El conocimiento pedagógico (desarrollo infantil, metodologías, diversidad) es independiente del país. Los currículos nacionales (LOMLOE, Common Core…) son una capa aparte (`10_Curriculos/`) que se enlaza a ese núcleo.
-2. **Evidencia explícita.** Toda afirmación sobre la eficacia de algo lleva un `nivel_evidencia` (ver [[Escala de evidencia]]). Los mitos se documentan *como mitos*.
+2. **Evidencia explícita.** Toda afirmación sobre la eficacia de algo lleva un `nivel_evidencia` (ver [[Escala_de_evidencia|Escala de evidencia]]). Los mitos se documentan *como mitos*.
 3. **Notas atómicas.** Una idea por nota, enlazada con otras.
 4. **Jerarquía por MOCs**, no por carpetas profundas (ver [[Arquitectura]]).
 

@@ -5,7 +5,9 @@ anio: 2022
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Publications Office of the European Union."
-verificado: pendiente
+verificado: si
+identificador: "JRC128415"
+fecha_verificacion: 2026-11-02
 ---
 # Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Publications Office of the European Union.
 
@@ -14,6 +16,8 @@ Marco europeo de la competencia digital ciudadana, base de la competencia digita
 
 ## Ideas clave
 - Cinco áreas: alfabetización en información y datos, comunicación y colaboración, creación de contenidos digitales, seguridad y resolución de problemas.
+
+> 21 competencias en 5 áreas. Informe JRC128415 (marzo de 2022).
 
 ## Notas que la citan
 <!-- Backlinks de Obsidian -->

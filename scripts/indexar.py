@@ -55,7 +55,7 @@ def construir():
 
     alias_a_id = {a: k for k, v in indice.items() for a in v["aliases"]}
     for origen, nota in indice.items():
-        nota["enlaces"] = sorted({alias_a_id.get(d, d) for d in nota["enlaces"]})
+        nota["enlaces"] = sorted({alias_a_id.get(d.rstrip("\\"), d.rstrip("\\")) for d in nota["enlaces"]})
         for destino in nota["enlaces"]:
             if destino in indice and origen not in indice[destino]["enlazada_desde"]:
                 indice[destino]["enlazada_desde"].append(origen)

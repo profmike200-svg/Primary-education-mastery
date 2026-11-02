@@ -8,7 +8,7 @@ requisitos_previos: [Construccion_de_Oraciones, Grafomotricidad_y_Caligrafia]
 metodologias_recomendadas: [Ensenanza_Estrategica_Escritura_SRSD]
 nivel_evidencia: "A"
 fuentes: [Graham_2012_Metaanalisis_Escritura, Graham_2012_IES_Escritura]
-estado: borrador
+estado: verificado_ia
 ---
 # Composición escrita
 

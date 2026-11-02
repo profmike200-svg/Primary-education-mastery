@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita]
 nivel_evidencia: "A"
 fuentes: [Santangelo_2016_Caligrafia, Graham_2012_IES_Escritura]
-estado: borrador
+estado: verificado_ia
 ---
 # Grafomotricidad y caligrafía
 

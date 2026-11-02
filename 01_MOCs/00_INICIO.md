@@ -19,12 +19,12 @@ Para **docentes** de Infantil y Primaria y para **familias**. El desarrollo evol
 | ¿Cómo sé si lo ha aprendido? | [[MOC_Evaluacion]] |
 | ¿Cómo organizo el aula? | [[MOC_Gestion_Aula]] |
 | ¿De dónde viene esta idea? | [[MOC_Autores]] · [[MOC_Conceptos]] |
-| ¿Es cierto? | [[MOC_Mitos]] · [[Escala de evidencia]] |
+| ¿Es cierto? | [[MOC_Mitos]] · [[Escala_de_evidencia\|Escala de evidencia]] |
 | ¿Qué exige la ley de mi país? | [[MOC_Curriculos]] · 🇪🇸 [[MOC_Sistema_Educativo_Espanol]] · [[MOC_Castilla_La_Mancha]] |
 | ¿Qué fuente lo respalda? | [[MOC_Fuentes]] |
 | Dame algo concreto para clase | [[MOC_Practica]] |
 
 ## Sistema
-**¿Primera vez? → [[Plan_de_Lectura]]** (lo esencial en 4 semanas, 10 minutos al día)
+**¿Primera vez?** → [[Guia_Obsidian]] (cómo usar la bóveda) · [[Plan_de_Lectura]] (lo esencial en 4 semanas, 10 minutos al día) · Mapa visual: `Mapa_del_Segundo_Cerebro.canvas`
 
 [[Arquitectura]] · [[Convenciones]] · [[Taxonomia]] · [[Glosario_entre_sistemas]] · [[Hoja_de_ruta]] · [[Uso_con_LLM]] · [[Panel_de_control]]

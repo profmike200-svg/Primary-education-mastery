@@ -21,6 +21,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "00_INICIO",
+    "Guia_Obsidian",
     "README",
     "Uso_con_LLM"
    ]
@@ -39,6 +40,7 @@
    "enlazada_desde": [
     "00_INICIO",
     "ES_Proteccion_Infancia_y_Datos",
+    "Guia_Obsidian",
     "README",
     "Relacion_con_las_Familias"
    ]
@@ -121,6 +123,42 @@
     "Vulnerabilidad_Socioemocional"
    ]
   },
+  "Guia_Obsidian": {
+   "ruta": "00_Meta/Guia_Obsidian.md",
+   "titulo": "Cómo usar esta bóveda en Obsidian (segundo cerebro)",
+   "tipo": "meta",
+   "aliases": [
+    "Guía de Obsidian",
+    "Cómo usar esta bóveda",
+    "Segundo cerebro"
+   ],
+   "metadatos": {
+    "estado": "estable"
+   },
+   "resumen": "1. Instala Obsidian (gratis): obsidian.md. Hay versión para Windows, Mac, Linux, Android e iOS. 2. Descarga el repositorio: en GitHub, Code → Download ZIP y descomprímelo (o clónalo con GitHub Desktop). 3. En Obsidian: Abrir carpeta como bóveda → elige la carpeta descomprimida. 4. Cuando pregunte si…",
+   "secciones": [
+    "1. Abrirla por primera vez (5 minutos)",
+    "2. Por dónde entrar",
+    "3. Las herramientas del segundo cerebro",
+    "4. El método Zettelkasten aplicado aquí",
+    "5. Reglas de oro",
+    "6. Sincronizar entre ordenador, móvil y GitHub",
+    "7. Usarla con una IA"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "Arquitectura",
+    "Convenciones",
+    "Plan_de_Lectura",
+    "Taxonomia",
+    "Uso_con_LLM"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "Hoja_de_ruta",
+    "README"
+   ]
+  },
   "Hoja_de_ruta": {
    "ruta": "00_Meta/Hoja_de_ruta.md",
    "titulo": "Hoja de ruta",
@@ -141,6 +179,7 @@
    ],
    "enlaces": [
     "CLM_Mapa_Temario_Ingles",
+    "Guia_Obsidian",
     "MOC_Castilla_La_Mancha",
     "MOC_Crianza",
     "MOC_Infantil",
@@ -219,7 +258,8 @@
     "Uso_con_LLM"
    ],
    "enlazada_desde": [
-    "00_INICIO"
+    "00_INICIO",
+    "Guia_Obsidian"
    ]
   },
   "Taxonomia": {
@@ -247,6 +287,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "Guia_Obsidian",
     "MOC_Por_Curso"
    ]
   },
@@ -286,6 +327,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "Guia_Obsidian",
     "Plan_de_Lectura",
     "README"
    ]
@@ -311,6 +353,7 @@
     "Convenciones",
     "Escala_de_evidencia",
     "Glosario_entre_sistemas",
+    "Guia_Obsidian",
     "Hoja_de_ruta",
     "MOC_Areas",
     "MOC_Autores",
@@ -335,6 +378,7 @@
     "Uso_con_LLM"
    ],
    "enlazada_desde": [
+    "Guia_Obsidian",
     "MOC_Areas",
     "MOC_Autores",
     "MOC_Castilla_La_Mancha",
@@ -2218,7 +2262,7 @@
     "fuentes": [
      "Vuorikari_2022_DigComp"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- 6-8: pedir ayuda a un adulto ante algo que incomoda en la pantalla; no compartir datos personales; tiempo de pantalla equilibrado. - 8-10: contraseñas seguras, privacidad, netiqueta, qué es la publicidad dirigida. - 10-12: huella digital, ciberacoso (qué hacer si lo sufro o lo veo), contacto con d…",
    "secciones": [
@@ -2315,7 +2359,7 @@
      "Graham_2012_Metaanalisis_Escritura",
      "Graham_2012_IES_Escritura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Seguir el proceso: planificar (propósito, destinatario, ideas, estructura) → textualizar → revisar (contenido y forma) → editar y publicar. - Conocer la estructura de los distintos tipos de texto: narrativo, descriptivo, expositivo, instructivo, argumentativo, y los géneros cotidianos (carta, noti…",
    "secciones": [
@@ -2548,7 +2592,7 @@
      "Graham_2007_Writing_Next",
      "Graham_2012_IES_Escritura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Escribir oraciones completas y correctas, y combinarlas con conectores y subordinadas para ganar variedad y precisión.",
    "secciones": [
@@ -3050,7 +3094,7 @@
      "Santangelo_2016_Caligrafia",
      "Graham_2012_IES_Escritura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Formar las letras de manera correcta, legible y automática (con fluidez), con una postura y una pinza adecuadas.",
    "secciones": [
@@ -3716,7 +3760,7 @@
      "Vuorikari_2022_DigComp",
      "OCDE_2015_Ordenadores"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "DigComp 2.2 (Vuorikari_2022_DigComp), base de la competencia digital de la LOMLOE y equivalente a la *digital literacy* de otros sistemas: 1. Información y datos → Alfabetizacion_Mediatica_e_Informacional 2. Comunicación y colaboración 3. Creación de contenidos (incluida la programación) → Pensamien…",
    "secciones": [
@@ -3860,7 +3904,7 @@
      "Graham_2012_Metaanalisis_Escritura",
      "EEF_2021_Lectoescritura_KS2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Escribir = transcripción (letra, ortografía, teclado) + composición (generar ideas, organizarlas, revisar), todo ello limitado por la Memoria_de_trabajo (modelo *Simple View of Writing*, Berninger y colaboradores). Si la transcripción no está automatizada, consume los recursos que necesita la compos…",
    "secciones": [
@@ -7665,7 +7709,7 @@
     "fuentes": [
      "CAST_2018_DUA"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Diseñar la enseñanza desde el principio para la variabilidad de todo el alumnado, en lugar de crear adaptaciones después.",
    "secciones": [
@@ -9649,7 +9693,7 @@
     "fuentes": [
      "ES_RD_276_2007"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Grado en Educación Primaria (4 años), con posibilidad de mención (inglés, educación física, música, pedagogía terapéutica, audición y lenguaje, etc.). - Especialidades del cuerpo de maestros: Educación Infantil, Educación Primaria, Lengua Extranjera (Inglés, Francés, Alemán), Educación Física, Mús…",
    "secciones": [
@@ -9821,7 +9865,7 @@
     "fuentes": [
      "ES_RD_95_2022"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Etapa 0-6 años con identidad propia, en dos ciclos: primer ciclo 0-3 (escuelas infantiles) y segundo ciclo 3-6 (habitualmente en los CEIP), voluntaria; el segundo ciclo es gratuito. - Finalidad: el desarrollo integral (físico, emocional, social, cognitivo y artístico) en colaboración estrecha con …",
    "secciones": [
@@ -10882,7 +10926,9 @@
     "tipo_fuente": "web",
     "fiabilidad": "alta",
     "referencia_apa": "CAST. (2018). Universal Design for Learning Guidelines version 2.2. http://udlguidelines.cast.org (versión 3.0 publicada en 2024).",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "udlguidelines.cast.org (2.2, 2018; 3.0, 2024)",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Marco del Diseño Universal para el Aprendizaje: ofrecer múltiples formas de implicación, de representación y de acción y expresión.",
    "secciones": [
@@ -11719,7 +11765,7 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE). BOE.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Ley marco del sistema educativo español, en su redacción tras la LOMLOE.",
    "secciones": [
@@ -11747,7 +11793,9 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD). BOE; y Reglamento (UE) 2016/679 (RGPD).",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "LO 3/2018; Guía AEPD centros educativos",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Marco de protección de datos aplicable a los centros educativos.",
    "secciones": [
@@ -11774,7 +11822,7 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI). BOE.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Ley de protección de la infancia frente a cualquier forma de violencia.",
    "secciones": [
@@ -11801,7 +11849,7 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. BOE núm. 52, de 2 de marzo de 2022.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Norma estatal que fija la ordenación y las enseñanzas mínimas de Primaria. Cada comunidad autónoma la desarrolla con su propio decreto.",
    "secciones": [
@@ -11829,7 +11877,9 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes. BOE.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "BOE-A-2007-4372",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Regula el sistema de ingreso en los cuerpos docentes (oposiciones).",
    "secciones": [
@@ -11837,7 +11887,9 @@
     "Ideas clave",
     "Notas que la citan"
    ],
-   "enlaces": [],
+   "enlaces": [
+    "Reforma_Oposiciones_2026"
+   ],
    "enlazada_desde": [
     "ES_Acceso_a_la_Profesion",
     "MOC_Fuentes",
@@ -11857,7 +11909,9 @@
     "tipo_fuente": "ley",
     "fiabilidad": "alta",
     "referencia_apa": "Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil. BOE.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "BOE RD 95/2022",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Enseñanzas mínimas del segundo ciclo de Educación Infantil y ordenación de la etapa (0-6).",
    "secciones": [
@@ -12088,7 +12142,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Graham, S., et al. (2012). Teaching elementary school students to be effective writers: A practice guide (NCEE 2012-4058). Institute of Education Sciences, U.S. Department of Education.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "NCEE 2012-4058",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía práctica del What Works Clearinghouse con cuatro recomendaciones para la enseñanza de la escritura en Primaria.",
    "secciones": [
@@ -13330,6 +13386,7 @@
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
     "ES_Acceso_a_la_Profesion",
+    "ES_RD_276_2007",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha",
     "MOC_Fuentes"
@@ -13978,7 +14035,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Publications Office of the European Union.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "JRC128415",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Marco europeo de la competencia digital ciudadana, base de la competencia digital de la LOMLOE.",
    "secciones": [
@@ -15758,6 +15817,7 @@
     "Arquitectura",
     "Convenciones",
     "Escala_de_evidencia",
+    "Guia_Obsidian",
     "MOC_Crianza",
     "MOC_Desarrollo",
     "Uso_con_LLM"

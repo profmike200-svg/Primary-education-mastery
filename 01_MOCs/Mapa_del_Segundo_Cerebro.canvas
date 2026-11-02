@@ -1,0 +1,367 @@
+{
+ "nodes": [
+  {
+   "id": "inicio",
+   "type": "file",
+   "file": "01_MOCs/00_INICIO.md",
+   "x": -200,
+   "y": -120,
+   "width": 400,
+   "height": 240,
+   "color": "6"
+  },
+  {
+   "id": "eje",
+   "type": "text",
+   "text": "## El eje: el desarrollo del niño (0-12)\nTodo se ancla en una **etapa** y en las **líneas de desarrollo**. Empieza por aquí si no sabes por dónde empezar.",
+   "x": -200,
+   "y": -520,
+   "width": 400,
+   "height": 160,
+   "color": "1"
+  },
+  {
+   "id": "des",
+   "type": "file",
+   "file": "01_MOCs/MOC_Desarrollo.md",
+   "x": -160,
+   "y": -980,
+   "width": 320,
+   "height": 160,
+   "color": "1"
+  },
+  {
+   "id": "cri",
+   "type": "file",
+   "file": "01_MOCs/MOC_Crianza.md",
+   "x": 165,
+   "y": -919,
+   "width": 320,
+   "height": 160,
+   "color": "1"
+  },
+  {
+   "id": "inf",
+   "type": "file",
+   "file": "01_MOCs/MOC_Infantil.md",
+   "x": 446,
+   "y": -745,
+   "width": 320,
+   "height": 160,
+   "color": "1"
+  },
+  {
+   "id": "cur",
+   "type": "file",
+   "file": "01_MOCs/MOC_Por_Curso.md",
+   "x": 645,
+   "y": -481,
+   "width": 320,
+   "height": 160,
+   "color": "5"
+  },
+  {
+   "id": "are",
+   "type": "file",
+   "file": "01_MOCs/MOC_Areas.md",
+   "x": 736,
+   "y": -163,
+   "width": 320,
+   "height": 160,
+   "color": "5"
+  },
+  {
+   "id": "met",
+   "type": "file",
+   "file": "01_MOCs/MOC_Metodologias.md",
+   "x": 705,
+   "y": 166,
+   "width": 320,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "pra",
+   "type": "file",
+   "file": "01_MOCs/MOC_Practica.md",
+   "x": 558,
+   "y": 462,
+   "width": 320,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "eva",
+   "type": "file",
+   "file": "01_MOCs/MOC_Evaluacion.md",
+   "x": 313,
+   "y": 685,
+   "width": 320,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "ges",
+   "type": "file",
+   "file": "01_MOCs/MOC_Gestion_Aula.md",
+   "x": 5,
+   "y": 804,
+   "width": 320,
+   "height": 160,
+   "color": "4"
+  },
+  {
+   "id": "div",
+   "type": "file",
+   "file": "01_MOCs/MOC_Diversidad.md",
+   "x": -325,
+   "y": 804,
+   "width": 320,
+   "height": 160,
+   "color": "2"
+  },
+  {
+   "id": "con",
+   "type": "file",
+   "file": "01_MOCs/MOC_Conceptos.md",
+   "x": -633,
+   "y": 685,
+   "width": 320,
+   "height": 160,
+   "color": "3"
+  },
+  {
+   "id": "aut",
+   "type": "file",
+   "file": "01_MOCs/MOC_Autores.md",
+   "x": -878,
+   "y": 462,
+   "width": 320,
+   "height": 160,
+   "color": "3"
+  },
+  {
+   "id": "mit",
+   "type": "file",
+   "file": "01_MOCs/MOC_Mitos.md",
+   "x": -1025,
+   "y": 166,
+   "width": 320,
+   "height": 160,
+   "color": "1"
+  },
+  {
+   "id": "fue",
+   "type": "file",
+   "file": "01_MOCs/MOC_Fuentes.md",
+   "x": -1056,
+   "y": -163,
+   "width": 320,
+   "height": 160
+  },
+  {
+   "id": "curr",
+   "type": "file",
+   "file": "01_MOCs/MOC_Curriculos.md",
+   "x": -965,
+   "y": -481,
+   "width": 320,
+   "height": 160
+  },
+  {
+   "id": "esp",
+   "type": "file",
+   "file": "01_MOCs/MOC_Sistema_Educativo_Espanol.md",
+   "x": -766,
+   "y": -745,
+   "width": 320,
+   "height": 160
+  },
+  {
+   "id": "clm",
+   "type": "file",
+   "file": "01_MOCs/MOC_Castilla_La_Mancha.md",
+   "x": -485,
+   "y": -919,
+   "width": 320,
+   "height": 160,
+   "color": "6"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e_des",
+   "fromNode": "inicio",
+   "toNode": "des"
+  },
+  {
+   "id": "e_cri",
+   "fromNode": "inicio",
+   "toNode": "cri"
+  },
+  {
+   "id": "e_inf",
+   "fromNode": "inicio",
+   "toNode": "inf"
+  },
+  {
+   "id": "e_cur",
+   "fromNode": "inicio",
+   "toNode": "cur"
+  },
+  {
+   "id": "e_are",
+   "fromNode": "inicio",
+   "toNode": "are"
+  },
+  {
+   "id": "e_met",
+   "fromNode": "inicio",
+   "toNode": "met"
+  },
+  {
+   "id": "e_pra",
+   "fromNode": "inicio",
+   "toNode": "pra"
+  },
+  {
+   "id": "e_eva",
+   "fromNode": "inicio",
+   "toNode": "eva"
+  },
+  {
+   "id": "e_ges",
+   "fromNode": "inicio",
+   "toNode": "ges"
+  },
+  {
+   "id": "e_div",
+   "fromNode": "inicio",
+   "toNode": "div"
+  },
+  {
+   "id": "e_con",
+   "fromNode": "inicio",
+   "toNode": "con"
+  },
+  {
+   "id": "e_aut",
+   "fromNode": "inicio",
+   "toNode": "aut"
+  },
+  {
+   "id": "e_mit",
+   "fromNode": "inicio",
+   "toNode": "mit"
+  },
+  {
+   "id": "e_fue",
+   "fromNode": "inicio",
+   "toNode": "fue"
+  },
+  {
+   "id": "e_curr",
+   "fromNode": "inicio",
+   "toNode": "curr"
+  },
+  {
+   "id": "e_esp",
+   "fromNode": "inicio",
+   "toNode": "esp"
+  },
+  {
+   "id": "e_clm",
+   "fromNode": "inicio",
+   "toNode": "clm"
+  },
+  {
+   "id": "e_des_cri",
+   "fromNode": "des",
+   "toNode": "cri",
+   "label": "familias"
+  },
+  {
+   "id": "e_des_inf",
+   "fromNode": "des",
+   "toNode": "inf",
+   "label": "0-6"
+  },
+  {
+   "id": "e_des_cur",
+   "fromNode": "des",
+   "toNode": "cur",
+   "label": "6-12"
+  },
+  {
+   "id": "e_cur_are",
+   "fromNode": "cur",
+   "toNode": "are"
+  },
+  {
+   "id": "e_are_met",
+   "fromNode": "are",
+   "toNode": "met",
+   "label": "cómo"
+  },
+  {
+   "id": "e_met_pra",
+   "fromNode": "met",
+   "toNode": "pra",
+   "label": "en el aula"
+  },
+  {
+   "id": "e_div_met",
+   "fromNode": "div",
+   "toNode": "met",
+   "label": "adaptar"
+  },
+  {
+   "id": "e_mit_met",
+   "fromNode": "mit",
+   "toNode": "met",
+   "label": "qué evitar"
+  },
+  {
+   "id": "e_fue_mit",
+   "fromNode": "fue",
+   "toNode": "mit",
+   "label": "evidencia"
+  },
+  {
+   "id": "e_curr_esp",
+   "fromNode": "curr",
+   "toNode": "esp"
+  },
+  {
+   "id": "e_esp_clm",
+   "fromNode": "esp",
+   "toNode": "clm",
+   "label": "oposiciones"
+  },
+  {
+   "id": "e_con_aut",
+   "fromNode": "con",
+   "toNode": "aut"
+  },
+  {
+   "id": "e_eje",
+   "fromNode": "eje",
+   "toNode": "inicio"
+  },
+  {
+   "id": "e_eje_cri",
+   "fromNode": "eje",
+   "toNode": "cri"
+  },
+  {
+   "id": "e_eje_inf",
+   "fromNode": "eje",
+   "toNode": "inf"
+  },
+  {
+   "id": "e_eje_cur",
+   "fromNode": "eje",
+   "toNode": "cur"
+  }
+ ]
+}

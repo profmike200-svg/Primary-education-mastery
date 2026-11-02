@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Programas_de_Aprendizaje_Socioemocional, Instruccion_Explicita]
 nivel_evidencia: "C"
 fuentes: [Vuorikari_2022_DigComp]
-estado: borrador
+estado: verificado_ia
 ---
 # Ciudadanía digital y seguridad en internet
 

@@ -9,7 +9,7 @@ edad_min: 6
 edad_max: 12
 equivale_a: []
 fuentes: [ES_RD_276_2007]
-estado: borrador
+estado: verificado_ia
 ---
 # España: acceso a la profesión, oposiciones y movilidad (también al extranjero)
 

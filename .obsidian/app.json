@@ -1,1 +1,13 @@
-{ "newFileLocation": "folder", "newFileFolderPath": "99_Inbox", "useMarkdownLinks": false, "newLinkFormat": "shortest", "alwaysUpdateLinks": true }
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "99_Inbox",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99_Inbox/adjuntos",
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "scripts/"
+  ]
+}

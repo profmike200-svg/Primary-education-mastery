@@ -5,7 +5,7 @@ area: [lengua, lectoescritura]
 edad_min: 5
 edad_max: 12
 fuentes: [Graham_2012_IES_Escritura, Graham_2012_Metaanalisis_Escritura, EEF_2021_Lectoescritura_KS2]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de la escritura
 

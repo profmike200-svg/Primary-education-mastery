@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [Graham_2007_Writing_Next, Graham_2012_IES_Escritura]
-estado: borrador
+estado: verificado_ia
 ---
 # Construcción de oraciones
 

@@ -8,7 +8,7 @@ nivel_evidencia: "C"
 autores: [CAST]
 necesidades_compatibles: [tdah, tea, dislexia, discalculia, tdl, discapacidad_intelectual, altas_capacidades, discapacidad_sensorial, discapacidad_motora]
 fuentes: [CAST_2018_DUA]
-estado: borrador
+estado: verificado_ia
 ---
 # Diseño Universal para el Aprendizaje (DUA)
 

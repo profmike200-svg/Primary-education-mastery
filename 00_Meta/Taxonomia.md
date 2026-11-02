@@ -36,7 +36,7 @@ Familia: `crianza`
 `tdah` · `tea` · `dislexia` · `discalculia` · `disgrafia` · `tdl` · `discapacidad_intelectual` · `altas_capacidades` · `discapacidad_sensorial` · `discapacidad_motora` · `incorporacion_tardia` · `vulnerabilidad_socioemocional`
 
 ## `nivel_evidencia`
-`A` · `B` · `C` · `D` · `M` · `?` (ver [[Escala de evidencia]])
+`A` · `B` · `C` · `D` · `M` · `?` (ver [[Escala_de_evidencia|Escala de evidencia]])
 
 ## `estado`
 `borrador` (redactado, fuentes sin comprobar) · `verificado_ia` (todas sus fuentes comprobadas en línea por la IA y el contenido revisado para que sea coherente con ellas) · `revisado` (leído y validado por el docente) · `estable`

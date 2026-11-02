@@ -4,7 +4,7 @@ estado: borrador
 ---
 # Metodologías y estrategias
 
-Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
+Nivel de evidencia entre paréntesis (ver [[Escala_de_evidencia|Escala de evidencia]]).
 
 ## Instrucción explícita y ciencia cognitiva
 - [[Instruccion_Explicita]] (A)

@@ -9,7 +9,7 @@ No hace falta leer la biblioteca entera: está pensada para **consultarla** (tú
 
 ## Semana 1 · Cómo funciona y qué es verdad
 1. [[00_INICIO]]: el mapa general
-2. [[Escala de evidencia]]: cómo leer los niveles A-D y M
+2. [[Escala_de_evidencia|Escala de evidencia]]: cómo leer los niveles A-D y M
 3. [[MOC_Mitos]]: lo que **no** hay que hacer (vistazo rápido)
 4. [[Instruccion_Explicita]]: la metodología con más evidencia
 5. [[Practica_de_Recuperacion]] y [[Practica_Espaciada]]: cómo se aprende y se recuerda (también para tus oposiciones)

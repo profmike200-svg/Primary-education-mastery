@@ -58,12 +58,13 @@ def main():
     nombres = {p.stem for p in notas}
     errores, avisos = [], []
 
+    # Obsidian solo resuelve enlaces por nombre de archivo: un alias debe escribirse [[Archivo|alias]].
+    aliases = {}
     for p in notas:
-        rel = p.relative_to(RAIZ)
-        texto = p.read_text(encoding="utf-8")
-        fm = leer_frontmatter(texto)
+        fm = leer_frontmatter(p.read_text(encoding="utf-8"))
         if fm is not None:
-            nombres.update(como_lista(fm.get("aliases")))
+            for a in como_lista(fm.get("aliases")):
+                aliases.setdefault(a, p.stem)
 
     for p in notas:
         rel = p.relative_to(RAIZ)
@@ -100,9 +101,12 @@ def main():
         sin_codigo = re.sub(r"`[^`\n]*`", "", sin_codigo)
         sin_codigo = re.sub(r"<!--.*?-->", "", sin_codigo, flags=re.S)
         for destino in ENLACE.findall(sin_codigo):
-            destino = destino.strip()
+            destino = destino.strip().rstrip("\\")  # en tablas: [[Nota\|alias]]
             if destino and destino not in nombres:
-                avisos.append(f"{rel}: enlace a nota inexistente [[{destino}]]")
+                if destino in aliases:
+                    errores.append(f"{rel}: [[{destino}]] es un alias; en Obsidian usa [[{aliases[destino]}|{destino}]]")
+                else:
+                    avisos.append(f"{rel}: enlace a nota inexistente [[{destino}]]")
 
     for a in avisos:
         print(f"AVISO  {a}")

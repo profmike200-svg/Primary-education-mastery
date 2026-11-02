@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "01_MOCs/00_INICIO.md",
+      "title": "🏛️ Inicio"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "00_Meta/Plan_de_Lectura.md",
+      "title": "📖 Plan de lectura"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "01_MOCs/Mapa_del_Segundo_Cerebro.canvas",
+      "title": "🗺️ Mapa visual"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "01_MOCs/MOC_Por_Curso.md",
+      "title": "🎒 Qué enseñar en cada curso"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "01_MOCs/MOC_Crianza.md",
+      "title": "👨‍👩‍👧 Crianza"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "01_MOCs/MOC_Castilla_La_Mancha.md",
+      "title": "📝 Oposiciones CLM"
+    },
+    {
+      "type": "file",
+      "ctime": 1793645977585,
+      "path": "00_Meta/Guia_Obsidian.md",
+      "title": "⚙️ Cómo usar esta bóveda"
+    }
+  ]
+}
