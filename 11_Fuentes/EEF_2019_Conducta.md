@@ -5,7 +5,9 @@ anio: 2019
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF."
-verificado: parcial
+verificado: si
+identificador: "EEF 2019"
+fecha_verificacion: 2026-11-02
 ---
 # Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF.
 
@@ -18,6 +20,8 @@ Guía con seis recomendaciones para mejorar la conducta en los centros.
 - Usar rutinas en el aula.
 - Usar enfoques focalizados para alumnos concretos.
 - Coherencia de todo el centro.
+
+> Seis recomendaciones confirmadas: conocer al alumnado, enseñar conductas de aprendizaje, gestión del aula, enfoques focalizados para necesidades individuales, coherencia de centro y atención a la implementación.
 
 ## Notas que la citan
 <!-- Backlinks de Obsidian -->

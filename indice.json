@@ -1998,7 +1998,7 @@
      "OMS_2020_Actividad_Fisica",
      "Paruthi_2016_Sueno"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Movimiento libre, juego al aire libre y poco tiempo sentado o sujeto. - Sueño suficiente: afecta a la atención, la conducta y el aprendizaje (Sueno_Infantil). - Pendiente: nota sobre el trastorno del desarrollo de la coordinación (dispraxia).",
    "secciones": [
@@ -2161,7 +2161,7 @@
      "Durlak_2011_ASE",
      "EEF_2019_Socioemocional"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "1. Reconocer la emoción y su intensidad (en el cuerpo y en el pensamiento). 2. Nombrarla con un vocabulario cada vez más preciso. 3. Elegir y usar una estrategia: respirar, alejarse un momento, hablar con alguien, reinterpretar la situación, pedir ayuda. 4. Volver a la tarea y, si hace falta, repara…",
    "secciones": [
@@ -2722,7 +2722,7 @@
      "Mol_2011_Exposicion_Lectora",
      "EEF_2021_Lectoescritura_KS2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Disfrutar de la lectura y desarrollar hábitos lectores propios. - Conocer distintos géneros (narrativa, poesía, teatro, cómic, informativo) y obras de la literatura infantil, clásica y actual, de su cultura y de otras. - Comentar, recomendar y relacionar lecturas; interpretar el lenguaje literario…",
    "secciones": [
@@ -2828,7 +2828,7 @@
      "EEF_2021_Lectoescritura_KS2",
      "EEF_Toolkit"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Escuchar y comprender explicaciones, narraciones e instrucciones. - Expresarse con claridad y adecuación: narrar, explicar, describir, argumentar, preguntar. - Participar en conversaciones y debates respetando los turnos.",
    "secciones": [
@@ -3810,7 +3810,7 @@
      "OMS_2020_Actividad_Fisica",
      "Donnelly_2016_Actividad_Fisica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "1. Competencia motriz: moverse con eficacia y confianza en situaciones variadas (Competencia_Motriz). 2. Hábitos de vida activa y saludable: la OMS recomienda una media de 60 minutos diarios de actividad moderada a vigorosa entre los 5 y los 17 años (OMS_2020_Actividad_Fisica). 3. Desarrollo persona…",
    "secciones": [
@@ -4175,7 +4175,7 @@
      "Durlak_2011_ASE",
      "EEF_2019_Socioemocional"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Las cinco competencias del modelo CASEL, el más usado internacionalmente: 1. Autoconciencia: reconocer las propias emociones, fortalezas y límites. 2. Autorregulación: gestionar las emociones, los impulsos y el estrés (Autorregulacion_Emocional). 3. Conciencia social: empatía, comprensión de otras p…",
    "secciones": [
@@ -4460,7 +4460,7 @@
      "NRP_2000_Lectura",
      "EEF_2021_Lectoescritura_KS2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Ampliar y profundizar su vocabulario, sobre todo el académico (palabras de nivel 2 como *analizar, comparar, consecuencia*) y el específico de las áreas.",
    "secciones": [
@@ -5894,7 +5894,7 @@
      "Donnelly_2016_Actividad_Fisica",
      "OMS_2020_Actividad_Fisica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Integrar breves periodos de actividad física (3-10 minutos) en la jornada escolar o enseñar contenidos con movimiento, para reducir el sedentarismo y facilitar la atención.",
    "secciones": [
@@ -6152,7 +6152,7 @@
      "Taylor_2017_ASE_Seguimiento",
      "EEF_2019_Socioemocional"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar las competencias socioemocionales de forma explícita, secuenciada y practicada, con un tiempo fijo semanal e integrándolas en la vida diaria del aula.",
    "secciones": [
@@ -7985,7 +7985,7 @@
      "DuPaul_2012_TDAH_Escuela",
      "EEF_2019_Conducta"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Trastorno del neurodesarrollo con un patrón persistente de inatención, de hiperactividad-impulsividad o de ambas, presente en varios contextos y que interfiere en el funcionamiento. No es falta de voluntad, mala educación ni simple movimiento excesivo propio de la edad.",
    "secciones": [
@@ -8493,7 +8493,7 @@
     "fuentes": [
      "EEF_2019_Conducta"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Una relación cálida, respetuosa y con expectativas altas es la base sobre la que funcionan todas las demás medidas de gestión del aula.",
    "secciones": [
@@ -8598,7 +8598,7 @@
      "EEF_Toolkit",
      "EEF_2021_Familias"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- La relación entre deberes y rendimiento es débil en Primaria y más fuerte en Secundaria (Cooper_2006_Deberes; EEF_Toolkit). - Si se ponen, que sean breves, frecuentes, con un propósito claro y que el alumno pueda hacer solo: practicar lo ya aprendido (Practica_de_Recuperacion, lectura por placer, …",
    "secciones": [
@@ -8652,7 +8652,7 @@
      "EEF_2019_Conducta",
      "DuPaul_2012_TDAH_Escuela"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Prevenir con estructura y relación, reforzar lo positivo, responder de forma proporcionada y predecible y ofrecer apoyos individuales a quien los necesite.",
    "secciones": [
@@ -8707,7 +8707,7 @@
     "fuentes": [
      "EEF_2019_Conducta"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Pocas normas claras, formuladas en positivo y enseñadas y practicadas como cualquier otro contenido, y rutinas para cada transición del día.",
    "secciones": [
@@ -8792,11 +8792,11 @@
     ],
     "edad_min": "6",
     "edad_max": "12",
-    "nivel_evidencia": "B",
+    "nivel_evidencia": "C",
     "fuentes": [
      "EEF_2021_Familias"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Una comunicación frecuente, positiva y centrada en el aprendizaje, con propuestas concretas para casa adaptadas a cada familia.",
    "secciones": [
@@ -10728,7 +10728,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Baumrind, D. (1971). Current patterns of parental authority. Developmental Psychology Monographs, 4(1, Pt. 2), 1-103.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Dev Psychol Monograph 4(1, Pt. 2):1-103",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio clásico que define los estilos parentales.",
    "secciones": [
@@ -10846,7 +10848,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes, 7(1), 95-112.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.36510/learnland.v7i1.632",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión divulgativa de la investigación sobre el bilingüismo temprano.",
    "secciones": [
@@ -11524,7 +11528,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2019). Improving behaviour in schools: Guidance report. EEF.",
-    "verificado": "parcial"
+    "verificado": "si",
+    "identificador": "EEF 2019",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía con seis recomendaciones para mejorar la conducta en los centros.",
    "secciones": [
@@ -11554,7 +11560,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2019). Improving social and emotional learning in primary schools: Guidance report. EEF.",
-    "verificado": "parcial"
+    "verificado": "si",
+    "identificador": "EEF / EIF 2019",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía con recomendaciones para el aprendizaje socioemocional en Primaria.",
    "secciones": [
@@ -11599,18 +11607,20 @@
   },
   "EEF_2021_Familias": {
    "ruta": "11_Fuentes/EEF_2021_Familias.md",
-   "titulo": "Education Endowment Foundation. (2021). Working with parents to support children's learning: Guidance report. EEF.",
+   "titulo": "Education Endowment Foundation. (2018). Working with parents to support children's learning: Guidance report. EEF.",
    "tipo": "fuente",
    "aliases": [],
    "metadatos": {
     "autores": [
      "Education Endowment Foundation"
     ],
-    "anio": "2021",
+    "anio": "2018",
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
-    "referencia_apa": "Education Endowment Foundation. (2021). Working with parents to support children's learning: Guidance report. EEF.",
-    "verificado": "parcial"
+    "referencia_apa": "Education Endowment Foundation. (2018). Working with parents to support children's learning: Guidance report. EEF.",
+    "verificado": "si",
+    "identificador": "EEF 2018",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía sobre cómo implicar a las familias en el aprendizaje.",
    "secciones": [
@@ -11638,7 +11648,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Education Endowment Foundation. (2021). Improving literacy in Key Stage 2: Guidance report (2nd ed.). EEF.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "EEF 2021, 2ª ed.",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía para la enseñanza de la lectura y la escritura de 7 a 11 años.",
    "secciones": [
@@ -12473,7 +12485,7 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Kuyken, W., et al. (2022). Effectiveness and cost-effectiveness of universal school-based mindfulness training compared with normal school provision in reducing risk of mental health problems and promoting well-being in adolescence: The MYRIAD cluster randomised controlled trial. Evidence-Based Mental Health, 25(3), 99-109.",
-    "verificado": "pendiente"
+    "verificado": "parcial"
    },
    "resumen": "Gran ensayo aleatorizado en el Reino Unido con alumnado de 11 a 16 años.",
    "secciones": [
@@ -12947,7 +12959,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "OECD. (2015). Students, computers and learning: Making the connection. PISA, OECD Publishing.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1787/9789264239555-en",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Análisis de los datos de PISA sobre el uso de la tecnología en la escuela.",
    "secciones": [
@@ -13009,7 +13023,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Bull, F. C., et al. (2020). World Health Organization 2020 guidelines on physical activity and sedentary behaviour. British Journal of Sports Medicine, 54(24), 1451-1462.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1136/bjsports-2020-102955",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Directrices de la OMS sobre actividad física y sedentarismo.",
    "secciones": [
@@ -13856,7 +13872,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. Child Development, 88(4), 1156-1171.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1111/cdev.12864",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de los efectos a largo plazo de los programas de aprendizaje socioemocional.",
    "secciones": [
@@ -14473,7 +14491,7 @@
     "fuentes": [
      "EEF_2019_Socioemocional"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Que el alumnado identifique la intensidad de su estado emocional y elija una estrategia de calma adecuada.",
    "secciones": [
@@ -14769,7 +14787,7 @@
     "fuentes": [
      "Byers_Heinlein_2013_Bilinguismo"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Hablar dos lenguas a un niño pequeño le confunde y retrasa su desarrollo del lenguaje; es mejor esperar a que domine una.",
    "secciones": [
@@ -15198,7 +15216,7 @@
     "fuentes": [
      "Byers_Heinlein_2013_Bilinguismo"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Los niños pueden aprender dos o más lenguas desde el nacimiento sin confusión ni retraso: alcanzan los hitos a la misma edad si se cuentan ambas lenguas (Byers_Heinlein_2013_Bilinguismo). - Mezclar lenguas (*code-switching*) es normal. - En cada lengua puede tener menos vocabulario que un monoling…",
    "secciones": [
@@ -15337,7 +15355,7 @@
     "fuentes": [
      "Baumrind_1971_Estilos_Parentales"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Afecto (calidez, apoyo, comunicación). - Exigencia (normas, supervisión, expectativas).",
    "secciones": [

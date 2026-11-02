@@ -4,9 +4,9 @@ aliases: [Familias, Parental engagement, Comunicación con las familias, Tutorí
 area: [transversal]
 edad_min: 6
 edad_max: 12
-nivel_evidencia: "B"
+nivel_evidencia: "C"
 fuentes: [EEF_2021_Familias]
-estado: borrador
+estado: verificado_ia
 ---
 # Relación con las familias
 
@@ -21,7 +21,7 @@ Una comunicación frecuente, positiva y centrada en el aprendizaje, con propuest
 - En las tutorías difíciles: empezar por lo positivo, describir hechos (no etiquetas), escuchar y acordar un plan concreto con seguimiento.
 
 ## Evidencia
-**Nivel:** B · [[EEF_2021_Familias]]: implicar a las familias en el aprendizaje tiene impacto moderado; el simple aumento de las reuniones o comunicaciones genéricas no lo tiene.
+**Nivel:** C · [[EEF_2021_Familias]]: la evidencia sobre las estrategias de implicación familiar es **mixta**. Lo más prometedor son las propuestas concretas para casa (lectura compartida) y una comunicación centrada en el aprendizaje; aumentar las reuniones o los mensajes genéricos no basta. Para mejorar el rendimiento, las intervenciones directas en el aula tienen más evidencia que las dirigidas a los padres.
 
 ## Qué evitar
 - Pedir a las familias que enseñen contenidos nuevos.

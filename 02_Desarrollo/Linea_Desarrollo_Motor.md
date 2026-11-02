@@ -5,7 +5,7 @@ edad_min: 0
 edad_max: 12
 dimension: [motora]
 fuentes: [Zubler_2022_Hitos_CDC, OMS_2019_Menores_5, OMS_2020_Actividad_Fisica, Paruthi_2016_Sueno]
-estado: borrador
+estado: verificado_ia
 ---
 # Línea de desarrollo: motor y salud física (0-12)
 

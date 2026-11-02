@@ -6,7 +6,7 @@ edad_min: 6
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [Cooper_2006_Deberes, EEF_Toolkit, EEF_2021_Familias]
-estado: borrador
+estado: verificado_ia
 ---
 # Deberes y tareas inacabadas
 

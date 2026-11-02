@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: []
 necesidades_compatibles: [tdah]
 fuentes: [Donnelly_2016_Actividad_Fisica, OMS_2020_Actividad_Fisica]
-estado: borrador
+estado: verificado_ia
 ---
 # Pausas activas y actividad física en el aula
 

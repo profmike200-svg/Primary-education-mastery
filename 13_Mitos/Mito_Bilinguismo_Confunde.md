@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Bilingüismo confunde, Bilingualism delays language, Dos idiomas confunden al niño]
 nivel_evidencia: M
 fuentes: [Byers_Heinlein_2013_Bilinguismo]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: El bilingüismo confunde o retrasa el lenguaje
 

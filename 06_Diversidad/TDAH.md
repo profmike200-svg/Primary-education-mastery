@@ -5,7 +5,7 @@ necesidad: tdah
 prevalencia_aprox: "≈5 % de la población infantil (varía según los criterios)"
 nivel_evidencia: "B"
 fuentes: [DuPaul_2012_TDAH_Escuela, EEF_2019_Conducta]
-estado: borrador
+estado: verificado_ia
 ---
 # Trastorno por déficit de atención e hiperactividad (TDAH)
 

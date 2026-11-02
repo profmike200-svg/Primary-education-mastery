@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: []
 necesidades_compatibles: [tea, tdah, vulnerabilidad_socioemocional]
 fuentes: [Durlak_2011_ASE, Taylor_2017_ASE_Seguimiento, EEF_2019_Socioemocional]
-estado: borrador
+estado: verificado_ia
 ---
 # Programas de aprendizaje socioemocional
 

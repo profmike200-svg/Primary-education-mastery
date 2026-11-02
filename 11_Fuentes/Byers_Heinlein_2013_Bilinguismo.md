@@ -5,7 +5,9 @@ anio: 2013
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes, 7(1), 95-112."
-verificado: pendiente
+verificado: si
+identificador: "10.36510/learnland.v7i1.632"
+fecha_verificacion: 2026-11-02
 ---
 # Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes, 7(1), 95-112.
 
@@ -16,6 +18,8 @@ Revisión divulgativa de la investigación sobre el bilingüismo temprano.
 - El bilingüismo no confunde ni retrasa el desarrollo del lenguaje: los bilingües alcanzan los hitos a la misma edad (contando ambas lenguas).
 - Mezclar las lenguas es normal y no es señal de confusión.
 - Cada lengua necesita suficiente exposición e interacción.
+
+> Responde a seis preguntas frecuentes de los padres separando mitos y hallazgos.
 
 ## Notas que la citan
 <!-- Backlinks de Obsidian -->

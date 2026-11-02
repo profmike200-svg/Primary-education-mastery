@@ -5,7 +5,7 @@ area: [socioemocional]
 edad_min: 6
 edad_max: 12
 fuentes: [Durlak_2011_ASE, EEF_2019_Socioemocional]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión socioemocional
 

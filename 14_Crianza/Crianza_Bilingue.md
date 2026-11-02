@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [Byers_Heinlein_2013_Bilinguismo]
-estado: borrador
+estado: verificado_ia
 ---
 # Crianza bilingüe
 

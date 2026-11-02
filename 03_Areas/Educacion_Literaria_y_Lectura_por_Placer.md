@@ -8,7 +8,7 @@ requisitos_previos: [Decodificacion]
 metodologias_recomendadas: [Estrategias_Comprension_Lectora]
 nivel_evidencia: "B"
 fuentes: [Mol_2011_Exposicion_Lectora, EEF_2021_Lectoescritura_KS2]
-estado: borrador
+estado: verificado_ia
 ---
 # Educación literaria y lectura por placer
 

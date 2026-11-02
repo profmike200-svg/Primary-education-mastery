@@ -5,7 +5,7 @@ area: [educacion_fisica]
 edad_min: 6
 edad_max: 12
 fuentes: [OMS_2020_Actividad_Fisica, Donnelly_2016_Actividad_Fisica]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de educación física
 

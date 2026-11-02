@@ -6,7 +6,7 @@ edad_min: 6
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [EEF_2019_Conducta, DuPaul_2012_TDAH_Escuela]
-estado: borrador
+estado: verificado_ia
 ---
 # Gestión de la conducta
 

@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Programas_de_Aprendizaje_Socioemocional, Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [Durlak_2011_ASE, EEF_2019_Socioemocional]
-estado: borrador
+estado: verificado_ia
 ---
 # Autorregulación emocional
 

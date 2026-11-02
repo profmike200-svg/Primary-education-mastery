@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [Baumrind_1971_Estilos_Parentales]
-estado: borrador
+estado: verificado_ia
 ---
 # Estilos parentales
 

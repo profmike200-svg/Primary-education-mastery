@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita, Practica_de_Recuperacion]
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura, EEF_2021_Lectoescritura_KS2]
-estado: borrador
+estado: verificado_ia
 ---
 # Vocabulario
 

@@ -16,7 +16,7 @@ estado: borrador
 - [[Asamblea_de_Aula]] (D)
 
 ## Familias y deberes
-- [[Relacion_con_las_Familias]] (B)
+- [[Relacion_con_las_Familias]] (C)
 - [[Deberes_y_Tareas_Inacabadas]] (B)
 
 ## Organización del espacio y del tiempo

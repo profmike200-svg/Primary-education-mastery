@@ -13,7 +13,7 @@ necesidades_contempladas: [tdah, tea]
 materiales: [cartel del semáforo, tarjetas de estrategias de calma, pinzas con el nombre o símbolo de cada alumno (opcional)]
 nivel_evidencia: "C"
 fuentes: [EEF_2019_Socioemocional]
-estado: borrador
+estado: verificado_ia
 ---
 # Rutina: semáforo de las emociones
 

@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita, Aprendizaje_Cooperativo]
 nivel_evidencia: "B"
 fuentes: [EEF_2021_Lectoescritura_KS2, EEF_Toolkit]
-estado: borrador
+estado: verificado_ia
 ---
 # Expresión y comprensión oral
 
