@@ -587,6 +587,7 @@
    ],
    "enlaces": [
     "00_INICIO",
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Convivencia_y_Autoridad",
     "CLM_Convocatoria_Maestros_2026",
     "CLM_Decreto_81_2022",
@@ -602,6 +603,11 @@
     "CLM_Programas_Bilingues",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_09_Guion",
+    "CLM_Tema_11_Guion",
+    "CLM_Tema_14_Guion",
     "MOC_Sistema_Educativo_Espanol",
     "Reforma_Oposiciones_2026"
    ],
@@ -1327,6 +1333,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "CLM_Como_Escribir_un_Tema_de_10",
     "Mito_10_por_ciento_Cerebro",
     "Mito_Bilinguismo_Confunde",
     "Mito_Brain_Gym",
@@ -1656,6 +1663,7 @@
     "Piaget"
    ],
    "enlazada_desde": [
+    "CLM_Tema_14_Guion",
     "Clima_y_Relacion",
     "Composicion_Escrita",
     "Comprension_Lectora",
@@ -1869,6 +1877,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Tema_14_Guion",
     "Clima_y_Relacion",
     "Conciencia_Fonologica",
     "Decodificacion",
@@ -3005,6 +3014,8 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "CLM_Supuesto_05_Evaluacion",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
     "Expresion_e_Interaccion_Oral_L2",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera"
@@ -3552,6 +3563,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_02_Fonetica",
+    "CLM_Tema_03_Guion",
     "Lectura_y_Escritura_L2",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -4731,6 +4743,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_02_Fonetica",
+    "CLM_Tema_09_Guion",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_3er_Ciclo_Town_Guide"
@@ -5056,6 +5069,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Tema_11_Guion",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "Rutina_Cuentacuentos_en_Ingles"
@@ -5110,6 +5124,7 @@
     "CLM_Normativa_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_08_AICLE",
+    "CLM_Tema_14_Guion",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera"
@@ -5235,6 +5250,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Tema_14_Guion",
     "Estrategias_Comprension_Lectora",
     "Habilidades_Sociales",
     "Instruccion_Explicita",
@@ -6596,6 +6612,7 @@
     "Practica_de_Recuperacion"
    ],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
@@ -6603,6 +6620,8 @@
     "CLM_Supuesto_03_Analisis_de_Errores",
     "CLM_Supuesto_06_Analisis_de_Material",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_11_Guion",
+    "CLM_Tema_14_Guion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Ideas_Previas_y_Cambio_Conceptual",
     "Instruccion_Explicita",
@@ -6660,11 +6679,13 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_11_Guion",
     "Deberes_y_Tareas_Inacabadas",
     "Evaluacion_Formativa",
     "Gamificacion",
@@ -6838,6 +6859,8 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_14_Guion",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_1er_Ciclo_Animal_Party"
@@ -8172,6 +8195,7 @@
     "RTI_MTSS"
    ],
    "enlazada_desde": [
+    "CLM_Tema_09_Guion",
     "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad",
     "Progresion_Musica"
@@ -8369,6 +8393,8 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_11_Guion",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -8493,6 +8519,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Tema_09_Guion",
     "Composicion_Escrita",
     "Comprension_Lectora",
     "Conciencia_Fonologica",
@@ -8573,6 +8600,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Tema_07_Guion",
     "Crianza_Bilingue",
     "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
@@ -8780,6 +8808,8 @@
    "enlazada_desde": [
     "AICLE_CLIL",
     "CLM_Supuesto_05_Evaluacion",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_09_Guion",
     "Comprension_Lectora",
     "Conciencia_Fonologica",
     "Construccion_de_Oraciones",
@@ -8847,6 +8877,7 @@
     "CLM_Inclusion_Educativa",
     "CLM_Indices_Temario_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Tema_07_Guion",
     "ES_Atencion_a_la_Diversidad",
     "Etapa_6_8_anos",
     "Expresion_Oral",
@@ -9575,6 +9606,7 @@
    "enlazada_desde": [
     "Bruner",
     "CLM_Supuesto_08_AICLE",
+    "CLM_Tema_14_Guion",
     "Cameron_2001_Ninos_Lenguas",
     "Expresion_e_Interaccion_Oral_L2",
     "MOC_Conceptos",
@@ -9712,6 +9744,7 @@
     "Bandura",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_14_Guion",
     "Deberes_y_Tareas_Inacabadas",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos",
@@ -9978,6 +10011,7 @@
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_07_Guion",
     "Comprension_Lectora",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Estrategias_Comprension_Lectora",
@@ -10142,7 +10176,7 @@
     "fuentes": [],
     "estado": "borrador"
    },
-   "resumen": "1. Cada epígrafe del título oficial tiene un apartado propio (el tribunal comprueba que se desarrolla todo el título). 2. Dentro de cada apartado: teoría (autores) → aplicación al aula de Primaria → ejemplo concreto. 3. Un apartado explícito de atención a la diversidad (Decreto 85/2018, DUA) en los …",
+   "resumen": "Cómo redactar un tema de máxima nota: CLM_Como_Escribir_un_Tema_de_10",
    "secciones": [
     "Criterios de mejora aplicados a todos los temas",
     "Bloque I · Language and communication",
@@ -10159,6 +10193,7 @@
     "Autoeficacia",
     "Autonomia_y_Responsabilidades",
     "Bruner",
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "CLM_Oposiciones_Ingles_2028",
@@ -10169,6 +10204,11 @@
     "CLM_Supuesto_04_Cuento_Literatura",
     "CLM_Supuesto_06_Analisis_de_Material",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_09_Guion",
+    "CLM_Tema_11_Guion",
+    "CLM_Tema_14_Guion",
     "Cameron_2001_Ninos_Lenguas",
     "Castles_2018_Reading_Wars",
     "Ciudadania_Digital_y_Seguridad",
@@ -10240,6 +10280,7 @@
     "Vygotsky"
    ],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha"
@@ -10339,6 +10380,7 @@
     "Vocabulario_L2"
    ],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Supuestos_Practicos_Ingles",
@@ -10456,6 +10498,7 @@
     "Reforma_Oposiciones_2026"
    ],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "CLM_Supuesto_02_Fonetica",
@@ -10858,7 +10901,8 @@
     "Relacion_con_las_Familias"
    ],
    "enlazada_desde": [
-    "CLM_Supuestos_Practicos_Ingles"
+    "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_09_Guion"
    ]
   },
   "CLM_Supuesto_08_AICLE": {
@@ -10966,6 +11010,336 @@
     "CLM_Supuesto_06_Analisis_de_Material",
     "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "CLM_Supuesto_08_AICLE",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Como_Escribir_un_Tema_de_10": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Como_Escribir_un_Tema_de_10.md",
+   "titulo": "Cómo escribir un tema para aspirar a la máxima nota",
+   "tipo": "curriculo",
+   "aliases": [
+    "Cómo escribir un tema de 10",
+    "Guía de redacción de temas",
+    "Writing a top-mark topic"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Convocatoria_Maestros_2026",
+     "Dunlosky_2013_Tecnicas_Estudio"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Extensión realista: escribir a mano durante 2 horas da para unas 2.000-2.800 palabras. Si tus temas desarrollados son más largos, prepara una versión de examen algo más condensada y entrena con tiempo real.",
+   "secciones": [
+    "1. Qué distingue un tema de 10 de uno de 6",
+    "2. Estructura y peso aproximado (2 horas, a mano)",
+    "3. Recursos que suman en todos los temas",
+    "4. Errores frecuentes que restan nota",
+    "5. Cómo memorizar los temas (con evidencia)",
+    "Guiones de desarrollo disponibles",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Convocatoria_Maestros_2026",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_09_Guion",
+    "CLM_Tema_11_Guion",
+    "CLM_Tema_14_Guion",
+    "Cameron_2001_Ninos_Lenguas",
+    "Consejo_Europa_2020_MCER",
+    "Dunlosky_2013_Tecnicas_Estudio",
+    "MOC_Mitos",
+    "Pinter_2017_Jovenes_Aprendices",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion"
+   ],
+   "enlazada_desde": [
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
+    "CLM_Tema_09_Guion",
+    "CLM_Tema_11_Guion",
+    "CLM_Tema_14_Guion",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_03_Guion": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_03_Guion.md",
+   "titulo": "Topic 3 · Development script",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 3 guion",
+    "Topic 3 script",
+    "Linguistic skills communicative competence"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Nation_2013_Vocabulario_L2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Title: Developing linguistic skills: listening comprehension and expression, written comprehension and expression. Communicative competence in English.",
+   "secciones": [
+    "1. Introduction",
+    "2. Linguistic skills",
+    "3. Oral comprehension and expression",
+    "4. Written comprehension and expression",
+    "5. Communicative competence in English",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References",
+    "Errores que evitar en este tema"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "Cameron_2001_Ninos_Lenguas",
+    "Consejo_Europa_2020_MCER",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Lectoescritura_en_Ingles",
+    "Lyster_2010_Feedback_Oral_L2",
+    "Nation_2013_Vocabulario_L2"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_07_Guion": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_07_Guion.md",
+   "titulo": "Topic 7 · Development script",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 7 guion",
+    "Topic 7 script",
+    "Oral language listening speaking"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Lyster_2010_Feedback_Oral_L2",
+     "Cameron_2001_Ninos_Lenguas",
+     "Consejo_Europa_2020_MCER"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Title: Oral language. The complexity of global listening comprehension: from hearing to active and selective understanding. From imitation to free production.",
+   "secciones": [
+    "1. Introduction",
+    "2. Oral language",
+    "3. The complexity of global listening comprehension",
+    "4. Didactic application of listening",
+    "5. Speaking: from imitation to free production",
+    "6. Didactic application of speaking",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References",
+    "Errores que evitar"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Incorporacion_Tardia",
+    "Lyster_2010_Feedback_Oral_L2",
+    "Metacognicion",
+    "Respuesta_Fisica_Total_TPR",
+    "TDL",
+    "TEA"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_09_Guion": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_09_Guion.md",
+   "titulo": "Topic 9 · Development script",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 9 guion",
+    "Topic 9 script",
+    "Phonological system English"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Lee_2015_Pronunciacion",
+     "Derwing_2005_Inteligibilidad"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Title: Description of the phonological system of the English language. Models and techniques of learning. Perception, discrimination, rhythms and stresses. The phonetic correction.",
+   "secciones": [
+    "1. Introduction",
+    "2. Phonetics and phonology: key concepts",
+    "3. Description of the English phonological system",
+    "4. Perception, discrimination, rhythms and stresses",
+    "5. Models and techniques of learning",
+    "6. The phonetic correction",
+    "7. Attention to diversity",
+    "8. Conclusion",
+    "9. References",
+    "Errores que evitar"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "Discapacidad_Auditiva",
+    "Dislexia",
+    "Pronunciacion_Ingles",
+    "TDL"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_11_Guion": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_11_Guion.md",
+   "titulo": "Topic 11 · Development script",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 11 guion",
+    "Topic 11 script",
+    "Lexical semantic fields vocabulary"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Nation_2013_Vocabulario_L2",
+     "Dunlosky_2013_Tecnicas_Estudio"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Title: Lexical and semantic fields of English language. Lexicon required for socialization, information and expression of attitudes. Types of activities related to the teaching-learning of vocabulary in the foreign language class.",
+   "secciones": [
+    "1. Introduction",
+    "2. General considerations about teaching words",
+    "3. Lexical and semantic fields of English",
+    "4. Lexicon for socialization, information and expression of attitudes",
+    "5. Types of vocabulary activities",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References",
+    "Errores que evitar"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Nation_2013_Vocabulario_L2",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
+    "Vocabulario_L2"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_14_Guion": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_14_Guion.md",
+   "titulo": "Topic 14 · Development script",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 14 guion",
+    "Topic 14 script",
+    "Methods techniques communicative competence"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Norris_2000_Instruccion_L2",
+     "Cameron_2001_Ninos_Lenguas",
+     "Pinter_2017_Jovenes_Aprendices",
+     "Johnson_2009_Cooperativo",
+     "Asher_1969_TPR"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Title: Methods and techniques focused on the acquisition of communicative competence. Specific methodological basis for English language teaching.",
+   "secciones": [
+    "1. Introduction",
+    "2. Approach, method and technique",
+    "3. Communicative competence (brief link to topic 3)",
+    "4. Methods and techniques focused on communicative competence",
+    "5. Specific methodological basis for English teaching in Primary",
+    "6. Attention to diversity",
+    "7. Conclusion",
+    "8. References",
+    "Errores que evitar"
+   ],
+   "enlaces": [
+    "AICLE_CLIL",
+    "Andamiaje",
+    "Aprendizaje_Cooperativo",
+    "Autoeficacia",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "Etapa_10_12_anos",
+    "Etapa_6_8_anos",
+    "Norris_2000_Instruccion_L2",
+    "Practica_Espaciada",
+    "Respuesta_Fisica_Total_TPR",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "SA_Ingles_3er_Ciclo_Town_Guide"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -12485,6 +12859,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Supuestos_Practicos_Ingles",
     "MOC_Castilla_La_Mancha",
@@ -12666,10 +13041,12 @@
     "Andamiaje"
    ],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Tema_03_Guion",
     "Expresion_e_Interaccion_Oral_L2",
     "Lectura_y_Escritura_L2",
     "MOC_Fuentes",
@@ -12823,8 +13200,10 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_03_Guion",
     "Evaluacion_en_Lengua_Extranjera",
     "MOC_Fuentes",
     "Mediacion_en_L2",
@@ -13093,6 +13472,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Oposiciones_Ingles_2028",
     "MOC_Fuentes",
     "Practica_Espaciada",
@@ -14393,6 +14773,8 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_07_Guion",
     "Comprension_Oral_L2",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Expresion_e_Interaccion_Oral_L2",
@@ -14654,6 +15036,8 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_03_Guion",
+    "CLM_Tema_11_Guion",
     "Lectura_y_Escritura_L2",
     "MOC_Fuentes",
     "Rutina_Cuentacuentos_en_Ingles",
@@ -14756,6 +15140,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_14_Guion",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "MOC_Fuentes"
    ]
@@ -15069,6 +15454,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
@@ -16273,6 +16659,7 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Tema_14_Guion",
     "MOC_Practica",
     "Plurilinguismo_e_Interculturalidad",
     "Progresion_Lengua_Extranjera",
@@ -16679,6 +17066,7 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Tema_14_Guion",
     "MOC_Practica",
     "Progresion_Lengua_Extranjera"
    ]

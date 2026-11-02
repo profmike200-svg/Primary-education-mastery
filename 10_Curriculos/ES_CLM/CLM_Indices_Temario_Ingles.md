@@ -14,6 +14,8 @@ estado: borrador
 
 > Propuesta de índices reorganizados a partir de los temas aportados por el docente (títulos oficiales confirmados en [[CLM_Mapa_Temario_Ingles]]). No reproduce el texto de los temas. Los autores citados son referencias habituales en cada campo: **comprobar cada cita antes de usarla en el examen**.
 
+Cómo redactar un tema de máxima nota: [[CLM_Como_Escribir_un_Tema_de_10]]
+
 ## Criterios de mejora aplicados a todos los temas
 1. **Cada epígrafe del título oficial tiene un apartado propio** (el tribunal comprueba que se desarrolla todo el título).
 2. Dentro de cada apartado: **teoría (autores) → aplicación al aula de Primaria → ejemplo concreto**.
@@ -69,6 +71,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; matiz sobre Mehrabian; diversidad explícita.
 
 ### Topic 3 · Developing linguistic skills. Communicative competence in English
+> 📝 Guion de desarrollo: [[CLM_Tema_03_Guion]]
 1. Introduction
 2. Linguistic skills
    2.1. Classification (receptive/productive; oral/written; Harmer)
@@ -138,6 +141,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque II · The English language: oral, written, phonology, spelling, lexis, grammar
 
 ### Topic 7 · Oral language. Global listening comprehension. From imitation to free production
+> 📝 Guion de desarrollo: [[CLM_Tema_07_Guion]]
 1. Introduction
 2. Oral language: components (phonological, lexical, grammatical, pragmatic, non-verbal)
 3. The complexity of global listening comprehension: from hearing to active and selective understanding
@@ -174,6 +178,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; el punto 3 se divide en las tres fases del título.
 
 ### Topic 9 · The phonological system of English. Models and techniques. Perception, discrimination, rhythm and stress. Phonetic correction
+> 📝 Guion de desarrollo: [[CLM_Tema_09_Guion]]
 1. Introduction: why pronunciation matters; intelligibility as the goal
 2. Phonetics and phonology: concepts (phoneme, allophone, minimal pair)
 3. Description of the English phonological system
@@ -208,6 +213,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: las "orthographic applications in written productions" (en el título) tienen apartado propio; se añade la evidencia sobre métodos sintéticos.
 
 ### Topic 11 · Lexical and semantic fields. Lexicon for socialization, information and attitudes. Vocabulary activities
+> 📝 Guion de desarrollo: [[CLM_Tema_11_Guion]]
 1. Introduction
 2. Teaching words: what knowing a word means (form, meaning, use; Nation); frequency and coverage
 3. Lexical and semantic fields
@@ -252,6 +258,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: el apartado 2 estaba sin numerar; se añade un bloque de métodos humanistas y otro de evidencia.
 
 ### Topic 14 · Methods and techniques for communicative competence. Specific methodological basis for ELT
+> 📝 Guion de desarrollo: [[CLM_Tema_14_Guion]]
 1. Introduction
 2. Approach, method and technique (Anthony; Richards & Rodgers)
 3. Communicative competence (reference to topic 3)
