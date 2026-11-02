@@ -608,7 +608,9 @@
     "CLM_Tema_03_Guion",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_11",
     "CLM_Tema_11_Guion",
     "CLM_Tema_14_Guion",
     "MOC_Sistema_Educativo_Espanol",
@@ -10211,7 +10213,9 @@
     "CLM_Tema_03_Guion",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_11",
     "CLM_Tema_11_Guion",
     "CLM_Tema_14_Guion",
     "Cameron_2001_Ninos_Lenguas",
@@ -10290,6 +10294,8 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Tema_03",
     "CLM_Tema_07",
+    "CLM_Tema_09",
+    "CLM_Tema_11",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha"
    ]
@@ -11068,6 +11074,8 @@
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Tema_03",
     "CLM_Tema_07",
+    "CLM_Tema_09",
+    "CLM_Tema_11",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11117,7 +11125,9 @@
     "CLM_Tema_03_Guion",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_11",
     "CLM_Tema_11_Guion",
     "CLM_Tema_14_Guion",
     "Cameron_2001_Ninos_Lenguas",
@@ -11135,7 +11145,9 @@
     "CLM_Tema_03_Guion",
     "CLM_Tema_07",
     "CLM_Tema_07_Guion",
+    "CLM_Tema_09",
     "CLM_Tema_09_Guion",
+    "CLM_Tema_11",
     "CLM_Tema_11_Guion",
     "CLM_Tema_14_Guion",
     "MOC_Castilla_La_Mancha"
@@ -11359,6 +11371,58 @@
     "MOC_Castilla_La_Mancha"
    ]
   },
+  "CLM_Tema_09": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_09.md",
+   "titulo": "Topic 9",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 9",
+    "Topic 9",
+    "Topic 9 full text",
+    "English phonological system and pronunciation teaching"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Derwing_2005_Inteligibilidad",
+     "Lee_2015_Pronunciacion",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "DESCRIPTION OF THE PHONOLOGICAL SYSTEM OF THE ENGLISH LANGUAGE. MODELS AND TECHNIQUES OF LEARNING. PERCEPTION, DISCRIMINATION, RHYTHMS AND STRESSES. THE PHONETIC CORRECTION",
+   "secciones": [
+    "1. Introduction",
+    "2. Phonetics and phonology: key concepts",
+    "3. Description of the English phonological system",
+    "4. Perception, discrimination, rhythms and stresses",
+    "5. Models and techniques of learning",
+    "6. The phonetic correction",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_09_Guion"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_09_Guion",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
   "CLM_Tema_09_Guion": {
    "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_09_Guion.md",
    "titulo": "Topic 9 · Development script",
@@ -11399,6 +11463,7 @@
    "enlaces": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Tema_09",
     "Discapacidad_Auditiva",
     "Dislexia",
     "Pronunciacion_Ingles",
@@ -11407,6 +11472,57 @@
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_09",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_11": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_11.md",
+   "titulo": "Topic 11",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 11",
+    "Topic 11",
+    "Topic 11 full text",
+    "Lexical and semantic fields and vocabulary teaching"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Nation_2013_Vocabulario_L2",
+     "Dunlosky_2013_Tecnicas_Estudio",
+     "Cameron_2001_Ninos_Lenguas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "LEXICAL AND SEMANTIC FIELDS OF ENGLISH LANGUAGE. LEXICON REQUIRED FOR SOCIALIZATION, INFORMATION AND EXPRESSION OF ATTITUDES. TYPES OF ACTIVITIES RELATED TO THE TEACHING-LEARNING OF VOCABULARY IN THE FOREIGN LANGUAGE CLASS",
+   "secciones": [
+    "1. Introduction",
+    "2. General considerations about learning words",
+    "3. Lexical and semantic fields of English",
+    "4. Lexicon for socialization, information and expression of attitudes",
+    "5. Types of vocabulary activities",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_11_Guion"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_11_Guion",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11448,6 +11564,7 @@
    ],
    "enlaces": [
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_11",
     "Diseno_Universal_para_el_Aprendizaje",
     "Nation_2013_Vocabulario_L2",
     "Practica_Espaciada",
@@ -11457,6 +11574,7 @@
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_11",
     "MOC_Castilla_La_Mancha"
    ]
   },

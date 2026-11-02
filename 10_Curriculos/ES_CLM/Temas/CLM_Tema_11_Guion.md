@@ -12,6 +12,8 @@ estado: borrador
 ---
 # Topic 11 · Development script
 
+> 📘 **Texto completo del tema: [[CLM_Tema_11]]**
+
 **Title**: Lexical and semantic fields of English language. Lexicon required for socialization, information and expression of attitudes. Types of activities related to the teaching-learning of vocabulary in the foreign language class.
 
 > Guion para redactar el tema. Comprueba antes de citar las referencias marcadas como *clásico*. Ver [[CLM_Como_Escribir_un_Tema_de_10]] y [[Vocabulario_L2]].

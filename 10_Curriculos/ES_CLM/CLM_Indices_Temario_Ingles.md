@@ -178,7 +178,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; el punto 3 se divide en las tres fases del título.
 
 ### Topic 9 · The phonological system of English. Models and techniques. Perception, discrimination, rhythm and stress. Phonetic correction
-> 📝 Guion de desarrollo: [[CLM_Tema_09_Guion]]
+> 📘 Tema completo: [[CLM_Tema_09]] · 📝 Guion: [[CLM_Tema_09_Guion]]
 1. Introduction: why pronunciation matters; intelligibility as the goal
 2. Phonetics and phonology: concepts (phoneme, allophone, minimal pair)
 3. Description of the English phonological system
@@ -213,7 +213,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: las "orthographic applications in written productions" (en el título) tienen apartado propio; se añade la evidencia sobre métodos sintéticos.
 
 ### Topic 11 · Lexical and semantic fields. Lexicon for socialization, information and attitudes. Vocabulary activities
-> 📝 Guion de desarrollo: [[CLM_Tema_11_Guion]]
+> 📘 Tema completo: [[CLM_Tema_11]] · 📝 Guion: [[CLM_Tema_11_Guion]]
 1. Introduction
 2. Teaching words: what knowing a word means (form, meaning, use; Nation); frequency and coverage
 3. Lexical and semantic fields

@@ -17,7 +17,7 @@ aliases: [Castilla-La Mancha, CLM, Oposiciones CLM]
 - [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]: situación de aprendizaje modelo (4º, en inglés)
 - [[CLM_Mapa_Temario_Ingles]]: los 25 títulos oficiales ↔ notas de la biblioteca
 - **[[CLM_Indices_Temario_Ingles]]**: índices mejorados de los 25 temas
-- **Temas desarrollados (texto completo, APA)**: [[CLM_Tema_03]] · [[CLM_Tema_07]]
+- **Temas desarrollados (texto completo, APA)**: [[CLM_Tema_03]] · [[CLM_Tema_07]] · [[CLM_Tema_09]] · [[CLM_Tema_11]]
 - **[[CLM_Bloques_Comunes_Temario]]**: familias de temas, bibliografía compartida y bloques para memorizar una vez y usar en varios temas
 - **[[CLM_Como_Escribir_un_Tema_de_10]]** y guiones de desarrollo: [[CLM_Tema_03_Guion]] · [[CLM_Tema_07_Guion]] · [[CLM_Tema_09_Guion]] · [[CLM_Tema_11_Guion]] · [[CLM_Tema_14_Guion]]
 - **[[CLM_Supuestos_Practicos_Ingles]]**: banco de 8 supuestos prácticos resueltos (diversidad, fonética, análisis de errores, cuentos, evaluación, materiales, convivencia, AICLE)

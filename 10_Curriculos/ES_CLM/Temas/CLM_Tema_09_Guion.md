@@ -12,12 +12,14 @@ estado: borrador
 ---
 # Topic 9 · Development script
 
+> 📘 **Texto completo del tema: [[CLM_Tema_09]]**
+
 **Title**: Description of the phonological system of the English language. Models and techniques of learning. Perception, discrimination, rhythms and stresses. The phonetic correction.
 
 > Guion para redactar el tema. Comprueba antes de citar las referencias marcadas como *clásico*, y verifica las transcripciones con un diccionario de pronunciación. Ver [[CLM_Como_Escribir_un_Tema_de_10]] y [[Pronunciacion_Ingles]].
 
 ## 1. Introduction
-- **Hook (option)**: *"'I want to buy a sheet', said a pupil in the shop role-play, and the whole class laughed. One vowel had changed the meaning — and the mood — of the conversation. Pronunciation is not a decoration of language: it is what makes us understood."*
+- **Hook (option)**: *"'I want to buy a sheet', said a pupil in the shop role-play, and the whole class laughed. One sound had changed the meaning — and the mood — of the conversation. Pronunciation is not a decoration of language: it is what makes us understood."*
 - **Relevance**: intelligibility is the goal (Derwing & Munro, 2005 — ✔), and explicit pronunciation teaching works (Lee, Jang & Plonsky, 2015, meta-analysis — ✔). The curriculum includes sounds, rhythm and intonation within the basic knowledge of the Communication block.
 - **Outline**.
 
