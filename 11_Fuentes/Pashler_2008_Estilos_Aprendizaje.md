@@ -5,7 +5,9 @@ anio: 2008
 tipo_fuente: revision_sistematica
 fiabilidad: alta
 referencia_apa: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105-119."
-verificado: pendiente
+verificado: si
+identificador: "10.1111/j.1539-6053.2009.01038.x"
+fecha_verificacion: 2026-11-02
 ---
 # Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105-119.
 

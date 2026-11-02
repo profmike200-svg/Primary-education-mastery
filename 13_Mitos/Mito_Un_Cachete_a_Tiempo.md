@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Un azote a tiempo, Cachete a tiempo, Spanking works, Castigo físico]
 nivel_evidencia: M
 fuentes: [Gershoff_2016_Castigo_Fisico]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Un cachete a tiempo funciona
 

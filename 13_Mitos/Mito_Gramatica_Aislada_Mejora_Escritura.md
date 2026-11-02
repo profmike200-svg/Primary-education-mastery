@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Análisis gramatical aislado, Traditional grammar instruction, Análisis sintáctico para escribir mejor]
 nivel_evidencia: M
 fuentes: [Graham_2007_Writing_Next]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: El análisis gramatical aislado mejora la escritura
 

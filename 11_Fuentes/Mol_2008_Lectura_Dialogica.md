@@ -5,7 +5,9 @@ anio: 2008
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development, 19(1), 7-26."
-verificado: pendiente
+verificado: si
+identificador: "10.1080/10409280701838603"
+fecha_verificacion: 2026-11-02
 ---
 # Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development, 19(1), 7-26.
 

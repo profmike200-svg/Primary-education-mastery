@@ -13,7 +13,7 @@ necesidades_contempladas: [discalculia, altas_capacidades, tdah]
 materiales: [tiras de papel de igual longitud, cuerda o cinta en el suelo, pinzas, pizarras individuales]
 nivel_evidencia: "A"
 fuentes: [Siegler_2010_Fracciones_IES]
-estado: borrador
+estado: verificado_ia
 ---
 # Sesión: las fracciones son números (recta numérica)
 

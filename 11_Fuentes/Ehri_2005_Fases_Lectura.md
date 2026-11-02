@@ -5,7 +5,9 @@ anio: 2005
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of Reading, 9(2), 167-188."
-verificado: pendiente
+verificado: si
+identificador: "10.1207/s1532799xssr0902_4"
+fecha_verificacion: 2026-11-02
 ---
 # Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of Reading, 9(2), 167-188.
 

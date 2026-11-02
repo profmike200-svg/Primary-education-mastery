@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: [—]
 necesidades_compatibles: []
 fuentes: [Dunlosky_2013_Tecnicas_Estudio]
-estado: borrador
+estado: verificado_ia
 ---
 # Práctica espaciada
 

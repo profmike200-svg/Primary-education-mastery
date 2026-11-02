@@ -5,7 +5,9 @@ anio: 2016
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "AAP Council on Communications and Media. (2016). Media and young minds. Pediatrics, 138(5), e20162591."
-verificado: pendiente
+verificado: si
+identificador: "10.1542/peds.2016-2591"
+fecha_verificacion: 2026-11-02
 ---
 # AAP Council on Communications and Media. (2016). Media and young minds. Pediatrics, 138(5), e20162591.
 

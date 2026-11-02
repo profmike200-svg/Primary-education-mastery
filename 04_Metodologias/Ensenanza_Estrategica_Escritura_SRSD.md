@@ -8,7 +8,7 @@ nivel_evidencia: "A"
 autores: []
 necesidades_compatibles: [tdah, dislexia, tdl, discapacidad_intelectual]
 fuentes: [Graham_2012_Metaanalisis_Escritura, Graham_2007_Writing_Next]
-estado: borrador
+estado: verificado_ia
 ---
 # Enseñanza estratégica de la escritura (SRSD)
 

@@ -5,7 +5,7 @@ necesidad: altas_capacidades
 prevalencia_aprox: "Depende del criterio (≈2-10 %)"
 nivel_evidencia: "A"
 fuentes: [Steenbergen_2016_Aceleracion]
-estado: borrador
+estado: verificado_ia
 ---
 # Altas capacidades
 

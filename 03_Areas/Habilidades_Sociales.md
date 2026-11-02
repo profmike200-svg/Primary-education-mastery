@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Programas_de_Aprendizaje_Socioemocional, Aprendizaje_Cooperativo]
 nivel_evidencia: "B"
 fuentes: [Durlak_2011_ASE]
-estado: borrador
+estado: verificado_ia
 ---
 # Habilidades sociales
 

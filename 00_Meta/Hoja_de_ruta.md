@@ -28,6 +28,11 @@ aliases: [Roadmap, Pendientes]
 - [x] Castilla-La Mancha: normativa, inclusión y bloque de oposiciones de Inglés 2028 ([[MOC_Castilla_La_Mancha]])
 - [x] Vista "qué se trabaja en cada curso" ([[MOC_Por_Curso]])
 
+## Verificación de fuentes (IA)
+- [x] Tanda 1 (2026-11-02): 22 fuentes clave verificadas en línea (Dunlosky, Pashler, Kirschner, Rosenshine, Hattie y Timperley, Black y Wiliam, Castles, Ehri, Seymour, Graham ×2, Siegler, Fuchs, Durlak, Gershoff, Paruthi, OMS 2019, AAP 2016, Steenbergen-Hu, Melby-Lervåg, Zubler, Mol 2008). Correcciones: autores de Fuchs 2021, matiz en Gershoff 2016, título de Dunlosky, páginas de Black y Wiliam. 15 notas promovidas a `verificado_ia`.
+- [ ] Tanda 2: EEF Toolkit y guías EEF, NRP 2000, Sweller 1988, Santangelo 2016, Graham y Santangelo 2014, Johnson 2009, Norris y Ortega 2000, Lyster y Saito 2010, Nation 2013, Bakermans-Kranenburg 2003, Sanders 2014, Moffitt 2011, Heckman 2006, Ryan y Deci 2000, Sylva 2004 (EPPE), DeLoache 2010, Watts 2018, Lillard 2013, Byers-Heinlein 2013, Baumrind 1971
+- [ ] Tanda 3: resto de fuentes y normativa (BOE / DOCM)
+
 ## Tareas del docente
 - [ ] Revisar los dos pilotos y pasar a `revisado` lo que esté bien
 - [ ] Verificar las fichas de `11_Fuentes` (`verificado: pendiente` → `si`)

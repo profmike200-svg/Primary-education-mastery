@@ -5,7 +5,9 @@ anio: 2003
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Seymour, P. H. K., Aro, M., & Erskine, J. M. (2003). Foundation literacy acquisition in European orthographies. British Journal of Psychology, 94(2), 143-174."
-verificado: pendiente
+verificado: si
+identificador: "10.1348/000712603321661859"
+fecha_verificacion: 2026-11-02
 ---
 # Seymour, Aro y Erskine (2003): alfabetización inicial en ortografías europeas
 

@@ -5,7 +5,9 @@ anio: 2022
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Zubler, J. M., Wiggins, L. D., Macias, M. M., et al. (2022). Evidence-informed milestones for developmental surveillance tools. Pediatrics, 149(3), e2021052138."
-verificado: pendiente
+verificado: si
+identificador: "10.1542/peds.2021-052138"
+fecha_verificacion: 2026-11-02
 ---
 # Zubler, J. M., Wiggins, L. D., Macias, M. M., et al. (2022). Evidence-informed milestones for developmental surveillance tools. Pediatrics, 149(3), e2021052138.
 

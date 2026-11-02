@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Paruthi_2016_Sueno, OMS_2019_Menores_5]
-estado: borrador
+estado: verificado_ia
 ---
 # Sueño infantil
 
@@ -27,7 +27,7 @@ El sueño insuficiente se asocia con peor atención, conducta, regulación emoci
 - Rutina previa tranquila y predecible (baño, pijama, cuento: [[Lectura_Compartida_en_Familia]]).
 - Sin pantallas la hora anterior ni en el dormitorio ([[Pantallas_en_la_Infancia]]).
 - Bebés: dormir **boca arriba**, en superficie firme, sin objetos blandos (prevención de la muerte súbita del lactante).
-- Las técnicas conductuales para los problemas de sueño del bebé (p. ej. extinción gradual) han mostrado eficacia sin daños emocionales detectados en estudios de seguimiento; la elección del método corresponde a cada familia, con orientación del pediatra.
+- Técnicas conductuales para los problemas de sueño del bebé (p. ej. extinción gradual): hay ensayos que indican eficacia sin daños detectados en el seguimiento *(pendiente de enlazar y verificar las fuentes: Gradisar et al., 2016; Price et al., 2012)*. La elección del método corresponde a cada familia, con orientación del pediatra.
 
 ## Ver también
 [[Linea_Desarrollo_Motor]] · [[TDAH]] (descartar problemas de sueño)

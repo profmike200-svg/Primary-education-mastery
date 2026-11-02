@@ -5,7 +5,9 @@ anio: 2019
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. WHO."
-verificado: pendiente
+verificado: si
+identificador: "WHO 2019"
+fecha_verificacion: 2026-11-02
 ---
 # World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. WHO.
 

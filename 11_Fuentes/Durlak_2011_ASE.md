@@ -5,7 +5,9 @@ anio: 2011
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432."
-verificado: pendiente
+verificado: si
+identificador: "PMID 21291449"
+fecha_verificacion: 2026-11-02
 ---
 # Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432.
 

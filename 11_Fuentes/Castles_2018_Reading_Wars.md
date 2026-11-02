@@ -5,7 +5,9 @@ anio: 2018
 tipo_fuente: revision_sistematica
 fiabilidad: alta
 referencia_apa: "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5-51."
-verificado: pendiente
+verificado: si
+identificador: "10.1177/1529100618772271"
+fecha_verificacion: 2026-11-02
 ---
 # Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5-51.
 

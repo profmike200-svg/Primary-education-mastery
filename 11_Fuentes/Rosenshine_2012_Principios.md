@@ -5,7 +5,9 @@ anio: 2012
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39."
-verificado: pendiente
+verificado: si
+identificador: "ERIC EJ971753"
+fecha_verificacion: 2026-11-02
 ---
 # Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39.
 

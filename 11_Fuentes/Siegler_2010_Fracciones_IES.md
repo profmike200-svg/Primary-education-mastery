@@ -5,7 +5,9 @@ anio: 2010
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Siegler, R., et al. (2010). Developing effective fractions instruction for kindergarten through 8th grade: A practice guide (NCEE 2010-4039). Institute of Education Sciences, U.S. Department of Education."
-verificado: pendiente
+verificado: si
+identificador: "NCEE 2010-4039"
+fecha_verificacion: 2026-11-02
 ---
 # Siegler, R., et al. (2010). Developing effective fractions instruction for kindergarten through 8th grade: A practice guide (NCEE 2010-4039). Institute of Education Sciences, U.S. Department of Education.
 

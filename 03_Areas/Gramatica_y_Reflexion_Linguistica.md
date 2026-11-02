@@ -8,7 +8,7 @@ requisitos_previos: [Construccion_de_Oraciones]
 metodologias_recomendadas: [Instruccion_Explicita]
 nivel_evidencia: "B"
 fuentes: [Graham_2007_Writing_Next]
-estado: borrador
+estado: verificado_ia
 ---
 # Gramática y reflexión lingüística
 

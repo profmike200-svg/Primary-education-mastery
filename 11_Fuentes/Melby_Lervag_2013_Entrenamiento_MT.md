@@ -5,7 +5,9 @@ anio: 2013
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Melby-Lervåg, M., & Hulme, C. (2013). Is working memory training effective? A meta-analytic review. Developmental Psychology, 49(2), 270-291."
-verificado: pendiente
+verificado: si
+identificador: "10.1037/a0028228"
+fecha_verificacion: 2026-11-02
 ---
 # Melby-Lervåg, M., & Hulme, C. (2013). Is working memory training effective? A meta-analytic review. Developmental Psychology, 49(2), 270-291.
 

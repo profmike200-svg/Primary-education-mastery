@@ -5,7 +5,9 @@ anio: 2012
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. Journal of Educational Psychology, 104(4), 879-896."
-verificado: pendiente
+verificado: si
+identificador: "10.1037/a0029185"
+fecha_verificacion: 2026-11-02
 ---
 # Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. Journal of Educational Psychology, 104(4), 879-896.
 

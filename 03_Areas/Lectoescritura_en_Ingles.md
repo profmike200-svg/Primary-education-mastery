@@ -8,7 +8,7 @@ requisitos_previos: [Comprension_Oral_L2]
 metodologias_recomendadas: [Ensenanza_Fonetica_Sistematica]
 nivel_evidencia: "C"
 fuentes: [Castles_2018_Reading_Wars, Seymour_2003_Ortografias_Europeas]
-estado: borrador
+estado: verificado_ia
 ---
 # Lectoescritura en inglés
 

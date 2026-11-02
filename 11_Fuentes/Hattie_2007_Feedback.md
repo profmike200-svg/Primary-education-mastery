@@ -5,7 +5,9 @@ anio: 2007
 tipo_fuente: revision_sistematica
 fiabilidad: alta
 referencia_apa: "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112."
-verificado: pendiente
+verificado: si
+identificador: "10.3102/003465430298487"
+fecha_verificacion: 2026-11-02
 ---
 # Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.
 

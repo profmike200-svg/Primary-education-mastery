@@ -5,7 +5,9 @@ anio: 2006
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75-86."
-verificado: pendiente
+verificado: si
+identificador: "10.1207/s15326985ep4102_1"
+fecha_verificacion: 2026-11-02
 ---
 # Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75-86.
 

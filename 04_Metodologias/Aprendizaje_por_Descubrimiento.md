@@ -8,7 +8,7 @@ nivel_evidencia: "C"
 autores: [Bruner]
 necesidades_compatibles: []
 fuentes: [Kirschner_2006_Guia_Minima]
-estado: borrador
+estado: verificado_ia
 ---
 # Aprendizaje por descubrimiento (sin guía)
 

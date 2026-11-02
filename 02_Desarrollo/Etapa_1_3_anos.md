@@ -5,7 +5,7 @@ edad_min: 1
 edad_max: 3
 dimension: [cognitiva, linguistica, socioemocional, motora, ejecutiva]
 fuentes: [Zubler_2022_Hitos_CDC, OMS_2019_Menores_5, AAP_2016_Pantallas, Mol_2008_Lectura_Dialogica]
-estado: borrador
+estado: verificado_ia
 ---
 # Etapa de 1 a 3 años
 

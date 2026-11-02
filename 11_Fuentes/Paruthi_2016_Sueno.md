@@ -5,7 +5,9 @@ anio: 2016
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Paruthi, S., Brooks, L. J., D'Ambrosio, C., et al. (2016). Recommended amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine. Journal of Clinical Sleep Medicine, 12(6), 785-786."
-verificado: pendiente
+verificado: si
+identificador: "J Clin Sleep Med 12(6):785-786"
+fecha_verificacion: 2026-11-02
 ---
 # Paruthi, S., Brooks, L. J., D'Ambrosio, C., et al. (2016). Recommended amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine. Journal of Clinical Sleep Medicine, 12(6), 785-786.
 

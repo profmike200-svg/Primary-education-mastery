@@ -135,6 +135,7 @@
    "resumen": "- [x] Arquitectura, plantillas, taxonomía, validador - [x] Desarrollo: 3 etapas (6-12) - [x] Piloto de lectoescritura (progresión, 4 contenidos, métodos, dislexia, práctica, ES/US) - [x] Piloto de matemáticas, bloque numérico (progresión, 7 contenidos, 3 métodos, discalculia, práctica, ES/US) - [x] …",
    "secciones": [
     "Hecho (pendiente de revisión docente)",
+    "Verificación de fuentes (IA)",
     "Tareas del docente",
     "Próximos bloques"
    ],
@@ -1602,7 +1603,7 @@
      "AAP_2016_Pantallas",
      "Mol_2008_Lectura_Dialogica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Llegan la marcha, la explosión del lenguaje y el deseo de autonomía (\"yo solo\", \"no\"). El niño explora activamente desde la base segura de sus figuras de apego. Las rabietas son esperables: su capacidad de regulación es todavía muy inmadura (Funciones_Ejecutivas).",
    "secciones": [
@@ -3098,7 +3099,7 @@
     "fuentes": [
      "Graham_2007_Writing_Next"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Reconocer las clases de palabras, la concordancia, la estructura de la oración, los tiempos verbales y los mecanismos de cohesión, y usar ese conocimiento para hablar y escribir mejor.",
    "secciones": [
@@ -3147,7 +3148,7 @@
     "fuentes": [
      "Durlak_2011_ASE"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- 6-8: saludar, esperar turno, compartir, pedir ayuda y disculpas, unirse a un juego. - 8-10: escucha activa, dar y recibir críticas constructivas, cooperar, negociar. - 10-12: asertividad (decir \"no\" sin agredir), resistir la presión de grupo, resolver conflictos de forma autónoma, convivencia digi…",
    "secciones": [
@@ -3257,7 +3258,7 @@
      "Castles_2018_Reading_Wars",
      "Seymour_2003_Ortografias_Europeas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Comprender que en inglés una misma letra puede sonar distinto y un mismo sonido escribirse de varias formas. - Decodificar palabras regulares con las correspondencias más frecuentes (*phonics*) y reconocer palabras irregulares de alta frecuencia (*the, said, was*). - Leer y escribir textos breves …",
    "secciones": [
@@ -4831,7 +4832,7 @@
     "fuentes": [
      "Kirschner_2006_Guia_Minima"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El alumno descubre por sí mismo principios y conceptos con mínima intervención del docente.",
    "secciones": [
@@ -5093,7 +5094,7 @@
      "Graham_2012_Metaanalisis_Escritura",
      "Graham_2007_Writing_Next"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar de forma explícita estrategias de planificación y revisión de textos junto con estrategias de autorregulación (metas, autoinstrucciones, autoevaluación), hasta que el alumno las use de forma autónoma.",
    "secciones": [
@@ -6023,7 +6024,7 @@
     "fuentes": [
      "Dunlosky_2013_Tecnicas_Estudio"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Distribuir la práctica de un contenido en varias sesiones separadas en el tiempo en lugar de concentrarla.",
    "secciones": [
@@ -6081,7 +6082,7 @@
     "fuentes": [
      "Dunlosky_2013_Tecnicas_Estudio"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Hacer que el alumno saque de la memoria lo aprendido (en lugar de releerlo) fortalece el recuerdo a largo plazo.",
    "secciones": [
@@ -7350,7 +7351,7 @@
     "fuentes": [
      "Steenbergen_2016_Aceleracion"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Capacidad intelectual o talento significativamente superior en uno o varios ámbitos, a menudo acompañado de alta creatividad y compromiso con la tarea. Es heterogéneo y puede coexistir con otras dificultades (doble excepcionalidad).",
    "secciones": [
@@ -10572,7 +10573,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "AAP Council on Communications and Media. (2016). Media and young minds. Pediatrics, 138(5), e20162591.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1542/peds.2016-2591",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Recomendaciones de la Academia Americana de Pediatría sobre pantallas en menores de 5 años.",
    "secciones": [
@@ -10769,7 +10772,7 @@
   },
   "Black_1998_Black_Box": {
    "ruta": "11_Fuentes/Black_1998_Black_Box.md",
-   "titulo": "Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. Phi Delta Kappan, 80(2), 139-148.",
+   "titulo": "Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. Phi Delta Kappan, 80(2), 139-144, 146-148.",
    "tipo": "fuente",
    "aliases": [],
    "metadatos": {
@@ -10780,8 +10783,10 @@
     "anio": "1998",
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
-    "referencia_apa": "Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. Phi Delta Kappan, 80(2), 139-148.",
-    "verificado": "pendiente"
+    "referencia_apa": "Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. Phi Delta Kappan, 80(2), 139-144, 146-148.",
+    "verificado": "si",
+    "identificador": "JSTOR 20439383",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Divulgación de su revisión sobre evaluación formativa (Assessment in Education, 1998): la evaluación usada para ajustar la enseñanza mejora el aprendizaje.",
    "secciones": [
@@ -11097,7 +11102,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5-51.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/1529100618772271",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión exhaustiva de cómo se aprende a leer, desde la decodificación hasta la lectura experta.",
    "secciones": [
@@ -11386,7 +11393,7 @@
   },
   "Dunlosky_2013_Tecnicas_Estudio": {
    "ruta": "11_Fuentes/Dunlosky_2013_Tecnicas_Estudio.md",
-   "titulo": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4-58.",
+   "titulo": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58.",
    "tipo": "fuente",
    "aliases": [],
    "metadatos": {
@@ -11400,8 +11407,10 @@
     "anio": "2013",
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
-    "referencia_apa": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4-58.",
-    "verificado": "pendiente"
+    "referencia_apa": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58.",
+    "verificado": "si",
+    "identificador": "PSPI 14(1):4-58",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión de diez técnicas de estudio, valoradas según su utilidad en distintos alumnos, materiales y contextos.",
    "secciones": [
@@ -11434,7 +11443,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "PMID 21291449",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de 213 programas escolares universales de aprendizaje socioemocional.",
    "secciones": [
@@ -11830,7 +11841,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of Reading, 9(2), 167-188.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1207/s1532799xssr0902_4",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Teoría de las fases del reconocimiento de palabras y del mapeo ortográfico.",
    "secciones": [
@@ -11847,21 +11860,32 @@
   },
   "Fuchs_2021_Intervencion_Matematicas_IES": {
    "ruta": "11_Fuentes/Fuchs_2021_Intervencion_Matematicas_IES.md",
-   "titulo": "Fuchs, L. S., et al. (2021). Assisting students struggling with mathematics: Intervention in the elementary grades (WWC 2021006). Institute of Education Sciences, U.S. Department of Education.",
+   "titulo": "Fuchs, L. S., Newman-Gonchar, R., Schumacher, R., Dougherty, B., Bucka, N., Karp, K. S., Woodward, J., Clarke, B., Jordan, N. C., Gersten, R., Jayanthi, M., Keating, B., & Morgan, S. (2021). Assisting students struggling with mathematics: Intervention in the elementary grades (WWC 2021006). Institute of Education Sciences, U.S. Department of Education.",
    "tipo": "fuente",
    "aliases": [],
    "metadatos": {
     "autores": [
      "Fuchs",
-     "Newman",
-     "Kearns",
-     "Gersten et al."
+     "Newman-Gonchar",
+     "Schumacher",
+     "Dougherty",
+     "Bucka",
+     "Karp",
+     "Woodward",
+     "Clarke",
+     "Jordan",
+     "Gersten",
+     "Jayanthi",
+     "Keating",
+     "Morgan"
     ],
     "anio": "2021",
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
-    "referencia_apa": "Fuchs, L. S., et al. (2021). Assisting students struggling with mathematics: Intervention in the elementary grades (WWC 2021006). Institute of Education Sciences, U.S. Department of Education.",
-    "verificado": "pendiente"
+    "referencia_apa": "Fuchs, L. S., Newman-Gonchar, R., Schumacher, R., Dougherty, B., Bucka, N., Karp, K. S., Woodward, J., Clarke, B., Jordan, N. C., Gersten, R., Jayanthi, M., Keating, B., & Morgan, S. (2021). Assisting students struggling with mathematics: Intervention in the elementary grades (WWC 2021006). Institute of Education Sciences, U.S. Department of Education.",
+    "verificado": "si",
+    "identificador": "WWC 2021006",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía práctica sobre la intervención matemática en Primaria con alumnado con dificultades.",
    "secciones": [
@@ -11921,7 +11945,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Gershoff, E. T., & Grogan-Kaylor, A. (2016). Spanking and child outcomes: Old controversies and new meta-analyses. Journal of Family Psychology, 30(4), 453-469.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/fam0000191",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de más de 75 estudios sobre el castigo físico (azotes) y sus consecuencias en la infancia.",
    "secciones": [
@@ -11977,7 +12003,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. Alliance for Excellent Education.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Alliance for Excellent Education / Carnegie Corporation",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la enseñanza de la escritura (de 4º en adelante).",
    "secciones": [
@@ -12043,7 +12071,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Graham, S., McKeown, D., Kiuhara, S., & Harris, K. R. (2012). A meta-analysis of writing instruction for students in the elementary grades. Journal of Educational Psychology, 104(4), 879-896.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/a0029185",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de la enseñanza de la escritura en Primaria.",
    "secciones": [
@@ -12100,7 +12130,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3102/003465430298487",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Modelo de retroalimentación eficaz basado en tres preguntas (¿hacia dónde voy?, ¿cómo voy?, ¿qué sigue?) y cuatro niveles (tarea, proceso, autorregulación, persona).",
    "secciones": [
@@ -12301,7 +12333,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75-86.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1207/s15326985ep4102_1",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Argumenta, desde la teoría de la carga cognitiva, que la instrucción con guía mínima (descubrimiento puro) es menos eficaz que la guiada para el alumnado novel.",
    "secciones": [
@@ -12572,7 +12606,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Melby-Lervåg, M., & Hulme, C. (2013). Is working memory training effective? A meta-analytic review. Developmental Psychology, 49(2), 270-291.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/a0028228",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre los programas de entrenamiento de la memoria de trabajo.",
    "secciones": [
@@ -12634,7 +12670,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development, 19(1), 7-26.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1080/10409280701838603",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de la lectura dialógica entre padres e hijos.",
    "secciones": [
@@ -12867,7 +12905,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. WHO.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "WHO 2019",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Directrices de la OMS sobre actividad física, sedentarismo y sueño de 0 a 5 años.",
    "secciones": [
@@ -12960,7 +13000,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Paruthi, S., Brooks, L. J., D'Ambrosio, C., et al. (2016). Recommended amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine. Journal of Clinical Sleep Medicine, 12(6), 785-786.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "J Clin Sleep Med 12(6):785-786",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Recomendaciones de horas de sueño por edad, incluidas las siestas.",
    "secciones": [
@@ -12991,7 +13033,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105-119.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1111/j.1539-6053.2009.01038.x",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión que define qué diseño experimental haría falta para demostrar la hipótesis de los estilos de aprendizaje (la *interacción*) y constata que casi no hay estudios que la cumplan; los pocos que la ponen a prueba la contradicen.",
    "secciones": [
@@ -13259,7 +13303,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "ERIC EJ971753",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis de diez principios de instrucción que integra la ciencia cognitiva, las prácticas de los docentes más eficaces y los estudios sobre estrategias de apoyo cognitivo.",
    "secciones": [
@@ -13493,7 +13539,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Seymour, P. H. K., Aro, M., & Erskine, J. M. (2003). Foundation literacy acquisition in European orthographies. British Journal of Psychology, 94(2), 143-174.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1348/000712603321661859",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Compara la adquisición de la lectura inicial en 13 lenguas europeas.",
    "secciones": [
@@ -13558,7 +13606,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Siegler, R., et al. (2010). Developing effective fractions instruction for kindergarten through 8th grade: A practice guide (NCEE 2010-4039). Institute of Education Sciences, U.S. Department of Education.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "NCEE 2010-4039",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía práctica del What Works Clearinghouse sobre la enseñanza de fracciones.",
    "secciones": [
@@ -13619,7 +13669,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Steenbergen-Hu, S., Makel, M. C., & Olszewski-Kubilius, P. (2016). What one hundred years of research says about the effects of ability grouping and acceleration on K-12 students' academic achievement. Review of Educational Research, 86(4), 849-899.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3102/0034654316675417",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Segundo orden de metaanálisis sobre el agrupamiento por capacidad y la aceleración.",
    "secciones": [
@@ -13939,7 +13991,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Zubler, J. M., Wiggins, L. D., Macias, M. M., et al. (2022). Evidence-informed milestones for developmental surveillance tools. Pediatrics, 149(3), e2021052138.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1542/peds.2021-052138",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión de los hitos del desarrollo de la campaña *Learn the Signs. Act Early.* (CDC y Academia Americana de Pediatría).",
    "secciones": [
@@ -14380,7 +14434,7 @@
     "fuentes": [
      "Graham_2012_Metaanalisis_Escritura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Al terminar, el alumnado planificará un cuento con un organizador de siete preguntas y escribirá una narración que incluya todos los elementos (personaje, tiempo, lugar, objetivo, acción, final y emoción).",
    "secciones": [
@@ -14442,7 +14496,7 @@
     "fuentes": [
      "Siegler_2010_Fracciones_IES"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Al terminar, el alumnado situará fracciones unitarias y no unitarias (con denominadores 2, 3, 4, 6 y 8) entre 0 y 1 en la recta numérica y justificará cuál es mayor.",
    "secciones": [
@@ -14729,7 +14783,7 @@
     "fuentes": [
      "Melby_Lervag_2013_Entrenamiento_MT"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los programas informáticos que entrenan la memoria de trabajo o la atención mejoran la inteligencia, el rendimiento escolar o los síntomas del TDAH.",
    "secciones": [
@@ -14764,7 +14818,7 @@
     "fuentes": [
      "Graham_2007_Writing_Next"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Si los alumnos aprenden a identificar y analizar las categorías gramaticales y las funciones sintácticas, escribirán mejor.",
    "secciones": [
@@ -14914,7 +14968,7 @@
     "fuentes": [
      "Gershoff_2016_Castigo_Fisico"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Un azote o un cachete de vez en cuando es eficaz para corregir y no hace daño.",
    "secciones": [
@@ -15508,7 +15562,7 @@
      "Paruthi_2016_Sueno",
      "OMS_2019_Menores_5"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El sueño insuficiente se asocia con peor atención, conducta, regulación emocional, aprendizaje y salud. Algunos niños con \"problemas de atención\" en realidad duermen poco.",
    "secciones": [

@@ -5,7 +5,9 @@ anio: 2016
 tipo_fuente: revision_sistematica
 fiabilidad: alta
 referencia_apa: "Steenbergen-Hu, S., Makel, M. C., & Olszewski-Kubilius, P. (2016). What one hundred years of research says about the effects of ability grouping and acceleration on K-12 students' academic achievement. Review of Educational Research, 86(4), 849-899."
-verificado: pendiente
+verificado: si
+identificador: "10.3102/0034654316675417"
+fecha_verificacion: 2026-11-02
 ---
 # Steenbergen-Hu, S., Makel, M. C., & Olszewski-Kubilius, P. (2016). What one hundred years of research says about the effects of ability grouping and acceleration on K-12 students' academic achievement. Review of Educational Research, 86(4), 849-899.
 

@@ -13,7 +13,7 @@ necesidades_contempladas: [tdah, dislexia, altas_capacidades]
 materiales: [cuentos modelo, tarjeta de la estrategia, organizador gráfico, rúbrica, gráfica de progreso]
 nivel_evidencia: "A"
 fuentes: [Graham_2012_Metaanalisis_Escritura]
-estado: borrador
+estado: verificado_ia
 ---
 # Secuencia: escribir un cuento con estrategia de planificación (SRSD)
 

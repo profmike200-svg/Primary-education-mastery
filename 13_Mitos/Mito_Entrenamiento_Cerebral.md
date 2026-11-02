@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Entrenamiento cerebral, Brain training, Entrenamiento de la memoria de trabajo, Cogmed, Juegos para la atención]
 nivel_evidencia: M
 fuentes: [Melby_Lervag_2013_Entrenamiento_MT]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Los juegos de entrenamiento cerebral mejoran la inteligencia
 

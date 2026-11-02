@@ -4,10 +4,12 @@ autores: [Dunlosky, Rawson, Marsh, Nathan, Willingham]
 anio: 2013
 tipo_fuente: revision_sistematica
 fiabilidad: alta
-referencia_apa: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4-58."
-verificado: pendiente
+referencia_apa: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58."
+verificado: si
+identificador: "PSPI 14(1):4-58"
+fecha_verificacion: 2026-11-02
 ---
-# Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. Psychological Science in the Public Interest, 14(1), 4-58.
+# Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. Psychological Science in the Public Interest, 14(1), 4-58.
 
 ## Resumen (con palabras propias)
 Revisión de diez técnicas de estudio, valoradas según su utilidad en distintos alumnos, materiales y contextos.
