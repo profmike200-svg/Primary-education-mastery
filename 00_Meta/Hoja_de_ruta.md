@@ -55,7 +55,8 @@ aliases: [Roadmap, Pendientes]
 - [ ] Ampliar a la adolescencia (12-18) cuando el núcleo 0-12 esté completo
 - [ ] Profundizar contenidos de Primaria con los saberes básicos del Decreto 81/2022 como lista de comprobación
 - [ ] CLM: contrastar con el DOCM las normas marcadas `verificado: parcial` (número del nuevo decreto de bilingüismo, fechas de convivencia y autoridad)
-- [ ] Oposiciones: listado oficial de los 25 temas de Inglés en [[CLM_Mapa_Temario_Ingles]]; banco de supuestos prácticos; más situaciones de aprendizaje en inglés (una por curso)
+- [x] Los 25 temas de Inglés reconstruidos y enlazados en [[CLM_Mapa_Temario_Ingles]] (17 de fiabilidad alta, 8 media; contrastar con el anexo de la convocatoria)
+- [ ] Oposiciones: desarrollar los temas (esquema y guion de cada uno) y más situaciones de aprendizaje (una por curso)
 - [ ] Vigilar la reforma estatal de las oposiciones ([[Reforma_Oposiciones_2026]])
 - [ ] Capa equivalente para EE. UU.: funcionamiento del distrito y de la escuela, IDEA, Section 504, ESSA, FERPA, licencias estatales
 - [ ] Búsqueda semántica (RAG con embeddings) o servidor MCP

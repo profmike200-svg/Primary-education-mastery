@@ -833,6 +833,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "CLM_Mapa_Temario_Ingles",
     "Etapa_0_1_ano",
     "Etapa_10_12_anos",
     "Etapa_1_3_anos",
@@ -887,7 +888,6 @@
    "enlazada_desde": [
     "00_INICIO",
     "Altas_Capacidades",
-    "CLM_Mapa_Temario_Ingles",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -1653,7 +1653,6 @@
     "Piaget"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Clima_y_Relacion",
     "Composicion_Escrita",
     "Comprension_Lectora",
@@ -1867,7 +1866,6 @@
     "TEA"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Clima_y_Relacion",
     "Conciencia_Fonologica",
     "Decodificacion",
@@ -1946,7 +1944,6 @@
     "Willingham"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Composicion_Escrita",
     "Comprension_Lectora",
     "Etapa_10_12_anos",
@@ -2112,6 +2109,7 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Crianza_Bilingue",
     "ES_Educacion_Infantil",
     "Etapa_0_1_ano",
@@ -2656,7 +2654,6 @@
     "TDL"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Dislexia",
     "ES_Educacion_Infantil",
     "ES_LOMLOE_Lengua_Lectoescritura",
@@ -2715,7 +2712,6 @@
     "TDL"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura",
@@ -3051,6 +3047,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Etapa_3_6_anos",
     "MOC_Areas",
     "MOC_Infantil",
@@ -3380,7 +3377,6 @@
     "TDL"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "Construccion_de_Oraciones",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -3811,6 +3807,7 @@
     "Progresion_Escritura"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Disgrafia",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -4601,6 +4598,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "ES_Educacion_Infantil",
     "ES_Marco_Curricular_LOMLOE",
     "MOC_Areas",
@@ -5211,6 +5209,7 @@
    "enlazada_desde": [
     "Aprendizaje_Basado_en_Proyectos",
     "CLM_Inclusion_Educativa",
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Estrategias_Comprension_Lectora",
@@ -5812,6 +5811,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Hechos_Numericos",
     "Juego_en_la_Infancia",
     "MOC_Metodologias"
@@ -5999,6 +5999,7 @@
     "Aprendizaje_Cooperativo",
     "Aprendizaje_para_el_Dominio",
     "Aprendizaje_por_Descubrimiento",
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Carga_cognitiva",
     "Conciencia_Fonologica",
@@ -6348,6 +6349,7 @@
     "MOC_Mitos"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Mitos",
     "Pantallas_en_la_Infancia",
     "Progresion_Competencia_Digital"
@@ -6566,6 +6568,7 @@
     "Practica_de_Recuperacion"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_03_Analisis_de_Errores",
@@ -6628,6 +6631,7 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
@@ -7187,7 +7191,6 @@
    "enlazada_desde": [
     "Andamiaje",
     "Aprendizaje_por_Descubrimiento",
-    "CLM_Mapa_Temario_Ingles",
     "Enfoque_CPA",
     "Etapa_6_8_anos",
     "MOC_Autores",
@@ -7925,7 +7928,6 @@
     "Andamiaje",
     "Aprendizaje_Cooperativo",
     "Bruner",
-    "CLM_Mapa_Temario_Ingles",
     "MOC_Autores",
     "MOC_Desarrollo",
     "Piaget",
@@ -8328,6 +8330,7 @@
    "enlazada_desde": [
     "Altas_Capacidades",
     "CLM_Inclusion_Educativa",
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_01_Situacion_Aula_Diversidad",
@@ -8923,7 +8926,6 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_para_el_Dominio",
-    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_05_Evaluacion",
     "ES_Evaluacion_y_Promocion",
@@ -9083,7 +9085,6 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
-    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuesto_05_Evaluacion",
@@ -9447,6 +9448,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Gestion_Aula"
    ]
   },
@@ -9666,6 +9668,7 @@
    "enlazada_desde": [
     "Autonomia_y_Responsabilidades",
     "Bandura",
+    "CLM_Mapa_Temario_Ingles",
     "Deberes_y_Tareas_Inacabadas",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos",
@@ -9930,6 +9933,7 @@
     "MOC_Conceptos"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Comprension_Lectora",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Estrategias_Comprension_Lectora",
@@ -10093,47 +10097,75 @@
     "fuentes": [
      "CLM_Convocatoria_Maestros_2026"
     ],
-    "estado": "borrador"
+    "estado": "borrador",
+    "verificado_titulos": "parcial"
    },
-   "resumen": "El temario de Inglés (Orden de 9 de septiembre de 1993, 25 temas) se agrupa en grandes bloques. No se transcriben aquí los títulos literales de los temas hasta contrastarlos con el BOE: cuando tengas el listado oficial, añade cada tema a la tabla y enlaza las notas.",
+   "resumen": "Temario de Inglés del Cuerpo de Maestros aprobado por la Orden de 9 de septiembre de 1993 (BOE de 21 de septiembre) y mantenido en vigor por la Orden ECD/191/2012. Son 25 temas. Lista reconstruida en noviembre de 2026 a partir de varias fuentes secundarias (Junta de Castilla y León, ANPE, Comunidad …",
    "secciones": [
-    "Cómo usar esta nota",
+    "Origen del temario",
+    "Los 25 temas y las notas de la biblioteca para prepararlos",
+    "Temas transversales que la biblioteca ya cubre bien",
     "Consejo para redactar los temas",
     "Relacionado"
    ],
    "enlaces": [
     "AICLE_CLIL",
-    "Bruner",
+    "Aprendizaje_Cooperativo",
+    "Autoeficacia",
     "CLM_Inclusion_Educativa",
+    "CLM_Normativa_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_02_Fonetica",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "Cameron_2001_Ninos_Lenguas",
     "Comprension_Oral_L2",
-    "Conciencia_Fonologica",
-    "Construccion_de_Oraciones",
+    "Crianza_Bilingue",
+    "Derwing_2005_Inteligibilidad",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
-    "Etapa_10_12_anos",
-    "Etapa_6_8_anos",
-    "Etapa_8_10_anos",
-    "Evaluacion_Formativa",
     "Evaluacion_en_Lengua_Extranjera",
+    "Expresion_Oral",
     "Expresion_e_Interaccion_Oral_L2",
-    "Gramatica_y_Reflexion_Linguistica",
+    "Gamificacion",
+    "Instruccion_Explicita",
+    "Juego_en_la_Infancia",
     "Lectoescritura_en_Ingles",
     "Lectura_y_Escritura_L2",
+    "Lee_2015_Pronunciacion",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Castilla_La_Mancha",
-    "MOC_Diversidad",
+    "MOC_Desarrollo",
     "Mediacion_en_L2",
+    "Metacognicion",
     "Mito_Cuanto_Antes_Mejor_L2",
+    "Mito_Nativos_Digitales",
+    "Munoz_2006_Edad_L2",
+    "Nation_2013_Vocabulario_L2",
+    "Norris_2000_Instruccion_L2",
+    "OCDE_2015_Ordenadores",
+    "Organizacion_Espacio_y_Tiempo",
+    "Ortografia",
+    "Pinter_2017_Jovenes_Aprendices",
     "Plurilinguismo_e_Interculturalidad",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
     "Progresion_Competencia_Digital",
     "Progresion_Lengua_Extranjera",
+    "Progresion_Musica",
     "Pronunciacion_Ingles",
+    "Reforma_Oposiciones_2026",
     "Respuesta_Fisica_Total_TPR",
-    "Rubricas",
     "Rutina_Cuentacuentos_en_Ingles",
+    "Ryan_2000_Autodeterminacion",
+    "SA_Ingles_1er_Ciclo_Animal_Party",
+    "SA_Ingles_3er_Ciclo_Town_Guide",
     "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles",
-    "Vocabulario_L2",
-    "Vygotsky"
+    "Vocabulario_L2"
    ],
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
@@ -10199,6 +10231,7 @@
     "MOC_Castilla_La_Mancha"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "MOC_Castilla_La_Mancha"
    ]
@@ -10430,6 +10463,7 @@
     "Pronunciacion_Ingles"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuestos_Practicos_Ingles"
    ]
   },
@@ -10473,6 +10507,7 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuestos_Practicos_Ingles"
    ]
   },
@@ -10516,6 +10551,7 @@
     "SA_Ingles_1er_Ciclo_Animal_Party"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuestos_Practicos_Ingles"
    ]
   },
@@ -10599,6 +10635,7 @@
     "Vocabulario_L2"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuestos_Practicos_Ingles"
    ]
   },
@@ -11323,6 +11360,7 @@
     "Progresion_Musica"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
@@ -11427,6 +11465,7 @@
     "Rubricas"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Supuesto_06_Analisis_de_Material",
     "ES_Acceso_a_la_Profesion",
     "ES_Documentos_de_Centro",
@@ -12442,6 +12481,7 @@
     "Andamiaje"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_04_Cuento_Literatura",
     "Expresion_e_Interaccion_Oral_L2",
@@ -12729,6 +12769,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_02_Fonetica",
     "MOC_Fuentes",
@@ -14022,6 +14063,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_02_Fonetica",
     "MOC_Fuentes",
@@ -14345,6 +14387,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Fuentes",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Progresion_Lengua_Extranjera",
@@ -14410,6 +14453,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "Lectura_y_Escritura_L2",
     "MOC_Fuentes",
@@ -14510,6 +14554,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "MOC_Fuentes"
@@ -14540,6 +14585,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Fuentes",
     "Progresion_Competencia_Digital"
    ]
@@ -14822,6 +14868,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Fuentes",
     "Progresion_Lengua_Extranjera"
@@ -14949,6 +14996,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
     "ES_Acceso_a_la_Profesion",
     "ES_RD_276_2007",
@@ -15077,6 +15125,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Autonomia_y_Responsabilidades",
+    "CLM_Mapa_Temario_Ingles",
     "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Fuentes",
@@ -16332,6 +16381,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Supuesto_04_Cuento_Literatura",
     "MOC_Practica",
@@ -16419,6 +16469,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Practica",
     "Progresion_Lengua_Extranjera"
@@ -17153,6 +17204,7 @@
     "Mito_Cuanto_Antes_Mejor_L2"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Lectura_Compartida_en_Familia",
     "MOC_Crianza",
     "Mito_Bilinguismo_Confunde",
@@ -17470,6 +17522,7 @@
     "Rutina_Juego_Tablero_Numerico"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "Etapa_3_6_anos",
