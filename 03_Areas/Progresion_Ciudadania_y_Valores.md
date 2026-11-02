@@ -5,7 +5,7 @@ area: [valores_ciudadania]
 edad_min: 6
 edad_max: 12
 fuentes: [Celio_2011_Aprendizaje_Servicio]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de ciudadanía y valores
 

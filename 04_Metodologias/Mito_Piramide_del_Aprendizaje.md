@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Pirámide del aprendizaje, Learning pyramid, Cono de Dale con porcentajes]
 nivel_evidencia: M
 fuentes: [Letrud_2018_Piramide]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Pirámide del aprendizaje
 

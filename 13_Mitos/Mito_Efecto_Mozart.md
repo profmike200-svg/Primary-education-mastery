@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Efecto Mozart, Mozart effect, La música mejora las matemáticas]
 nivel_evidencia: M
 fuentes: [Pietschnig_2010_Efecto_Mozart, Sala_2020_Musica]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Efecto Mozart y la música que hace más inteligente
 

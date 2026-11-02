@@ -6,7 +6,7 @@ edad_min: 6
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Karna_2011_KiVa]
-estado: borrador
+estado: verificado_ia
 ---
 # Convivencia y prevención del acoso escolar
 

@@ -8,7 +8,7 @@ nivel_evidencia: "C"
 autores: []
 necesidades_compatibles: [altas_capacidades, vulnerabilidad_socioemocional]
 fuentes: [Celio_2011_Aprendizaje_Servicio]
-estado: borrador
+estado: verificado_ia
 ---
 # Aprendizaje-servicio (ApS)
 

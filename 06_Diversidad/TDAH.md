@@ -25,7 +25,7 @@ Trastorno del neurodesarrollo con un patrón persistente de inatención, de hipe
 |---|---|
 | Consignas breves, de una en una, visuales y verbales | B |
 | Rutinas y estructura previsibles, agenda visual | B |
-| Refuerzo positivo inmediato y frecuente (economía de fichas, informes diarios) | A |
+| Refuerzo positivo inmediato y frecuente (economía de fichas, informes diarios) | B |
 | Tareas fragmentadas con pausas activas | C |
 | [[Instruccion_Explicita]] con alta participación | B |
 | Ubicación cerca del docente y lejos de distracciones | D |

@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Personas de cerebro izquierdo o derecho, Left brain / right brain, Dominancia hemisférica]
 nivel_evidencia: M
 fuentes: [Nielsen_2013_Hemisferios, Dekker_2012_Neuromitos]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Personas de cerebro izquierdo o derecho
 

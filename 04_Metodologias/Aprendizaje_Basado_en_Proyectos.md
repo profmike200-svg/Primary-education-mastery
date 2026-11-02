@@ -8,7 +8,7 @@ nivel_evidencia: "C"
 autores: [Dewey, Kilpatrick]
 necesidades_compatibles: [altas_capacidades]
 fuentes: [Chen_2019_ABP, Kirschner_2006_Guia_Minima]
-estado: borrador
+estado: verificado_ia
 ---
 # Aprendizaje basado en proyectos (ABP)
 

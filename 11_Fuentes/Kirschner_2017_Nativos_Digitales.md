@@ -5,7 +5,9 @@ anio: 2017
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. Teaching and Teacher Education, 67, 135-142."
-verificado: pendiente
+verificado: si
+identificador: "Teach Teach Educ 67:135-142"
+fecha_verificacion: 2026-11-02
 ---
 # Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. Teaching and Teacher Education, 67, 135-142.
 
@@ -15,6 +17,8 @@ Revisa la evidencia sobre los nativos digitales y la multitarea.
 ## Ideas clave
 - Haber nacido con la tecnología no da competencia digital por sí solo.
 - La multitarea perjudica el aprendizaje: en realidad es un cambio rápido de tarea que tiene coste.
+
+> Prensky, autor del término "nativo digital" (2001), criticó la revisión por discutir una formulación antigua.
 
 ## Notas que la citan
 <!-- Backlinks de Obsidian -->

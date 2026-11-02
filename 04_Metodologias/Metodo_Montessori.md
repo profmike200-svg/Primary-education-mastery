@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: [Montessori]
 necesidades_compatibles: []
 fuentes: [Lillard_2017_Montessori, Randolph_2023_Montessori]
-estado: borrador
+estado: verificado_ia
 ---
 # Método Montessori
 

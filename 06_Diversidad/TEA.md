@@ -5,7 +5,7 @@ necesidad: tea
 prevalencia_aprox: "≈1-2 % (las estimaciones han aumentado con mejores criterios de detección)"
 nivel_evidencia: "B"
 fuentes: [Hume_2021_TEA_Practicas]
-estado: borrador
+estado: verificado_ia
 ---
 # Trastorno del espectro autista (TEA)
 

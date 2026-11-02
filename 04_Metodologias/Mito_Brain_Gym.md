@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Brain Gym (gimnasia cerebral), Brain Gym, Educational kinesiology]
 nivel_evidencia: M
 fuentes: [Hyatt_2007_Brain_Gym, Dekker_2012_Neuromitos]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Brain Gym (gimnasia cerebral)
 

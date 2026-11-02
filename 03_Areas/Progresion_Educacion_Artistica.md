@@ -5,7 +5,7 @@ area: [artistica]
 edad_min: 6
 edad_max: 12
 fuentes: [Winner_2013_Educacion_Artistica]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de educación plástica y visual
 

@@ -5,7 +5,9 @@ anio: 2007
 tipo_fuente: revision_sistematica
 fiabilidad: media
 referencia_apa: "Hyatt, K. J. (2007). Brain Gym: Building stronger brains or wishful thinking? Remedial and Special Education, 28(2), 117-124."
-verificado: pendiente
+verificado: si
+identificador: "10.1177/07419325070280020201"
+fecha_verificacion: 2026-11-02
 ---
 # Hyatt, K. J. (2007). Brain Gym: Building stronger brains or wishful thinking? Remedial and Special Education, 28(2), 117-124.
 

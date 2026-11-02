@@ -13,7 +13,7 @@ necesidades_contempladas: [tdah, discapacidad_motora]
 materiales: [ninguno (opcional música)]
 nivel_evidencia: "B"
 fuentes: [Donnelly_2016_Actividad_Fisica]
-estado: borrador
+estado: verificado_ia
 ---
 # Rutina: pausa activa de 5 minutos
 

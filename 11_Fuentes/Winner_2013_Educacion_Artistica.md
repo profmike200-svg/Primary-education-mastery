@@ -5,7 +5,9 @@ anio: 2013
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "Winner, E., Goldstein, T. R., & Vincent-Lancrin, S. (2013). Art for art's sake? The impact of arts education. OECD Publishing."
-verificado: pendiente
+verificado: si
+identificador: "10.1787/9789264180789-en"
+fecha_verificacion: 2026-11-02
 ---
 # Winner, E., Goldstein, T. R., & Vincent-Lancrin, S. (2013). Art for art's sake? The impact of arts education. OECD Publishing.
 
@@ -14,7 +16,7 @@ Informe de la OCDE que revisa la evidencia sobre el impacto de la educación art
 
 ## Ideas clave
 - No hay evidencia sólida de que las artes, en general, transfieran a las matemáticas, la lectura o la creatividad general.
-- Algunas transferencias específicas: el teatro, a las habilidades verbales; la música, a la conciencia fonológica.
+- Algunas transferencias específicas (p. ej. teatro → habilidades verbales; música → conciencia fonológica; danza y artes visuales → razonamiento visoespacial) *(pendiente de confirmar en el texto completo)*.
 - La principal justificación de las artes es su valor intrínseco.
 
 ## Notas que la citan

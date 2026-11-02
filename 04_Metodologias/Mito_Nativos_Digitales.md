@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Nativos digitales y multitarea, Digital natives, Multitasking]
 nivel_evidencia: M
 fuentes: [Kirschner_2017_Nativos_Digitales]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Nativos digitales y multitarea
 

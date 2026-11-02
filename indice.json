@@ -2267,7 +2267,7 @@
     "fuentes": [
      "Donnelly_2016_Actividad_Fisica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Habilidades locomotrices: correr, saltar, galopar, desplazarse lateralmente. - Habilidades de control de objetos: lanzar, atrapar, botar, golpear, patear. - Habilidades de estabilidad: equilibrio, giros, caídas. - Combinarlas y aplicarlas en juegos y deportes, y adaptarlas a situaciones nuevas.",
    "secciones": [
@@ -3664,7 +3664,7 @@
     "fuentes": [
      "Celio_2011_Aprendizaje_Servicio"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "1. Convivencia y normas: participación en la vida del aula y del centro. 2. Derechos y deberes: derechos humanos y de la infancia, igualdad, no discriminación. 3. Instituciones y democracia: cómo se organiza la sociedad y cómo se toman las decisiones. 4. Sostenibilidad y compromiso: medio ambiente, …",
    "secciones": [
@@ -3765,7 +3765,7 @@
     "fuentes": [
      "Winner_2013_Educacion_Artistica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Percibir y analizar imágenes y obras, expresarse y crear con distintos lenguajes y técnicas, y conocer y valorar el patrimonio artístico propio y de otras culturas. Su principal justificación es el valor intrínseco del arte (Winner_2013_Educacion_Artistica).",
    "secciones": [
@@ -4128,7 +4128,7 @@
      "Sala_2020_Musica",
      "Winner_2013_Educacion_Artistica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Escuchar, interpretar (cantar, tocar, moverse), crear e interpretar la música como lenguaje y como patrimonio cultural. La música vale por sí misma: no se justifica como vía para mejorar las matemáticas o la inteligencia (Sala_2020_Musica; Mito_Efecto_Mozart).",
    "secciones": [
@@ -4613,7 +4613,7 @@
      "Chen_2019_ABP",
      "Kirschner_2006_Guia_Minima"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El alumnado aprende al desarrollar durante semanas un proyecto que responde a una pregunta o problema real y que termina en un producto público.",
    "secciones": [
@@ -4737,7 +4737,7 @@
     "fuentes": [
      "Celio_2011_Aprendizaje_Servicio"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Proyectos en los que el alumnado aprende contenidos curriculares mientras realiza un servicio real a la comunidad.",
    "secciones": [
@@ -5528,7 +5528,7 @@
      "Lillard_2017_Montessori",
      "Randolph_2023_Montessori"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Pedagogía basada en un ambiente preparado, materiales manipulativos autocorrectivos, trabajo autónomo elegido y grupos de edades mezcladas.",
    "secciones": [
@@ -5706,7 +5706,7 @@
      "Hyatt_2007_Brain_Gym",
      "Dekker_2012_Neuromitos"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Unos ejercicios concretos (cruzar la línea media, \"botones cerebrales\") conectan los hemisferios y mejoran el aprendizaje.",
    "secciones": [
@@ -5740,7 +5740,7 @@
      "Nielsen_2013_Hemisferios",
      "Dekker_2012_Neuromitos"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Hay alumnos de hemisferio izquierdo (lógicos) y de hemisferio derecho (creativos), y hay que enseñarles de forma distinta.",
    "secciones": [
@@ -5813,7 +5813,7 @@
     "fuentes": [
      "Kirschner_2017_Nativos_Digitales"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los niños de hoy, por haber nacido con la tecnología, son competentes digitales, aprenden de otra manera y pueden hacer varias cosas a la vez.",
    "secciones": [
@@ -5847,7 +5847,7 @@
     "fuentes": [
      "Letrud_2018_Piramide"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Recordamos el 10 % de lo que leemos, el 20 % de lo que oímos… y el 90 % de lo que enseñamos a otros.",
    "secciones": [
@@ -8123,7 +8123,7 @@
     "fuentes": [
      "Hume_2021_TEA_Practicas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Trastorno del neurodesarrollo con diferencias persistentes en la comunicación y la interacción social y patrones restringidos o repetitivos de conducta e intereses, incluida la sensibilidad sensorial. Es un espectro muy heterogéneo, con o sin discapacidad intelectual y con o sin lenguaje.",
    "secciones": [
@@ -8544,7 +8544,7 @@
     "fuentes": [
      "Karna_2011_KiVa"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El acoso es un fenómeno de grupo: se previene trabajando con toda la clase (sobre todo con los espectadores) y se actúa con rapidez y siguiendo el protocolo del centro.",
    "secciones": [
@@ -11140,7 +11140,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "media",
     "referencia_apa": "Celio, C. I., Durlak, J., & Dymnicki, A. (2011). A meta-analysis of the impact of service-learning on students. Journal of Experiential Education, 34(2), 164-181.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "J Exp Educ 34(2):164-181",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre los efectos del aprendizaje-servicio.",
    "secciones": [
@@ -11168,7 +11170,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "media",
     "referencia_apa": "Chen, C.-H., & Yang, Y.-C. (2019). Revisiting the effects of project-based learning on students' academic achievement: A meta-analysis investigating moderators. Educational Research Review, 26, 71-81.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1016/j.edurev.2018.11.001",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre el ABP y el rendimiento académico.",
    "secciones": [
@@ -11360,7 +11364,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Donnelly, J. E., et al. (2016). Physical activity, fitness, cognitive function, and academic achievement in children: A systematic review. Medicine & Science in Sports & Exercise, 48(6), 1197-1222.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1249/MSS.0000000000000901",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión sistemática sobre la actividad física y el rendimiento cognitivo y académico infantil.",
    "secciones": [
@@ -11389,7 +11395,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "DuPaul, G. J., Eckert, T. L., & Vilardo, B. (2012). The effects of school-based interventions for attention deficit hyperactivity disorder: A meta-analysis 1996-2010. School Psychology Review, 41(4), 387-412.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1080/02796015.2012.12087496",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de las intervenciones escolares para el TDAH.",
    "secciones": [
@@ -12244,7 +12252,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Hume, K., Steinbrenner, J. R., Odom, S. L., et al. (2021). Evidence-based practices for children, youth, and young adults with autism: Third generation review. Journal of Autism and Developmental Disorders, 51, 4013-4032.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1007/s10803-020-04844-2",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión sistemática que identifica 28 prácticas basadas en evidencia para el autismo.",
    "secciones": [
@@ -12271,7 +12281,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "media",
     "referencia_apa": "Hyatt, K. J. (2007). Brain Gym: Building stronger brains or wishful thinking? Remedial and Special Education, 28(2), 117-124.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/07419325070280020201",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisa la base teórica y los estudios sobre Brain Gym.",
    "secciones": [
@@ -12333,7 +12345,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Kärnä, A., Voeten, M., Little, T. D., Poskiparta, E., Kaljonen, A., & Salmivalli, C. (2011). A large-scale evaluation of the KiVa antibullying program: Grades 4-6. Child Development, 82(1), 311-330.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1111/j.1467-8624.2010.01557.x",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Ensayo aleatorizado a gran escala del programa finlandés KiVa contra el acoso escolar.",
    "secciones": [
@@ -12394,7 +12408,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Kirschner, P. A., & De Bruyckere, P. (2017). The myths of the digital native and the multitasker. Teaching and Teacher Education, 67, 135-142.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Teach Teach Educ 67:135-142",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisa la evidencia sobre los nativos digitales y la multitarea.",
    "secciones": [
@@ -12515,7 +12531,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "media",
     "referencia_apa": "Letrud, K., & Hernes, S. (2018). Excavating the origins of the learning pyramid myths. Cogent Education, 5(1), 1518638.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1080/2331186X.2018.1518638",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Rastrea el origen de la pirámide del aprendizaje y de sus porcentajes de retención.",
    "secciones": [
@@ -12582,7 +12600,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "media",
     "referencia_apa": "Lillard, A. S., Heise, M. J., Richey, E. M., Tong, X., Hart, A., & Bray, P. M. (2017). Montessori preschool elevates and equalizes child outcomes: A longitudinal study. Frontiers in Psychology, 8, 1783.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3389/fpsyg.2017.01783",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio longitudinal con asignación por sorteo de plazas en preescolar Montessori público frente a otros centros.",
    "secciones": [
@@ -12867,7 +12887,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Nielsen, J. A., Zielinski, B. A., Ferguson, M. A., Lainhart, J. E., & Anderson, J. S. (2013). An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging. PLoS ONE, 8(8), e71275.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1371/journal.pone.0071275",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio con más de 1.000 cerebros.",
    "secciones": [
@@ -13140,7 +13162,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Pietschnig, J., Voracek, M., & Formann, A. K. (2010). Mozart effect-Shmozart effect: A meta-analysis. Intelligence, 38(3), 314-323.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1016/j.intell.2010.03.001",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre el efecto de escuchar a Mozart en el razonamiento espacial.",
    "secciones": [
@@ -13203,7 +13227,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Randolph, J. J., et al. (2023). Montessori education's impact on academic and nonacademic outcomes: A systematic review. Campbell Systematic Reviews, 19(3), e1330.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1002/cl2.1330",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión sistemática y metaanálisis de la educación Montessori.",
    "secciones": [
@@ -13416,7 +13442,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Sala, G., & Gobet, F. (2020). Cognitive and academic benefits of music training with children: A multilevel meta-analysis. Memory & Cognition, 48, 1429-1441.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3758/s13421-020-01060-2",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis multinivel sobre la formación musical y las capacidades cognitivas y académicas infantiles.",
    "secciones": [
@@ -13699,7 +13727,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science, 29(4), 549-571.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/0956797617739704",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Dos metaanálisis: la relación entre mentalidad y rendimiento es débil, y las intervenciones de mentalidad de crecimiento tienen efectos muy pequeños en general, algo mayores en alumnado en desventaja.",
    "secciones": [
@@ -14030,7 +14060,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Winner, E., Goldstein, T. R., & Vincent-Lancrin, S. (2013). Art for art's sake? The impact of arts education. OECD Publishing.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1787/9789264180789-en",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Informe de la OCDE que revisa la evidencia sobre el impacto de la educación artística.",
    "secciones": [
@@ -14382,7 +14414,7 @@
     "fuentes": [
      "Donnelly_2016_Actividad_Fisica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "A mitad de una sesión larga o tras 30-40 minutos de trabajo sentado.",
    "secciones": [
@@ -14812,7 +14844,7 @@
      "Pietschnig_2010_Efecto_Mozart",
      "Sala_2020_Musica"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Escuchar música clásica (o aprender música) hace a los niños más inteligentes y mejora su rendimiento en matemáticas y en otras áreas.",
    "secciones": [

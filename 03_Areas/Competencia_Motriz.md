@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Instruccion_Explicita]
 nivel_evidencia: "C"
 fuentes: [Donnelly_2016_Actividad_Fisica]
-estado: borrador
+estado: verificado_ia
 ---
 # Competencia motriz
 
