@@ -1,6 +1,6 @@
 # Guía para agentes LLM
 
-Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6-12 años). Antes de responder con ella:
+Esta bóveda es una base de conocimiento sobre **desarrollo y educación de 0 a 12 años**, para docentes (Infantil y Primaria) y para familias (crianza). El desarrollo evolutivo (`02_Desarrollo/`) es el eje de todo. Antes de responder con ella:
 
 ## Herramientas (si puedes ejecutar Python)
 - `python3 scripts/consultar.py "pregunta" --contexto` → devuelve las notas relevantes, detecta edad, necesidades y área y separa los mitos. Es el punto de partida más rápido.
@@ -19,11 +19,13 @@ Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6
 - Si una nota tiene `estado: borrador`, avisa de que su contenido no está revisado.
 - **Privacidad**: no escribas en la bóveda datos de alumnos reales, aunque el usuario los proporcione. Anonimiza y generaliza.
 - No inventes fuentes: si no puedes verificar una referencia, deja `nivel_evidencia: "?"` y añade `pendiente_fuente: true`.
+- **Familias**: respeta sus valores y su cultura; ofrece lo que dice la evidencia sin moralizar. Ante señales de alerta del desarrollo o de salud, remite al pediatra. Nunca sustituyas el consejo médico.
 - Cita la nota (y su fuente en `11_Fuentes/`) en la que basas cada recomendación.
 
 ## Preguntas típicas y por dónde empezar
 | Pregunta | Ruta |
 |---|---|
+| Pregunta de una familia sobre su hijo o hija | `01_MOCs/MOC_Crianza.md` + la etapa de su edad en `02_Desarrollo/` |
 | ¿Qué enseñar a los 8 años en matemáticas? | `01_MOCs/MOC_Por_Curso.md` (vista rápida) o MOC_Areas → progresión del área |
 | ¿Cómo enseñar X? | nota del contenido → `metodologias_recomendadas` |
 | ¿Cómo adaptar para un alumno con TDAH? | MOC_Diversidad → nota de la necesidad → estrategias |

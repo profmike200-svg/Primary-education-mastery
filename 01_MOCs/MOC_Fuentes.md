@@ -36,7 +36,11 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 ## Libros
 - [[Hattie_2009_Visible_Learning]] · [[Willingham_2009_Por_que_no_gusta]] · [[Clements_2014_Trayectorias]]
 
+## Desarrollo temprano y crianza
+- [[Zubler_2022_Hitos_CDC]] · [[Bakermans_2003_Sensibilidad_Apego]] · [[Gershoff_2016_Castigo_Fisico]] · [[Sanders_2014_Triple_P]] · [[Mol_2008_Lectura_Dialogica]] · [[Romeo_2018_Turnos_Conversacionales]] · [[Paruthi_2016_Sueno]] · [[OMS_2019_Menores_5]] · [[AAP_2016_Pantallas]] · [[DeLoache_2010_Videos_Bebes]] · [[Bruer_1999_Primeros_Tres_Anos]] · [[Watts_2018_Malvavisco]] · [[Moffitt_2011_Autocontrol]] · [[Heckman_2006_Inversion_Temprana]] · [[Ryan_2000_Autodeterminacion]] · [[Lillard_2013_Juego_Simbolico]] · [[Sylva_2004_EPPE]] · [[Byers_Heinlein_2013_Bilinguismo]] · [[Baumrind_1971_Estilos_Parentales]] · [[Gopnik_2016_Jardinero]] · [[Plomin_2018_Genetica]]
+
 ## Normativa española
+- [[ES_RD_95_2022]] (Infantil)
 - [[ES_LOE_LOMLOE]] · [[ES_RD_157_2022]] · [[ES_LOPIVI_2021]] · [[ES_LOPDGDD_2018]] · [[ES_RD_276_2007]]
 
 ## Normativa de Castilla-La Mancha y oposiciones

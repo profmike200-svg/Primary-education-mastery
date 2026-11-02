@@ -10,7 +10,7 @@ estado: borrador
 - [[Memoria_de_trabajo]] · [[Carga_cognitiva]] · [[Funciones_Ejecutivas]]
 
 ## Aprendizaje y desarrollo
-- [[Conocimiento_Previo]] · [[Ideas_Previas_y_Cambio_Conceptual]]
+- [[Apego]] · [[Conocimiento_Previo]] · [[Ideas_Previas_y_Cambio_Conceptual]]
 - [[Zona_de_Desarrollo_Proximo]] · [[Andamiaje]] · [[Aprendizaje_significativo]] · [[Metacognicion]]
 
 ## Motivación

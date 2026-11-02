@@ -19,6 +19,9 @@ Las carpetas son **planas** (un nivel) y agrupan solo por *tipo* de nota. La jer
 - **Nivel 3: notas atómicas**, cada una sobre una sola idea.
 - Un sub-MOC se crea **solo** cuando un MOC pasa de unos 25 enlaces.
 
+## El eje central: el desarrollo
+El alcance es **0-12 años** y sirve a docentes y familias. Toda nota de contenido, metodología o crianza se ancla en una **etapa** (`02_Desarrollo/Etapa_*`) y, si procede, en una **línea de desarrollo** (lenguaje, socioemocional, cognitivo, motor). La capa de crianza vive en `14_Crianza/`.
+
 ## Los dos ejes que lo conectan todo
 Cualquier nota de contenido o metodología se sitúa en:
 1. **Edad / desarrollo** (`edad_min`, `edad_max` + enlace a la etapa de `02_Desarrollo`)

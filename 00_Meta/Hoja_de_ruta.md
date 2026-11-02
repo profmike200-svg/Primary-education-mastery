@@ -24,6 +24,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
 - [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
+- [x] Ampliación a 0-12 años: etapas 0-1, 1-3 y 3-6, líneas de desarrollo 0-12, Educación Infantil, bloque de crianza ([[MOC_Crianza]], [[MOC_Infantil]])
 - [x] Castilla-La Mancha: normativa, inclusión y bloque de oposiciones de Inglés 2028 ([[MOC_Castilla_La_Mancha]])
 - [x] Vista "qué se trabaja en cada curso" ([[MOC_Por_Curso]])
 
@@ -33,6 +34,10 @@ aliases: [Roadmap, Pendientes]
 - [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
 
 ## Próximos bloques
+- [ ] Infantil: progresiones por área (3, 4 y 5 años) y prácticas de aula; Decreto 80/2022 de Castilla-La Mancha
+- [ ] Crianza: alimentación, control de esfínteres, hermanos, separación y divorcio, duelo, miedos, adolescencia temprana, educación afectivo-sexual por edades, uso del dinero
+- [ ] Ampliar a la adolescencia (12-18) cuando el núcleo 0-12 esté completo
+- [ ] Profundizar contenidos de Primaria con los saberes básicos del Decreto 81/2022 como lista de comprobación
 - [ ] CLM: contrastar con el DOCM las normas marcadas `verificado: parcial` (número del nuevo decreto de bilingüismo, fechas de convivencia y autoridad)
 - [ ] Oposiciones: listado oficial de los 25 temas de Inglés en [[CLM_Mapa_Temario_Ingles]]; banco de supuestos prácticos; más situaciones de aprendizaje en inglés (una por curso)
 - [ ] Vigilar la reforma estatal de las oposiciones ([[Reforma_Oposiciones_2026]])

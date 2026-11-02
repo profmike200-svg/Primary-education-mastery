@@ -7,15 +7,21 @@ estado: estable
 Usar **solo** estos valores (en minúsculas y sin tildes) para que las consultas funcionen.
 
 ## `tipo`
-`etapa` · `dimension_desarrollo` · `area` · `progresion` · `contenido` · `metodologia` · `estrategia` · `autor` · `corriente` · `necesidad` · `concepto` · `evaluacion` · `gestion_aula` · `curriculo` · `fuente` · `mito` · `practica` · `glosario` · `moc` · `meta`
+`etapa` · `dimension_desarrollo` · `area` · `progresion` · `contenido` · `metodologia` · `estrategia` · `autor` · `corriente` · `necesidad` · `concepto` · `evaluacion` · `gestion_aula` · `curriculo` · `fuente` · `mito` · `practica` · `glosario` · `crianza` · `moc` · `meta`
 
 ## `area`
 `matematicas` · `lengua` · `lectoescritura` · `lengua_extranjera` · `ciencias_naturales` · `ciencias_sociales` · `artistica` · `musica` · `educacion_fisica` · `valores_ciudadania` · `competencia_digital` · `socioemocional` · `transversal`
 
+Áreas de Educación Infantil (LOMLOE): `crecimiento_en_armonia` · `descubrimiento_del_entorno` · `comunicacion_y_representacion`
+
+Familia: `crianza`
+
 ## Edad
-`edad_min` / `edad_max`: números enteros de 5 a 13. El curso es orientativo (la edad es lo universal):
+`edad_min` / `edad_max`: números enteros de 0 a 18 (el núcleo actual cubre 0-12; preparado para ampliarse a la adolescencia). Para bebés, `0` = primer año. El curso es orientativo (la edad es lo universal):
 | Edad | España | EE. UU. | Reino Unido |
 |---|---|---|---|
+| 0-3 | Infantil, 1er ciclo (escuela infantil) | Infant / toddler care | Nursery |
+| 3-6 | Infantil, 2º ciclo (3, 4 y 5 años) | Pre-K, Kindergarten | Nursery, Reception |
 | 6-7 | 1º | 1st grade | Year 2 |
 | 7-8 | 2º | 2nd | Year 3 |
 | 8-9 | 3º | 3rd | Year 4 |

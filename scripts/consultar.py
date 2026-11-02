@@ -61,6 +61,8 @@ AREAS = {
     "artistica": ["plastica", "dibujo", "arte"],
     "competencia_digital": ["digital", "internet", "programacion", "pantalla", "tablet", "ordenador"],
     "valores_ciudadania": ["ciudadan", "valores", "asamblea"],
+    "crianza": ["mi hijo", "mi hija", "mis hijos", "mi bebe", "bebe", "como padre", "como madre", "crianza",
+                "en casa", "mi nino", "mi nina", "educar a"],
 }
 # Expresiones habituales de los docentes → términos que usan las notas (amplían la búsqueda, no detectan mitos).
 SINONIMOS = {
@@ -78,6 +80,12 @@ SINONIMOS = {
     ("movil", "redes sociales", "videojuego"): "ciudadania digital seguridad",
     ("ruido", "no se callan", "alboroto", "normas"): "normas rutinas gestion",
     ("ortografia", "faltas de ortografia", "escribe mal"): "ortografia",
+    ("dormir", "duerme", "sueno", "siesta", "se despierta"): "sueno dormir",
+    ("pegar", "azote", "cachete", "castigar", "castigo"): "disciplina limites castigo",
+    ("potencial", "mejor version", "desarrollo integral", "educar bien", "buen padre", "buena madre"):
+        "pilares desarrollo integral",
+    ("no habla", "habla poco", "primeras palabras"): "lenguaje desarrollo hitos",
+    ("dos idiomas", "bilingue", "bilinguismo"): "bilingue crianza",
     ("no entiende lo que lee", "comprension"): "comprension lectora estrategias",
 }
 PESO_EVIDENCIA = {"A": 1.5, "B": 1.25, "C": 1.0, "D": 0.85, "?": 0.9, "M": 1.0}
@@ -104,7 +112,9 @@ def contiene(texto_norm, patron):
 def detectar(pregunta):
     q = normalizar(pregunta)
     edad = None
-    if m := re.search(r"(\d{1,2})\s*anos", q):
+    if m := re.search(r"(\d{1,2})\s*mes(?:es)?\b", q):
+        edad = int(m.group(1)) // 12
+    elif m := re.search(r"(\d{1,2})\s*anos?\b", q):
         edad = int(m.group(1))
     elif m := re.search(r"\b([1-6])\s*(?:o|º|°)?\s*(?:de primaria|curso)?\b", q.replace("º", "o ")):
         if re.search(r"\b[1-6]\s*(o|º|°)\b|de primaria|curso", q.replace("º", "o ")):

@@ -12,6 +12,7 @@
    "resumen": "Las carpetas son planas (un nivel) y agrupan solo por *tipo* de nota. La jerarquía real se construye con enlaces:",
    "secciones": [
     "Tres niveles de jerarquía",
+    "El eje central: el desarrollo",
     "Los dos ejes que lo conectan todo",
     "Capa universal y capa local",
     "Flujo de trabajo (para que no se convierta en un caos)",
@@ -139,6 +140,8 @@
    "enlaces": [
     "CLM_Mapa_Temario_Ingles",
     "MOC_Castilla_La_Mancha",
+    "MOC_Crianza",
+    "MOC_Infantil",
     "MOC_Por_Curso",
     "MOC_Sistema_Educativo_Espanol",
     "Reforma_Oposiciones_2026"
@@ -236,7 +239,7 @@
   },
   "00_INICIO": {
    "ruta": "01_MOCs/00_INICIO.md",
-   "titulo": "🏛️ Biblioteca de Pedagogía Primaria",
+   "titulo": "🏛️ Biblioteca de Pedagogía y Desarrollo Infantil (0-12)",
    "tipo": "moc",
    "aliases": [
     "Inicio",
@@ -245,7 +248,7 @@
    "metadatos": {
     "estado": "estable"
    },
-   "resumen": "Arquitectura · Convenciones · Taxonomia · Glosario_entre_sistemas · Hoja_de_ruta · Uso_con_LLM · Panel_de_control",
+   "resumen": "Para docentes de Infantil y Primaria y para familias. El desarrollo evolutivo es el hilo conductor.",
    "secciones": [
     "Preguntas clave",
     "Sistema"
@@ -260,12 +263,14 @@
     "MOC_Autores",
     "MOC_Castilla_La_Mancha",
     "MOC_Conceptos",
+    "MOC_Crianza",
     "MOC_Curriculos",
     "MOC_Desarrollo",
     "MOC_Diversidad",
     "MOC_Evaluacion",
     "MOC_Fuentes",
     "MOC_Gestion_Aula",
+    "MOC_Infantil",
     "MOC_Metodologias",
     "MOC_Mitos",
     "MOC_Por_Curso",
@@ -280,12 +285,14 @@
     "MOC_Autores",
     "MOC_Castilla_La_Mancha",
     "MOC_Conceptos",
+    "MOC_Crianza",
     "MOC_Curriculos",
     "MOC_Desarrollo",
     "MOC_Diversidad",
     "MOC_Evaluacion",
     "MOC_Fuentes",
     "MOC_Gestion_Aula",
+    "MOC_Infantil",
     "MOC_Metodologias",
     "MOC_Mitos",
     "MOC_Por_Curso",
@@ -387,7 +394,7 @@
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- Piaget · Vygotsky · Bruner · Ausubel · Erikson · Kohlberg · Bandura",
+   "resumen": "- Piaget · Vygotsky · Bruner · Ausubel · Erikson · Kohlberg · Bandura · Bowlby · Ainsworth",
    "secciones": [
     "Desarrollo y aprendizaje",
     "Clásicos de la pedagogía",
@@ -397,9 +404,11 @@
    ],
    "enlaces": [
     "00_INICIO",
+    "Ainsworth",
     "Ausubel",
     "Bandura",
     "Bloom",
+    "Bowlby",
     "Bruner",
     "Comenius",
     "Dewey",
@@ -424,9 +433,11 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "Ainsworth",
     "Ausubel",
     "Bandura",
     "Bloom",
+    "Bowlby",
     "Bruner",
     "Comenius",
     "Dewey",
@@ -515,6 +526,7 @@
    "enlaces": [
     "00_INICIO",
     "Andamiaje",
+    "Apego",
     "Aprendizaje_significativo",
     "Autoeficacia",
     "Carga_cognitiva",
@@ -529,6 +541,7 @@
    "enlazada_desde": [
     "00_INICIO",
     "Andamiaje",
+    "Apego",
     "Aprendizaje_significativo",
     "Autoeficacia",
     "Carga_cognitiva",
@@ -539,6 +552,87 @@
     "Metacognicion",
     "Taxonomia_de_Bloom",
     "Zona_de_Desarrollo_Proximo"
+   ]
+  },
+  "MOC_Crianza": {
+   "ruta": "01_MOCs/MOC_Crianza.md",
+   "titulo": "Crianza basada en evidencia (0-12)",
+   "tipo": "moc",
+   "aliases": [
+    "Crianza",
+    "Familias",
+    "Parenting",
+    "Educar a un hijo"
+   ],
+   "metadatos": {
+    "estado": "borrador"
+   },
+   "resumen": "- Pilares_del_Desarrollo_Integral: los 10 pilares y lo que no hace falta",
+   "secciones": [
+    "Empieza aquí",
+    "Por edad",
+    "Vínculo, límites y emociones",
+    "Lenguaje, juego y aprendizaje",
+    "Salud y hábitos",
+    "Familia y escuela",
+    "Si hay dificultades",
+    "Mitos de crianza"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "Apego",
+    "Autonomia_y_Responsabilidades",
+    "Autorregulacion_Emocional",
+    "Crianza_Bilingue",
+    "Deberes_y_Tareas_Inacabadas",
+    "Disciplina_Positiva_y_Limites",
+    "ES_Educacion_Infantil",
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Estilos_Parentales",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Motor",
+    "MOC_Diversidad",
+    "Mito_Bilinguismo_Confunde",
+    "Mito_Efecto_Mozart",
+    "Mito_Primeros_Tres_Anos",
+    "Mito_Test_de_la_Golosina",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Mito_Videos_Educativos_Bebes",
+    "Pantallas_en_la_Infancia",
+    "Pilares_del_Desarrollo_Integral",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Relacion_con_las_Familias",
+    "Sueno_Infantil",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "Ainsworth",
+    "Apego",
+    "Autonomia_y_Responsabilidades",
+    "Bowlby",
+    "Crianza_Bilingue",
+    "Disciplina_Positiva_y_Limites",
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Estilos_Parentales",
+    "Etapa_0_1_ano",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Hoja_de_ruta",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "Pantallas_en_la_Infancia",
+    "Pilares_del_Desarrollo_Integral",
+    "README",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Sueno_Infantil"
    ]
   },
   "MOC_Curriculos": {
@@ -576,26 +670,38 @@
   },
   "MOC_Desarrollo": {
    "ruta": "01_MOCs/MOC_Desarrollo.md",
-   "titulo": "Desarrollo infantil (6-12 años)",
+   "titulo": "Desarrollo infantil (0-12 años)",
    "tipo": "moc",
    "aliases": [],
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- Etapa_6_8_anos: aprender las herramientas (leer, escribir, contar) - Etapa_8_10_anos: consolidar y automatizar; leer para aprender - Etapa_10_12_anos: abstracción incipiente y preadolescencia",
+   "resumen": "- Etapa_0_1_ano: vínculo, sentidos y movimiento - Etapa_1_3_anos: marcha, explosión del lenguaje, autonomía - Etapa_3_6_anos: juego simbólico, preguntas, bases de la lectoescritura y el número - Etapa_6_8_anos: aprender las herramientas (leer, escribir, contar) - Etapa_8_10_anos: consolidar y automa…",
    "secciones": [
     "Etapas por edad",
+    "Líneas de desarrollo (0-12)",
     "Teorías del desarrollo",
     "Conceptos clave"
    ],
    "enlaces": [
     "00_INICIO",
+    "Ainsworth",
+    "Apego",
+    "Bowlby",
     "Bruner",
     "Erikson",
+    "Etapa_0_1_ano",
     "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
+    "Funciones_Ejecutivas",
     "Kohlberg",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
     "Memoria_de_trabajo",
     "Metacognicion",
     "Piaget",
@@ -604,9 +710,17 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "Etapa_0_1_ano",
     "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
     "Etapa_6_8_anos",
-    "Etapa_8_10_anos"
+    "Etapa_8_10_anos",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "README"
    ]
   },
   "MOC_Diversidad": {
@@ -660,6 +774,7 @@
     "Dislexia",
     "Glosario_entre_sistemas",
     "Incorporacion_Tardia",
+    "MOC_Crianza",
     "MOC_Por_Curso",
     "RTI_MTSS",
     "TDAH",
@@ -713,17 +828,23 @@
     "Evaluación, deberes y lectura",
     "Artículos",
     "Libros",
+    "Desarrollo temprano y crianza",
     "Normativa española",
     "Normativa de Castilla-La Mancha y oposiciones",
     "Organismos e informes"
    ],
    "enlaces": [
     "00_INICIO",
+    "AAP_2016_Pantallas",
     "Anderson_2001_Taxonomia_Bloom",
     "Baker_2014_IES_English_Learners",
+    "Bakermans_2003_Sensibilidad_Apego",
     "Bandura_1977_Autoeficacia",
+    "Baumrind_1971_Estilos_Parentales",
     "Bishop_2017_CATALISE",
     "Black_1998_Black_Box",
+    "Bruer_1999_Primeros_Tres_Anos",
+    "Byers_Heinlein_2013_Bilinguismo",
     "CAST_2018_DUA",
     "CLM_Convivencia_y_Autoridad",
     "CLM_Convocatoria_Maestros_2026",
@@ -737,6 +858,7 @@
     "Chen_2019_ABP",
     "Clements_2014_Trayectorias",
     "Cooper_2006_Deberes",
+    "DeLoache_2010_Videos_Bebes",
     "Dekker_2012_Neuromitos",
     "Diamond_2011_Funciones_Ejecutivas",
     "Donnelly_2016_Actividad_Fisica",
@@ -755,15 +877,19 @@
     "ES_LOPIVI_2021",
     "ES_RD_157_2022",
     "ES_RD_276_2007",
+    "ES_RD_95_2022",
     "Ehri_2005_Fases_Lectura",
     "Fuchs_2021_Intervencion_Matematicas_IES",
     "Furtak_2012_Indagacion_Ciencias",
+    "Gershoff_2016_Castigo_Fisico",
+    "Gopnik_2016_Jardinero",
     "Graham_2007_Writing_Next",
     "Graham_2012_IES_Escritura",
     "Graham_2012_Metaanalisis_Escritura",
     "Graham_2014_Ortografia",
     "Hattie_2007_Feedback",
     "Hattie_2009_Visible_Learning",
+    "Heckman_2006_Inversion_Temprana",
     "Hume_2021_TEA_Practicas",
     "Hyatt_2007_Brain_Gym",
     "Johnson_2009_Cooperativo",
@@ -774,9 +900,12 @@
     "Kuyken_2022_MYRIAD",
     "Lazonder_2016_Indagacion",
     "Letrud_2018_Piramide",
+    "Lillard_2013_Juego_Simbolico",
     "Lillard_2017_Montessori",
     "Lyster_2010_Feedback_Oral_L2",
     "Melby_Lervag_2013_Entrenamiento_MT",
+    "Moffitt_2011_Autocontrol",
+    "Mol_2008_Lectura_Dialogica",
     "Mol_2011_Exposicion_Lectora",
     "Munoz_2006_Edad_L2",
     "NRP_2000_Lectura",
@@ -784,17 +913,23 @@
     "Nielsen_2013_Hemisferios",
     "Norris_2000_Instruccion_L2",
     "OCDE_2015_Ordenadores",
+    "OMS_2019_Menores_5",
     "OMS_2020_Actividad_Fisica",
     "Panadero_2013_Rubricas",
+    "Paruthi_2016_Sueno",
     "Pashler_2008_Estilos_Aprendizaje",
     "Perez_Canado_2012_CLIL",
     "Pietschnig_2010_Efecto_Mozart",
+    "Plomin_2018_Genetica",
     "Randolph_2023_Montessori",
     "Recht_1988_Conocimiento_Previo",
     "Reforma_Oposiciones_2026",
     "Ritchhart_2011_Rutinas_Pensamiento",
+    "Romeo_2018_Turnos_Conversacionales",
     "Rosenshine_2012_Principios",
+    "Ryan_2000_Autodeterminacion",
     "Sala_2020_Musica",
+    "Sanders_2014_Triple_P",
     "Santangelo_2016_Caligrafia",
     "Schalock_2021_Discapacidad_Intelectual",
     "Scherer_2019_Programacion",
@@ -805,13 +940,16 @@
     "Sisk_2018_Mentalidad_Crecimiento",
     "Steenbergen_2016_Aceleracion",
     "Sweller_1988_Carga_Cognitiva",
+    "Sylva_2004_EPPE",
     "Taylor_2017_ASE_Seguimiento",
     "Van_Hiele_1986_Geometria",
     "Vosniadou_1992_Modelos_Mentales",
     "Vuorikari_2022_DigComp",
+    "Watts_2018_Malvavisco",
     "Willingham_2009_Por_que_no_gusta",
     "Wineburg_2019_Lectura_Lateral",
-    "Winner_2013_Educacion_Artistica"
+    "Winner_2013_Educacion_Artistica",
+    "Zubler_2022_Hitos_CDC"
    ],
    "enlazada_desde": [
     "00_INICIO"
@@ -856,6 +994,54 @@
     "Relacion_con_las_Familias"
    ]
   },
+  "MOC_Infantil": {
+   "ruta": "01_MOCs/MOC_Infantil.md",
+   "titulo": "Educación Infantil (0-6)",
+   "tipo": "moc",
+   "aliases": [
+    "Educación Infantil",
+    "Infantil",
+    "Early years"
+   ],
+   "metadatos": {
+    "estado": "borrador"
+   },
+   "resumen": "- Etapa_0_1_ano · Etapa_1_3_anos · Etapa_3_6_anos - Líneas: Linea_Desarrollo_Lenguaje · Linea_Desarrollo_Socioemocional · Linea_Desarrollo_Cognitivo · Linea_Desarrollo_Motor",
+   "secciones": [
+    "Desarrollo",
+    "Currículo y metodología",
+    "Bases de los aprendizajes",
+    "Pendiente"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "Apego",
+    "Asamblea_de_Aula",
+    "Autonomia_y_Responsabilidades",
+    "Conciencia_Fonologica",
+    "ES_Educacion_Infantil",
+    "Etapa_0_1_ano",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Expresion_Oral",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "Metodologia_en_Educacion_Infantil",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Rutina_Juego_Tablero_Numerico",
+    "Sentido_Numerico"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "Etapa_3_6_anos",
+    "Hoja_de_ruta",
+    "Metodologia_en_Educacion_Infantil"
+   ]
+  },
   "MOC_Metodologias": {
    "ruta": "01_MOCs/MOC_Metodologias.md",
    "titulo": "Metodologías y estrategias",
@@ -873,6 +1059,7 @@
     "Lengua extranjera",
     "Aprendizaje entre iguales",
     "Aprendizaje activo y por indagación",
+    "Educación Infantil",
     "Pedagogías alternativas",
     "Socioemocional",
     "Actividad física",
@@ -908,6 +1095,7 @@
     "Instruccion_Explicita",
     "Medida",
     "Metodo_Montessori",
+    "Metodologia_en_Educacion_Infantil",
     "Mindfulness_Escolar",
     "Pausas_Activas",
     "Pedagogia_Freinet",
@@ -941,6 +1129,7 @@
     "Instruccion_Basada_en_Esquemas",
     "Instruccion_Explicita",
     "Metodo_Montessori",
+    "Metodologia_en_Educacion_Infantil",
     "Mindfulness_Escolar",
     "Pausas_Activas",
     "Pedagogia_Freinet",
@@ -964,11 +1153,13 @@
    "resumen": "Ideas muy extendidas que la evidencia refuta (nivel M). Un LLM nunca debe recomendarlas.",
    "secciones": [
     "Neuromitos",
+    "Mitos de crianza",
     "Mitos metodológicos"
    ],
    "enlaces": [
     "00_INICIO",
     "Mito_10_por_ciento_Cerebro",
+    "Mito_Bilinguismo_Confunde",
     "Mito_Brain_Gym",
     "Mito_Cerebro_Izquierdo_Derecho",
     "Mito_Cuanto_Antes_Mejor_L2",
@@ -978,11 +1169,16 @@
     "Mito_Gramatica_Aislada_Mejora_Escritura",
     "Mito_Nativos_Digitales",
     "Mito_Piramide_del_Aprendizaje",
-    "Mito_Tres_Claves"
+    "Mito_Primeros_Tres_Anos",
+    "Mito_Test_de_la_Golosina",
+    "Mito_Tres_Claves",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Mito_Videos_Educativos_Bebes"
    ],
    "enlazada_desde": [
     "00_INICIO",
     "Mito_10_por_ciento_Cerebro",
+    "Mito_Bilinguismo_Confunde",
     "Mito_Brain_Gym",
     "Mito_Cerebro_Izquierdo_Derecho",
     "Mito_Cuanto_Antes_Mejor_L2",
@@ -992,7 +1188,11 @@
     "Mito_Gramatica_Aislada_Mejora_Escritura",
     "Mito_Nativos_Digitales",
     "Mito_Piramide_del_Aprendizaje",
-    "Mito_Tres_Claves"
+    "Mito_Primeros_Tres_Anos",
+    "Mito_Test_de_la_Golosina",
+    "Mito_Tres_Claves",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Mito_Videos_Educativos_Bebes"
    ]
   },
   "MOC_Por_Curso": {
@@ -1144,7 +1344,7 @@
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- ES_Estructura_del_Sistema: leyes, competencias del Estado y de las comunidades, etapas, ciclos, ratios - ES_Marco_Curricular_LOMLOE: competencias clave, áreas, saberes básicos, situaciones de aprendizaje",
+   "resumen": "- ES_Estructura_del_Sistema: leyes, competencias del Estado y de las comunidades, etapas, ciclos, ratios - ES_Educacion_Infantil: etapa 0-6, áreas y principios - ES_Marco_Curricular_LOMLOE: competencias clave, áreas, saberes básicos, situaciones de aprendizaje",
    "secciones": [
     "Marco general",
     "En el día a día",
@@ -1157,6 +1357,7 @@
     "ES_Acceso_a_la_Profesion",
     "ES_Atencion_a_la_Diversidad",
     "ES_Documentos_de_Centro",
+    "ES_Educacion_Infantil",
     "ES_Estructura_del_Sistema",
     "ES_Evaluacion_y_Promocion",
     "ES_Funciones_Derechos_y_Deberes_del_Docente",
@@ -1190,6 +1391,65 @@
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha",
     "MOC_Curriculos"
+   ]
+  },
+  "Etapa_0_1_ano": {
+   "ruta": "02_Desarrollo/Etapa_0_1_ano.md",
+   "titulo": "Etapa de 0 a 1 año",
+   "tipo": "etapa",
+   "aliases": [
+    "Primer año",
+    "Bebé",
+    "0-12 meses",
+    "Infancy",
+    "Lactante"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "1",
+    "dimension": [
+     "cognitiva",
+     "linguistica",
+     "socioemocional",
+     "motora"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "OMS_2019_Menores_5",
+     "Paruthi_2016_Sueno",
+     "Bakermans_2003_Sensibilidad_Apego"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El periodo de cambio más rápido de toda la vida. El bebé llega preparado para relacionarse: su tarea principal es construir un vínculo seguro (Apego) y empezar a comprender el mundo a través de los sentidos y el movimiento.",
+   "secciones": [
+    "Visión general",
+    "Hitos orientativos",
+    "Qué necesita",
+    "Señales de alerta (consultar con el pediatra)",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "Etapa_1_3_anos",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "OMS_2019_Menores_5",
+    "Paruthi_2016_Sueno",
+    "Zubler_2022_Hitos_CDC"
+   ],
+   "enlazada_desde": [
+    "Apego",
+    "Etapa_1_3_anos",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Etapa_10_12_anos": {
@@ -1245,13 +1505,154 @@
     "Etapa_8_10_anos",
     "Fracciones",
     "Funciones_Ejecutivas",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
     "MOC_Desarrollo",
     "MOC_Por_Curso",
+    "Pilares_del_Desarrollo_Integral",
     "Progresion_Ciencias_Sociales",
     "Progresion_Educacion_Artistica",
     "Progresion_Educacion_Fisica",
     "Progresion_Matematicas",
     "Progresion_Socioemocional"
+   ]
+  },
+  "Etapa_1_3_anos": {
+   "ruta": "02_Desarrollo/Etapa_1_3_anos.md",
+   "titulo": "Etapa de 1 a 3 años",
+   "tipo": "etapa",
+   "aliases": [
+    "1-3 años",
+    "Primera infancia",
+    "Toddler",
+    "Deambulador"
+   ],
+   "metadatos": {
+    "edad_min": "1",
+    "edad_max": "3",
+    "dimension": [
+     "cognitiva",
+     "linguistica",
+     "socioemocional",
+     "motora",
+     "ejecutiva"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "OMS_2019_Menores_5",
+     "AAP_2016_Pantallas",
+     "Mol_2008_Lectura_Dialogica"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Llegan la marcha, la explosión del lenguaje y el deseo de autonomía (\"yo solo\", \"no\"). El niño explora activamente desde la base segura de sus figuras de apego. Las rabietas son esperables: su capacidad de regulación es todavía muy inmadura (Funciones_Ejecutivas).",
+   "secciones": [
+    "Visión general",
+    "Hitos orientativos",
+    "Qué necesita",
+    "Señales de alerta",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Autonomia_y_Responsabilidades",
+    "Estilos_Parentales",
+    "Etapa_0_1_ano",
+    "Etapa_3_6_anos",
+    "Funciones_Ejecutivas",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "OMS_2019_Menores_5",
+    "Pantallas_en_la_Infancia",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Zubler_2022_Hitos_CDC"
+   ],
+   "enlazada_desde": [
+    "Etapa_0_1_ano",
+    "Etapa_3_6_anos",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Etapa_3_6_anos": {
+   "ruta": "02_Desarrollo/Etapa_3_6_anos.md",
+   "titulo": "Etapa de 3 a 6 años",
+   "tipo": "etapa",
+   "aliases": [
+    "3-6 años",
+    "Educación Infantil",
+    "Preescolar",
+    "Preschool",
+    "Early childhood"
+   ],
+   "metadatos": {
+    "edad_min": "3",
+    "edad_max": "6",
+    "dimension": [
+     "cognitiva",
+     "linguistica",
+     "socioemocional",
+     "motora",
+     "moral",
+     "ejecutiva"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "Sylva_2004_EPPE",
+     "OMS_2019_Menores_5",
+     "Lillard_2013_Juego_Simbolico"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Es la edad del juego simbólico, las preguntas (\"¿por qué?\") y la imaginación. Pensamiento preoperacional (Piaget): intuitivo, centrado en un aspecto de la realidad y egocéntrico (le cuesta ponerse en el lugar del otro, aunque esto mejora mucho hacia los 4-5 años con la teoría de la mente). Se constr…",
+   "secciones": [
+    "Visión general",
+    "Hitos orientativos",
+    "Qué necesita",
+    "Señales de alerta",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Autorregulacion_Emocional",
+    "Conciencia_Fonologica",
+    "Dislexia",
+    "Etapa_1_3_anos",
+    "Etapa_6_8_anos",
+    "Expresion_Oral",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "OMS_2019_Menores_5",
+    "Piaget",
+    "Rutina_Juego_Tablero_Numerico",
+    "Sentido_Numerico",
+    "Sylva_2004_EPPE",
+    "Zubler_2022_Hitos_CDC"
+   ],
+   "enlazada_desde": [
+    "Etapa_1_3_anos",
+    "Etapa_6_8_anos",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Metodologia_en_Educacion_Infantil",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Etapa_6_8_anos": {
@@ -1294,8 +1695,13 @@
     "Bruner",
     "Dislexia",
     "Erikson",
+    "Etapa_3_6_anos",
     "Etapa_8_10_anos",
     "Kohlberg",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Desarrollo",
     "Memoria_de_trabajo",
     "Piaget",
@@ -1310,14 +1716,22 @@
     "Conciencia_Fonologica",
     "Decodificacion",
     "ES_Atencion_a_la_Diversidad",
+    "ES_Educacion_Infantil",
     "Erikson",
+    "Etapa_3_6_anos",
     "Etapa_8_10_anos",
     "Fluidez_Lectora",
     "Funciones_Ejecutivas",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
     "MOC_Desarrollo",
     "MOC_Por_Curso",
     "Organizacion_Espacio_y_Tiempo",
     "Ortografia",
+    "Pilares_del_Desarrollo_Integral",
     "Progresion_Ciencias_Sociales",
     "Progresion_Educacion_Fisica",
     "Progresion_Lectoescritura",
@@ -1383,13 +1797,230 @@
     "Etapa_6_8_anos",
     "Fluidez_Lectora",
     "Fracciones",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
     "MOC_Desarrollo",
     "MOC_Por_Curso",
     "Metacognicion",
     "Multiplicacion_y_Division",
+    "Pilares_del_Desarrollo_Integral",
     "Progresion_Lectoescritura",
     "Progresion_Matematicas",
     "Valor_Posicional"
+   ]
+  },
+  "Linea_Desarrollo_Cognitivo": {
+   "ruta": "02_Desarrollo/Linea_Desarrollo_Cognitivo.md",
+   "titulo": "Línea de desarrollo: cognitivo (0-12)",
+   "tipo": "dimension_desarrollo",
+   "aliases": [
+    "Desarrollo cognitivo",
+    "Cognitive development"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "12",
+    "dimension": [
+     "cognitiva",
+     "ejecutiva"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "Diamond_2011_Funciones_Ejecutivas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Funciones ejecutivas (memoria de trabajo, control inhibitorio, flexibilidad): se desarrollan de forma continua desde los 3 años hasta la edad adulta; se cultivan con juegos de reglas, música, deporte, rutinas (Funciones_Ejecutivas, Diamond_2011_Funciones_Ejecutivas).",
+   "secciones": [
+    "Lo que más importa",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Conocimiento_Previo",
+    "Diamond_2011_Funciones_Ejecutivas",
+    "Enfoque_CPA",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Funciones_Ejecutivas",
+    "MOC_Desarrollo",
+    "Piaget"
+   ],
+   "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "Etapa_6_8_anos",
+    "MOC_Desarrollo",
+    "MOC_Infantil"
+   ]
+  },
+  "Linea_Desarrollo_Lenguaje": {
+   "ruta": "02_Desarrollo/Linea_Desarrollo_Lenguaje.md",
+   "titulo": "Línea de desarrollo: lenguaje y comunicación (0-12)",
+   "tipo": "dimension_desarrollo",
+   "aliases": [
+    "Desarrollo del lenguaje",
+    "Language development"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "12",
+    "dimension": [
+     "linguistica"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "Romeo_2018_Turnos_Conversacionales",
+     "Mol_2008_Lectura_Dialogica",
+     "NRP_2000_Lectura"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Los turnos de conversación con adultos que responden, más que la cantidad de palabras que el niño escucha (Romeo_2018_Turnos_Conversacionales). - Las pantallas no sustituyen la interacción (DeLoache_2010_Videos_Bebes). - El bilingüismo no retrasa ni confunde (Mito_Bilinguismo_Confunde). - Alerta: …",
+   "secciones": [
+    "Lo que más importa",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Comprension_Lectora",
+    "Conciencia_Fonologica",
+    "DeLoache_2010_Videos_Bebes",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Ensenanza_Fonetica_Sistematica",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "MOC_Desarrollo",
+    "Mito_Bilinguismo_Confunde",
+    "Mol_2008_Lectura_Dialogica",
+    "Romeo_2018_Turnos_Conversacionales",
+    "TDL",
+    "TEA",
+    "Vocabulario"
+   ],
+   "enlazada_desde": [
+    "Crianza_Bilingue",
+    "ES_Educacion_Infantil",
+    "Etapa_0_1_ano",
+    "Etapa_6_8_anos",
+    "Lectura_Compartida_en_Familia",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Mito_Videos_Educativos_Bebes",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Linea_Desarrollo_Motor": {
+   "ruta": "02_Desarrollo/Linea_Desarrollo_Motor.md",
+   "titulo": "Línea de desarrollo: motor y salud física (0-12)",
+   "tipo": "dimension_desarrollo",
+   "aliases": [
+    "Desarrollo motor",
+    "Motor development",
+    "Psicomotricidad"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "12",
+    "dimension": [
+     "motora"
+    ],
+    "fuentes": [
+     "Zubler_2022_Hitos_CDC",
+     "OMS_2019_Menores_5",
+     "OMS_2020_Actividad_Fisica",
+     "Paruthi_2016_Sueno"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Movimiento libre, juego al aire libre y poco tiempo sentado o sujeto. - Sueño suficiente: afecta a la atención, la conducta y el aprendizaje (Sueno_Infantil). - Pendiente: nota sobre el trastorno del desarrollo de la coordinación (dispraxia).",
+   "secciones": [
+    "Lo que más importa",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Competencia_Motriz",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Grafomotricidad_y_Caligrafia",
+    "MOC_Desarrollo",
+    "Sueno_Infantil"
+   ],
+   "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "Etapa_6_8_anos",
+    "Juego_en_la_Infancia",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Pilares_del_Desarrollo_Integral",
+    "Sueno_Infantil"
+   ]
+  },
+  "Linea_Desarrollo_Socioemocional": {
+   "ruta": "02_Desarrollo/Linea_Desarrollo_Socioemocional.md",
+   "titulo": "Línea de desarrollo: socioemocional y moral (0-12)",
+   "tipo": "dimension_desarrollo",
+   "aliases": [
+    "Desarrollo socioemocional",
+    "Desarrollo emocional",
+    "Social-emotional development"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "12",
+    "dimension": [
+     "socioemocional",
+     "moral"
+    ],
+    "fuentes": [
+     "Bakermans_2003_Sensibilidad_Apego",
+     "Ryan_2000_Autodeterminacion",
+     "Moffitt_2011_Autocontrol"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Un vínculo seguro y relaciones cálidas: la base de todo lo demás. - El autocontrol en la infancia predice la salud y el bienestar adultos (Moffitt_2011_Autocontrol) y se puede cultivar. - Satisfacer las necesidades de autonomía, competencia y relación (Ryan_2000_Autodeterminacion). - Ver también P…",
+   "secciones": [
+    "Lo que más importa",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "Autoeficacia",
+    "Erikson",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Funciones_Ejecutivas",
+    "Habilidades_Sociales",
+    "MOC_Desarrollo",
+    "Moffitt_2011_Autocontrol",
+    "Progresion_Socioemocional",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Ryan_2000_Autodeterminacion"
+   ],
+   "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "Etapa_6_8_anos",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Alfabetizacion_Mediatica_e_Informacional": {
@@ -1487,10 +2118,14 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "Etapa_3_6_anos",
     "Funciones_Ejecutivas",
     "MOC_Areas",
+    "MOC_Crianza",
     "Mindfulness_Escolar",
     "Progresion_Socioemocional",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
     "Rutina_Semaforo_de_Emociones",
     "Vulnerabilidad_Socioemocional"
    ]
@@ -1543,6 +2178,7 @@
    "enlazada_desde": [
     "MOC_Areas",
     "MOC_Por_Curso",
+    "Pantallas_en_la_Infancia",
     "Progresion_Competencia_Digital"
    ]
   },
@@ -1585,6 +2221,7 @@
     "Progresion_Educacion_Fisica"
    ],
    "enlazada_desde": [
+    "Linea_Desarrollo_Motor",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Educacion_Fisica"
@@ -1709,6 +2346,7 @@
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Estrategias_Comprension_Lectora",
     "Fluidez_Lectora",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Ciencias_Naturales",
@@ -1810,9 +2448,13 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "Dislexia",
+    "ES_Educacion_Infantil",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Ensenanza_Fonetica_Sistematica",
+    "Etapa_3_6_anos",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Areas",
+    "MOC_Infantil",
     "MOC_Por_Curso",
     "Progresion_Lectoescritura",
     "Progresion_Musica",
@@ -2040,6 +2682,8 @@
     "CLM_Mapa_Temario_Ingles",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Documentos_de_Centro",
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Lectoescritura"
@@ -2142,7 +2786,9 @@
    ],
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
+    "Etapa_3_6_anos",
     "MOC_Areas",
+    "MOC_Infantil",
     "MOC_Por_Curso",
     "Progresion_Ciudadania_y_Valores",
     "Progresion_Escritura",
@@ -2361,6 +3007,7 @@
    ],
    "enlazada_desde": [
     "Disgrafia",
+    "Linea_Desarrollo_Motor",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Escritura"
@@ -2458,6 +3105,7 @@
    "enlazada_desde": [
     "Asamblea_de_Aula",
     "Ciudadania_Digital_y_Seguridad",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Socioemocional"
@@ -2983,7 +3631,8 @@
     "ES_Marco_Curricular_LOMLOE",
     "Freire",
     "MOC_Areas",
-    "MOC_Por_Curso"
+    "MOC_Por_Curso",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Progresion_Competencia_Digital": {
@@ -3032,6 +3681,7 @@
     "ES_Documentos_de_Centro",
     "MOC_Areas",
     "MOC_Por_Curso",
+    "Pantallas_en_la_Infancia",
     "Pensamiento_Computacional"
    ]
   },
@@ -3436,6 +4086,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "ES_Educacion_Infantil",
     "ES_Marco_Curricular_LOMLOE",
     "MOC_Areas",
     "Mito_Efecto_Mozart"
@@ -3491,6 +4142,7 @@
    "enlazada_desde": [
     "Autorregulacion_Emocional",
     "Habilidades_Sociales",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Programas_de_Aprendizaje_Socioemocional",
@@ -3601,8 +4253,11 @@
    ],
    "enlazada_desde": [
     "Discalculia",
+    "ES_Educacion_Infantil",
     "ES_LOMLOE_Matematicas",
+    "Etapa_3_6_anos",
     "MOC_Areas",
+    "MOC_Infantil",
     "MOC_Por_Curso",
     "Progresion_Matematicas",
     "Rutina_Juego_Tablero_Numerico",
@@ -3761,6 +4416,7 @@
    ],
    "enlazada_desde": [
     "Incorporacion_Tardia",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Ciencias_Naturales",
@@ -3923,6 +4579,7 @@
     "Aprendizaje_Servicio",
     "Dewey",
     "MOC_Metodologias",
+    "Metodologia_en_Educacion_Infantil",
     "Progresion_Ciencias_Naturales",
     "Progresion_Ciencias_Sociales"
    ]
@@ -4280,6 +4937,7 @@
    ],
    "enlazada_desde": [
     "Discalculia",
+    "Linea_Desarrollo_Cognitivo",
     "MOC_Metodologias",
     "Pestalozzi",
     "Progresion_Matematicas",
@@ -4468,6 +5126,7 @@
     "Dislexia",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Lectoescritura_en_Ingles",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Metodologias",
     "MOC_Por_Curso",
     "Mito_Tres_Claves",
@@ -4574,6 +5233,7 @@
    ],
    "enlazada_desde": [
     "Hechos_Numericos",
+    "Juego_en_la_Infancia",
     "MOC_Metodologias"
    ]
   },
@@ -4631,6 +5291,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "ES_Educacion_Infantil",
     "Ideas_Previas_y_Cambio_Conceptual",
     "MOC_Metodologias",
     "MOC_Por_Curso",
@@ -4825,6 +5486,70 @@
    "enlazada_desde": [
     "MOC_Metodologias",
     "Montessori"
+   ]
+  },
+  "Metodologia_en_Educacion_Infantil": {
+   "ruta": "04_Metodologias/Metodologia_en_Educacion_Infantil.md",
+   "titulo": "Metodología en Educación Infantil",
+   "tipo": "metodologia",
+   "aliases": [
+    "Metodología en Infantil",
+    "Rincones",
+    "Rutinas en Infantil",
+    "Periodo de adaptación",
+    "Early years pedagogy"
+   ],
+   "metadatos": {
+    "area": [
+     "crecimiento_en_armonia",
+     "descubrimiento_del_entorno",
+     "comunicacion_y_representacion"
+    ],
+    "edad_min": "0",
+    "edad_max": "6",
+    "nivel_evidencia": "B",
+    "autores": [
+     "Montessori",
+     "Froebel",
+     "Malaguzzi"
+    ],
+    "necesidades_compatibles": [
+     "tea",
+     "tdl",
+     "incorporacion_tardia"
+    ],
+    "fuentes": [
+     "Sylva_2004_EPPE",
+     "Lillard_2013_Juego_Simbolico"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Aprendizaje a través del juego, la exploración y la relación, en un entorno organizado y seguro, con un adulto que observa, acompaña y enriquece las interacciones.",
+   "secciones": [
+    "En una frase",
+    "Elementos clave",
+    "Evidencia",
+    "Adaptaciones para la diversidad",
+    "Errores frecuentes",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "Aprendizaje_Basado_en_Proyectos",
+    "Asamblea_de_Aula",
+    "ES_Educacion_Infantil",
+    "Etapa_3_6_anos",
+    "Juego_en_la_Infancia",
+    "Lillard_2013_Juego_Simbolico",
+    "MOC_Infantil",
+    "MOC_Metodologias",
+    "Normas_y_Rutinas",
+    "Sylva_2004_EPPE"
+   ],
+   "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "MOC_Infantil",
+    "MOC_Metodologias"
    ]
   },
   "Mindfulness_Escolar": {
@@ -5040,6 +5765,7 @@
    ],
    "enlazada_desde": [
     "MOC_Mitos",
+    "Pantallas_en_la_Infancia",
     "Progresion_Competencia_Digital"
    ]
   },
@@ -5529,6 +6255,45 @@
     "Rutina_Lectura_en_Parejas"
    ]
   },
+  "Ainsworth": {
+   "ruta": "05_Autores/Ainsworth.md",
+   "titulo": "Mary Ainsworth",
+   "tipo": "autor",
+   "aliases": [
+    "Mary Ainsworth"
+   ],
+   "metadatos": {
+    "nacimiento": "1913",
+    "muerte": "1999",
+    "pais": "EE. UU. / Canadá",
+    "corriente": [
+     "psicologia_del_desarrollo"
+    ],
+    "vigencia": "vigente",
+    "fuentes": [
+     "Bakermans_2003_Sensibilidad_Apego"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "La sensibilidad del cuidador explica la seguridad del apego, que puede observarse y medirse.",
+   "secciones": [
+    "Idea central en una frase",
+    "Aportaciones clave",
+    "Qué se mantiene hoy y qué se ha revisado",
+    "Implicaciones prácticas",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "MOC_Autores",
+    "MOC_Crianza"
+   ],
+   "enlazada_desde": [
+    "Apego",
+    "MOC_Autores",
+    "MOC_Desarrollo"
+   ]
+  },
   "Ausubel": {
    "ruta": "05_Autores/Ausubel.md",
    "titulo": "David Ausubel",
@@ -5640,6 +6405,45 @@
     "Aprendizaje_para_el_Dominio",
     "MOC_Autores",
     "Taxonomia_de_Bloom"
+   ]
+  },
+  "Bowlby": {
+   "ruta": "05_Autores/Bowlby.md",
+   "titulo": "John Bowlby",
+   "tipo": "autor",
+   "aliases": [
+    "John Bowlby"
+   ],
+   "metadatos": {
+    "nacimiento": "1907",
+    "muerte": "1990",
+    "pais": "Reino Unido",
+    "corriente": [
+     "psicologia_del_desarrollo"
+    ],
+    "vigencia": "vigente",
+    "fuentes": [
+     "Bakermans_2003_Sensibilidad_Apego"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El niño necesita un vínculo continuo y seguro con sus cuidadores para un desarrollo emocional sano.",
+   "secciones": [
+    "Idea central en una frase",
+    "Aportaciones clave",
+    "Qué se mantiene hoy y qué se ha revisado",
+    "Implicaciones prácticas",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "MOC_Autores",
+    "MOC_Crianza"
+   ],
+   "enlazada_desde": [
+    "Apego",
+    "MOC_Autores",
+    "MOC_Desarrollo"
    ]
   },
   "Bruner": {
@@ -5797,6 +6601,7 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "Autonomia_y_Responsabilidades",
     "MOC_Autores",
     "Retroalimentacion"
    ]
@@ -5836,6 +6641,7 @@
    "enlazada_desde": [
     "Autoeficacia",
     "Etapa_6_8_anos",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Autores",
     "MOC_Desarrollo"
    ]
@@ -6220,9 +7026,11 @@
    "enlazada_desde": [
     "Bruner",
     "Etapa_10_12_anos",
+    "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
     "Kohlberg",
+    "Linea_Desarrollo_Cognitivo",
     "MOC_Autores",
     "MOC_Desarrollo",
     "Progresion_Ciudadania_y_Valores",
@@ -6947,6 +7755,7 @@
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Ensenanza_Fonetica_Sistematica",
+    "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
     "Fluidez_Lectora",
@@ -7011,6 +7820,7 @@
    "enlazada_desde": [
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Crianza_Bilingue",
     "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
     "MOC_Diversidad"
@@ -7162,6 +7972,7 @@
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
     "Sesion_Prueba_Justa_Rampas",
+    "Sueno_Infantil",
     "Uso_con_LLM"
    ]
   },
@@ -7216,7 +8027,9 @@
     "Expresion_Oral",
     "Gramatica_y_Reflexion_Linguistica",
     "Instruccion_Basada_en_Esquemas",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Diversidad",
+    "Mito_Bilinguismo_Confunde",
     "Progresion_Ciencias_Naturales",
     "Progresion_Escritura",
     "Progresion_Lectoescritura",
@@ -7274,6 +8087,7 @@
     "Expresion_Oral",
     "Gestion_de_la_Conducta",
     "Habilidades_Sociales",
+    "Linea_Desarrollo_Lenguaje",
     "MOC_Diversidad",
     "Normas_y_Rutinas",
     "Organizacion_Espacio_y_Tiempo",
@@ -7334,6 +8148,7 @@
     "Deberes_y_Tareas_Inacabadas",
     "ES_Atencion_a_la_Diversidad",
     "ES_Proteccion_Infancia_y_Datos",
+    "MOC_Crianza",
     "MOC_Diversidad",
     "Progresion_Socioemocional"
    ]
@@ -7483,6 +8298,7 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "Autonomia_y_Responsabilidades",
     "Clima_y_Relacion",
     "Dweck",
     "Evaluacion_Formativa",
@@ -7583,6 +8399,8 @@
     "ES_Organizacion_del_Centro",
     "Freinet",
     "MOC_Gestion_Aula",
+    "MOC_Infantil",
+    "Metodologia_en_Educacion_Infantil",
     "Pedagogia_Freinet",
     "Progresion_Ciudadania_y_Valores"
    ]
@@ -7627,6 +8445,7 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
+    "Apego",
     "Convivencia_y_Acoso",
     "ES_Organizacion_del_Centro",
     "Gestion_de_la_Conducta",
@@ -7736,6 +8555,8 @@
     "Vulnerabilidad_Socioemocional"
    ],
    "enlazada_desde": [
+    "Entorno_de_Aprendizaje_en_Casa",
+    "MOC_Crianza",
     "MOC_Gestion_Aula",
     "Uso_con_LLM"
    ]
@@ -7787,6 +8608,8 @@
    "enlazada_desde": [
     "Clima_y_Relacion",
     "Convivencia_y_Acoso",
+    "Disciplina_Positiva_y_Limites",
+    "Estilos_Parentales",
     "MOC_Gestion_Aula",
     "Normas_y_Rutinas",
     "Programas_de_Aprendizaje_Socioemocional",
@@ -7839,6 +8662,7 @@
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
     "MOC_Por_Curso",
+    "Metodologia_en_Educacion_Infantil",
     "Organizacion_Espacio_y_Tiempo",
     "Vulnerabilidad_Socioemocional"
    ]
@@ -7923,6 +8747,8 @@
     "Deberes_y_Tareas_Inacabadas",
     "ES_Evaluacion_y_Promocion",
     "ES_Organizacion_del_Centro",
+    "Entorno_de_Aprendizaje_en_Casa",
+    "MOC_Crianza",
     "MOC_Gestion_Aula"
    ]
   },
@@ -7960,6 +8786,58 @@
     "MOC_Conceptos",
     "Vygotsky",
     "Zona_de_Desarrollo_Proximo"
+   ]
+  },
+  "Apego": {
+   "ruta": "09_Conceptos/Apego.md",
+   "titulo": "Apego",
+   "tipo": "concepto",
+   "aliases": [
+    "Apego",
+    "Attachment",
+    "Apego seguro",
+    "Teoría del apego",
+    "Base segura"
+   ],
+   "metadatos": {
+    "area": [
+     "socioemocional",
+     "crianza"
+    ],
+    "fuentes": [
+     "Bakermans_2003_Sensibilidad_Apego"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Vínculo emocional que el niño establece con sus cuidadores principales y que le sirve de base segura para explorar el mundo y de refugio cuando se siente amenazado. Teoría formulada por John Bowlby; Mary Ainsworth describió los tipos de apego con la \"situación extraña\".",
+   "secciones": [
+    "Definición",
+    "Tipos (Ainsworth y posteriores)",
+    "Qué favorece un apego seguro",
+    "Matices importantes",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Ainsworth",
+    "Bakermans_2003_Sensibilidad_Apego",
+    "Bowlby",
+    "Clima_y_Relacion",
+    "Etapa_0_1_ano",
+    "MOC_Conceptos",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral"
+   ],
+   "enlazada_desde": [
+    "Ainsworth",
+    "Bowlby",
+    "Etapa_0_1_ano",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Conceptos",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "MOC_Infantil",
+    "Metodologia_en_Educacion_Infantil",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Aprendizaje_significativo": {
@@ -8033,8 +8911,10 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
+    "Autonomia_y_Responsabilidades",
     "Bandura",
     "Deberes_y_Tareas_Inacabadas",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos"
    ]
   },
@@ -8115,6 +8995,7 @@
    "enlazada_desde": [
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Linea_Desarrollo_Cognitivo",
     "MOC_Conceptos",
     "Progresion_Ciencias_Sociales",
     "Rutinas_de_Pensamiento",
@@ -8160,10 +9041,18 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Etapa_1_3_anos",
+    "Juego_en_la_Infancia",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos",
+    "MOC_Desarrollo",
     "Mito_Entrenamiento_Cerebral",
+    "Mito_Test_de_la_Golosina",
+    "Pilares_del_Desarrollo_Integral",
     "Progresion_Musica",
-    "Progresion_Socioemocional"
+    "Progresion_Socioemocional",
+    "Rabietas_y_Regulacion_Emocional_Temprana"
    ]
   },
   "Ideas_Previas_y_Cambio_Conceptual": {
@@ -8829,6 +9718,66 @@
     "MOC_Sistema_Educativo_Espanol"
    ]
   },
+  "ES_Educacion_Infantil": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Educacion_Infantil.md",
+   "titulo": "España (LOMLOE): Educación Infantil",
+   "tipo": "curriculo",
+   "aliases": [
+    "Educación Infantil LOMLOE",
+    "Currículo de Infantil",
+    "RD 95/2022",
+    "Decreto 80/2022"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "crecimiento_en_armonia",
+     "descubrimiento_del_entorno",
+     "comunicacion_y_representacion"
+    ],
+    "curso": "0-6",
+    "edad_min": "0",
+    "edad_max": "6",
+    "equivale_a": [
+     "Etapa_0_1_ano",
+     "Etapa_1_3_anos",
+     "Etapa_3_6_anos"
+    ],
+    "fuentes": [
+     "ES_RD_95_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Etapa 0-6 años con identidad propia, en dos ciclos: primer ciclo 0-3 (escuelas infantiles) y segundo ciclo 3-6 (habitualmente en los CEIP), voluntaria; el segundo ciclo es gratuito. - Finalidad: el desarrollo integral (físico, emocional, social, cognitivo y artístico) en colaboración estrecha con …",
+   "secciones": [
+    "Ordenación",
+    "Áreas (RD 95/2022, [[ES_RD_95_2022]])",
+    "Principios pedagógicos",
+    "Evaluación",
+    "Transición a Primaria"
+   ],
+   "enlaces": [
+    "Autorregulacion_Emocional",
+    "Conciencia_Fonologica",
+    "ES_RD_95_2022",
+    "Etapa_6_8_anos",
+    "Indagacion_Guiada",
+    "Linea_Desarrollo_Cognitivo",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "Metodologia_en_Educacion_Infantil",
+    "Progresion_Musica",
+    "Sentido_Numerico"
+   ],
+   "enlazada_desde": [
+    "MOC_Crianza",
+    "MOC_Infantil",
+    "MOC_Sistema_Educativo_Espanol",
+    "Metodologia_en_Educacion_Infantil"
+   ]
+  },
   "ES_Estructura_del_Sistema": {
    "ruta": "10_Curriculos/ES_LOMLOE/ES_Estructura_del_Sistema.md",
    "titulo": "España: estructura del sistema educativo y reparto de competencias",
@@ -9325,7 +10274,8 @@
     "CLM_Normativa_Educativa",
     "ES_Funciones_Derechos_y_Deberes_del_Docente",
     "ES_Organizacion_del_Centro",
-    "MOC_Sistema_Educativo_Espanol"
+    "MOC_Sistema_Educativo_Espanol",
+    "Mito_Un_Cachete_a_Tiempo"
    ]
   },
   "US_C3_Estudios_Sociales": {
@@ -9537,6 +10487,34 @@
     "Progresion_Lengua_Extranjera"
    ]
   },
+  "AAP_2016_Pantallas": {
+   "ruta": "11_Fuentes/AAP_2016_Pantallas.md",
+   "titulo": "AAP Council on Communications and Media. (2016). Media and young minds. Pediatrics, 138(5), e20162591.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "AAP Council on Communications and Media"
+    ],
+    "anio": "2016",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "AAP Council on Communications and Media. (2016). Media and young minds. Pediatrics, 138(5), e20162591.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Recomendaciones de la Academia Americana de Pediatría sobre pantallas en menores de 5 años.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Mito_Videos_Educativos_Bebes",
+    "Pantallas_en_la_Infancia"
+   ]
+  },
   "Anderson_2001_Taxonomia_Bloom": {
    "ruta": "11_Fuentes/Anderson_2001_Taxonomia_Bloom.md",
    "titulo": "Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives. Longman.",
@@ -9603,6 +10581,35 @@
     "US_WIDA_ELD"
    ]
   },
+  "Bakermans_2003_Sensibilidad_Apego": {
+   "ruta": "11_Fuentes/Bakermans_2003_Sensibilidad_Apego.md",
+   "titulo": "Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., & Juffer, F. (2003). Less is more: Meta-analyses of sensitivity and attachment interventions in early childhood. Psychological Bulletin, 129(2), 195-215.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Bakermans-Kranenburg",
+     "van IJzendoorn",
+     "Juffer"
+    ],
+    "anio": "2003",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., & Juffer, F. (2003). Less is more: Meta-analyses of sensitivity and attachment interventions in early childhood. Psychological Bulletin, 129(2), 195-215.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Metaanálisis de intervenciones para mejorar la sensibilidad de los padres y el apego infantil.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Apego",
+    "MOC_Fuentes"
+   ]
+  },
   "Bandura_1977_Autoeficacia": {
    "ruta": "11_Fuentes/Bandura_1977_Autoeficacia.md",
    "titulo": "Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191-215.",
@@ -9627,6 +10634,33 @@
    "enlaces": [],
    "enlazada_desde": [
     "Autoeficacia",
+    "MOC_Fuentes"
+   ]
+  },
+  "Baumrind_1971_Estilos_Parentales": {
+   "ruta": "11_Fuentes/Baumrind_1971_Estilos_Parentales.md",
+   "titulo": "Baumrind, D. (1971). Current patterns of parental authority. Developmental Psychology Monographs, 4(1, Pt. 2), 1-103.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Baumrind"
+    ],
+    "anio": "1971",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Baumrind, D. (1971). Current patterns of parental authority. Developmental Psychology Monographs, 4(1, Pt. 2), 1-103.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Estudio clásico que define los estilos parentales.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Estilos_Parentales",
     "MOC_Fuentes"
    ]
   },
@@ -9687,6 +10721,62 @@
    "enlazada_desde": [
     "Evaluacion_Formativa",
     "MOC_Fuentes"
+   ]
+  },
+  "Bruer_1999_Primeros_Tres_Anos": {
+   "ruta": "11_Fuentes/Bruer_1999_Primeros_Tres_Anos.md",
+   "titulo": "Bruer, J. T. (1999). The myth of the first three years: A new understanding of early brain development and lifelong learning. Free Press.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Bruer"
+    ],
+    "anio": "1999",
+    "tipo_fuente": "libro",
+    "fiabilidad": "media",
+    "referencia_apa": "Bruer, J. T. (1999). The myth of the first three years: A new understanding of early brain development and lifelong learning. Free Press.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Crítica de la idea de que todo se decide en los tres primeros años.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Mito_Primeros_Tres_Anos"
+   ]
+  },
+  "Byers_Heinlein_2013_Bilinguismo": {
+   "ruta": "11_Fuentes/Byers_Heinlein_2013_Bilinguismo.md",
+   "titulo": "Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes, 7(1), 95-112.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Byers-Heinlein",
+     "Lew-Williams"
+    ],
+    "anio": "2013",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Byers-Heinlein, K., & Lew-Williams, C. (2013). Bilingualism in the early years: What the science says. LEARNing Landscapes, 7(1), 95-112.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Revisión divulgativa de la investigación sobre el bilingüismo temprano.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Crianza_Bilingue",
+    "MOC_Fuentes",
+    "Mito_Bilinguismo_Confunde"
    ]
   },
   "CAST_2018_DUA": {
@@ -10064,6 +11154,42 @@
     "MOC_Fuentes"
    ]
   },
+  "DeLoache_2010_Videos_Bebes": {
+   "ruta": "11_Fuentes/DeLoache_2010_Videos_Bebes.md",
+   "titulo": "DeLoache, J. S., Chiong, C., Sherman, K., et al. (2010). Do babies learn from baby media? Psychological Science, 21(11), 1570-1574.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "DeLoache",
+     "Chiong",
+     "Sherman",
+     "Islam",
+     "Vanderborght",
+     "Troseth",
+     "Strouse",
+     "O'Doherty"
+    ],
+    "anio": "2010",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "DeLoache, J. S., Chiong, C., Sherman, K., et al. (2010). Do babies learn from baby media? Psychological Science, 21(11), 1570-1574.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Ensayo aleatorizado con bebés de 12 a 18 meses y un DVD educativo de vocabulario muy vendido.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Fuentes",
+    "Mito_Videos_Educativos_Bebes",
+    "Pantallas_en_la_Infancia"
+   ]
+  },
   "Dekker_2012_Neuromitos": {
    "ruta": "11_Fuentes/Dekker_2012_Neuromitos.md",
    "titulo": "Dekker, S., Lee, N. C., Howard-Jones, P., & Jolles, J. (2012). Neuromyths in education: Prevalence and predictors of misconceptions among teachers. Frontiers in Psychology, 3, 429.",
@@ -10118,6 +11244,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Funciones_Ejecutivas",
+    "Linea_Desarrollo_Cognitivo",
     "MOC_Fuentes"
    ]
   },
@@ -10385,6 +11512,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "Entorno_de_Aprendizaje_en_Casa",
     "MOC_Fuentes",
     "Relacion_con_las_Familias"
    ]
@@ -10590,6 +11718,33 @@
     "MOC_Sistema_Educativo_Espanol"
    ]
   },
+  "ES_RD_95_2022": {
+   "ruta": "11_Fuentes/ES_RD_95_2022.md",
+   "titulo": "Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil. BOE.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Ministerio de Educación y Formación Profesional"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil. BOE.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Enseñanzas mínimas del segundo ciclo de Educación Infantil y ordenación de la etapa (0-6).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "ES_Educacion_Infantil",
+    "MOC_Fuentes"
+   ]
+  },
   "Ehri_2005_Fases_Lectura": {
    "ruta": "11_Fuentes/Ehri_2005_Fases_Lectura.md",
    "titulo": "Ehri, L. C. (2005). Learning to read words: Theory, findings, and issues. Scientific Studies of Reading, 9(2), 167-188.",
@@ -10678,6 +11833,62 @@
    "enlazada_desde": [
     "Indagacion_Guiada",
     "MOC_Fuentes"
+   ]
+  },
+  "Gershoff_2016_Castigo_Fisico": {
+   "ruta": "11_Fuentes/Gershoff_2016_Castigo_Fisico.md",
+   "titulo": "Gershoff, E. T., & Grogan-Kaylor, A. (2016). Spanking and child outcomes: Old controversies and new meta-analyses. Journal of Family Psychology, 30(4), 453-469.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Gershoff",
+     "Grogan-Kaylor"
+    ],
+    "anio": "2016",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Gershoff, E. T., & Grogan-Kaylor, A. (2016). Spanking and child outcomes: Old controversies and new meta-analyses. Journal of Family Psychology, 30(4), 453-469.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Metaanálisis de más de 75 estudios sobre el castigo físico (azotes) y sus consecuencias en la infancia.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Disciplina_Positiva_y_Limites",
+    "MOC_Fuentes",
+    "Mito_Un_Cachete_a_Tiempo"
+   ]
+  },
+  "Gopnik_2016_Jardinero": {
+   "ruta": "11_Fuentes/Gopnik_2016_Jardinero.md",
+   "titulo": "Gopnik, A. (2016). The gardener and the carpenter: What the new science of child development tells us about the relationship between parents and children. Farrar, Straus and Giroux. [Trad. esp.: El jardinero y el carpintero, Temas de Hoy, 2017].",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Gopnik"
+    ],
+    "anio": "2016",
+    "tipo_fuente": "libro",
+    "fiabilidad": "media",
+    "referencia_apa": "Gopnik, A. (2016). The gardener and the carpenter: What the new science of child development tells us about the relationship between parents and children. Farrar, Straus and Giroux. [Trad. esp.: El jardinero y el carpintero, Temas de Hoy, 2017].",
+    "verificado": "pendiente"
+   },
+   "resumen": "Ensayo de una investigadora del desarrollo infantil sobre el papel de los padres.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Graham_2007_Writing_Next": {
@@ -10857,6 +12068,34 @@
    "enlazada_desde": [
     "Hattie",
     "MOC_Fuentes"
+   ]
+  },
+  "Heckman_2006_Inversion_Temprana": {
+   "ruta": "11_Fuentes/Heckman_2006_Inversion_Temprana.md",
+   "titulo": "Heckman, J. J. (2006). Skill formation and the economics of investing in disadvantaged children. Science, 312(5782), 1900-1902.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Heckman"
+    ],
+    "anio": "2006",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Heckman, J. J. (2006). Skill formation and the economics of investing in disadvantaged children. Science, 312(5782), 1900-1902.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Análisis económico del rendimiento de la inversión en la primera infancia.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Mito_Primeros_Tres_Anos",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Hume_2021_TEA_Practicas": {
@@ -11151,6 +12390,39 @@
     "Mito_Piramide_del_Aprendizaje"
    ]
   },
+  "Lillard_2013_Juego_Simbolico": {
+   "ruta": "11_Fuentes/Lillard_2013_Juego_Simbolico.md",
+   "titulo": "Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Lillard",
+     "Lerner",
+     "Hopkins",
+     "Dore",
+     "Smith",
+     "Palmquist"
+    ],
+    "anio": "2013",
+    "tipo_fuente": "revision_sistematica",
+    "fiabilidad": "alta",
+    "referencia_apa": "Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Revisión crítica de la evidencia sobre el juego simbólico (de ficción) y el desarrollo.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Juego_en_la_Infancia",
+    "MOC_Fuentes",
+    "Metodologia_en_Educacion_Infantil"
+   ]
+  },
   "Lillard_2017_Montessori": {
    "ruta": "11_Fuentes/Lillard_2017_Montessori.md",
    "titulo": "Lillard, A. S., Heise, M. J., Richey, E. M., Tong, X., Hart, A., & Bray, P. M. (2017). Montessori preschool elevates and equalizes child outcomes: A longitudinal study. Frontiers in Psychology, 8, 1783.",
@@ -11242,6 +12514,69 @@
     "Mito_Entrenamiento_Cerebral"
    ]
   },
+  "Moffitt_2011_Autocontrol": {
+   "ruta": "11_Fuentes/Moffitt_2011_Autocontrol.md",
+   "titulo": "Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Moffitt",
+     "Arseneault",
+     "Belsky",
+     "et al."
+    ],
+    "anio": "2011",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Estudio longitudinal de Dunedin (Nueva Zelanda): 1.000 personas seguidas desde el nacimiento hasta los 32 años.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Fuentes",
+    "Mito_Test_de_la_Golosina",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Mol_2008_Lectura_Dialogica": {
+   "ruta": "11_Fuentes/Mol_2008_Lectura_Dialogica.md",
+   "titulo": "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development, 19(1), 7-26.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Mol",
+     "Bus",
+     "de Jong",
+     "Smeets"
+    ],
+    "anio": "2008",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added value of dialogic parent-child book readings: A meta-analysis. Early Education and Development, 19(1), 7-26.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Metaanálisis de la lectura dialógica entre padres e hijos.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Fuentes"
+   ]
+  },
   "Mol_2011_Exposicion_Lectora": {
    "ruta": "11_Fuentes/Mol_2011_Exposicion_Lectora.md",
    "titulo": "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267-296.",
@@ -11267,6 +12602,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Educacion_Literaria_y_Lectura_por_Placer",
+    "Lectura_Compartida_en_Familia",
     "MOC_Fuentes"
    ]
   },
@@ -11446,6 +12782,36 @@
     "Progresion_Competencia_Digital"
    ]
   },
+  "OMS_2019_Menores_5": {
+   "ruta": "11_Fuentes/OMS_2019_Menores_5.md",
+   "titulo": "World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. WHO.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Organización Mundial de la Salud"
+    ],
+    "anio": "2019",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "World Health Organization. (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. WHO.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Directrices de la OMS sobre actividad física, sedentarismo y sueño de 0 a 5 años.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Etapa_0_1_ano",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "MOC_Fuentes",
+    "Pantallas_en_la_Infancia"
+   ]
+  },
   "OMS_2020_Actividad_Fisica": {
    "ruta": "11_Fuentes/OMS_2020_Actividad_Fisica.md",
    "titulo": "Bull, F. C., et al. (2020). World Health Organization 2020 guidelines on physical activity and sedentary behaviour. British Journal of Sports Medicine, 54(24), 1451-1462.",
@@ -11504,6 +12870,37 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Rubricas"
+   ]
+  },
+  "Paruthi_2016_Sueno": {
+   "ruta": "11_Fuentes/Paruthi_2016_Sueno.md",
+   "titulo": "Paruthi, S., Brooks, L. J., D'Ambrosio, C., et al. (2016). Recommended amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine. Journal of Clinical Sleep Medicine, 12(6), 785-786.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Paruthi",
+     "Brooks",
+     "D'Ambrosio",
+     "et al."
+    ],
+    "anio": "2016",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Paruthi, S., Brooks, L. J., D'Ambrosio, C., et al. (2016). Recommended amount of sleep for pediatric populations: A consensus statement of the American Academy of Sleep Medicine. Journal of Clinical Sleep Medicine, 12(6), 785-786.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Recomendaciones de horas de sueño por edad, incluidas las siestas.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Etapa_0_1_ano",
+    "MOC_Fuentes",
+    "Sueno_Infantil"
    ]
   },
   "Pashler_2008_Estilos_Aprendizaje": {
@@ -11590,6 +12987,33 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Mito_Efecto_Mozart"
+   ]
+  },
+  "Plomin_2018_Genetica": {
+   "ruta": "11_Fuentes/Plomin_2018_Genetica.md",
+   "titulo": "Plomin, R. (2018). Blueprint: How DNA makes us who we are. Allen Lane.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Plomin"
+    ],
+    "anio": "2018",
+    "tipo_fuente": "libro",
+    "fiabilidad": "media",
+    "referencia_apa": "Plomin, R. (2018). Blueprint: How DNA makes us who we are. Allen Lane.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Síntesis divulgativa de la genética de la conducta.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Randolph_2023_Montessori": {
@@ -11717,6 +13141,39 @@
     "Rutinas_de_Pensamiento"
    ]
   },
+  "Romeo_2018_Turnos_Conversacionales": {
+   "ruta": "11_Fuentes/Romeo_2018_Turnos_Conversacionales.md",
+   "titulo": "Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. E. (2018). Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function. Psychological Science, 29(5), 700-710.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Romeo",
+     "Leonard",
+     "Robinson",
+     "West",
+     "Mackey",
+     "Rowe",
+     "Gabrieli"
+    ],
+    "anio": "2018",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. E. (2018). Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function. Psychological Science, 29(5), 700-710.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Estudio con niños de 4 a 6 años sobre la exposición al lenguaje y la actividad cerebral.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Fuentes"
+   ]
+  },
   "Rosenshine_2012_Principios": {
    "ruta": "11_Fuentes/Rosenshine_2012_Principios.md",
    "titulo": "Rosenshine, B. (2012). Principles of instruction: Research-based strategies that all teachers should know. American Educator, 36(1), 12-19, 39.",
@@ -11742,6 +13199,36 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Rosenshine"
+   ]
+  },
+  "Ryan_2000_Autodeterminacion": {
+   "ruta": "11_Fuentes/Ryan_2000_Autodeterminacion.md",
+   "titulo": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Ryan",
+     "Deci"
+    ],
+    "anio": "2000",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Formulación central de la teoría de la autodeterminación.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Autonomia_y_Responsabilidades",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Fuentes",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Sala_2020_Musica": {
@@ -11771,6 +13258,37 @@
     "MOC_Fuentes",
     "Mito_Efecto_Mozart",
     "Progresion_Musica"
+   ]
+  },
+  "Sanders_2014_Triple_P": {
+   "ruta": "11_Fuentes/Sanders_2014_Triple_P.md",
+   "titulo": "Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34(4), 337-357.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Sanders",
+     "Kirby",
+     "Tellegen",
+     "Day"
+    ],
+    "anio": "2014",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34(4), 337-357.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Metaanálisis del programa de parentalidad positiva Triple P.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Disciplina_Positiva_y_Limites",
+    "MOC_Fuentes",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Santangelo_2016_Caligrafia": {
@@ -11943,6 +13461,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Discalculia",
+    "Entorno_de_Aprendizaje_en_Casa",
     "MOC_Fuentes",
     "Rutina_Juego_Tablero_Numerico"
    ]
@@ -12069,6 +13588,41 @@
     "MOC_Fuentes"
    ]
   },
+  "Sylva_2004_EPPE": {
+   "ruta": "11_Fuentes/Sylva_2004_EPPE.md",
+   "titulo": "Sylva, K., Melhuish, E., Sammons, P., Siraj-Blatchford, I., & Taggart, B. (2004). The Effective Provision of Pre-School Education (EPPE) Project: Final report. DfES / Institute of Education, University of London.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Sylva",
+     "Melhuish",
+     "Sammons",
+     "Siraj-Blatchford",
+     "Taggart"
+    ],
+    "anio": "2004",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "Sylva, K., Melhuish, E., Sammons, P., Siraj-Blatchford, I., & Taggart, B. (2004). The Effective Provision of Pre-School Education (EPPE) Project: Final report. DfES / Institute of Education, University of London.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Estudio longitudinal británico de unos 3.000 niños sobre la educación infantil (3-5 años).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Etapa_3_6_anos",
+    "Lectura_Compartida_en_Familia",
+    "MOC_Fuentes",
+    "Metodologia_en_Educacion_Infantil",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
   "Taylor_2017_ASE_Seguimiento": {
    "ruta": "11_Fuentes/Taylor_2017_ASE_Seguimiento.md",
    "titulo": "Taylor, R. D., Oberle, E., Durlak, J. A., & Weissberg, R. P. (2017). Promoting positive youth development through school-based social and emotional learning interventions: A meta-analysis of follow-up effects. Child Development, 88(4), 1156-1171.",
@@ -12184,6 +13738,35 @@
     "Progresion_Competencia_Digital"
    ]
   },
+  "Watts_2018_Malvavisco": {
+   "ruta": "11_Fuentes/Watts_2018_Malvavisco.md",
+   "titulo": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Watts",
+     "Duncan",
+     "Quan"
+    ],
+    "anio": "2018",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Replicación conceptual del famoso test de la golosina con una muestra más grande y diversa.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Mito_Test_de_la_Golosina"
+   ]
+  },
   "Willingham_2009_Por_que_no_gusta": {
    "ruta": "11_Fuentes/Willingham_2009_Por_que_no_gusta.md",
    "titulo": "Willingham, D. T. (2009). Why don't students like school? Jossey-Bass. [Trad. esp.: ¿Por qué a los niños no les gusta ir a la escuela? Graó, 2011].",
@@ -12266,6 +13849,38 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Progresion_Educacion_Artistica"
+   ]
+  },
+  "Zubler_2022_Hitos_CDC": {
+   "ruta": "11_Fuentes/Zubler_2022_Hitos_CDC.md",
+   "titulo": "Zubler, J. M., Wiggins, L. D., Macias, M. M., et al. (2022). Evidence-informed milestones for developmental surveillance tools. Pediatrics, 149(3), e2021052138.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Zubler",
+     "Wiggins",
+     "Macias",
+     "et al."
+    ],
+    "anio": "2022",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Zubler, J. M., Wiggins, L. D., Macias, M. M., et al. (2022). Evidence-informed milestones for developmental surveillance tools. Pediatrics, 149(3), e2021052138.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Revisión de los hitos del desarrollo de la campaña *Learn the Signs. Act Early.* (CDC y Academia Americana de Pediatría).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Etapa_0_1_ano",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "MOC_Fuentes"
    ]
   },
   "CLM_Situacion_Aprendizaje_Ingles_Ejemplo": {
@@ -12473,6 +14088,9 @@
    ],
    "enlazada_desde": [
     "Discalculia",
+    "Etapa_3_6_anos",
+    "Juego_en_la_Infancia",
+    "MOC_Infantil",
     "MOC_Practica",
     "Sentido_Numerico"
    ]
@@ -12646,7 +14264,8 @@
    ],
    "enlazada_desde": [
     "Autorregulacion_Emocional",
-    "MOC_Practica"
+    "MOC_Practica",
+    "Rabietas_y_Regulacion_Emocional_Temprana"
    ]
   },
   "Sesion_Escritura_Narrativa_SRSD": {
@@ -12908,6 +14527,43 @@
     "MOC_Practica"
    ]
   },
+  "Mito_Bilinguismo_Confunde": {
+   "ruta": "13_Mitos/Mito_Bilinguismo_Confunde.md",
+   "titulo": "Mito: El bilingüismo confunde o retrasa el lenguaje",
+   "tipo": "mito",
+   "aliases": [
+    "Bilingüismo confunde",
+    "Bilingualism delays language",
+    "Dos idiomas confunden al niño"
+   ],
+   "metadatos": {
+    "nivel_evidencia": "M",
+    "fuentes": [
+     "Byers_Heinlein_2013_Bilinguismo"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Hablar dos lenguas a un niño pequeño le confunde y retrasa su desarrollo del lenguaje; es mejor esperar a que domine una.",
+   "secciones": [
+    "La afirmación",
+    "Por qué es falsa (qué dice la evidencia)",
+    "Por qué se ha extendido",
+    "Qué hacer en su lugar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Byers_Heinlein_2013_Bilinguismo",
+    "Crianza_Bilingue",
+    "MOC_Mitos",
+    "TDL"
+   ],
+   "enlazada_desde": [
+    "Crianza_Bilingue",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Crianza",
+    "MOC_Mitos"
+   ]
+  },
   "Mito_Cuanto_Antes_Mejor_L2": {
    "ruta": "13_Mitos/Mito_Cuanto_Antes_Mejor_L2.md",
    "titulo": "Mito: Cuanto antes se empiece con la lengua extranjera en la escuela, mejor",
@@ -12940,6 +14596,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "Crianza_Bilingue",
     "MOC_Mitos",
     "Progresion_Lengua_Extranjera"
    ]
@@ -12977,7 +14634,9 @@
     "Sala_2020_Musica"
    ],
    "enlazada_desde": [
+    "MOC_Crianza",
     "MOC_Mitos",
+    "Pilares_del_Desarrollo_Integral",
     "Progresion_Musica"
    ]
   },
@@ -13056,6 +14715,78 @@
     "Progresion_Escritura"
    ]
   },
+  "Mito_Primeros_Tres_Anos": {
+   "ruta": "13_Mitos/Mito_Primeros_Tres_Anos.md",
+   "titulo": "Mito: Todo se decide en los tres primeros años",
+   "tipo": "mito",
+   "aliases": [
+    "Primeros tres años",
+    "Ventana que se cierra",
+    "First three years myth"
+   ],
+   "metadatos": {
+    "nivel_evidencia": "M",
+    "fuentes": [
+     "Bruer_1999_Primeros_Tres_Anos"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El cerebro se forma en los primeros tres años; lo que no se estimule entonces se pierde para siempre.",
+   "secciones": [
+    "La afirmación",
+    "Por qué es falsa (qué dice la evidencia)",
+    "Por qué se ha extendido",
+    "Qué hacer en su lugar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Bruer_1999_Primeros_Tres_Anos",
+    "Heckman_2006_Inversion_Temprana",
+    "MOC_Mitos",
+    "Pilares_del_Desarrollo_Integral"
+   ],
+   "enlazada_desde": [
+    "MOC_Crianza",
+    "MOC_Mitos",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Mito_Test_de_la_Golosina": {
+   "ruta": "13_Mitos/Mito_Test_de_la_Golosina.md",
+   "titulo": "Mito: El test de la golosina predice el éxito en la vida",
+   "tipo": "mito",
+   "aliases": [
+    "Test del malvavisco",
+    "Marshmallow test",
+    "Gratificación aplazada como destino"
+   ],
+   "metadatos": {
+    "nivel_evidencia": "M",
+    "fuentes": [
+     "Watts_2018_Malvavisco"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Lo que espera un niño de 4 años ante una golosina determina su éxito académico y vital.",
+   "secciones": [
+    "La afirmación",
+    "Por qué es falsa (qué dice la evidencia)",
+    "Por qué se ha extendido",
+    "Qué hacer en su lugar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Funciones_Ejecutivas",
+    "MOC_Mitos",
+    "Moffitt_2011_Autocontrol",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Watts_2018_Malvavisco"
+   ],
+   "enlazada_desde": [
+    "MOC_Crianza",
+    "MOC_Mitos"
+   ]
+  },
   "Mito_Tres_Claves": {
    "ruta": "13_Mitos/Mito_Tres_Claves.md",
    "titulo": "Mito: Tres claves (adivinar las palabras por el contexto)",
@@ -13095,13 +14826,645 @@
     "US_CCSS_Reading_Foundational_Skills"
    ]
   },
+  "Mito_Un_Cachete_a_Tiempo": {
+   "ruta": "13_Mitos/Mito_Un_Cachete_a_Tiempo.md",
+   "titulo": "Mito: Un cachete a tiempo funciona",
+   "tipo": "mito",
+   "aliases": [
+    "Un azote a tiempo",
+    "Cachete a tiempo",
+    "Spanking works",
+    "Castigo físico"
+   ],
+   "metadatos": {
+    "nivel_evidencia": "M",
+    "fuentes": [
+     "Gershoff_2016_Castigo_Fisico"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Un azote o un cachete de vez en cuando es eficaz para corregir y no hace daño.",
+   "secciones": [
+    "La afirmación",
+    "Por qué es falsa (qué dice la evidencia)",
+    "Por qué se ha extendido",
+    "Qué hacer en su lugar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Disciplina_Positiva_y_Limites",
+    "ES_Proteccion_Infancia_y_Datos",
+    "Gershoff_2016_Castigo_Fisico",
+    "MOC_Mitos"
+   ],
+   "enlazada_desde": [
+    "Disciplina_Positiva_y_Limites",
+    "MOC_Crianza",
+    "MOC_Mitos"
+   ]
+  },
+  "Mito_Videos_Educativos_Bebes": {
+   "ruta": "13_Mitos/Mito_Videos_Educativos_Bebes.md",
+   "titulo": "Mito: Los vídeos y apps educativos enseñan a los bebés",
+   "tipo": "mito",
+   "aliases": [
+    "Baby Einstein",
+    "Vídeos para bebés",
+    "Apps educativas para bebés"
+   ],
+   "metadatos": {
+    "nivel_evidencia": "M",
+    "fuentes": [
+     "DeLoache_2010_Videos_Bebes",
+     "AAP_2016_Pantallas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Los vídeos y aplicaciones \"educativos\" para bebés aceleran el aprendizaje del lenguaje y la inteligencia.",
+   "secciones": [
+    "La afirmación",
+    "Por qué es falsa (qué dice la evidencia)",
+    "Por qué se ha extendido",
+    "Qué hacer en su lugar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AAP_2016_Pantallas",
+    "DeLoache_2010_Videos_Bebes",
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Mitos"
+   ],
+   "enlazada_desde": [
+    "MOC_Crianza",
+    "MOC_Mitos",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Autonomia_y_Responsabilidades": {
+   "ruta": "14_Crianza/Autonomia_y_Responsabilidades.md",
+   "titulo": "Autonomía, responsabilidades y motivación",
+   "tipo": "crianza",
+   "aliases": [
+    "Autonomía",
+    "Responsabilidades en casa",
+    "Tareas domésticas",
+    "Motivación intrínseca",
+    "Elogio",
+    "Recompensas"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "1",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Ryan_2000_Autodeterminacion",
+     "Bandura_1977_Autoeficacia"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Según la teoría de la autodeterminación (Ryan_2000_Autodeterminacion), los niños se desarrollan y se motivan cuando se satisfacen tres necesidades: 1. Autonomía: sentir que eligen y que su voluntad cuenta. 2. Competencia: sentir que son capaces y que progresan (Autoeficacia). 3. Relación: sentirse q…",
+   "secciones": [
+    "Las tres necesidades básicas",
+    "En la práctica",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Autoeficacia",
+    "Dweck",
+    "Estilos_Parentales",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral",
+    "Retroalimentacion",
+    "Ryan_2000_Autodeterminacion"
+   ],
+   "enlazada_desde": [
+    "Etapa_1_3_anos",
+    "MOC_Crianza",
+    "MOC_Infantil",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Crianza_Bilingue": {
+   "ruta": "14_Crianza/Crianza_Bilingue.md",
+   "titulo": "Crianza bilingüe",
+   "tipo": "crianza",
+   "aliases": [
+    "Bilingüismo en casa",
+    "Crianza bilingüe",
+    "Bilingual parenting",
+    "Dos idiomas",
+    "Familias multilingües"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Byers_Heinlein_2013_Bilinguismo"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Los niños pueden aprender dos o más lenguas desde el nacimiento sin confusión ni retraso: alcanzan los hitos a la misma edad si se cuentan ambas lenguas (Byers_Heinlein_2013_Bilinguismo). - Mezclar lenguas (*code-switching*) es normal. - En cada lengua puede tener menos vocabulario que un monoling…",
+   "secciones": [
+    "Qué dice la evidencia",
+    "Cómo hacerlo",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Byers_Heinlein_2013_Bilinguismo",
+    "Incorporacion_Tardia",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Crianza",
+    "Mito_Bilinguismo_Confunde",
+    "Mito_Cuanto_Antes_Mejor_L2"
+   ],
+   "enlazada_desde": [
+    "Lectura_Compartida_en_Familia",
+    "MOC_Crianza",
+    "Mito_Bilinguismo_Confunde"
+   ]
+  },
+  "Disciplina_Positiva_y_Limites": {
+   "ruta": "14_Crianza/Disciplina_Positiva_y_Limites.md",
+   "titulo": "Disciplina positiva y límites",
+   "tipo": "crianza",
+   "aliases": [
+    "Disciplina",
+    "Límites",
+    "Parentalidad positiva",
+    "Positive parenting",
+    "Castigos",
+    "Consecuencias"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "1",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Gershoff_2016_Castigo_Fisico",
+     "Sanders_2014_Triple_P"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "1. Prevenir: rutinas, anticipar, preparar las situaciones difíciles, atención positiva frecuente. 2. Reforzar lo que queremos ver: atención y elogio concreto cuando lo hace bien (\"Has recogido los juguetes sin que te lo pida\"). 3. Normas pocas y claras, explicadas, adaptadas a la edad. 4. Consecuenc…",
+   "secciones": [
+    "Principios",
+    "Lo que no funciona y hace daño",
+    "Programas para familias",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Estilos_Parentales",
+    "Gershoff_2016_Castigo_Fisico",
+    "Gestion_de_la_Conducta",
+    "MOC_Crianza",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Sanders_2014_Triple_P"
+   ],
+   "enlazada_desde": [
+    "Estilos_Parentales",
+    "MOC_Crianza",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Pilares_del_Desarrollo_Integral",
+    "Rabietas_y_Regulacion_Emocional_Temprana"
+   ]
+  },
+  "Entorno_de_Aprendizaje_en_Casa": {
+   "ruta": "14_Crianza/Entorno_de_Aprendizaje_en_Casa.md",
+   "titulo": "Entorno de aprendizaje en casa",
+   "tipo": "crianza",
+   "aliases": [
+    "Entorno de aprendizaje en el hogar",
+    "Home learning environment",
+    "Estimulación",
+    "Ayudar en casa con el colegio"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Sylva_2004_EPPE",
+     "EEF_2021_Familias",
+     "Siegler_2008_Juegos_Numericos"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El estudio EPPE encontró que lo que se hace en casa (leer, cantar, jugar con letras y números, pintar, visitar bibliotecas y lugares) influye en el desarrollo más que la profesión o los ingresos de los padres (Sylva_2004_EPPE). Son actividades cotidianas y gratuitas.",
+   "secciones": [
+    "Lo que más influye",
+    "Por edades",
+    "Ayudar con el colegio (sin hacerlo por ellos)",
+    "Lo que no hace falta",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Deberes_y_Tareas_Inacabadas",
+    "EEF_2021_Familias",
+    "Lectura_Compartida_en_Familia",
+    "MOC_Crianza",
+    "Relacion_con_las_Familias",
+    "Siegler_2008_Juegos_Numericos",
+    "Sylva_2004_EPPE"
+   ],
+   "enlazada_desde": [
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Estilos_Parentales": {
+   "ruta": "14_Crianza/Estilos_Parentales.md",
+   "titulo": "Estilos parentales",
+   "tipo": "crianza",
+   "aliases": [
+    "Estilos educativos parentales",
+    "Parenting styles",
+    "Crianza democrática",
+    "Authoritative parenting"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Baumrind_1971_Estilos_Parentales"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Afecto (calidez, apoyo, comunicación). - Exigencia (normas, supervisión, expectativas).",
+   "secciones": [
+    "Los dos ejes",
+    "Qué dice la evidencia",
+    "Cómo es en la práctica",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Baumrind_1971_Estilos_Parentales",
+    "Disciplina_Positiva_y_Limites",
+    "Gestion_de_la_Conducta",
+    "MOC_Crianza"
+   ],
+   "enlazada_desde": [
+    "Autonomia_y_Responsabilidades",
+    "Disciplina_Positiva_y_Limites",
+    "Etapa_1_3_anos",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Juego_en_la_Infancia": {
+   "ruta": "14_Crianza/Juego_en_la_Infancia.md",
+   "titulo": "El juego en la infancia",
+   "tipo": "crianza",
+   "aliases": [
+    "Juego",
+    "Juego libre",
+    "Play",
+    "Juego simbólico",
+    "Juego al aire libre"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Lillard_2013_Juego_Simbolico",
+     "OMS_2019_Menores_5"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El juego es la actividad natural de la infancia: en él se mueven, exploran, imaginan, se relacionan, negocian normas y regulan sus emociones. Tiene valor en sí mismo.",
+   "secciones": [
+    "Por qué importa",
+    "Tipos de juego por edad",
+    "Cómo favorecerlo",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Funciones_Ejecutivas",
+    "Gamificacion",
+    "Lillard_2013_Juego_Simbolico",
+    "Linea_Desarrollo_Motor",
+    "MOC_Crianza",
+    "Rutina_Juego_Tablero_Numerico"
+   ],
+   "enlazada_desde": [
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "MOC_Crianza",
+    "MOC_Infantil",
+    "Metodologia_en_Educacion_Infantil",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Lectura_Compartida_en_Familia": {
+   "ruta": "14_Crianza/Lectura_Compartida_en_Familia.md",
+   "titulo": "Lectura compartida en familia",
+   "tipo": "crianza",
+   "aliases": [
+    "Lectura compartida",
+    "Leer en casa",
+    "Lectura dialógica",
+    "Dialogic reading",
+    "Shared book reading"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Mol_2008_Lectura_Dialogica",
+     "Mol_2011_Exposicion_Lectora",
+     "Sylva_2004_EPPE"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Leer con los hijos cada día es una de las prácticas familiares con más evidencia: amplía el vocabulario, la comprensión, el conocimiento del mundo y el gusto por leer (Mol_2008_Lectura_Dialogica, Mol_2011_Exposicion_Lectora), y forma parte del entorno de aprendizaje en casa que más influye (Sylva_20…",
+   "secciones": [
+    "Por qué",
+    "Cómo, según la edad",
+    "Claves",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Crianza_Bilingue",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Linea_Desarrollo_Lenguaje",
+    "MOC_Crianza",
+    "Mol_2008_Lectura_Dialogica",
+    "Mol_2011_Exposicion_Lectora",
+    "Sylva_2004_EPPE"
+   ],
+   "enlazada_desde": [
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "MOC_Crianza",
+    "MOC_Infantil",
+    "Mito_Videos_Educativos_Bebes",
+    "Pilares_del_Desarrollo_Integral",
+    "Sueno_Infantil"
+   ]
+  },
+  "Pantallas_en_la_Infancia": {
+   "ruta": "14_Crianza/Pantallas_en_la_Infancia.md",
+   "titulo": "Pantallas en la infancia",
+   "tipo": "crianza",
+   "aliases": [
+    "Pantallas",
+    "Tiempo de pantalla",
+    "Screen time",
+    "Móvil",
+    "Tablet",
+    "Videojuegos"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "OMS_2019_Menores_5",
+     "AAP_2016_Pantallas",
+     "DeLoache_2010_Videos_Bebes"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Los bebés y niños pequeños aprenden de las personas, no de los vídeos (DeLoache_2010_Videos_Bebes). - El problema principal es lo que la pantalla desplaza: sueño, juego, conversación, lectura, movimiento. - Las pantallas en el dormitorio y antes de dormir empeoran el sueño.",
+   "secciones": [
+    "Recomendaciones por edad",
+    "Por qué",
+    "Plan familiar de pantallas",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AAP_2016_Pantallas",
+    "Ciudadania_Digital_y_Seguridad",
+    "DeLoache_2010_Videos_Bebes",
+    "MOC_Crianza",
+    "Mito_Nativos_Digitales",
+    "OMS_2019_Menores_5",
+    "Progresion_Competencia_Digital"
+   ],
+   "enlazada_desde": [
+    "Etapa_1_3_anos",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral",
+    "Sueno_Infantil"
+   ]
+  },
+  "Pilares_del_Desarrollo_Integral": {
+   "ruta": "14_Crianza/Pilares_del_Desarrollo_Integral.md",
+   "titulo": "Pilares del desarrollo integral: cómo ayudar a un niño a alcanzar su mejor desarrollo",
+   "tipo": "crianza",
+   "aliases": [
+    "Desarrollo integral",
+    "Máximo potencial",
+    "Educar a un hijo",
+    "Pilares de la crianza",
+    "Human potential"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Ryan_2000_Autodeterminacion",
+     "Moffitt_2011_Autocontrol",
+     "Heckman_2006_Inversion_Temprana",
+     "Sylva_2004_EPPE",
+     "Plomin_2018_Genetica",
+     "Gopnik_2016_Jardinero"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Ningún padre ni maestro \"fabrica\" a un niño. Cada niño nace con un temperamento y unas predisposiciones propias, y una parte importante de las diferencias entre personas tiene base genética (Plomin_2018_Genetica). Lo que la evidencia sí muestra con claridad es: - Las carencias graves (maltrato, aban…",
+   "secciones": [
+    "Una idea previa: humildad",
+    "Los pilares (con su evidencia)",
+    "Por qué los primeros años importan (sin dramatismo)",
+    "Qué no hace falta",
+    "Por edad",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "Autonomia_y_Responsabilidades",
+    "Disciplina_Positiva_y_Limites",
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Estilos_Parentales",
+    "Etapa_0_1_ano",
+    "Etapa_10_12_anos",
+    "Etapa_1_3_anos",
+    "Etapa_3_6_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Funciones_Ejecutivas",
+    "Gopnik_2016_Jardinero",
+    "Heckman_2006_Inversion_Temprana",
+    "Juego_en_la_Infancia",
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Lenguaje",
+    "Linea_Desarrollo_Motor",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
+    "Mito_Efecto_Mozart",
+    "Mito_Primeros_Tres_Anos",
+    "Mito_Videos_Educativos_Bebes",
+    "Moffitt_2011_Autocontrol",
+    "Pantallas_en_la_Infancia",
+    "Plomin_2018_Genetica",
+    "Progresion_Ciudadania_y_Valores",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Ryan_2000_Autodeterminacion",
+    "Sanders_2014_Triple_P",
+    "Sueno_Infantil",
+    "Sylva_2004_EPPE"
+   ],
+   "enlazada_desde": [
+    "Apego",
+    "Autonomia_y_Responsabilidades",
+    "MOC_Crianza",
+    "Mito_Primeros_Tres_Anos"
+   ]
+  },
+  "Rabietas_y_Regulacion_Emocional_Temprana": {
+   "ruta": "14_Crianza/Rabietas_y_Regulacion_Emocional_Temprana.md",
+   "titulo": "Rabietas y regulación emocional en la primera infancia",
+   "tipo": "crianza",
+   "aliases": [
+    "Rabietas",
+    "Berrinches",
+    "Tantrums",
+    "Regulación emocional temprana",
+    "Corregulación"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "1",
+    "edad_max": "6",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Sanders_2014_Triple_P",
+     "Diamond_2011_Funciones_Ejecutivas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Entre 1 y 4 años, las rabietas son normales: el niño siente emociones intensas, quiere autonomía y todavía no tiene lenguaje ni control inhibitorio suficientes (Funciones_Ejecutivas). Suelen disminuir a partir de los 4 años. Se regula primero con el adulto (corregulación) y después solo.",
+   "secciones": [
+    "Por qué ocurren",
+    "Qué hacer",
+    "Cuándo consultar",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Autorregulacion_Emocional",
+    "Disciplina_Positiva_y_Limites",
+    "Funciones_Ejecutivas",
+    "MOC_Crianza",
+    "Rutina_Semaforo_de_Emociones"
+   ],
+   "enlazada_desde": [
+    "Disciplina_Positiva_y_Limites",
+    "Etapa_1_3_anos",
+    "Linea_Desarrollo_Socioemocional",
+    "MOC_Crianza",
+    "MOC_Infantil",
+    "Mito_Test_de_la_Golosina",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Sueno_Infantil": {
+   "ruta": "14_Crianza/Sueno_Infantil.md",
+   "titulo": "Sueño infantil",
+   "tipo": "crianza",
+   "aliases": [
+    "Sueño",
+    "Dormir",
+    "Sleep",
+    "Rutina de sueño",
+    "Horas de sueño"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Paruthi_2016_Sueno",
+     "OMS_2019_Menores_5"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El sueño insuficiente se asocia con peor atención, conducta, regulación emocional, aprendizaje y salud. Algunos niños con \"problemas de atención\" en realidad duermen poco.",
+   "secciones": [
+    "Horas recomendadas (en 24 h, con siestas)",
+    "Por qué importa",
+    "Buenas prácticas",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Lectura_Compartida_en_Familia",
+    "Linea_Desarrollo_Motor",
+    "MOC_Crianza",
+    "Pantallas_en_la_Infancia",
+    "Paruthi_2016_Sueno",
+    "TDAH"
+   ],
+   "enlazada_desde": [
+    "Linea_Desarrollo_Motor",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
   "AGENTS": {
    "ruta": "AGENTS.md",
    "titulo": "Guía para agentes LLM",
    "tipo": "",
    "aliases": [],
    "metadatos": {},
-   "resumen": "Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6-12 años). Antes de responder con ella:",
+   "resumen": "Esta bóveda es una base de conocimiento sobre desarrollo y educación de 0 a 12 años, para docentes (Infantil y Primaria) y para familias (crianza). El desarrollo evolutivo (`02_Desarrollo/`) es el eje de todo. Antes de responder con ella:",
    "secciones": [
     "Herramientas (si puedes ejecutar Python)",
     "Cómo navegar",
@@ -13113,11 +15476,11 @@
   },
   "README": {
    "ruta": "README.md",
-   "titulo": "Biblioteca de Pedagogía Primaria",
+   "titulo": "Biblioteca de Pedagogía y Desarrollo Infantil (0-12)",
    "tipo": "",
    "aliases": [],
    "metadatos": {},
-   "resumen": "Un Zettelkasten (bóveda de Obsidian) con el conocimiento que un docente de Educación Primaria (6-12 años) necesita: qué enseñar, cuándo, cómo, a quién y con qué evidencia.",
+   "resumen": "Un Zettelkasten (bóveda de Obsidian) con el conocimiento necesario para educar a niños y niñas de 0 a 12 años: cómo se desarrollan, qué enseñar, cuándo, cómo, a quién y con qué evidencia. Sirve a la vez para docentes (Infantil y Primaria) y para familias que quieren criar a sus hijos de la mejor man…",
    "secciones": [
     "Principios",
     "Estructura",
@@ -13130,6 +15493,8 @@
     "Arquitectura",
     "Convenciones",
     "Escala_de_evidencia",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
     "Uso_con_LLM"
    ],
    "enlazada_desde": []

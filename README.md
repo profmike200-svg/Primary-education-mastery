@@ -1,8 +1,9 @@
-# Biblioteca de Pedagogía Primaria
+# Biblioteca de Pedagogía y Desarrollo Infantil (0-12)
 
-Un Zettelkasten (bóveda de Obsidian) con el conocimiento que un docente de Educación Primaria (6-12 años) necesita: qué enseñar, cuándo, cómo, a quién y con qué evidencia.
+Un Zettelkasten (bóveda de Obsidian) con el conocimiento necesario para **educar a niños y niñas de 0 a 12 años**: cómo se desarrollan, qué enseñar, cuándo, cómo, a quién y con qué evidencia. Sirve a la vez para **docentes** (Infantil y Primaria) y para **familias** que quieren criar a sus hijos de la mejor manera posible. El hilo conductor es el **desarrollo evolutivo** ([[MOC_Desarrollo]]).
 
-Lo usan dos tipos de lectores:
+Lo usan tres tipos de lectores:
+- **Familias**: empezar por [[MOC_Crianza]].
 - **Docentes**: abrir la carpeta como bóveda en Obsidian. Se empieza por [[00_INICIO]].
 - **Modelos LLM**: leer primero [AGENTS.md](AGENTS.md).
 
@@ -29,6 +30,7 @@ Lo usan dos tipos de lectores:
 | `11_Fuentes/` | Fichas bibliográficas |
 | `12_Practica/` | Situaciones de aprendizaje, sesiones y actividades concretas |
 | `13_Mitos/` | Mitos educativos refutados (nivel M) |
+| `14_Crianza/` | Crianza basada en evidencia (0-12) |
 | `scripts/` | Validador de coherencia |
 | `90_Plantillas/` | Plantillas de cada tipo de nota |
 | `99_Inbox/` | Notas sin procesar |

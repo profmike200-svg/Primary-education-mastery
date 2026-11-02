@@ -3,12 +3,16 @@ tipo: moc
 estado: estable
 aliases: [Inicio, Home]
 ---
-# 🏛️ Biblioteca de Pedagogía Primaria
+# 🏛️ Biblioteca de Pedagogía y Desarrollo Infantil (0-12)
+
+Para **docentes** de Infantil y Primaria y para **familias**. El desarrollo evolutivo es el hilo conductor.
 
 ## Preguntas clave
 | Pregunta | Empieza en |
 |---|---|
 | ¿**Cómo es** el niño a esta edad? | [[MOC_Desarrollo]] |
+| ¿Cómo educar a mi hijo/a? (familias) | [[MOC_Crianza]] |
+| Educación Infantil (0-6) | [[MOC_Infantil]] |
 | ¿**Qué** enseñar y **cuándo**? | [[MOC_Areas]] · [[MOC_Por_Curso]] |
 | ¿**Cómo** enseñarlo? | [[MOC_Metodologias]] |
 | ¿**A quién**? (diversidad) | [[MOC_Diversidad]] |

@@ -14,6 +14,13 @@ Ideas muy extendidas que la evidencia refuta (nivel M). Un LLM **nunca** debe re
 - [[Mito_Entrenamiento_Cerebral]]
 - [[Mito_Efecto_Mozart]]
 
+## Mitos de crianza
+- [[Mito_Un_Cachete_a_Tiempo]]
+- [[Mito_Primeros_Tres_Anos]]
+- [[Mito_Videos_Educativos_Bebes]]
+- [[Mito_Bilinguismo_Confunde]]
+- [[Mito_Test_de_la_Golosina]]
+
 ## Mitos metodológicos
 - [[Mito_Piramide_del_Aprendizaje]]
 - [[Mito_Tres_Claves]]

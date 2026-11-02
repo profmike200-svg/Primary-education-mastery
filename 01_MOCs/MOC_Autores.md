@@ -7,7 +7,7 @@ estado: borrador
 
 
 ## Desarrollo y aprendizaje
-- [[Piaget]] · [[Vygotsky]] · [[Bruner]] · [[Ausubel]] · [[Erikson]] · [[Kohlberg]] · [[Bandura]]
+- [[Piaget]] · [[Vygotsky]] · [[Bruner]] · [[Ausubel]] · [[Erikson]] · [[Kohlberg]] · [[Bandura]] · [[Bowlby]] · [[Ainsworth]]
 
 ## Clásicos de la pedagogía
 - [[Comenius]] · [[Rousseau]] · [[Pestalozzi]] · [[Froebel]]

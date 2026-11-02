@@ -13,10 +13,11 @@ SIN_FRONTMATTER = {"README.md", "AGENTS.md"}
 
 TIPOS = {"etapa", "dimension_desarrollo", "area", "progresion", "contenido", "metodologia",
          "estrategia", "autor", "corriente", "necesidad", "concepto", "evaluacion", "gestion_aula",
-         "curriculo", "fuente", "mito", "practica", "glosario", "moc", "meta"}
+         "curriculo", "fuente", "mito", "practica", "glosario", "moc", "meta", "crianza"}
 AREAS = {"matematicas", "lengua", "lectoescritura", "lengua_extranjera", "ciencias_naturales",
          "ciencias_sociales", "artistica", "musica", "educacion_fisica", "valores_ciudadania",
-         "competencia_digital", "socioemocional", "transversal"}
+         "competencia_digital", "socioemocional", "transversal",
+         "crecimiento_en_armonia", "descubrimiento_del_entorno", "comunicacion_y_representacion", "crianza"}
 NECESIDADES = {"tdah", "tea", "dislexia", "discalculia", "disgrafia", "tdl", "discapacidad_intelectual",
                "altas_capacidades", "discapacidad_sensorial", "discapacidad_motora",
                "incorporacion_tardia", "vulnerabilidad_socioemocional"}
@@ -92,8 +93,8 @@ def main():
                 errores.append(f"{rel}: nivel {ev} exige al menos una fuente en 'fuentes'")
             for campo in ("edad_min", "edad_max"):
                 v = fm.get(campo)
-                if v not in (None, "") and not (str(v).isdigit() and 5 <= int(v) <= 13):
-                    errores.append(f"{rel}: {campo} debe ser un entero entre 5 y 13")
+                if v not in (None, "") and not (str(v).isdigit() and 0 <= int(v) <= 18):
+                    errores.append(f"{rel}: {campo} debe ser un entero entre 0 y 18")
 
         sin_codigo = re.sub(r"```.*?```", "", texto, flags=re.S)
         sin_codigo = re.sub(r"`[^`\n]*`", "", sin_codigo)

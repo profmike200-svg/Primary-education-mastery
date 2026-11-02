@@ -9,6 +9,7 @@ aliases: [Sistema educativo español, España, Capa España, Spain]
 
 ## Marco general
 - [[ES_Estructura_del_Sistema]]: leyes, competencias del Estado y de las comunidades, etapas, ciclos, ratios
+- [[ES_Educacion_Infantil]]: etapa 0-6, áreas y principios
 - [[ES_Marco_Curricular_LOMLOE]]: competencias clave, áreas, saberes básicos, situaciones de aprendizaje
 
 ## En el día a día

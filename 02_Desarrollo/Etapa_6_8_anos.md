@@ -49,4 +49,5 @@ Es la transición de Infantil a Primaria. El pensamiento pasa a ser lógico, per
 
 ## Relacionado
 - MOC padre: [[MOC_Desarrollo]]
-- Siguiente: [[Etapa_8_10_anos]]
+- Anterior: [[Etapa_3_6_anos]] · Siguiente: [[Etapa_8_10_anos]]
+- Líneas: [[Linea_Desarrollo_Lenguaje]] · [[Linea_Desarrollo_Socioemocional]] · [[Linea_Desarrollo_Cognitivo]] · [[Linea_Desarrollo_Motor]]

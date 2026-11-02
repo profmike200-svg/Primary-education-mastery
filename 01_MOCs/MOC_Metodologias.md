@@ -37,6 +37,9 @@ Nivel de evidencia entre paréntesis (ver [[Escala de evidencia]]).
 - [[Aprendizaje_Basado_en_Proyectos]] (C; B con buena estructura)
 - [[Aprendizaje_por_Descubrimiento]] (C sin guía)
 
+## Educación Infantil
+- [[Metodologia_en_Educacion_Infantil]] (B)
+
 ## Pedagogías alternativas
 - [[Metodo_Montessori]] (B)
 - [[Pedagogia_Freinet]] (D)
