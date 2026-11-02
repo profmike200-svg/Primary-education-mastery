@@ -16,129 +16,132 @@ estado: borrador
 
 > 🧠 **Memory map** (learn this first)
 > 1. **Introduction** – Lucía's "Rain!" · communicating, not knowing *about* English · LOMLOE: 6 specific competences
-> 2. **Linguistic skills** – receptive/productive × oral/written (Harmer) · integration · CEFR: reception, production, interaction, mediation · 3 integration principles
-> 3. **Oral skills** – listening first (input, Krashen) · pre/while/post · bottom-up + top-down (Field) · speaking: imitation → controlled → guided → free · prompts > recasts (Lyster & Saito)
-> 4. **Written skills** – oral before written (Cameron) · phonics · 98 % coverage (Nation) · copying → guided → free writing · strategy instruction (Graham et al.)
-> 5. **Communicative competence** – Hymes → Canale & Swain → Canale → Bachman → CEFR → LOMLOE
-> 6. **Diversity & assessment** – UDL · Decreto 85/2018 · instruments per skill
+> 2. **Linguistic skills** – receptive/productive × oral/written (Harmer, 2015) · integration · CEFR: reception, production, interaction, mediation
+> 3. **Oral skills** – listening first (Krashen, 1982) · pre/while/post · bottom-up + top-down (Field, 2008) · speaking: imitation → controlled → guided → free · prompts > recasts (Lyster & Saito, 2010)
+> 4. **Written skills** – oral before written (Cameron, 2001) · phonics · 98 % coverage (Nation, 2013) · copying → guided → free · strategy instruction (Graham et al., 2012)
+> 5. **Communicative competence** – Hymes (1972) → Canale & Swain (1980) → Canale (1983) → Bachman (1990) → CEFR → LOMLOE
+> 6. **Diversity & assessment** – UDL (CAST, 2018) · Decree 85/2018 · Order 185/2022 · one instrument per skill
 > 7. **Conclusion** – back to Lucía: integrated skills, real reasons to communicate
+>
+> 🔗 **Shared blocks** ([[CLM_Bloques_Comunes_Temario]]): B1 framework · B4 communicative competence · B6 listening stages · B7 speaking · B8 reading & writing · B2 diversity · B3 assessment · B15 conclusion
 
 ---
 
 ## 1. Introduction
 
-It is Monday morning in a second-year classroom. Before the teacher has even said "good morning", Lucía points at the window and shouts: "Rain!". On Friday the class sang a song about the weather, and today she has heard the word again in her head, recognised the situation and used the word to share something with everyone. In just a few seconds, she has listened, understood and spoken. That small moment is exactly what this topic is about: how children develop the skills that allow them to communicate in English.
+It is Monday morning in a second-year classroom. Before the teacher has even said "good morning", Lucía points at the window and shouts: **"Rain!"**. On Friday the class sang a song about the weather, and today she has recognised the situation, remembered the word and used it to share something with everyone. In just a few seconds, she has **listened, understood and spoken**. That small moment is exactly what this topic is about: how children develop the skills that allow them to **communicate** in English.
 
-The aim of the foreign language area in Primary Education is not that pupils know *about* English, but that they can *use* English to communicate. The Organic Law 3/2020 (LOMLOE) and Royal Decree 157/2022 place communicative competence at the heart of the area, and the Castilla-La Mancha curriculum (Decreto 81/2022) organises it into six specific competences: comprehension, production, interaction, mediation, plurilingualism and interculturality. These competences contribute directly to two key competences: competence in linguistic communication and plurilingual competence.
+Indeed, the aim of the foreign language area is not that pupils know *about* English, but that they can *use* it. For this reason, the **Organic Law 3/2020 (LOMLOE)** and **Royal Decree 157/2022** place **communicative competence** at the heart of the area, and **Decree 81/2022** of Castilla-La Mancha organises it into **six specific competences**: comprehension, production, interaction, mediation, plurilingualism and interculturality. These competences contribute directly to the key competences in **linguistic communication** and **plurilingualism**.
 
-In this topic I will first describe the linguistic skills and how they are integrated. Then I will explain how to develop oral and written comprehension and expression in the Primary classroom, with practical examples. After that, I will analyse the concept of communicative competence and its evolution up to the current curriculum. Finally, I will refer to attention to diversity and assessment, before drawing some conclusions.
+With this framework in mind, I will first describe the linguistic skills and how they are integrated. Then I will explain how to develop oral and written skills in the classroom. After that, I will analyse the concept of communicative competence, and finally I will refer to diversity and assessment before drawing some conclusions.
 
 ## 2. Linguistic skills
 
 ### 2.1. Classification of the skills
 
-Traditionally, language teaching has been organised around four skills. Harmer (2015) classifies them according to two criteria: the **medium** (oral or written) and the **direction** of communication (receptive or productive).
+To begin with, it is useful to see how the skills are classified. **Harmer (2015)** organises them according to two criteria: the **medium** (oral or written) and the **direction** of communication (receptive or productive).
 
 | | Oral | Written |
 |---|---|---|
 | **Receptive** | Listening | Reading |
 | **Productive** | Speaking | Writing |
 
-Receptive skills involve understanding messages produced by others, while productive skills involve creating our own messages. In Primary, this distinction is very useful, because children usually understand much more than they can produce, especially in the first cycle.
+**Receptive skills** involve understanding messages produced by others, whereas **productive skills** involve creating our own. This distinction matters in Primary, because children understand much more than they can say. For example, a first-year pupil can follow *"Take your pencil and draw a cat"* long before being able to produce that sentence.
 
 ### 2.2. Integration of skills and the CEFR perspective
 
-In real life, however, we rarely use one skill in isolation. We read a message and reply to it; we listen to an explanation and take notes; we talk with a friend while looking at a map. For this reason, current approaches insist on the **integration of skills**.
+However, in real life we rarely use one skill in isolation: we read a message and reply to it, or we listen to an explanation and take notes. Consequently, current approaches insist on the **integration of skills**.
 
-The Common European Framework of Reference for Languages (Council of Europe, 2001) and its *Companion Volume* (Council of Europe, 2020) go one step further. Instead of four separate skills, they describe four **modes of communication**: reception, production, interaction and mediation. Interaction highlights that communication is a shared activity, and mediation refers to helping others to understand, for example by explaining a text to a classmate or summarising information. This model is the basis of the specific competences of our curriculum, which is why it should guide our planning.
+The **Council of Europe (2001)**, in the Common European Framework of Reference (CEFR), and later in its *Companion Volume* (**Council of Europe, 2020**), goes one step further. Instead of four skills, it describes four **modes of communication**: **reception, production, interaction and mediation**. **Mediation** means helping others to understand. For instance, a pupil mediates when they explain to a newly arrived classmate what the teacher has asked them to do, or when they tell their group, in simple English, the main idea of a poster. **Interaction**, in turn, reminds us that communication is a shared activity, built by two or more people at the same time. Since this model underpins the specific competences of our curriculum, it should also guide our planning.
 
-A simple integrated sequence could be: pupils listen to a story, retell it orally with the help of pictures, read a short version of it and finally write a new page for a class book.
-
-Mediation deserves a special mention because it is new in our curriculum. A Primary pupil mediates, for example, when they explain to a newly arrived classmate what the teacher has asked them to do, or when they tell their group, in simple English, the main idea of a poster they have read. These everyday situations show that integrating skills is not an abstract principle, but the way communication really works.
-
-Three principles help to integrate skills in practice: start from **oral input** and move towards written work; design **tasks with a final product** (a poster, a short video, a class book) that require several skills; and **recycle** the same language through different skills, so that each new activity builds on the previous one.
+In practice, an integrated sequence could be: pupils listen to a story, retell it with pictures, read a short version and finally write a new page for a class book. Each activity **recycles** the language of the previous one, moving from oral input towards written work and ending in a **final product**.
 
 ## 3. Oral comprehension and expression
 
+Having seen the skills as a whole, let us now look at each of them, starting with the oral ones, which come first in children's development.
+
 ### 3.1. Listening: the first skill
 
-Listening is the first skill children develop in their mother tongue, and it should also be the starting point in the foreign language. Krashen (1982) argued that we acquire language when we understand messages that are slightly above our current level, which he called *comprehensible input*, and that many learners go through a "silent period" before they start speaking. Although some of his hypotheses have been criticised, the idea that children need plenty of meaningful input before producing language is widely accepted.
+Listening is the first skill children develop in their mother tongue, and it should also be the starting point in English. **Krashen (1982)** argued that we acquire language when we understand messages slightly above our current level, which he called **comprehensible input**, and that many learners go through a **silent period** before speaking. Although some of his hypotheses have been criticised, the need for plenty of meaningful input is widely accepted.
 
-Young learners rely heavily on context, gestures and pictures to understand (Cameron, 2001). For that reason, a good listening activity follows three stages:
+Moreover, listening is demanding: speech is fast and learners cannot go back as they can with a text. **Field (2008)** explains that good listeners combine **bottom-up processing**, building meaning from sounds and words, and **top-down processing**, using their knowledge of the situation to predict. For example, a child who sees a picture of a birthday party can predict that *cake* and *presents* will appear.
 
-- **Pre-listening**: activate prior knowledge, pre-teach a few key words and give pupils a clear purpose for listening.
-- **While-listening**: give a task that does not require much production, such as pointing, numbering, colouring or ticking pictures.
-- **Post-listening**: use the language in a new way, for instance by retelling, acting out or personalising the content.
-
-Listening in a foreign language is demanding. Speech is fast, words run together, and learners cannot go back as they can with a written text. Good listeners combine two kinds of processing: **bottom-up**, building meaning from sounds and words, and **top-down**, using their knowledge of the topic and the situation to predict and interpret (Field, 2008). Teachers can make listening easier by choosing short, well-supported texts, repeating them several times, adding visual support and, above all, by teaching pupils that they do not need to understand every word to understand the message.
+In addition, we listen in different ways depending on our purpose: **for gist**, to get the general idea, or **for specific information**, to catch a particular detail, such as the time of a film. Therefore, as **Cameron (2001)** recommends, young learners need context and visual support, and listening activities should follow three stages:
+- **Pre-listening**: activate prior knowledge, pre-teach key words and set a purpose.
+- **While-listening**: a task with little production, such as pointing, numbering or ticking.
+- **Post-listening**: use the language in a new way, for instance by acting out the text.
 
 ### 3.2. Speaking: from imitation to free production
 
-Speaking develops progressively. Children start by **imitating** songs, rhymes and chants; then they practise fixed structures in **controlled** activities; after that, they produce language with support in **guided** activities, such as role-plays with cards or information-gap tasks; finally, they reach **free production**, for example in short presentations or personal conversations. Speaking frames on the classroom walls (*I like… because…*) are a powerful scaffold during this process.
+Once pupils have received enough input, they are ready to produce language, and speaking develops progressively. Children start by **imitating** songs and chants; then they practise fixed structures in **controlled** activities; after that, they produce language with support in **guided** tasks, such as **information gaps**; finally, they reach **free production**. **Speaking frames** on the walls (*I like… because…*) scaffold this process.
 
-Feedback is also essential. A meta-analysis by Lyster and Saito (2010) showed that oral corrective feedback has significant and durable effects, that younger learners benefit more from it, and that *prompts*, which encourage pupils to correct themselves (*"Yesterday I… go?"*), are more effective than simply repeating the correct form.
+Along the way, feedback is essential. The meta-analysis by **Lyster and Saito (2010)** showed that oral corrective feedback has durable effects, that **younger learners benefit more**, and that **prompts**, which lead pupils to correct themselves, work better than **recasts**. For example, the teacher can repeat an error with rising intonation, *"Yesterday I… go?"*, so that the pupil finds *went*. A recast, by contrast, would simply be *"Ah, you went to the park!"*, which pupils often fail to notice.
 
-**Example (3rd year).** Pupils listen to a short weather forecast and match symbols to cities. Then, in pairs, each pupil has a different map and they ask *"What's the weather like in Toledo?"* to complete it. Finally, they present the weather for their own town to the class.
+**Example (3rd year).** Pupils listen to a weather forecast and match symbols to cities. Then, in pairs, each pupil has a different map and asks *"What's the weather like in Toledo?"* to complete it. Finally, they present the weather for their own town.
 
 ## 4. Written comprehension and expression
 
+Just as oral skills grow from listening to speaking, written skills grow from reading to writing, and they should build on what pupils already know orally.
+
 ### 4.1. Reading
 
-Written language should come **after** pupils are familiar with the words orally (Cameron, 2001). Moreover, English has an opaque spelling system: the same letters can represent different sounds. Therefore, pupils need explicit teaching of the most common sound-spelling patterns, an approach known as phonics (see topic 10).
+According to **Cameron (2001)**, written language should come **after** pupils are familiar with the words orally. In addition, English has an **opaque spelling system**: the letters *ea* sound different in *bread* and *read*. As a result, pupils need explicit teaching of sound-spelling patterns, known as **phonics** (see topic 10).
 
-Reading activities also follow pre-, while- and post-reading stages. We can distinguish between **intensive reading**, in which pupils work in detail with a short text, and **extensive reading**, in which they read longer, easy texts for pleasure. For reading to be enjoyable, learners need to know around 98 % of the words in a text (Nation, 2013), so graded readers and a well-chosen class library are essential.
+We can also distinguish between **intensive reading**, working in detail with a short text, and **extensive reading**, reading easy texts for pleasure. **Nation (2013)** points out that pleasure reading requires knowing around **98 % of the words**; in other words, only about one unknown word in fifty. That is why **graded readers** and a well-chosen class library are essential. For example, a fourth-year pupil who takes home a short graded reader every Friday reads for pleasure and, at the same time, meets known words again in new contexts.
 
 ### 4.2. Writing
 
-Writing develops from **copying** words and short sentences, to **guided writing** with models and frames, and finally to **free writing**. In the third cycle, pupils can also learn the writing process: planning, drafting and revising their texts. Research on writing instruction shows that teaching these strategies explicitly, with a model text and a simple checklist, clearly improves the quality of children's writing (Graham et al., 2012). In the foreign language classroom, this means that pupils should rarely face a blank page: they need a model, a frame and a clear purpose.
+Similarly, writing develops from **copying**, to **guided writing** with models and frames, and finally to **free writing**. In the third cycle, pupils can also learn the **writing process**: planning, drafting and revising. The meta-analysis by **Graham et al. (2012)** shows that teaching these strategies explicitly clearly improves children's writing. In short, pupils should rarely face a blank page: they need a model, a frame and a purpose.
 
-**Example (5th year).** Pupils read a model postcard, identify its parts, plan their own postcard with a frame and write it to a partner school through eTwinning, which gives them a real reader and a real reason to write.
+**Example (5th year).** Pupils read a model postcard, identify its parts, plan their own with a frame and send it to a partner school through **eTwinning**, which gives them a real reader.
 
 ## 5. Communicative competence in English
 
-### 5.1. From linguistic competence to communicative competence
+All these skills, however, are only means to an end: communicative competence, the second part of the title.
 
-Chomsky described *linguistic competence* as the speaker's knowledge of the grammar of a language. Hymes (1972) argued that this was not enough: knowing a language also means knowing what to say, to whom, when and how. He called this broader ability **communicative competence**.
+### 5.1. From linguistic to communicative competence
+
+Chomsky described **linguistic competence** as the speaker's knowledge of grammar. In response, **Hymes (1972)** argued that knowing a language also means knowing **what to say, to whom, when and how**, and called this broader ability **communicative competence**. For example, *"Give me water!"* is grammatically correct, but *"Can I have some water, please?"* is appropriate when speaking to a teacher.
 
 ### 5.2. Models of communicative competence
 
-Canale and Swain (1980) proposed one of the most influential models, with three components: **grammatical competence** (vocabulary, grammar, pronunciation), **sociolinguistic competence** (using language appropriately in each context) and **strategic competence** (strategies to keep communication going when problems arise). Canale (1983) later added **discourse competence**, the ability to connect sentences into coherent texts. Bachman (1990) reorganised these ideas into organisational and pragmatic competence.
+Building on Hymes, **Canale and Swain (1980)** proposed three components: **grammatical competence** (words, grammar and pronunciation), **sociolinguistic competence** (appropriate use in context) and **strategic competence** (keeping communication going when problems arise). Later, **Canale (1983)** added **discourse competence**, the ability to connect sentences into coherent texts, and **Bachman (1990)** reorganised these ideas into **organisational** and **pragmatic competence**.
 
-In the classroom, these components become very concrete: learning words and structures (grammatical), saying *please* and *thank you* (sociolinguistic), using gestures or asking *"Can you repeat, please?"* when words are missing (strategic), and joining sentences to tell a simple story (discourse).
+In the classroom, these components become very concrete: learning words (grammatical), saying *please* (sociolinguistic), asking *"Can you repeat, please?"* (strategic) and joining sentences with *first, then* and *finally* to tell a story (discourse).
 
 ### 5.3. Communicative competence today
 
-The CEFR (Council of Europe, 2001, 2020) describes communicative language competences as linguistic, sociolinguistic and pragmatic, and adds **plurilingual and pluricultural competence**. It also offers descriptors for the Pre-A1 and A1 levels that are useful for Primary. Our current curriculum translates all this into the six specific competences of the foreign language area, which are, in practice, the official expression of communicative competence in Primary Education.
+Finally, the **Council of Europe (2020)** describes communicative language competences as linguistic, sociolinguistic and pragmatic, and adds **plurilingual and pluricultural competence**, with **Pre-A1 and A1 descriptors** that suit Primary. Our curriculum translates all this into the six specific competences of the area, which are, in practice, the official expression of communicative competence.
 
 ## 6. Attention to diversity and assessment
 
-Universal Design for Learning (CAST, 2018) helps us to plan for everyone from the beginning: multiple means of representation (images, gestures, audio), of action and expression (oral, drawn, written or recorded answers) and of engagement. This approach is consistent with Decreto 85/2018 on inclusive education in Castilla-La Mancha. For example, a pupil with dyslexia can show what they have understood orally, a newly arrived pupil can rely on pictures and a classmate's help, and pupils with a high level can work on extension tasks.
+Of course, all these proposals must reach every pupil. **Universal Design for Learning**, as described by **CAST (2018)**, proposes multiple means of **engagement, representation, and action and expression**, in line with **Decree 85/2018** on inclusive education. For instance, a pupil with **dyslexia** can show their understanding orally, a **newly arrived pupil** can rely on pictures and a buddy, and pupils with a **high level** can take on extension tasks, such as writing an extra ending to the story.
 
-According to Orden 185/2022, assessment must be continuous, formative and global. Each skill needs suitable instruments: picture-based tasks for listening, observation scales for speaking and interaction, rubrics for writing and *can-do* self-assessment checklists.
+Likewise, according to **Order 185/2022**, assessment must be **continuous, formative and global**, with an instrument for each skill: picture-based tasks for listening, **observation scales** for speaking, **rubrics** for writing and ***can-do* self-assessment** checklists.
 
 ## 7. Conclusion
 
-Let us go back to Lucía and her "Rain!". Developing linguistic skills is not about teaching four separate subjects, but about giving children reasons and tools to communicate. When listening, speaking, reading and writing are integrated into meaningful tasks, communicative competence grows naturally. Our challenge as teachers is to create those situations every single day, so that every child, like Lucía, feels that English is a language to share things with others.
+To conclude, let us go back to Lucía and her "Rain!". Developing linguistic skills is not about teaching four separate subjects, but about giving children **reasons and tools to communicate**. When listening, speaking, reading and writing are **integrated into meaningful tasks**, communicative competence grows naturally. Our challenge as teachers is to create those situations every day, so that every child, like Lucía, feels that English is a language for sharing things with others.
 
 > ✅ **Key points to remember**
-> - Four skills: receptive/productive × oral/written (Harmer, 2015); CEFR: reception, production, interaction, mediation.
-> - Listening first: comprehensible input (Krashen, 1982); pre/while/post stages.
-> - Speaking: imitation → controlled → guided → free; prompts work better than recasts (Lyster & Saito, 2010).
-> - Reading after oral familiarity (Cameron, 2001); 98 % coverage for pleasure reading (Nation, 2013).
-> - Communicative competence: Hymes (1972) → Canale & Swain (1980) → Canale (1983) → Bachman (1990) → CEFR → LOMLOE.
+> - Four skills: receptive/productive × oral/written (**Harmer, 2015**); CEFR modes: reception, production, interaction, mediation (**Council of Europe, 2020**).
+> - Listening first: comprehensible input (**Krashen, 1982**); bottom-up + top-down (**Field, 2008**); pre/while/post.
+> - Speaking: imitation → controlled → guided → free; prompts > recasts (**Lyster & Saito, 2010**).
+> - Reading after oral familiarity (**Cameron, 2001**); 98 % coverage (**Nation, 2013**); writing strategies (**Graham et al., 2012**).
+> - Communicative competence: **Hymes (1972)** → **Canale & Swain (1980)** → **Canale (1983)** → **Bachman (1990)** → CEFR → LOMLOE.
 
 ## 8. References
 
 ### Legal references
-Decreto 81/2022, de 12 de julio, por el que se establece la ordenación y el currículo de Educación Primaria en la comunidad autónoma de Castilla-La Mancha. *Diario Oficial de Castilla-La Mancha*, 14 de julio de 2022.
+Decree 81/2022, of 12 July, establishing the organisation and curriculum of Primary Education in the autonomous community of Castilla-La Mancha. *Official Journal of Castilla-La Mancha* (DOCM), 14 July 2022.
 
-Decreto 85/2018, de 20 de noviembre, por el que se regula la inclusión educativa del alumnado en la comunidad autónoma de Castilla-La Mancha. *Diario Oficial de Castilla-La Mancha*.
+Decree 85/2018, of 20 November, regulating the educational inclusion of pupils in the autonomous community of Castilla-La Mancha. *Official Journal of Castilla-La Mancha* (DOCM).
 
-Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. *Boletín Oficial del Estado*, 340, de 30 de diciembre de 2020.
+Order 185/2022, of 27 September, of the Regional Ministry of Education, Culture and Sports, regulating assessment in Primary Education in the autonomous community of Castilla-La Mancha. *Official Journal of Castilla-La Mancha* (DOCM).
 
-Orden 185/2022, de 27 de septiembre, de la Consejería de Educación, Cultura y Deportes, por la que se regula la evaluación en la etapa de Educación Primaria en la comunidad autónoma de Castilla-La Mancha. *Diario Oficial de Castilla-La Mancha*.
+Organic Law 3/2020, of 29 December, amending Organic Law 2/2006, of 3 May, on Education (LOMLOE). *Official State Gazette* (BOE), 340, 30 December 2020.
 
-Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. *Boletín Oficial del Estado*, 52, de 2 de marzo de 2022.
+Royal Decree 157/2022, of 1 March, establishing the organisation and minimum teaching requirements of Primary Education. *Official State Gazette* (BOE), 52, 2 March 2022.
 
 ### Bibliography
 Bachman, L. F. (1990). *Fundamental considerations in language testing*. Oxford University Press.
@@ -175,4 +178,4 @@ CAST. (2018). *Universal Design for Learning guidelines version 2.2*. http://udl
 European Commission. (n.d.). *eTwinning*. https://school-education.ec.europa.eu/en/etwinning
 
 ---
-- Guion y errores a evitar: [[CLM_Tema_03_Guion]] · Índice: [[CLM_Indices_Temario_Ingles]] · Método: [[CLM_Como_Escribir_un_Tema_de_10]]
+- Guion y errores a evitar: [[CLM_Tema_03_Guion]] · Bloques comunes: [[CLM_Bloques_Comunes_Temario]] · Índice: [[CLM_Indices_Temario_Ingles]] · Método: [[CLM_Como_Escribir_un_Tema_de_10]]

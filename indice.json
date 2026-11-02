@@ -587,6 +587,7 @@
    ],
    "enlaces": [
     "00_INICIO",
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Convivencia_y_Autoridad",
     "CLM_Convocatoria_Maestros_2026",
@@ -10284,6 +10285,7 @@
     "Vygotsky"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Tema_03",
@@ -11019,6 +11021,56 @@
     "MOC_Castilla_La_Mancha"
    ]
   },
+  "CLM_Bloques_Comunes_Temario": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Bloques_Comunes_Temario.md",
+   "titulo": "Bloques comunes del temario: estudiar una vez, usar en muchos temas",
+   "tipo": "curriculo",
+   "aliases": [
+    "Bloques comunes del temario",
+    "Shared blocks",
+    "Bloques reutilizables",
+    "Introducciones y conclusiones compartidas",
+    "Bibliografía compartida"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Norris_2000_Instruccion_L2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Los temas de una misma familia pueden usar la misma estructura de introducción y de conclusión: cambian el gancho y el ejemplo, pero el párrafo del marco y la reflexión final pueden ser casi idénticos.",
+   "secciones": [
+    "1. Familias de temas: introducción y conclusión compartidas",
+    "2. Paquetes de bibliografía compartida (APA 7)",
+    "3. Mapa de apartados que se repiten entre temas",
+    "4. Textos de los bloques (para memorizar tal cual)",
+    "5. Referencias completas en APA (para todos los paquetes)",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03",
+    "CLM_Tema_07"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_03",
+    "CLM_Tema_07",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
   "CLM_Como_Escribir_un_Tema_de_10": {
    "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Como_Escribir_un_Tema_de_10.md",
    "titulo": "Cómo escribir un tema para aspirar a la máxima nota",
@@ -11043,11 +11095,11 @@
     ],
     "estado": "borrador"
    },
-   "resumen": "Extensión realista: escribir a mano durante 2 horas da para unas 2.000-2.800 palabras. Si tus temas desarrollados son más largos, prepara una versión de examen algo más condensada y entrena con tiempo real.",
+   "resumen": "Extensión: 1.500-2.000 palabras (ver la regla 1 de la sección 3). Entrena con tiempo real: si te sobra tiempo, amplía ejemplos; si te falta, recorta descripciones, nunca autores ni ejemplos.",
    "secciones": [
     "1. Qué distingue un tema de 10 de uno de 6",
     "2. Estructura y peso aproximado (2 horas, a mano)",
-    "3. Estilo de los temas de la biblioteca",
+    "3. Estilo de los temas de la biblioteca (reglas obligatorias)",
     "4. Recursos que suman en todos los temas",
     "5. Errores frecuentes que restan nota",
     "6. Cómo memorizar los temas (con evidencia)",
@@ -11056,6 +11108,7 @@
     "Relacionado"
    ],
    "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Convocatoria_Maestros_2026",
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
@@ -11076,6 +11129,7 @@
     "Practica_de_Recuperacion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_03",
     "CLM_Tema_03_Guion",
@@ -11127,11 +11181,13 @@
     "8. References"
    ],
    "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_03_Guion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_03_Guion",
@@ -11234,11 +11290,13 @@
     "9. References"
    ],
    "enlaces": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_07_Guion"
    ],
    "enlazada_desde": [
+    "CLM_Bloques_Comunes_Temario",
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
     "CLM_Tema_07_Guion",
