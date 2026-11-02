@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Primeros tres años, Ventana que se cierra, First three years myth]
 nivel_evidencia: M
 fuentes: [Bruer_1999_Primeros_Tres_Anos]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Todo se decide en los tres primeros años
 

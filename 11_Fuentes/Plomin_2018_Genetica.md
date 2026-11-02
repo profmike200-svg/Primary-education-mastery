@@ -5,7 +5,9 @@ anio: 2018
 tipo_fuente: libro
 fiabilidad: media
 referencia_apa: "Plomin, R. (2018). Blueprint: How DNA makes us who we are. Allen Lane."
-verificado: pendiente
+verificado: si
+identificador: "Allen Lane / MIT Press 2018"
+fecha_verificacion: 2026-11-02
 ---
 # Plomin, R. (2018). Blueprint: How DNA makes us who we are. Allen Lane.
 

@@ -5,7 +5,7 @@ edad_min: 0
 edad_max: 12
 dimension: [linguistica]
 fuentes: [Zubler_2022_Hitos_CDC, Romeo_2018_Turnos_Conversacionales, Mol_2008_Lectura_Dialogica, NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Línea de desarrollo: lenguaje y comunicación (0-12)
 

@@ -13,7 +13,7 @@ necesidades_contempladas: [tdl, tea]
 materiales: [álbum ilustrado en inglés con estructura repetitiva, flashcards del vocabulario clave]
 nivel_evidencia: "C"
 fuentes: [Nation_2013_Vocabulario_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Rutina: *story time* (cuento semanal en inglés)
 

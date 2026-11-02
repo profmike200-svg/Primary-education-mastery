@@ -1937,7 +1937,7 @@
      "Mol_2008_Lectura_Dialogica",
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Los turnos de conversación con adultos que responden, más que la cantidad de palabras que el niño escucha (Romeo_2018_Turnos_Conversacionales). - Las pantallas no sustituyen la interacción (DeLoache_2010_Videos_Bebes). - El bilingüismo no retrasa ni confunde (Mito_Bilinguismo_Confunde). - Alerta: …",
    "secciones": [
@@ -3986,7 +3986,7 @@
      "Munoz_2006_Edad_L2",
      "Nation_2013_Vocabulario_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Orientativo para el inglés en un contexto escolar estándar (2-3 horas semanales): | Edad | Nivel MCER aproximado | Foco | |---|---|---| | 6-8 | Pre-A1 | Comprensión oral, vocabulario básico, rutinas, canciones y cuentos, respuesta física; poca lectoescritura | | 8-10 | A1 | Expresión oral en situaci…",
    "secciones": [
@@ -4511,7 +4511,7 @@
     "fuentes": [
      "Nation_2013_Vocabulario_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Un vocabulario de alta frecuencia (unas pocas centenas de palabras al final de Primaria en contextos de pocas horas) que pueda comprender y usar con soltura.",
    "secciones": [
@@ -4557,7 +4557,7 @@
     "fuentes": [
      "Perez_Canado_2012_CLIL"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Enseñar una parte de las áreas de contenido (ciencias, arte, educación física) en la lengua extranjera, con atención a la lengua y al contenido a la vez.",
    "secciones": [
@@ -7518,9 +7518,9 @@
     "fuentes": [
      "Schalock_2021_Discapacidad_Intelectual"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
-   "resumen": "Limitaciones significativas tanto en el funcionamiento intelectual como en la conducta adaptativa (habilidades conceptuales, sociales y prácticas), que se originan durante el periodo de desarrollo (Schalock_2021_Discapacidad_Intelectual). El enfoque actual se centra en los apoyos que necesita la per…",
+   "resumen": "Limitaciones significativas tanto en el funcionamiento intelectual como en la conducta adaptativa (habilidades conceptuales, sociales y prácticas), que se originan durante el periodo de desarrollo, definido como antes de los 22 años (Schalock_2021_Discapacidad_Intelectual). El enfoque actual se cent…",
    "secciones": [
     "Qué es (y qué no es)",
     "Cómo puede manifestarse en el aula",
@@ -7861,7 +7861,7 @@
     "fuentes": [
      "Baker_2014_IES_English_Learners"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Alumnado que se incorpora al sistema educativo tras empezar su escolarización en otro país y que a menudo no domina la lengua de la escuela. Puede tener un nivel académico alto en su lengua o una escolarización previa interrumpida. No es una dificultad de aprendizaje: aprender una lengua lleva tiemp…",
    "secciones": [
@@ -10539,7 +10539,7 @@
     "fuentes": [
      "Baker_2014_IES_English_Learners"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "En EE. UU., el alumnado cuya lengua materna no es el inglés (*English Learners*, EL / ELL) recibe apoyo de ESL / ELD (*English Language Development*). No es una \"asignatura de idioma\" como en España: el objetivo es poder aprender todas las áreas en inglés. Si trabajas allí, es probable que tengas al…",
    "secciones": [
@@ -10642,7 +10642,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Baker, S., et al. (2014). Teaching academic content and literacy to English learners in elementary and middle school (NCEE 2014-4012). Institute of Education Sciences, U.S. Department of Education.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "NCEE 2014-4012",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Guía práctica del What Works Clearinghouse para el alumnado que aprende inglés en EE. UU.",
    "secciones": [
@@ -10820,7 +10822,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "media",
     "referencia_apa": "Bruer, J. T. (1999). The myth of the first three years: A new understanding of early brain development and lifelong learning. Free Press.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Free Press 1999",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Crítica de la idea de que todo se decide en los tres primeros años.",
    "secciones": [
@@ -12016,7 +12020,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "media",
     "referencia_apa": "Gopnik, A. (2016). The gardener and the carpenter: What the new science of child development tells us about the relationship between parents and children. Farrar, Straus and Giroux. [Trad. esp.: El jardinero y el carpintero, Temas de Hoy, 2017].",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "ISBN 978-0-374-22970-2",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Ensayo de una investigadora del desarrollo infantil sobre el papel de los padres.",
    "secciones": [
@@ -12205,7 +12211,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "media",
     "referencia_apa": "Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement. Routledge.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Routledge 2009",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis de cientos de metaanálisis que ordena factores según su tamaño del efecto (umbral orientativo d = 0,40).",
    "secciones": [
@@ -12866,7 +12874,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "alta",
     "referencia_apa": "Nation, I. S. P. (2013). Learning vocabulary in another language (2nd ed.). Cambridge University Press.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "CUP 2013, 2ª ed.",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Obra de referencia sobre el aprendizaje del vocabulario en segundas lenguas.",
    "secciones": [
@@ -13149,7 +13159,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "media",
     "referencia_apa": "Pérez-Cañado, M. L. (2012). CLIL research in Europe: Past, present, and future. International Journal of Bilingual Education and Bilingualism, 15(3), 315-341.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1080/13670050.2011.630064",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión de la investigación europea sobre AICLE (CLIL).",
    "secciones": [
@@ -13207,7 +13219,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "media",
     "referencia_apa": "Plomin, R. (2018). Blueprint: How DNA makes us who we are. Allen Lane.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Allen Lane / MIT Press 2018",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis divulgativa de la genética de la conducta.",
    "secciones": [
@@ -13369,7 +13383,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. E. (2018). Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function. Psychological Science, 29(5), 700-710.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/0956797617742725",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio con niños de 4 a 6 años sobre la exposición al lenguaje y la actividad cerebral.",
    "secciones": [
@@ -13554,7 +13570,9 @@
     "tipo_fuente": "libro",
     "fiabilidad": "alta",
     "referencia_apa": "Schalock, R. L., Luckasson, R., & Tassé, M. J. (2021). Intellectual disability: Definition, diagnosis, classification, and systems of supports (12th ed.). American Association on Intellectual and Developmental Disabilities.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "AAIDD 2021, 12ª ed.",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Manual de referencia de la AAIDD sobre la discapacidad intelectual.",
    "secciones": [
@@ -14176,7 +14194,7 @@
      "Nation_2013_Vocabulario_L2",
      "Lyster_2010_Feedback_Oral_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Year: 4º (second cycle) · Timing: 6 sessions of 60 minutes (2 weeks, third term). - Linked areas: Conocimiento del Medio (healthy habits), Educación Física. - Challenge: *The school canteen wants ideas for healthy break-time snacks. Each team will design a healthy lunchbox and present it in Englis…",
    "secciones": [
@@ -14254,7 +14272,7 @@
     "fuentes": [
      "Nation_2013_Vocabulario_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Comprender un cuento sencillo en inglés y usar de forma oral el vocabulario y la estructura repetitiva del cuento (p. ej. *\"What do you see?\" \"I see a…\"*).",
    "secciones": [
@@ -14975,7 +14993,7 @@
     "fuentes": [
      "Bruer_1999_Primeros_Tres_Anos"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El cerebro se forma en los primeros tres años; lo que no se estimule entonces se pierde para siempre.",
    "secciones": [
@@ -15557,7 +15575,7 @@
      "Plomin_2018_Genetica",
      "Gopnik_2016_Jardinero"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Ningún padre ni maestro \"fabrica\" a un niño. Cada niño nace con un temperamento y unas predisposiciones propias, y una parte importante de las diferencias entre personas tiene base genética (Plomin_2018_Genetica). Lo que la evidencia sí muestra con claridad es: - Las carencias graves (maltrato, aban…",
    "secciones": [

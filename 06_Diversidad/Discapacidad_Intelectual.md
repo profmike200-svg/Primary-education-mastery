@@ -5,14 +5,14 @@ necesidad: discapacidad_intelectual
 prevalencia_aprox: "≈1 %"
 nivel_evidencia: "?"
 fuentes: [Schalock_2021_Discapacidad_Intelectual]
-estado: borrador
+estado: verificado_ia
 ---
 # Discapacidad intelectual
 
 > ⚠️ Orientación de aula. El diagnóstico corresponde a profesionales sanitarios o de orientación. Ver equivalencias de términos en [[Glosario_entre_sistemas]].
 
 ## Qué es (y qué no es)
-Limitaciones significativas tanto en el **funcionamiento intelectual** como en la **conducta adaptativa** (habilidades conceptuales, sociales y prácticas), que se originan durante el periodo de desarrollo ([[Schalock_2021_Discapacidad_Intelectual]]). El enfoque actual se centra en los **apoyos** que necesita la persona, no solo en el déficit. **No es** una enfermedad ni impide aprender: aprende, con otro ritmo y con más apoyos.
+Limitaciones significativas tanto en el **funcionamiento intelectual** como en la **conducta adaptativa** (habilidades conceptuales, sociales y prácticas), que se originan durante el periodo de desarrollo, definido como **antes de los 22 años** ([[Schalock_2021_Discapacidad_Intelectual]]). El enfoque actual se centra en los **apoyos** que necesita la persona, no solo en el déficit. **No es** una enfermedad ni impide aprender: aprende, con otro ritmo y con más apoyos.
 
 ## Cómo puede manifestarse en el aula
 | Edad | Manifestaciones habituales |

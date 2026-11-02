@@ -5,7 +5,9 @@ anio: 2016
 tipo_fuente: libro
 fiabilidad: media
 referencia_apa: "Gopnik, A. (2016). The gardener and the carpenter: What the new science of child development tells us about the relationship between parents and children. Farrar, Straus and Giroux. [Trad. esp.: El jardinero y el carpintero, Temas de Hoy, 2017]."
-verificado: pendiente
+verificado: si
+identificador: "ISBN 978-0-374-22970-2"
+fecha_verificacion: 2026-11-02
 ---
 # Gopnik, A. (2016). The gardener and the carpenter: What the new science of child development tells us about the relationship between parents and children. Farrar, Straus and Giroux. [Trad. esp.: El jardinero y el carpintero, Temas de Hoy, 2017].
 

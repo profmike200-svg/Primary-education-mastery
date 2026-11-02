@@ -9,7 +9,7 @@ edad_max: 12
 codigo_oficial: "WIDA ELD Standards Framework (2020 Edition)"
 equivale_a: [Progresion_Lengua_Extranjera]
 fuentes: [Baker_2014_IES_English_Learners]
-estado: borrador
+estado: verificado_ia
 ---
 # EE. UU.: WIDA (alumnado que aprende inglés)
 

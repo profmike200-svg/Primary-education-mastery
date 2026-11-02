@@ -5,7 +5,7 @@ area: [lengua_extranjera]
 edad_min: 6
 edad_max: 12
 fuentes: [Munoz_2006_Edad_L2, Nation_2013_Vocabulario_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de lengua extranjera (inglés)
 

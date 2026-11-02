@@ -8,7 +8,7 @@ nivel_evidencia: "C"
 autores: []
 necesidades_compatibles: []
 fuentes: [Perez_Canado_2012_CLIL]
-estado: borrador
+estado: verificado_ia
 ---
 # AICLE / CLIL (enseñanza bilingüe de contenidos)
 

@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [Ryan_2000_Autodeterminacion, Moffitt_2011_Autocontrol, Heckman_2006_Inversion_Temprana, Sylva_2004_EPPE, Plomin_2018_Genetica, Gopnik_2016_Jardinero]
-estado: borrador
+estado: verificado_ia
 ---
 # Pilares del desarrollo integral: cómo ayudar a un niño a alcanzar su mejor desarrollo
 

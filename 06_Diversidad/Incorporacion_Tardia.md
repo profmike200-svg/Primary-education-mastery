@@ -5,7 +5,7 @@ necesidad: incorporacion_tardia
 prevalencia_aprox: "Variable según el centro"
 nivel_evidencia: "B"
 fuentes: [Baker_2014_IES_English_Learners]
-estado: borrador
+estado: verificado_ia
 ---
 # Alumnado de incorporación tardía y que aprende la lengua de la escuela
 

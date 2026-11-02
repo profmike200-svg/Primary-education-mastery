@@ -13,7 +13,7 @@ necesidades_contempladas: [tdah, dislexia, tea, altas_capacidades, incorporacion
 materiales: [flashcards, real food packaging, picture dictionary, tablets for recording, rubric]
 nivel_evidencia: "B"
 fuentes: [Norris_2000_Instruccion_L2, Nation_2013_Vocabulario_L2, Lyster_2010_Feedback_Oral_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Learning situation: "Our Healthy Lunchbox" (4º de Primaria, Inglés)
 

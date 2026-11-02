@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Practica_Espaciada, Practica_de_Recuperacion]
 nivel_evidencia: "B"
 fuentes: [Nation_2013_Vocabulario_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Vocabulario en lengua extranjera
 
