@@ -121,6 +121,10 @@ CASOS = [
      ["Riesgos_para_el_Desarrollo_Infantil"], []),
     ("¿Cómo ayudar a un niño a superar una situación difícil?",
      ["Resiliencia_y_Factores_de_Proteccion"], []),
+    ("Supuestos prácticos de inglés para las oposiciones de maestro",
+     ["CLM_Supuestos_Practicos_Ingles"], []),
+    ("Supuesto práctico de transcripción fonética de inglés",
+     ["CLM_Supuesto_02_Fonetica"], []),
 ]
 
 

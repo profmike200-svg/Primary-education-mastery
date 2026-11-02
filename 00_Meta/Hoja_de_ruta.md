@@ -24,6 +24,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
 - [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
+- [x] Banco de 8 supuestos prácticos de Inglés resueltos (pendiente: contrastar con los criterios oficiales de la parte B)
 - [x] Embarazo y riesgos para el desarrollo: etapa prenatal, riesgos y cuidados en el embarazo, riesgos 0-12 (estrés tóxico, maltrato, sueño seguro, tóxicos), errores frecuentes de crianza, resiliencia; 12 fuentes nuevas (8 verificadas, 4 parciales)
 - [x] Inglés en profundidad (LOMLOE: 6 competencias, 3 bloques): interacción oral, lectura y escritura, pronunciación, mediación, plurilingüismo e interculturalidad, evaluación, TPR, uso de la lengua materna; situaciones de aprendizaje de 2º y 6º; 6 fuentes nuevas verificadas
 - [x] Bóveda lista para Obsidian como segundo cerebro: grafo por colores, marcadores, mapa visual (canvas), nota diaria, guía de uso ([[Guia_Obsidian]]); enlaces por alias corregidos y validador que lo impide
@@ -49,7 +50,6 @@ aliases: [Roadmap, Pendientes]
 
 ## Próximos bloques
 - [ ] Ciencias naturales y sociales en profundidad (saberes básicos del Decreto 81/2022)
-- [ ] Oposiciones: banco de supuestos prácticos de Inglés
 - [ ] Infantil: progresiones por área (3, 4 y 5 años) y prácticas de aula; Decreto 80/2022 de Castilla-La Mancha
 - [ ] Crianza: alimentación, control de esfínteres, hermanos, separación y divorcio, duelo, miedos, adolescencia temprana, educación afectivo-sexual por edades, uso del dinero
 - [ ] Ampliar a la adolescencia (12-18) cuando el núcleo 0-12 esté completo

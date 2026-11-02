@@ -37,7 +37,7 @@ En 2026 hubo **73 plazas de Inglés** en turno libre. Comprueba en la convocator
 - Mapa entre los bloques del temario y la biblioteca: [[CLM_Mapa_Temario_Ingles]].
 
 ## La parte práctica
-El contenido lo fija el anexo de cada convocatoria. En las convocatorias de maestros suele consistir en **supuestos prácticos didácticos** (diseñar actividades, responder a una situación de aula, atender a la diversidad); en Inglés, según la convocatoria, pueden aparecer también tareas sobre la lengua (análisis de textos, fonética, gramática). Entrena con supuestos de convocatorias anteriores de Castilla-La Mancha y de otras comunidades.
+El contenido lo fija el anexo de cada convocatoria. En las convocatorias de maestros suele consistir en **supuestos prácticos didácticos** (diseñar actividades, responder a una situación de aula, atender a la diversidad); en Inglés, según la convocatoria, pueden aparecer también tareas sobre la lengua (análisis de textos, fonética, gramática). Entrena con supuestos de convocatorias anteriores de Castilla-La Mancha y de otras comunidades, y con el banco de la biblioteca: [[CLM_Supuestos_Practicos_Ingles]].
 
 ## Plan de preparación (noviembre 2026 → junio 2028)
 | Periodo | Objetivo |

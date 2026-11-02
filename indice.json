@@ -599,6 +599,7 @@
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Programas_Bilingues",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuestos_Practicos_Ingles",
     "MOC_Sistema_Educativo_Espanol",
     "Reforma_Oposiciones_2026"
    ],
@@ -609,6 +610,7 @@
     "CLM_Normativa_Educativa",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuestos_Practicos_Ingles",
     "Hoja_de_ruta",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -2888,6 +2890,7 @@
    ],
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Supuesto_04_Cuento_Literatura",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Documentos_de_Centro",
     "Lectura_Compartida_en_Familia",
@@ -2996,6 +2999,8 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_05_Evaluacion",
     "Expresion_e_Interaccion_Oral_L2",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera"
@@ -3109,6 +3114,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_1er_Ciclo_Animal_Party"
@@ -3537,6 +3543,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_02_Fonetica",
     "Lectura_y_Escritura_L2",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -3593,6 +3600,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_03_Analisis_de_Errores",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_1er_Ciclo_Animal_Party",
@@ -4004,6 +4012,7 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_08_AICLE",
     "Destrezas_de_Indagacion",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "Ideas_Previas_y_Cambio_Conceptual",
@@ -4704,6 +4713,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_02_Fonetica",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_3er_Ciclo_Town_Guide"
@@ -5027,6 +5037,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_06_Analisis_de_Material",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "Rutina_Cuentacuentos_en_Ingles"
@@ -5079,6 +5090,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_08_AICLE",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera"
@@ -5561,6 +5573,9 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_06_Analisis_de_Material",
     "MOC_Metodologias",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Plan_de_Lectura",
@@ -5856,6 +5871,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_08_AICLE",
     "ES_Educacion_Infantil",
     "Ideas_Previas_y_Cambio_Conceptual",
     "MOC_Metodologias",
@@ -6552,6 +6568,9 @@
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Supuestos_Practicos_Ingles",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Ideas_Previas_y_Cambio_Conceptual",
     "Instruccion_Explicita",
@@ -6611,6 +6630,7 @@
     "Autoeficacia",
     "CLM_Oposiciones_Ingles_2028",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuestos_Practicos_Ingles",
     "Deberes_y_Tareas_Inacabadas",
     "Evaluacion_Formativa",
     "Gamificacion",
@@ -6781,6 +6801,8 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_04_Cuento_Literatura",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera",
     "SA_Ingles_1er_Ciclo_Animal_Party"
@@ -6931,6 +6953,7 @@
    "enlazada_desde": [
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_08_AICLE",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera"
    ]
@@ -7991,6 +8014,7 @@
     "Aprendizaje_Cooperativo",
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Composicion_Escrita",
     "ES_Atencion_a_la_Diversidad",
     "Geometria",
@@ -8306,6 +8330,7 @@
     "CLM_Inclusion_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -8428,6 +8453,7 @@
     "AICLE_CLIL",
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Composicion_Escrita",
     "Comprension_Lectora",
     "Conciencia_Fonologica",
@@ -8506,6 +8532,7 @@
    "enlazada_desde": [
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Crianza_Bilingue",
     "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
@@ -8635,6 +8662,7 @@
     "Autorregulacion_Emocional",
     "CLM_Inclusion_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Composicion_Escrita",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Atencion_a_la_Diversidad",
@@ -8711,6 +8739,7 @@
    ],
    "enlazada_desde": [
     "AICLE_CLIL",
+    "CLM_Supuesto_05_Evaluacion",
     "Comprension_Lectora",
     "Conciencia_Fonologica",
     "Construccion_de_Oraciones",
@@ -8896,6 +8925,7 @@
     "Aprendizaje_para_el_Dominio",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_05_Evaluacion",
     "ES_Evaluacion_y_Promocion",
     "Evaluacion_en_Lengua_Extranjera",
     "Instrumentos_de_Evaluacion",
@@ -9001,6 +9031,7 @@
    "enlazada_desde": [
     "Autoeficacia",
     "Autonomia_y_Responsabilidades",
+    "CLM_Supuesto_03_Analisis_de_Errores",
     "Clima_y_Relacion",
     "Dweck",
     "Errores_Frecuentes_en_la_Crianza",
@@ -9055,6 +9086,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_05_Evaluacion",
     "ES_Evaluacion_y_Promocion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Evaluacion_en_Lengua_Extranjera",
@@ -9152,6 +9184,7 @@
    ],
    "enlazada_desde": [
     "Apego",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "Convivencia_y_Acoso",
     "ES_Organizacion_del_Centro",
     "Gestion_de_la_Conducta",
@@ -9204,6 +9237,7 @@
    ],
    "enlazada_desde": [
     "CLM_Normativa_Educativa",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "Ciudadania_Digital_y_Seguridad",
     "ES_Documentos_de_Centro",
     "ES_Proteccion_Infancia_y_Datos",
@@ -9454,6 +9488,7 @@
     "MOC_Gestion_Aula"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "Ciudadania_Digital_y_Seguridad",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Evaluacion_y_Promocion",
@@ -9495,6 +9530,7 @@
    ],
    "enlazada_desde": [
     "Bruner",
+    "CLM_Supuesto_08_AICLE",
     "Cameron_2001_Ninos_Lenguas",
     "Expresion_e_Interaccion_Oral_L2",
     "MOC_Conceptos",
@@ -10031,6 +10067,7 @@
     "CLM_Normativa_Educativa",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
     "Evaluacion_en_Lengua_Extranjera",
     "MOC_Castilla_La_Mancha"
    ]
@@ -10100,6 +10137,7 @@
    ],
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha",
     "Pronunciacion_Ingles"
@@ -10161,6 +10199,7 @@
     "MOC_Castilla_La_Mancha"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -10202,6 +10241,7 @@
    "enlaces": [
     "CLM_Convocatoria_Maestros_2026",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Supuestos_Practicos_Ingles",
     "Dunlosky_2013_Tecnicas_Estudio",
     "MOC_Castilla_La_Mancha",
     "Practica_Espaciada",
@@ -10210,6 +10250,15 @@
     "Reforma_Oposiciones_2026"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_02_Fonetica",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Supuesto_05_Evaluacion",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Supuesto_08_AICLE",
+    "CLM_Supuestos_Practicos_Ingles",
     "ES_Acceso_a_la_Profesion",
     "MOC_Castilla_La_Mancha",
     "Plan_de_Lectura"
@@ -10291,10 +10340,416 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Normativa_Educativa",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuestos_Practicos_Ingles",
     "MOC_Castilla_La_Mancha",
     "Plan_de_Lectura",
     "SA_Ingles_1er_Ciclo_Animal_Party",
     "SA_Ingles_3er_Ciclo_Town_Guide"
+   ]
+  },
+  "CLM_Supuesto_01_Situacion_Aula_Diversidad": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_01_Situacion_Aula_Diversidad.md",
+   "titulo": "Supuesto 1: Clase de 3º con diversidad",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 1",
+    "Supuesto atención a la diversidad inglés"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "You are the English teacher of a 3rd-year group (22 pupils) in a state school in Castilla-La Mancha that is not part of a bilingual programme. In the group there is a pupil with ADHD, a pupil with dyslexia, a pupil who arrived from Morocco two months ago and speaks Arabic and a little Spanish, and t…",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "CLM_Inclusion_Educativa",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Dislexia",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Incorporacion_Tardia",
+    "Respuesta_Fisica_Total_TPR",
+    "TDAH"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_02_Fonetica": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_02_Fonetica.md",
+   "titulo": "Supuesto 2: Fonética y pronunciación",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 2",
+    "Supuesto fonética inglés",
+    "Transcripción fonética"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "1. Transcribe the following words and sentence using the IPA (British English, standard pronunciation): *ship, sheep, thought, school, walked, wanted, played, vegetables*. Sentence: *She wanted to buy some cheap shoes.* 2. Identify which features of these words and of the sentence are usually diffic…",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Derwing_2005_Inteligibilidad",
+    "Lectoescritura_en_Ingles",
+    "Lee_2015_Pronunciacion",
+    "Pronunciacion_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_03_Analisis_de_Errores": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_03_Analisis_de_Errores.md",
+   "titulo": "Supuesto 3: Análisis de errores de un texto de alumno",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 3",
+    "Error analysis",
+    "Interlanguage",
+    "Análisis de errores"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "A 5th-year pupil has written the following text about the weekend:",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Lectura_y_Escritura_L2",
+    "Lyster_2010_Feedback_Oral_L2",
+    "Practica_Espaciada",
+    "Retroalimentacion"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_04_Cuento_Literatura": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_04_Cuento_Literatura.md",
+   "titulo": "Supuesto 4: Explotación didáctica de un cuento",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 4",
+    "Storytelling",
+    "Cuento en inglés",
+    "Literatura infantil inglés"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "You want to use a well-known picture book with a repetitive structure (for example *Brown Bear, Brown Bear, What Do You See?* or *The Very Hungry Caterpillar*) with a 1st-year group.",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Cameron_2001_Ninos_Lenguas",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Respuesta_Fisica_Total_TPR",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "SA_Ingles_1er_Ciclo_Animal_Party"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_05_Evaluacion": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_05_Evaluacion.md",
+   "titulo": "Supuesto 5: Diseño de la evaluación de una unidad",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 5",
+    "Evaluación inglés",
+    "Rúbrica inglés"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "You are planning a learning situation for 6th year whose final task is an oral presentation about a famous person from an English-speaking country.",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "ES_Evaluacion_y_Promocion",
+    "Evaluacion_Formativa",
+    "Evaluacion_en_Lengua_Extranjera",
+    "Rubricas",
+    "TDL"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_06_Analisis_de_Material": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_06_Analisis_de_Material.md",
+   "titulo": "Supuesto 6: Análisis y mejora de una unidad del libro de texto",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 6",
+    "Análisis libro de texto inglés",
+    "Evaluar material didáctico"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "The unit of the 4th-year textbook you must use consists of: a vocabulary list of 15 words about clothes, a grammar box with *present continuous*, a reading text with comprehension questions, a fill-in-the-gaps exercise and a short dialogue to repeat in pairs.",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Practica_Espaciada",
+    "Vocabulario_L2"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_07_Conflicto_y_Convivencia": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_07_Conflicto_y_Convivencia.md",
+   "titulo": "Supuesto 7: Conflicto en el aula y tutoría",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 7",
+    "Convivencia clase de inglés",
+    "Conflicto aula"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "In your 6th-year English class, two pupils regularly laugh at a classmate's pronunciation when she speaks in English. The classmate has stopped participating and her family has told you she does not want to come to English lessons.",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Normativa_Educativa",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Clima_y_Relacion",
+    "Convivencia_y_Acoso",
+    "ES_Proteccion_Infancia_y_Datos",
+    "Expresion_e_Interaccion_Oral_L2",
+    "Relacion_con_las_Familias"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuesto_08_AICLE": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuesto_08_AICLE.md",
+   "titulo": "Supuesto 8: Enseñanza de una unidad de ciencias en inglés (AICLE)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuesto 8",
+    "CLIL",
+    "AICLE",
+    "Bilingüe ciencias inglés"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "Your school has a bilingual programme and you teach Natural Sciences in English in 4th year. The next unit is the water cycle. Several pupils have difficulty understanding the content in English.",
+   "secciones": [
+    "Task (enunciado)",
+    "Model answer (guía de resolución)",
+    "Qué suele valorar el tribunal en este tipo de supuesto",
+    "Notas de la biblioteca para preparar este supuesto",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AICLE_CLIL",
+    "Andamiaje",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Programas_Bilingues",
+    "CLM_Supuestos_Practicos_Ingles",
+    "Indagacion_Guiada",
+    "Perez_Canado_2012_CLIL",
+    "Progresion_Ciencias_Naturales",
+    "Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"
+   ],
+   "enlazada_desde": [
+    "CLM_Supuestos_Practicos_Ingles"
+   ]
+  },
+  "CLM_Supuestos_Practicos_Ingles": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Supuestos_Practicos_Ingles.md",
+   "titulo": "Banco de supuestos prácticos de Inglés (oposiciones de maestro)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Supuestos prácticos inglés",
+    "Banco de supuestos",
+    "Practical cases English",
+    "Prueba práctica oposiciones inglés"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Convocatoria_Maestros_2026"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "1. Introduction (5 %): identifica el problema y el marco (LOMLOE, RD 157/2022, Decreto 81/2022, Orden 185/2022, Decreto 85/2018; documentos de centro). 2. Context and analysis: alumnado, curso, ciclo, necesidades. 3. Proposal: objetivos, secuencia de actividades, metodología justificada con autores …",
+   "secciones": [
+    "Tipos de supuesto y modelos resueltos",
+    "Estructura de respuesta que sirve para casi todos",
+    "Gestión del tiempo (1 h 30 min)",
+    "Cómo entrenar (con evidencia)",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Convocatoria_Maestros_2026",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_02_Fonetica",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Supuesto_05_Evaluacion",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Supuesto_08_AICLE",
+    "MOC_Castilla_La_Mancha",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion"
+   ],
+   "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuesto_01_Situacion_Aula_Diversidad",
+    "CLM_Supuesto_02_Fonetica",
+    "CLM_Supuesto_03_Analisis_de_Errores",
+    "CLM_Supuesto_04_Cuento_Literatura",
+    "CLM_Supuesto_05_Evaluacion",
+    "CLM_Supuesto_06_Analisis_de_Material",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
+    "CLM_Supuesto_08_AICLE",
+    "MOC_Castilla_La_Mancha"
    ]
   },
   "ES_Acceso_a_la_Profesion": {
@@ -10625,6 +11080,7 @@
    ],
    "enlazada_desde": [
     "CLM_Normativa_Educativa",
+    "CLM_Supuesto_05_Evaluacion",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -10971,6 +11427,7 @@
     "Rubricas"
    ],
    "enlazada_desde": [
+    "CLM_Supuesto_06_Analisis_de_Material",
     "ES_Acceso_a_la_Profesion",
     "ES_Documentos_de_Centro",
     "ES_Marco_Curricular_LOMLOE",
@@ -11019,6 +11476,7 @@
    ],
    "enlazada_desde": [
     "CLM_Normativa_Educativa",
+    "CLM_Supuesto_07_Conflicto_y_Convivencia",
     "ES_Funciones_Derechos_y_Deberes_del_Docente",
     "ES_Organizacion_del_Centro",
     "MOC_Sistema_Educativo_Espanol",
@@ -11805,6 +12263,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Oposiciones_Ingles_2028",
+    "CLM_Supuestos_Practicos_Ingles",
     "MOC_Castilla_La_Mancha",
     "MOC_Fuentes"
    ]
@@ -11951,6 +12410,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Normativa_Educativa",
+    "CLM_Supuesto_08_AICLE",
     "MOC_Castilla_La_Mancha",
     "MOC_Fuentes"
    ]
@@ -11983,6 +12443,7 @@
    ],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_04_Cuento_Literatura",
     "Expresion_e_Interaccion_Oral_L2",
     "Lectura_y_Escritura_L2",
     "MOC_Fuentes",
@@ -12269,6 +12730,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_02_Fonetica",
     "MOC_Fuentes",
     "Pronunciacion_Ingles"
    ]
@@ -13561,6 +14023,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_02_Fonetica",
     "MOC_Fuentes",
     "Pronunciacion_Ingles"
    ]
@@ -13692,6 +14155,7 @@
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_03_Analisis_de_Errores",
     "Comprension_Oral_L2",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Expresion_e_Interaccion_Oral_L2",
@@ -14298,6 +14762,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "AICLE_CLIL",
+    "CLM_Supuesto_08_AICLE",
     "MOC_Fuentes"
    ]
   },
@@ -15551,6 +16016,7 @@
     "CLM_Mapa_Temario_Ingles",
     "CLM_Programacion_Oposiciones_Ingles",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "CLM_Supuesto_04_Cuento_Literatura",
     "MOC_Practica",
     "Plurilinguismo_e_Interculturalidad",
     "Progresion_Lengua_Extranjera",
@@ -15867,6 +16333,7 @@
    ],
    "enlazada_desde": [
     "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Supuesto_04_Cuento_Literatura",
     "MOC_Practica",
     "Progresion_Lengua_Extranjera"
    ]

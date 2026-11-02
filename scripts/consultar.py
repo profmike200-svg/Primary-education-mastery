@@ -155,7 +155,7 @@ CURRICULO = ["lomloe", "ley", "curricul", "decreto", "common core", "ngss", "wid
              "situacion de aprendizaje", "situaciones de aprendizaje", "calificacion", "competencias clave",
              "claustro", "consejo escolar", "tutoria", "profesores visitantes", "proteccion de datos",
              "custodia", "excursion", "medicacion", "evaluacion de diagnostico", "adaptacion curricular",
-             "castilla", "clm", "docm", "temario", "tribunal", "programacion"]
+             "castilla", "clm", "docm", "temario", "tribunal", "programacion", "supuesto", "practico"]
 
 
 def expandir(pregunta):

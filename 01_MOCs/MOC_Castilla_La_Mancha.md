@@ -16,6 +16,7 @@ aliases: [Castilla-La Mancha, CLM, Oposiciones CLM]
 - [[CLM_Programacion_Oposiciones_Ingles]]: estructura y fundamentación con evidencia
 - [[CLM_Situacion_Aprendizaje_Ingles_Ejemplo]]: situación de aprendizaje modelo (4º, en inglés)
 - [[CLM_Mapa_Temario_Ingles]]: bloques del temario ↔ notas de la biblioteca
+- **[[CLM_Supuestos_Practicos_Ingles]]**: banco de 8 supuestos prácticos resueltos (diversidad, fonética, análisis de errores, cuentos, evaluación, materiales, convivencia, AICLE)
 
 ## Fuentes
 - [[CLM_Decreto_81_2022]] · [[CLM_Orden_185_2022]] · [[CLM_Decreto_85_2018]] · [[CLM_Orden_121_2022]] · [[CLM_Convivencia_y_Autoridad]] · [[CLM_Programas_Bilingues]] · [[CLM_Convocatoria_Maestros_2026]] · [[Reforma_Oposiciones_2026]]
