@@ -8,7 +8,8 @@ estado: borrador
 
 - [[Evaluacion_Formativa]] (A)
 - [[Retroalimentacion]] (A)
-- Instrumentos: rúbricas, listas de cotejo, portafolio *(pendientes)*
+- [[Instrumentos_de_Evaluacion]] (C)
+- [[Rubricas]] (B)
 
 ---
 ↑ [[00_INICIO]]

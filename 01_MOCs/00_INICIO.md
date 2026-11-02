@@ -9,7 +9,7 @@ aliases: [Inicio, Home]
 | Pregunta | Empieza en |
 |---|---|
 | ¿**Cómo es** el niño a esta edad? | [[MOC_Desarrollo]] |
-| ¿**Qué** enseñar y **cuándo**? | [[MOC_Areas]] |
+| ¿**Qué** enseñar y **cuándo**? | [[MOC_Areas]] · [[MOC_Por_Curso]] |
 | ¿**Cómo** enseñarlo? | [[MOC_Metodologias]] |
 | ¿**A quién**? (diversidad) | [[MOC_Diversidad]] |
 | ¿Cómo sé si lo ha aprendido? | [[MOC_Evaluacion]] |

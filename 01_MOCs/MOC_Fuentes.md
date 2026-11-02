@@ -25,7 +25,10 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 - [[Van_Hiele_1986_Geometria]] · [[Vuorikari_2022_DigComp]] · [[Scherer_2019_Programacion]] · [[Wineburg_2019_Lectura_Lateral]] · [[OCDE_2015_Ordenadores]] · [[Ritchhart_2011_Rutinas_Pensamiento]] · [[Celio_2011_Aprendizaje_Servicio]] · [[Anderson_2001_Taxonomia_Bloom]] · [[Bandura_1977_Autoeficacia]]
 
 ## Diversidad
-- [[Schalock_2021_Discapacidad_Intelectual]]
+- [[Schalock_2021_Discapacidad_Intelectual]] · [[Bishop_2017_CATALISE]]
+
+## Evaluación, deberes y lectura
+- [[Cooper_2006_Deberes]] · [[Panadero_2013_Rubricas]] · [[Mol_2011_Exposicion_Lectora]]
 
 ## Artículos
 - [[Kirschner_2006_Guia_Minima]] · [[Rosenshine_2012_Principios]] · [[Ehri_2005_Fases_Lectura]] · [[Sweller_1988_Carga_Cognitiva]] · [[Johnson_2009_Cooperativo]] · [[Lillard_2017_Montessori]] · [[Kirschner_2017_Nativos_Digitales]] · [[Dekker_2012_Neuromitos]] · [[Letrud_2018_Piramide]] · [[Nielsen_2013_Hemisferios]] · [[Seymour_2003_Ortografias_Europeas]] · [[Siegler_2008_Juegos_Numericos]] · [[Karna_2011_KiVa]]

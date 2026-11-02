@@ -62,6 +62,24 @@ AREAS = {
     "competencia_digital": ["digital", "internet", "programacion", "pantalla", "tablet", "ordenador"],
     "valores_ciudadania": ["ciudadan", "valores", "asamblea"],
 }
+# Expresiones habituales de los docentes → términos que usan las notas (amplían la búsqueda, no detectan mitos).
+SINONIMOS = {
+    ("no termina", "no acaba", "no finaliza", "tareas inacabadas", "muy lento", "va lento"): "tareas inacabadas deberes",
+    ("deberes", "tareas para casa", "tarea para casa"): "deberes",
+    ("se distrae", "distraid", "no atiende", "despistad", "concentr", "inquiet", "no para quieto", "se levanta"):
+        "atencion pausas activas tdah",
+    ("rabieta", "pataleta", "se enfada", "pega a", "agresiv", "se porta mal", "mal comportamiento", "disrupt",
+     "desobedec", "conducta"): "conducta autorregulacion emocional",
+    ("no le gusta leer", "no lee", "leer por placer", "animacion a la lectura", "habito lector"):
+        "lectura placer educacion literaria",
+    ("padres", "familia", "madre", "padre", "tutoria con"): "familias",
+    ("examen", "evaluar", "calificar", "nota final", "notas"): "evaluacion instrumentos rubricas",
+    ("motivacion", "desmotivad", "no quiere", "no le interesa", "se rinde"): "autoeficacia motivacion",
+    ("movil", "redes sociales", "videojuego"): "ciudadania digital seguridad",
+    ("ruido", "no se callan", "alboroto", "normas"): "normas rutinas gestion",
+    ("ortografia", "faltas de ortografia", "escribe mal"): "ortografia",
+    ("no entiende lo que lee", "comprension"): "comprension lectora estrategias",
+}
 PESO_EVIDENCIA = {"A": 1.5, "B": 1.25, "C": 1.0, "D": 0.85, "?": 0.9, "M": 1.0}
 TIPOS_RECOMENDABLES = {"metodologia", "estrategia", "practica", "contenido", "evaluacion", "gestion_aula"}
 
@@ -117,11 +135,17 @@ CURRICULO = ["lomloe", "ley", "curricul", "decreto", "common core", "ngss", "wid
              "estados unidos", "espana", "normativa"]
 
 
+def expandir(pregunta):
+    q = normalizar(pregunta)
+    return " ".join(extra for pats, extra in SINONIMOS.items() if any(contiene(q, p) for p in pats))
+
+
 def puntuar(indice, pregunta, det):
-    q_raices = {raiz(t) for t in tokens(pregunta)}
+    q_originales = {raiz(t) for t in tokens(pregunta)}
+    q_raices = q_originales | {raiz(t) for t in tokens(expandir(pregunta))}
     # Palabras de área o necesidad no bastan para traer un mito: debe coincidir su tema concreto.
     genericas = {raiz(t) for pats in list(AREAS.values()) + list(NECESIDADES.values()) for p in pats for t in tokens(p)}
-    q_especificas = q_raices - genericas
+    q_especificas = q_originales - genericas
     pide_curriculo = any(contiene(normalizar(pregunta), p) for p in CURRICULO)
     puntos, en_titulo = {}, {}
     for nid, n in indice.items():
@@ -132,8 +156,8 @@ def puntuar(indice, pregunta, det):
             continue
         titulo = {raiz(t) for t in tokens(n["titulo"] + " " + " ".join(n["aliases"]) + " " + nid.replace("_", " "))}
         cuerpo = [raiz(t) for t in tokens(texto_nota(n))]
-        en_titulo[nid] = len(q_raices & titulo)
-        s = 5 * en_titulo[nid]
+        en_titulo[nid] = len(q_originales & titulo)
+        s = 5 * en_titulo[nid] + 3 * len((q_raices - q_originales) & titulo)
         s += min(sum(1 for t in cuerpo if t in q_raices), 30) * 0.25
         areas_nota = set(meta.get("area") or []) if isinstance(meta.get("area"), list) else {meta.get("area")}
         s += 3 * len(areas_nota & set(det["areas"]))

@@ -56,8 +56,9 @@ Respuesta generada **solo** con esas notas:
 > **6. Descarta otras causas.** Si las dificultades se dan sobre todo en matemáticas y no en otras áreas, revisa las señales de `06_Diversidad/Discalculia.md` y coméntalo con orientación ([[RTI_MTSS]]: registra su progreso con datos).
 
 ## Qué ha revelado la prueba (mejoras pendientes)
-- Falta una nota sobre **tareas inacabadas y deberes** (la evidencia sobre los deberes en Primaria indica un impacto bajo).
-- `Pausas_Activas` no aparece entre las notas clave aunque es relevante: el buscador es léxico, no semántico. Para un uso intensivo, conviene un sistema RAG con *embeddings*.
+- ✅ Resuelto: faltaba una nota sobre tareas inacabadas y deberes → [[Deberes_y_Tareas_Inacabadas]] (con una tabla para diagnosticar por qué no termina).
+- ✅ Mejorado: el buscador traduce expresiones habituales del docente ("se distrae", "no acaba", "se porta mal", "no le gusta leer"…) a los términos de las notas. La batería tiene ahora 24 preguntas.
+- Pendiente: el buscador sigue siendo léxico; para un uso intensivo conviene un sistema RAG con *embeddings*.
 
 ## Relacionado
 - [[Arquitectura]] · [[Hoja_de_ruta]]

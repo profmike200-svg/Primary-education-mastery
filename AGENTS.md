@@ -24,7 +24,7 @@ Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6
 ## Preguntas típicas y por dónde empezar
 | Pregunta | Ruta |
 |---|---|
-| ¿Qué enseñar a los 8 años en matemáticas? | MOC_Areas → progresión del área → filtrar por edad |
+| ¿Qué enseñar a los 8 años en matemáticas? | `01_MOCs/MOC_Por_Curso.md` (vista rápida) o MOC_Areas → progresión del área |
 | ¿Cómo enseñar X? | nota del contenido → `metodologias_recomendadas` |
 | ¿Cómo adaptar para un alumno con TDAH? | MOC_Diversidad → nota de la necesidad → estrategias |
 | Dame una sesión o actividad para X | `12_Practica/` filtrando por `area`, edad y `necesidades` |

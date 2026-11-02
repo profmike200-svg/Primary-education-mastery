@@ -132,7 +132,9 @@
     "Tareas del docente",
     "Próximos bloques"
    ],
-   "enlaces": [],
+   "enlaces": [
+    "MOC_Por_Curso"
+   ],
    "enlazada_desde": [
     "00_INICIO",
     "Uso_con_LLM"
@@ -181,7 +183,8 @@
     "Escala_de_evidencia"
    ],
    "enlazada_desde": [
-    "00_INICIO"
+    "00_INICIO",
+    "MOC_Por_Curso"
    ]
   },
   "Uso_con_LLM": {
@@ -207,6 +210,7 @@
    ],
    "enlaces": [
     "Arquitectura",
+    "Deberes_y_Tareas_Inacabadas",
     "Discalculia",
     "Ejemplos_Resueltos",
     "Enfoque_CPA",
@@ -255,6 +259,7 @@
     "MOC_Gestion_Aula",
     "MOC_Metodologias",
     "MOC_Mitos",
+    "MOC_Por_Curso",
     "MOC_Practica",
     "Panel_de_control",
     "Taxonomia",
@@ -272,6 +277,7 @@
     "MOC_Gestion_Aula",
     "MOC_Metodologias",
     "MOC_Mitos",
+    "MOC_Por_Curso",
     "MOC_Practica",
     "README"
    ]
@@ -309,6 +315,7 @@
     "Construccion_de_Oraciones",
     "Decodificacion",
     "Destrezas_de_Indagacion",
+    "Educacion_Literaria_y_Lectura_por_Placer",
     "Estadistica_y_Probabilidad",
     "Expresion_Oral",
     "Fluidez_Lectora",
@@ -590,6 +597,7 @@
     "Dislexia",
     "Glosario_entre_sistemas",
     "Incorporacion_Tardia",
+    "MOC_Por_Curso",
     "RTI_MTSS",
     "TDAH",
     "TDL",
@@ -605,17 +613,21 @@
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- Evaluacion_Formativa (A) - Retroalimentacion (A) - Instrumentos: rúbricas, listas de cotejo, portafolio *(pendientes)*",
+   "resumen": "- Evaluacion_Formativa (A) - Retroalimentacion (A) - Instrumentos_de_Evaluacion (C) - Rubricas (B)",
    "secciones": [],
    "enlaces": [
     "00_INICIO",
     "Evaluacion_Formativa",
-    "Retroalimentacion"
+    "Instrumentos_de_Evaluacion",
+    "Retroalimentacion",
+    "Rubricas"
    ],
    "enlazada_desde": [
     "00_INICIO",
     "Evaluacion_Formativa",
-    "Retroalimentacion"
+    "Instrumentos_de_Evaluacion",
+    "Retroalimentacion",
+    "Rubricas"
    ]
   },
   "MOC_Fuentes": {
@@ -635,6 +647,7 @@
     "Socioemocional, actividad física y artes",
     "Matemáticas, competencia digital y ciudadanía",
     "Diversidad",
+    "Evaluación, deberes y lectura",
     "Artículos",
     "Libros",
     "Organismos e informes"
@@ -644,12 +657,14 @@
     "Anderson_2001_Taxonomia_Bloom",
     "Baker_2014_IES_English_Learners",
     "Bandura_1977_Autoeficacia",
+    "Bishop_2017_CATALISE",
     "Black_1998_Black_Box",
     "CAST_2018_DUA",
     "Castles_2018_Reading_Wars",
     "Celio_2011_Aprendizaje_Servicio",
     "Chen_2019_ABP",
     "Clements_2014_Trayectorias",
+    "Cooper_2006_Deberes",
     "Dekker_2012_Neuromitos",
     "Diamond_2011_Funciones_Ejecutivas",
     "Donnelly_2016_Actividad_Fisica",
@@ -685,6 +700,7 @@
     "Lillard_2017_Montessori",
     "Lyster_2010_Feedback_Oral_L2",
     "Melby_Lervag_2013_Entrenamiento_MT",
+    "Mol_2011_Exposicion_Lectora",
     "Munoz_2006_Edad_L2",
     "NRP_2000_Lectura",
     "Nation_2013_Vocabulario_L2",
@@ -692,6 +708,7 @@
     "Norris_2000_Instruccion_L2",
     "OCDE_2015_Ordenadores",
     "OMS_2020_Actividad_Fisica",
+    "Panadero_2013_Rubricas",
     "Pashler_2008_Estilos_Aprendizaje",
     "Perez_Canado_2012_CLIL",
     "Pietschnig_2010_Efecto_Mozart",
@@ -735,7 +752,7 @@
     "Clima y relación",
     "Normas, rutinas y conducta",
     "Convivencia y conflictos",
-    "Familias",
+    "Familias y deberes",
     "Organización del espacio y del tiempo"
    ],
    "enlaces": [
@@ -743,6 +760,7 @@
     "Asamblea_de_Aula",
     "Clima_y_Relacion",
     "Convivencia_y_Acoso",
+    "Deberes_y_Tareas_Inacabadas",
     "Gestion_de_la_Conducta",
     "Normas_y_Rutinas",
     "Organizacion_Espacio_y_Tiempo",
@@ -753,6 +771,7 @@
     "Asamblea_de_Aula",
     "Clima_y_Relacion",
     "Convivencia_y_Acoso",
+    "Deberes_y_Tareas_Inacabadas",
     "Gestion_de_la_Conducta",
     "Normas_y_Rutinas",
     "Organizacion_Espacio_y_Tiempo",
@@ -898,6 +917,94 @@
     "Mito_Tres_Claves"
    ]
   },
+  "MOC_Por_Curso": {
+   "ruta": "01_MOCs/MOC_Por_Curso.md",
+   "titulo": "Qué se trabaja en cada curso",
+   "tipo": "moc",
+   "aliases": [
+    "Qué enseñar en cada curso",
+    "Por curso",
+    "Por edad",
+    "Grade by grade"
+   ],
+   "metadatos": {
+    "estado": "borrador"
+   },
+   "resumen": "Desarrollo: Etapa_6_8_anos: pensamiento concreto, atención breve, necesidad de movimiento y de corregulación adulta. | Área | Foco principal | |---|---| | Lectura | Conciencia_Fonologica → Decodificacion con Ensenanza_Fonetica_Sistematica; lectura en voz alta del docente a diario | | Escritura | Gra…",
+   "secciones": [
+    "1º (6-7 años) · *1st grade* · *Year 2*",
+    "2º (7-8 años) · *2nd grade* · *Year 3*",
+    "3º (8-9 años) · *3rd grade* · *Year 4*",
+    "4º (9-10 años) · *4th grade* · *Year 5*",
+    "5º (10-11 años) · *5th grade* · *Year 6*",
+    "6º (11-12 años) · *6th grade* · *Year 7*",
+    "En todos los cursos"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "Alfabetizacion_Mediatica_e_Informacional",
+    "Aprendizaje_Cooperativo",
+    "Ciudadania_Digital_y_Seguridad",
+    "Clima_y_Relacion",
+    "Competencia_Motriz",
+    "Composicion_Escrita",
+    "Comprension_Lectora",
+    "Conciencia_Fonologica",
+    "Construccion_de_Oraciones",
+    "Decodificacion",
+    "Destrezas_de_Indagacion",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Ensenanza_Estrategica_Escritura_SRSD",
+    "Ensenanza_Fonetica_Sistematica",
+    "Estadistica_y_Probabilidad",
+    "Estrategias_Comprension_Lectora",
+    "Etapa_10_12_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Evaluacion_Formativa",
+    "Expresion_Oral",
+    "Fluidez_Lectora",
+    "Fracciones",
+    "Geometria",
+    "Grafomotricidad_y_Caligrafia",
+    "Gramatica_y_Reflexion_Linguistica",
+    "Habilidades_Sociales",
+    "Hechos_Numericos",
+    "Indagacion_Guiada",
+    "Instruccion_Explicita",
+    "Lectoescritura_en_Ingles",
+    "MOC_Diversidad",
+    "Medida",
+    "Multiplicacion_y_Division",
+    "Normas_y_Rutinas",
+    "Ortografia",
+    "Pausas_Activas",
+    "Pensamiento_Historico",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
+    "Progresion_Ciencias_Naturales",
+    "Progresion_Ciencias_Sociales",
+    "Progresion_Ciudadania_y_Valores",
+    "Progresion_Competencia_Digital",
+    "Progresion_Lengua_Extranjera",
+    "Progresion_Matematicas",
+    "Progresion_Socioemocional",
+    "RTI_MTSS",
+    "Resolucion_de_Problemas",
+    "Retroalimentacion",
+    "Rubricas",
+    "Sentido_Numerico",
+    "Suma_y_Resta",
+    "Taxonomia",
+    "Valor_Posicional",
+    "Vocabulario"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "Hoja_de_ruta"
+   ]
+  },
   "MOC_Practica": {
    "ruta": "01_MOCs/MOC_Practica.md",
    "titulo": "Práctica de aula",
@@ -994,6 +1101,7 @@
     "Fracciones",
     "Funciones_Ejecutivas",
     "MOC_Desarrollo",
+    "MOC_Por_Curso",
     "Progresion_Ciencias_Sociales",
     "Progresion_Educacion_Artistica",
     "Progresion_Educacion_Fisica",
@@ -1060,6 +1168,7 @@
     "Fluidez_Lectora",
     "Funciones_Ejecutivas",
     "MOC_Desarrollo",
+    "MOC_Por_Curso",
     "Organizacion_Espacio_y_Tiempo",
     "Ortografia",
     "Progresion_Ciencias_Sociales",
@@ -1127,6 +1236,7 @@
     "Fluidez_Lectora",
     "Fracciones",
     "MOC_Desarrollo",
+    "MOC_Por_Curso",
     "Metacognicion",
     "Multiplicacion_y_Division",
     "Progresion_Lectoescritura",
@@ -1182,6 +1292,7 @@
    "enlazada_desde": [
     "Estadistica_y_Probabilidad",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Competencia_Digital"
    ]
   },
@@ -1283,6 +1394,7 @@
    ],
    "enlazada_desde": [
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Competencia_Digital"
    ]
   },
@@ -1326,6 +1438,7 @@
    ],
    "enlazada_desde": [
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Educacion_Fisica"
    ]
   },
@@ -1381,10 +1494,13 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Pedagogia_Freinet",
     "Progresion_Escritura",
+    "Rubricas",
     "Sesion_Escritura_Narrativa_SRSD"
    ]
   },
@@ -1444,6 +1560,7 @@
     "Estrategias_Comprension_Lectora",
     "Fluidez_Lectora",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Ciencias_Naturales",
     "Progresion_Lectoescritura",
     "US_CCSS_Reading_Foundational_Skills"
@@ -1543,6 +1660,7 @@
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Ensenanza_Fonetica_Sistematica",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Lectoescritura",
     "Progresion_Musica",
     "Sesion_Presentacion_Grafema_m",
@@ -1593,6 +1711,7 @@
    ],
    "enlazada_desde": [
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura",
     "Progresion_Escritura"
    ]
@@ -1654,6 +1773,7 @@
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Ensenanza_Fonetica_Sistematica",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Ortografia",
     "Progresion_Escritura",
     "Progresion_Lectoescritura",
@@ -1708,10 +1828,65 @@
     "ES_LOMLOE_Conocimiento_del_Medio",
     "Indagacion_Guiada",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Medida",
     "Progresion_Ciencias_Naturales",
     "Sesion_Prueba_Justa_Rampas",
     "US_NGSS_Ciencias"
+   ]
+  },
+  "Educacion_Literaria_y_Lectura_por_Placer": {
+   "ruta": "03_Areas/Educacion_Literaria_y_Lectura_por_Placer.md",
+   "titulo": "Educación literaria y lectura por placer",
+   "tipo": "contenido",
+   "aliases": [
+    "Educación literaria",
+    "Animación a la lectura",
+    "Lectura por placer",
+    "Reading for pleasure",
+    "Plan lector",
+    "Literatura infantil"
+   ],
+   "metadatos": {
+    "area": [
+     "lengua",
+     "lectoescritura"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "requisitos_previos": [
+     "Decodificacion"
+    ],
+    "metodologias_recomendadas": [
+     "Estrategias_Comprension_Lectora"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Mol_2011_Exposicion_Lectora",
+     "EEF_2021_Lectoescritura_KS2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Disfrutar de la lectura y desarrollar hábitos lectores propios. - Conocer distintos géneros (narrativa, poesía, teatro, cómic, informativo) y obras de la literatura infantil, clásica y actual, de su cultura y de otras. - Comentar, recomendar y relacionar lecturas; interpretar el lenguaje literario…",
+   "secciones": [
+    "Qué debe saber o saber hacer el alumno",
+    "Por qué importa",
+    "Cómo enseñarlo",
+    "Errores frecuentes al enseñarlo",
+    "Adaptaciones para la diversidad",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Composicion_Escrita",
+    "Dislexia",
+    "Mol_2011_Exposicion_Lectora",
+    "Progresion_Lectoescritura"
+   ],
+   "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
+    "MOC_Areas",
+    "MOC_Por_Curso",
+    "Progresion_Lectoescritura"
    ]
   },
   "Estadistica_y_Probabilidad": {
@@ -1760,6 +1935,7 @@
     "Alfabetizacion_Mediatica_e_Informacional",
     "MOC_Areas",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Matematicas"
    ]
   },
@@ -1809,8 +1985,10 @@
    ],
    "enlazada_desde": [
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Ciudadania_y_Valores",
     "Progresion_Escritura",
+    "TDL",
     "US_WIDA_ELD"
    ]
   },
@@ -1862,10 +2040,12 @@
    ],
    "enlazada_desde": [
     "Comprension_Lectora",
+    "Deberes_y_Tareas_Inacabadas",
     "Decodificacion",
     "Dislexia",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Lectoescritura",
     "Rutina_Lectura_en_Parejas",
     "US_CCSS_Reading_Foundational_Skills"
@@ -1922,6 +2102,7 @@
    "enlazada_desde": [
     "ES_LOMLOE_Matematicas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "Sesion_Fracciones_Recta_Numerica",
     "US_CCSS_Math"
@@ -1975,6 +2156,7 @@
    "enlazada_desde": [
     "MOC_Areas",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Matematicas"
    ]
   },
@@ -2022,6 +2204,7 @@
    "enlazada_desde": [
     "Disgrafia",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Escritura"
    ]
   },
@@ -2070,6 +2253,7 @@
    "enlazada_desde": [
     "Construccion_de_Oraciones",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura"
    ]
   },
@@ -2116,6 +2300,7 @@
     "Asamblea_de_Aula",
     "Ciudadania_Digital_y_Seguridad",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Socioemocional"
    ]
   },
@@ -2169,9 +2354,11 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
     "Discalculia",
     "ES_LOMLOE_Matematicas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Multiplicacion_y_Division",
     "Progresion_Matematicas",
     "Suma_y_Resta",
@@ -2224,6 +2411,7 @@
    ],
    "enlazada_desde": [
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Lengua_Extranjera"
    ]
   },
@@ -2274,6 +2462,7 @@
    "enlazada_desde": [
     "MOC_Areas",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Matematicas"
    ]
   },
@@ -2326,6 +2515,7 @@
     "ES_LOMLOE_Matematicas",
     "Ideas_Previas_y_Cambio_Conceptual",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "US_CCSS_Math"
    ]
@@ -2381,6 +2571,7 @@
    "enlazada_desde": [
     "Disgrafia",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Escritura"
    ]
   },
@@ -2475,6 +2666,7 @@
     "Alfabetizacion_Mediatica_e_Informacional",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Ciencias_Sociales",
     "US_C3_Estudios_Sociales"
    ]
@@ -2529,6 +2721,7 @@
     "Ideas_Previas_y_Cambio_Conceptual",
     "Indagacion_Guiada",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "US_NGSS_Ciencias"
    ]
   },
@@ -2575,6 +2768,7 @@
    "enlazada_desde": [
     "ES_LOMLOE_Conocimiento_del_Medio",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Pensamiento_Historico",
     "Progresion_Ciudadania_y_Valores",
     "US_C3_Estudios_Sociales"
@@ -2626,7 +2820,8 @@
     "Aprendizaje_Servicio",
     "Asamblea_de_Aula",
     "Freire",
-    "MOC_Areas"
+    "MOC_Areas",
+    "MOC_Por_Curso"
    ]
   },
   "Progresion_Competencia_Digital": {
@@ -2672,6 +2867,7 @@
     "Alfabetizacion_Mediatica_e_Informacional",
     "Ciudadania_Digital_y_Seguridad",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Pensamiento_Computacional"
    ]
   },
@@ -2865,6 +3061,7 @@
     "Decodificacion",
     "Dislexia",
     "ES_LOMLOE_Lengua_Lectoescritura",
+    "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Fonetica_Sistematica",
     "Estrategias_Comprension_Lectora",
     "Etapa_6_8_anos",
@@ -2882,6 +3079,7 @@
     "Comprension_Lectora",
     "Conciencia_Fonologica",
     "Decodificacion",
+    "Educacion_Literaria_y_Lectura_por_Placer",
     "Etapa_6_8_anos",
     "Fluidez_Lectora",
     "MOC_Areas",
@@ -2944,6 +3142,7 @@
     "Incorporacion_Tardia",
     "Lectoescritura_en_Ingles",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "US_WIDA_ELD",
     "Vocabulario_L2"
    ]
@@ -3017,6 +3216,7 @@
     "Hechos_Numericos",
     "Instruccion_Basada_en_Esquemas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Medida",
     "Mito_Efecto_Mozart",
     "Multiplicacion_y_Division",
@@ -3122,6 +3322,7 @@
     "Autorregulacion_Emocional",
     "Habilidades_Sociales",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Programas_de_Aprendizaje_Socioemocional",
     "Progresion_Ciudadania_y_Valores"
    ]
@@ -3178,6 +3379,7 @@
     "ES_LOMLOE_Matematicas",
     "Instruccion_Basada_en_Esquemas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "US_CCSS_Math"
    ]
@@ -3231,6 +3433,7 @@
     "Discalculia",
     "ES_LOMLOE_Matematicas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "Rutina_Juego_Tablero_Numerico",
     "US_CCSS_Math"
@@ -3286,6 +3489,7 @@
    "enlazada_desde": [
     "ES_LOMLOE_Matematicas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "US_CCSS_Math"
    ]
@@ -3338,6 +3542,7 @@
    "enlazada_desde": [
     "ES_LOMLOE_Matematicas",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Matematicas",
     "Suma_y_Resta",
     "US_CCSS_Math"
@@ -3387,8 +3592,10 @@
    "enlazada_desde": [
     "Incorporacion_Tardia",
     "MOC_Areas",
+    "MOC_Por_Curso",
     "Progresion_Ciencias_Naturales",
     "Progresion_Escritura",
+    "TDL",
     "US_WIDA_ELD"
    ]
   },
@@ -3603,6 +3810,7 @@
     "Habilidades_Sociales",
     "Instruccion_Explicita",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Organizacion_Espacio_y_Tiempo",
     "Tutoria_entre_Iguales"
    ]
@@ -3836,6 +4044,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Metodologias",
     "Progresion_Matematicas",
     "Resolucion_de_Problemas",
@@ -4012,6 +4221,7 @@
     "Composicion_Escrita",
     "Disgrafia",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura",
     "Progresion_Escritura",
     "Sesion_Escritura_Narrativa_SRSD"
@@ -4078,6 +4288,7 @@
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Lectoescritura_en_Ingles",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Mito_Tres_Claves",
     "Progresion_Lectoescritura",
     "Sesion_Presentacion_Grafema_m"
@@ -4137,6 +4348,7 @@
    "enlazada_desde": [
     "Comprension_Lectora",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Lectoescritura"
    ]
   },
@@ -4240,6 +4452,7 @@
    "enlazada_desde": [
     "Ideas_Previas_y_Cambio_Conceptual",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Ciencias_Naturales",
     "Sesion_Prueba_Justa_Rampas",
     "US_NGSS_Ciencias"
@@ -4365,11 +4578,13 @@
     "Aprendizaje_por_Descubrimiento",
     "Carga_cognitiva",
     "Conciencia_Fonologica",
+    "Deberes_y_Tareas_Inacabadas",
     "Discalculia",
     "Discapacidad_Intelectual",
     "Diseno_Universal_para_el_Aprendizaje",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Metacognicion",
     "Metodo_Montessori",
     "Normas_y_Rutinas",
@@ -4726,7 +4941,9 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Educacion_Fisica",
     "Rutina_Pausa_Activa"
    ]
@@ -4857,6 +5074,7 @@
     "Ideas_Previas_y_Cambio_Conceptual",
     "Instruccion_Explicita",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Ortografia",
     "Practica_de_Recuperacion",
     "Progresion_Matematicas",
@@ -4908,11 +5126,14 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "Deberes_y_Tareas_Inacabadas",
     "Evaluacion_Formativa",
     "Gamificacion",
     "Hechos_Numericos",
     "Instruccion_Explicita",
+    "Instrumentos_de_Evaluacion",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Mito_Piramide_del_Aprendizaje",
     "Ortografia",
     "Practica_Espaciada",
@@ -6401,6 +6622,7 @@
     "Incorporacion_Tardia",
     "MOC_Diversidad",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Mito_Estilos_de_Aprendizaje",
     "RTI_MTSS",
     "TDAH",
@@ -6510,6 +6732,7 @@
     "Conciencia_Fonologica",
     "Decodificacion",
     "Disgrafia",
+    "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Ensenanza_Fonetica_Sistematica",
@@ -6518,6 +6741,7 @@
     "Fluidez_Lectora",
     "Instruccion_Basada_en_Esquemas",
     "Instruccion_Explicita",
+    "Instrumentos_de_Evaluacion",
     "Lectoescritura_en_Ingles",
     "MOC_Diversidad",
     "Ortografia",
@@ -6574,6 +6798,7 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "Instrumentos_de_Evaluacion",
     "MOC_Diversidad"
    ]
   },
@@ -6639,6 +6864,7 @@
     "Incorporacion_Tardia",
     "MOC_Diversidad",
     "MOC_Metodologias",
+    "MOC_Por_Curso",
     "Progresion_Lectoescritura",
     "Progresion_Matematicas",
     "TDAH",
@@ -6691,6 +6917,7 @@
     "Aprendizaje_Basado_en_Proyectos",
     "Autorregulacion_Emocional",
     "Composicion_Escrita",
+    "Deberes_y_Tareas_Inacabadas",
     "Ejemplos_Resueltos",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Etapa_6_8_anos",
@@ -6700,6 +6927,7 @@
     "Hechos_Numericos",
     "Indagacion_Guiada",
     "Instruccion_Explicita",
+    "Instrumentos_de_Evaluacion",
     "MOC_Diversidad",
     "Memoria_de_trabajo",
     "Normas_y_Rutinas",
@@ -6729,9 +6957,11 @@
    "metadatos": {
     "necesidad": "tdl",
     "prevalencia_aprox": "≈7 %",
-    "nivel_evidencia": "?",
-    "fuentes": [],
-    "pendiente_fuente": "true",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Bishop_2017_CATALISE",
+     "EEF_Toolkit"
+    ],
     "estado": "borrador"
    },
    "resumen": "Dificultades persistentes en la adquisición y el uso del lenguaje oral (vocabulario, gramática, comprensión o narración) sin causa médica asociada que lo explique. Antes se denominaba TEL.",
@@ -6746,10 +6976,14 @@
     "Relacionado"
    ],
    "enlaces": [
+    "Bishop_2017_CATALISE",
     "Diseno_Universal_para_el_Aprendizaje",
+    "EEF_Toolkit",
+    "Expresion_Oral",
     "Glosario_entre_sistemas",
     "MOC_Diversidad",
-    "RTI_MTSS"
+    "RTI_MTSS",
+    "Vocabulario"
    ],
    "enlazada_desde": [
     "AICLE_CLIL",
@@ -6873,6 +7107,7 @@
     "RTI_MTSS"
    ],
    "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Diversidad",
     "Progresion_Socioemocional"
    ]
@@ -6918,14 +7153,62 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_para_el_Dominio",
+    "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
+    "MOC_Por_Curso",
     "RTI_MTSS",
     "Retroalimentacion",
+    "Rubricas",
     "Sesion_Escritura_Narrativa_SRSD",
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
     "Sesion_Prueba_Justa_Rampas",
     "Taxonomia_de_Bloom"
+   ]
+  },
+  "Instrumentos_de_Evaluacion": {
+   "ruta": "07_Evaluacion/Instrumentos_de_Evaluacion.md",
+   "titulo": "Instrumentos de evaluación",
+   "tipo": "evaluacion",
+   "aliases": [
+    "Instrumentos de evaluación",
+    "Listas de cotejo",
+    "Escalas de observación",
+    "Portafolio",
+    "Registro anecdótico",
+    "Checklist",
+    "Portfolio"
+   ],
+   "metadatos": {
+    "area": [
+     "transversal"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "nivel_evidencia": "C",
+    "fuentes": [],
+    "estado": "borrador"
+   },
+   "resumen": "- Varios instrumentos y momentos: no basar el juicio en un solo examen. - Coherencia entre lo que se enseña, cómo se enseña y cómo se evalúa. - Evaluación inclusiva: adaptar el formato sin cambiar lo que se evalúa, salvo en adaptaciones significativas (Dislexia, TDAH, Incorporacion_Tardia).",
+   "secciones": [
+    "Panorama",
+    "Principios",
+    "Evidencia",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Dislexia",
+    "Evaluacion_Formativa",
+    "Incorporacion_Tardia",
+    "MOC_Evaluacion",
+    "Practica_de_Recuperacion",
+    "Retroalimentacion",
+    "Rubricas",
+    "TDAH"
+   ],
+   "enlazada_desde": [
+    "MOC_Evaluacion"
    ]
   },
   "Retroalimentacion": {
@@ -6972,7 +7255,54 @@
     "Dweck",
     "Evaluacion_Formativa",
     "Hattie",
-    "MOC_Evaluacion"
+    "Instrumentos_de_Evaluacion",
+    "MOC_Evaluacion",
+    "MOC_Por_Curso",
+    "Rubricas"
+   ]
+  },
+  "Rubricas": {
+   "ruta": "07_Evaluacion/Rubricas.md",
+   "titulo": "Rúbricas",
+   "tipo": "evaluacion",
+   "aliases": [
+    "Rúbricas",
+    "Rubrics",
+    "Matriz de evaluación"
+   ],
+   "metadatos": {
+    "area": [
+     "transversal"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Panadero_2013_Rubricas"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Instrumento que describe los criterios de calidad de una tarea y distintos niveles de desempeño para cada uno.",
+   "secciones": [
+    "En una frase",
+    "Tipos",
+    "Cómo usarlas bien",
+    "Evidencia",
+    "Errores frecuentes",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Composicion_Escrita",
+    "Evaluacion_Formativa",
+    "MOC_Evaluacion",
+    "Panadero_2013_Rubricas",
+    "Retroalimentacion"
+   ],
+   "enlazada_desde": [
+    "Instrumentos_de_Evaluacion",
+    "MOC_Evaluacion",
+    "MOC_Por_Curso"
    ]
   },
   "Asamblea_de_Aula": {
@@ -7062,6 +7392,7 @@
     "Convivencia_y_Acoso",
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
+    "MOC_Por_Curso",
     "Vulnerabilidad_Socioemocional"
    ]
   },
@@ -7112,6 +7443,59 @@
     "MOC_Gestion_Aula",
     "Progresion_Ciudadania_y_Valores",
     "Progresion_Socioemocional"
+   ]
+  },
+  "Deberes_y_Tareas_Inacabadas": {
+   "ruta": "08_Gestion_Aula/Deberes_y_Tareas_Inacabadas.md",
+   "titulo": "Deberes y tareas inacabadas",
+   "tipo": "gestion_aula",
+   "aliases": [
+    "Deberes",
+    "Tareas para casa",
+    "Homework",
+    "Tareas inacabadas",
+    "No termina las tareas"
+   ],
+   "metadatos": {
+    "area": [
+     "transversal"
+    ],
+    "edad_min": "6",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Cooper_2006_Deberes",
+     "EEF_Toolkit",
+     "EEF_2021_Familias"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- La relación entre deberes y rendimiento es débil en Primaria y más fuerte en Secundaria (Cooper_2006_Deberes; EEF_Toolkit). - Si se ponen, que sean breves, frecuentes, con un propósito claro y que el alumno pueda hacer solo: practicar lo ya aprendido (Practica_de_Recuperacion, lectura por placer, …",
+   "secciones": [
+    "Deberes en Primaria: qué dice la evidencia",
+    "Cuando un alumno no termina las tareas en clase: diagnóstico antes que solución",
+    "Qué evitar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Autoeficacia",
+    "Cooper_2006_Deberes",
+    "EEF_Toolkit",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Ejemplos_Resueltos",
+    "Fluidez_Lectora",
+    "Hechos_Numericos",
+    "Instruccion_Explicita",
+    "MOC_Gestion_Aula",
+    "Pausas_Activas",
+    "Practica_de_Recuperacion",
+    "Relacion_con_las_Familias",
+    "TDAH",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "MOC_Gestion_Aula",
+    "Uso_con_LLM"
    ]
   },
   "Gestion_de_la_Conducta": {
@@ -7212,6 +7596,7 @@
     "Clima_y_Relacion",
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
+    "MOC_Por_Curso",
     "Organizacion_Espacio_y_Tiempo",
     "Vulnerabilidad_Socioemocional"
    ]
@@ -7293,6 +7678,7 @@
    ],
    "enlazada_desde": [
     "Ciudadania_Digital_y_Seguridad",
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Gestion_Aula"
    ]
   },
@@ -7404,6 +7790,7 @@
    ],
    "enlazada_desde": [
     "Bandura",
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Conceptos"
    ]
   },
@@ -8166,6 +8553,37 @@
     "MOC_Fuentes"
    ]
   },
+  "Bishop_2017_CATALISE": {
+   "ruta": "11_Fuentes/Bishop_2017_CATALISE.md",
+   "titulo": "Bishop, D. V. M., Snowling, M. J., Thompson, P. A., Greenhalgh, T., & CATALISE-2 consortium. (2017). Phase 2 of CATALISE: A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068-1080.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Bishop",
+     "Snowling",
+     "Thompson",
+     "Greenhalgh",
+     "CATALISE-2 consortium"
+    ],
+    "anio": "2017",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Bishop, D. V. M., Snowling, M. J., Thompson, P. A., Greenhalgh, T., & CATALISE-2 consortium. (2017). Phase 2 of CATALISE: A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068-1080.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Consenso internacional (método Delphi) sobre la terminología de los trastornos del lenguaje infantil.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "TDL"
+   ]
+  },
   "Black_1998_Black_Box": {
    "ruta": "11_Fuentes/Black_1998_Black_Box.md",
    "titulo": "Black, P., & Wiliam, D. (1998). Inside the black box: Raising standards through classroom assessment. Phi Delta Kappan, 80(2), 139-148.",
@@ -8333,6 +8751,35 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "MOC_Fuentes"
+   ]
+  },
+  "Cooper_2006_Deberes": {
+   "ruta": "11_Fuentes/Cooper_2006_Deberes.md",
+   "titulo": "Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987-2003. Review of Educational Research, 76(1), 1-62.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Cooper",
+     "Robinson",
+     "Patall"
+    ],
+    "anio": "2006",
+    "tipo_fuente": "revision_sistematica",
+    "fiabilidad": "alta",
+    "referencia_apa": "Cooper, H., Robinson, J. C., & Patall, E. A. (2006). Does homework improve academic achievement? A synthesis of research, 1987-2003. Review of Educational Research, 76(1), 1-62.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Síntesis de la investigación sobre los deberes y el rendimiento académico.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Deberes_y_Tareas_Inacabadas",
     "MOC_Fuentes"
    ]
   },
@@ -8711,12 +9158,14 @@
    "enlazada_desde": [
     "Aprendizaje_Cooperativo",
     "Aprendizaje_para_el_Dominio",
+    "Deberes_y_Tareas_Inacabadas",
     "Ensenanza_Fonetica_Sistematica",
     "Estrategias_Comprension_Lectora",
     "Expresion_Oral",
     "MOC_Fuentes",
     "Metacognicion",
     "Retroalimentacion",
+    "TDL",
     "Tutoria_entre_Iguales"
    ]
   },
@@ -9370,6 +9819,34 @@
     "Mito_Entrenamiento_Cerebral"
    ]
   },
+  "Mol_2011_Exposicion_Lectora": {
+   "ruta": "11_Fuentes/Mol_2011_Exposicion_Lectora.md",
+   "titulo": "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267-296.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Mol",
+     "Bus"
+    ],
+    "anio": "2011",
+    "tipo_fuente": "metaanalisis",
+    "fiabilidad": "alta",
+    "referencia_apa": "Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of print exposure from infancy to early adulthood. Psychological Bulletin, 137(2), 267-296.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Metaanálisis sobre la exposición a la lectura (leer por placer) y las habilidades lingüísticas.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "MOC_Fuentes"
+   ]
+  },
   "Munoz_2006_Edad_L2": {
    "ruta": "11_Fuentes/Munoz_2006_Edad_L2.md",
    "titulo": "Muñoz, C. (Ed.). (2006). Age and the rate of foreign language learning. Multilingual Matters.",
@@ -9574,6 +10051,34 @@
     "Pausas_Activas",
     "Progresion_Competencia_Digital",
     "Progresion_Educacion_Fisica"
+   ]
+  },
+  "Panadero_2013_Rubricas": {
+   "ruta": "11_Fuentes/Panadero_2013_Rubricas.md",
+   "titulo": "Panadero, E., & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. Educational Research Review, 9, 129-144.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Panadero",
+     "Jonsson"
+    ],
+    "anio": "2013",
+    "tipo_fuente": "revision_sistematica",
+    "fiabilidad": "alta",
+    "referencia_apa": "Panadero, E., & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. Educational Research Review, 9, 129-144.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Revisión sobre el uso formativo de las rúbricas.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Rubricas"
    ]
   },
   "Pashler_2008_Estilos_Aprendizaje": {

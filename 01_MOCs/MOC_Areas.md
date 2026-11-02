@@ -12,7 +12,7 @@ Cada área tiene una nota de **progresión** que ordena sus contenidos por edad.
 - [[Progresion_Escritura]] (escritura)
   - [[Grafomotricidad_y_Caligrafia]] · [[Ortografia]] · [[Construccion_de_Oraciones]] · [[Composicion_Escrita]]
 - Transversales: [[Vocabulario]] · [[Expresion_Oral]] · [[Gramatica_y_Reflexion_Linguistica]]
-- Educación literaria *(pendiente)*
+- [[Educacion_Literaria_y_Lectura_por_Placer]]
 
 ## Matemáticas ✅ piloto (bloque numérico)
 - [[Progresion_Matematicas]]

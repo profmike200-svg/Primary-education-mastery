@@ -23,7 +23,7 @@ Leer = **decodificar × comprender el lenguaje** (*Simple View of Reading*, Goug
 | 8-10 | Comprensión y vocabulario; leer para aprender | Comprende textos narrativos y expositivos e infiere | [[Comprension_Lectora]] |
 | 10-12 | Comprensión crítica, textos complejos, escritura planificada | Argumenta, resume, evalúa fuentes | [[Comprension_Lectora]] |
 
-El vocabulario y el conocimiento del mundo se trabajan en todas las edades, desde la lectura en voz alta del docente.
+El vocabulario, el conocimiento del mundo y el gusto por leer se trabajan en todas las edades, desde la lectura en voz alta del docente ([[Educacion_Literaria_y_Lectura_por_Placer]]).
 
 ## Cómo enseñarlo
 - Al principio: [[Ensenanza_Fonetica_Sistematica]] (nivel A).

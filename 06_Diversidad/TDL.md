@@ -3,9 +3,8 @@ tipo: necesidad
 aliases: [Developmental language disorder, DLD, TEL (Trastorno específico del lenguaje)]
 necesidad: tdl
 prevalencia_aprox: "≈7 %"
-nivel_evidencia: "?"
-fuentes: []
-pendiente_fuente: true
+nivel_evidencia: "B"
+fuentes: [Bishop_2017_CATALISE, EEF_Toolkit]
 estado: borrador
 ---
 # Trastorno del desarrollo del lenguaje (TDL)
@@ -22,13 +21,14 @@ Dificultades persistentes en la adquisición y el uso del lenguaje oral (vocabul
 | 9-12 | Dificultad en la comprensión lectora de textos complejos, en la expresión escrita y en el vocabulario académico. |
 
 ## Estrategias de aula
-| Estrategia | Nivel de evidencia (provisional) |
+| Estrategia | Nivel de evidencia |
 |---|---|
-| Enseñanza explícita del vocabulario | B |
+| Enseñanza explícita del vocabulario ([[Vocabulario]]) | B |
+| Intervenciones de lenguaje oral en el aula ([[Expresion_Oral]]) | B |
 | Apoyos visuales y consignas simplificadas | C |
 | Coordinación con la logopedia (AL / SLP) | B |
 
-> Niveles provisionales: falta enlazar las fuentes que los respaldan.
+> Fuentes: [[Bishop_2017_CATALISE]] (terminología y criterios) · [[EEF_Toolkit]] (intervenciones en lenguaje oral). Los niveles de cada fila son orientativos.
 
 ## Adaptaciones
 - Acceso (espacio, tiempo, materiales): Ubicación cercana, apoyos visuales, ritmo pausado del habla.

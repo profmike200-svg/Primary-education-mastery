@@ -15,8 +15,9 @@ estado: borrador
 - [[Convivencia_y_Acoso]] (A para los programas integrales)
 - [[Asamblea_de_Aula]] (D)
 
-## Familias
+## Familias y deberes
 - [[Relacion_con_las_Familias]] (B)
+- [[Deberes_y_Tareas_Inacabadas]] (B)
 
 ## Organización del espacio y del tiempo
 - [[Organizacion_Espacio_y_Tiempo]] (D)
