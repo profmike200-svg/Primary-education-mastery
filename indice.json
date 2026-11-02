@@ -1476,7 +1476,7 @@
      "Paruthi_2016_Sueno",
      "Bakermans_2003_Sensibilidad_Apego"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El periodo de cambio más rápido de toda la vida. El bebé llega preparado para relacionarse: su tarea principal es construir un vínculo seguro (Apego) y empezar a comprender el mundo a través de los sentidos y el movimiento.",
    "secciones": [
@@ -1669,7 +1669,7 @@
      "OMS_2019_Menores_5",
      "Lillard_2013_Juego_Simbolico"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Es la edad del juego simbólico, las preguntas (\"¿por qué?\") y la imaginación. Pensamiento preoperacional (Piaget): intuitivo, centrado en un aspecto de la realidad y egocéntrico (le cuesta ponerse en el lugar del otro, aunque esto mejora mucho hacia los 4-5 años con la teoría de la mente). Se constr…",
    "secciones": [
@@ -2049,7 +2049,7 @@
      "Ryan_2000_Autodeterminacion",
      "Moffitt_2011_Autocontrol"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Un vínculo seguro y relaciones cálidas: la base de todo lo demás. - El autocontrol en la infancia predice la salud y el bienestar adultos (Moffitt_2011_Autocontrol) y se puede cultivar. - Satisfacer las necesidades de autonomía, competencia y relación (Ryan_2000_Autodeterminacion). - Ver también P…",
    "secciones": [
@@ -2342,6 +2342,7 @@
     "CLM_Mapa_Temario_Ingles",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Estrategica_Escritura_SRSD",
+    "Graham_2014_Ortografia",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Pedagogia_Freinet",
@@ -2437,7 +2438,7 @@
     "fuentes": [
      "Lyster_2010_Feedback_Oral_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- 6-8: comprender instrucciones de clase, rutinas, cuentos y canciones con apoyo visual; responder con gestos, palabras y frases hechas (*chunks*). - 8-10: mantener intercambios breves y predecibles (presentarse, gustos, rutinas), preguntar y responder. - 10-12: conversaciones sencillas sobre temas …",
    "secciones": [
@@ -2483,7 +2484,7 @@
     "fuentes": [
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Reconocer y manipular de forma oral las unidades sonoras del habla: 1. Palabras dentro de la frase. 2. Sílabas: contar, segmentar, unir, omitir (\"¿qué queda si a *pelota* le quito *pe*?\"). 3. Rimas y sonidos iniciales. 4. Fonemas: aislar, segmentar y unir (/s/ /o/ /l/ → *sol*). Es el nivel más predi…",
    "secciones": [
@@ -2600,7 +2601,7 @@
      "Castles_2018_Reading_Wars",
      "Ehri_2005_Fases_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Conocer las correspondencias entre grafema y fonema (incluidas las del español: c/qu/k, g/gu, r/rr, ll/y, h muda, b/v). - Unir sonidos para leer sílabas y palabras, y segmentarlas para escribirlas. - Leer pseudopalabras (prueba de que decodifica y no memoriza).",
    "secciones": [
@@ -2881,7 +2882,7 @@
     "fuentes": [
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Leer con precisión, velocidad adecuada y prosodia (entonación, pausas). La fluidez libera la atención para la comprensión.",
    "secciones": [
@@ -3416,7 +3417,7 @@
     "fuentes": [
      "Graham_2014_Ortografia"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Ortografía natural (correspondencia fonema-grafema): escribir todo lo que suena. - Ortografía reglada: reglas productivas (mb/mp, r/rr, c/qu/z, g/gu/j, acentuación). - Ortografía arbitraria: palabras de uso frecuente con b/v, h, g/j, ll/y que deben memorizarse.",
    "secciones": [
@@ -3921,7 +3922,7 @@
      "Ehri_2005_Fases_Lectura",
      "Seymour_2003_Ortografias_Europeas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Leer = decodificar × comprender el lenguaje (*Simple View of Reading*, Gough y Tunmer, 1986). Si cualquiera de los dos factores es cero, no hay comprensión lectora. Los cinco pilares del NRP_2000_Lectura organizan la enseñanza.",
    "secciones": [
@@ -5035,7 +5036,7 @@
      "Norris_2000_Instruccion_L2",
      "Lyster_2010_Feedback_Oral_L2"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Aprender la lengua usándola en tareas con un propósito comunicativo real, y atender de forma explícita a la gramática, la pronunciación y el vocabulario cuando hace falta.",
    "secciones": [
@@ -5585,7 +5586,7 @@
      "Sylva_2004_EPPE",
      "Lillard_2013_Juego_Simbolico"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Aprendizaje a través del juego, la exploración y la relación, en un entorno organizado y seguro, con un adulto que observa, acompaña y enriquece las interacciones.",
    "secciones": [
@@ -6338,7 +6339,7 @@
     "fuentes": [
      "Bakermans_2003_Sensibilidad_Apego"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "La sensibilidad del cuidador explica la seguridad del apego, que puede observarse y medirse.",
    "secciones": [
@@ -6490,7 +6491,7 @@
     "fuentes": [
      "Bakermans_2003_Sensibilidad_Apego"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El niño necesita un vínculo continuo y seguro con sus cuidadores para un desarrollo emocional sano.",
    "secciones": [
@@ -7730,7 +7731,7 @@
      "Santangelo_2016_Caligrafia",
      "Graham_2014_Ortografia"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Dificultad persistente en la escritura que no se explica por la capacidad intelectual ni por una enseñanza inadecuada. Puede afectar a la caligrafía (legibilidad, velocidad, componente motor) o a la ortografía y la composición (frecuentemente asociada a la Dislexia). No es pereza ni descuido.",
    "secciones": [
@@ -8877,7 +8878,7 @@
     "fuentes": [
      "Bakermans_2003_Sensibilidad_Apego"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Vínculo emocional que el niño establece con sus cuidadores principales y que le sirve de base segura para explorar el mundo y de refugio cuando se siente amenazado. Teoría formulada por John Bowlby; Mary Ainsworth describió los tipos de apego con la \"situación extraña\".",
    "secciones": [
@@ -10671,7 +10672,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., & Juffer, F. (2003). Less is more: Meta-analyses of sensitivity and attachment interventions in early childhood. Psychological Bulletin, 129(2), 195-215.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/0033-2909.129.2.195",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis de intervenciones para mejorar la sensibilidad de los padres y el apego infantil.",
    "secciones": [
@@ -11253,7 +11256,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "DeLoache, J. S., Chiong, C., Sherman, K., et al. (2010). Do babies learn from baby media? Psychological Science, 21(11), 1570-1574.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/0956797610384145",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Ensayo aleatorizado con bebés de 12 a 18 meses y un DVD educativo de vocabulario muy vendido.",
    "secciones": [
@@ -12101,7 +12106,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Graham, S., & Santangelo, T. (2014). Does spelling instruction make students better spellers, readers, and writers? A meta-analytic review. Reading and Writing, 27, 1703-1743.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1007/s11145-014-9517-0",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la enseñanza de la ortografía.",
    "secciones": [
@@ -12109,7 +12116,9 @@
     "Ideas clave",
     "Notas que la citan"
    ],
-   "enlaces": [],
+   "enlaces": [
+    "Composicion_Escrita"
+   ],
    "enlazada_desde": [
     "Disgrafia",
     "MOC_Fuentes",
@@ -12187,7 +12196,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Heckman, J. J. (2006). Skill formation and the economics of investing in disadvantaged children. Science, 312(5782), 1900-1902.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1126/science.1128898",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Análisis económico del rendimiento de la inversión en la primera infancia.",
    "secciones": [
@@ -12272,7 +12283,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. Educational Researcher, 38(5), 365-379.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.3102/0013189X09339057",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Síntesis de décadas de investigación sobre la interdependencia social y el aprendizaje cooperativo.",
    "secciones": [
@@ -12514,7 +12527,9 @@
     "tipo_fuente": "revision_sistematica",
     "fiabilidad": "alta",
     "referencia_apa": "Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1037/a0029321",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Revisión crítica de la evidencia sobre el juego simbólico (de ficción) y el desarrollo.",
    "secciones": [
@@ -12575,9 +12590,11 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. Studies in Second Language Acquisition, 32(2), 265-302.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "SSLA 32(2):265-302",
+    "fecha_verificacion": "2026-11-02"
    },
-   "resumen": "Metaanálisis sobre la corrección oral en el aula de segunda lengua.",
+   "resumen": "Metaanálisis de 15 estudios (827 alumnos) sobre la corrección oral en el aula de segunda lengua.",
    "secciones": [
     "Resumen (con palabras propias)",
     "Ideas clave",
@@ -12638,7 +12655,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1073/pnas.1010076108",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio longitudinal de Dunedin (Nueva Zelanda): 1.000 personas seguidas desde el nacimiento hasta los 32 años.",
    "secciones": [
@@ -12757,7 +12776,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "National Reading Panel. (2000). Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction. NICHD.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "NICHD 2000",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Informe del Congreso de EE. UU. que revisó la investigación sobre la enseñanza de la lectura.",
    "secciones": [
@@ -12850,7 +12871,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. Language Learning, 50(3), 417-528.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "Language Learning 50(3):417-528",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la eficacia de la enseñanza de segundas lenguas.",
    "secciones": [
@@ -13333,7 +13356,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "PMID 11392867",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Formulación central de la teoría de la autodeterminación.",
    "secciones": [
@@ -13394,7 +13419,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34(4), 337-357.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1016/j.cpr.2014.04.003",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis del programa de parentalidad positiva Triple P.",
    "secciones": [
@@ -13423,7 +13450,9 @@
     "tipo_fuente": "metaanalisis",
     "fiabilidad": "alta",
     "referencia_apa": "Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. Educational Psychology Review, 28, 225-265.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1007/s10648-015-9335-1",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Metaanálisis sobre la enseñanza de la escritura a mano.",
    "secciones": [
@@ -13698,7 +13727,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257-285.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1207/s15516709cog1202_4",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Artículo fundacional de la teoría de la carga cognitiva.",
    "secciones": [
@@ -13729,7 +13760,9 @@
     "tipo_fuente": "informe",
     "fiabilidad": "alta",
     "referencia_apa": "Sylva, K., Melhuish, E., Sammons, P., Siraj-Blatchford, I., & Taggart, B. (2004). The Effective Provision of Pre-School Education (EPPE) Project: Final report. DfES / Institute of Education, University of London.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "DfES / IOE 2004",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Estudio longitudinal británico de unos 3.000 niños sobre la educación infantil (3-5 años).",
    "secciones": [
@@ -13877,7 +13910,9 @@
     "tipo_fuente": "articulo",
     "fiabilidad": "alta",
     "referencia_apa": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.",
-    "verificado": "pendiente"
+    "verificado": "si",
+    "identificador": "10.1177/0956797618761661",
+    "fecha_verificacion": "2026-11-02"
    },
    "resumen": "Replicación conceptual del famoso test de la golosina con una muestra más grande y diversa.",
    "secciones": [
@@ -14561,7 +14596,7 @@
     "fuentes": [
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Al terminar, el alumnado asociará el grafema «m» con el sonido /m/, leerá las sílabas *ma, me, mi, mo, mu* y palabras como *mamá, mima, ama, Ema* y escribirá al dictado al menos dos de ellas.",
    "secciones": [
@@ -14892,7 +14927,7 @@
     "fuentes": [
      "Watts_2018_Malvavisco"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Lo que espera un niño de 4 años ante una golosina determina su éxito académico y vital.",
    "secciones": [
@@ -14930,7 +14965,7 @@
      "Castles_2018_Reading_Wars",
      "NRP_2000_Lectura"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Para leer una palabra desconocida, el niño debe usar el significado (contexto, dibujo), la estructura (¿suena bien?) y, por último, las letras. Los buenos lectores usan sobre todo el contexto.",
    "secciones": [
@@ -15005,7 +15040,7 @@
      "DeLoache_2010_Videos_Bebes",
      "AAP_2016_Pantallas"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "Los vídeos y aplicaciones \"educativos\" para bebés aceleran el aprendizaje del lenguaje y la inteligencia.",
    "secciones": [
@@ -15143,7 +15178,7 @@
      "Gershoff_2016_Castigo_Fisico",
      "Sanders_2014_Triple_P"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "1. Prevenir: rutinas, anticipar, preparar las situaciones difíciles, atención positiva frecuente. 2. Reforzar lo que queremos ver: atención y elogio concreto cuando lo hace bien (\"Has recogido los juguetes sin que te lo pida\"). 3. Normas pocas y claras, explicadas, adaptadas a la edad. 4. Consecuenc…",
    "secciones": [
@@ -15194,7 +15229,7 @@
     ],
     "estado": "borrador"
    },
-   "resumen": "El estudio EPPE encontró que lo que se hace en casa (leer, cantar, jugar con letras y números, pintar, visitar bibliotecas y lugares) influye en el desarrollo más que la profesión o los ingresos de los padres (Sylva_2004_EPPE). Son actividades cotidianas y gratuitas.",
+   "resumen": "El estudio EPPE encontró que lo que se hace en casa (leer, cantar, jugar con letras y números, pintar, visitar bibliotecas y lugares) influye en el desarrollo tanto como el nivel educativo de los padres: *lo que hacen los padres importa más que quiénes son* (Sylva_2004_EPPE). Son actividades cotidia…",
    "secciones": [
     "Lo que más influye",
     "Por edades",
@@ -15282,7 +15317,7 @@
      "Lillard_2013_Juego_Simbolico",
      "OMS_2019_Menores_5"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "El juego es la actividad natural de la infancia: en él se mueven, exploran, imaginan, se relacionan, negocian normas y regulan sus emociones. Tiene valor en sí mismo.",
    "secciones": [
@@ -15386,7 +15421,7 @@
      "AAP_2016_Pantallas",
      "DeLoache_2010_Videos_Bebes"
     ],
-    "estado": "borrador"
+    "estado": "verificado_ia"
    },
    "resumen": "- Los bebés y niños pequeños aprenden de las personas, no de los vídeos (DeLoache_2010_Videos_Bebes). - El problema principal es lo que la pantalla desplaza: sueño, juego, conversación, lectura, movimiento. - Las pantallas en el dormitorio y antes de dormir empeoran el sueño.",
    "secciones": [

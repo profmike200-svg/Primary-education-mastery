@@ -7,7 +7,7 @@ pais: EE. UU. / Canadá
 corriente: [psicologia_del_desarrollo]
 vigencia: vigente
 fuentes: [Bakermans_2003_Sensibilidad_Apego]
-estado: borrador
+estado: verificado_ia
 ---
 # Mary Ainsworth
 

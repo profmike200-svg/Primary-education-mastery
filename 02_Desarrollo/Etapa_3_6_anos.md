@@ -5,7 +5,7 @@ edad_min: 3
 edad_max: 6
 dimension: [cognitiva, linguistica, socioemocional, motora, moral, ejecutiva]
 fuentes: [Zubler_2022_Hitos_CDC, Sylva_2004_EPPE, OMS_2019_Menores_5, Lillard_2013_Juego_Simbolico]
-estado: borrador
+estado: verificado_ia
 ---
 # Etapa de 3 a 6 años
 

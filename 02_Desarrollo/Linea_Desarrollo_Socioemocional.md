@@ -5,7 +5,7 @@ edad_min: 0
 edad_max: 12
 dimension: [socioemocional, moral]
 fuentes: [Bakermans_2003_Sensibilidad_Apego, Ryan_2000_Autodeterminacion, Moffitt_2011_Autocontrol]
-estado: borrador
+estado: verificado_ia
 ---
 # Línea de desarrollo: socioemocional y moral (0-12)
 

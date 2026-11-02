@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Tres claves, Three-cueing, MSV, Adivinar por el contexto]
 nivel_evidencia: M
 fuentes: [Castles_2018_Reading_Wars, NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Tres claves (adivinar las palabras por el contexto)
 

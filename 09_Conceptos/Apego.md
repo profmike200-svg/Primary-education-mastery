@@ -3,7 +3,7 @@ tipo: concepto
 aliases: [Apego, Attachment, Apego seguro, Teoría del apego, Base segura]
 area: [socioemocional, crianza]
 fuentes: [Bakermans_2003_Sensibilidad_Apego]
-estado: borrador
+estado: verificado_ia
 ---
 # Apego
 

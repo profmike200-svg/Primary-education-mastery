@@ -5,7 +5,9 @@ anio: 2000
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. Language Learning, 50(3), 417-528."
-verificado: pendiente
+verificado: si
+identificador: "Language Learning 50(3):417-528"
+fecha_verificacion: 2026-11-02
 ---
 # Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. Language Learning, 50(3), 417-528.
 

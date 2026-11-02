@@ -5,7 +5,9 @@ anio: 2013
 tipo_fuente: revision_sistematica
 fiabilidad: alta
 referencia_apa: "Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34."
-verificado: pendiente
+verificado: si
+identificador: "10.1037/a0029321"
+fecha_verificacion: 2026-11-02
 ---
 # Lillard, A. S., Lerner, M. D., Hopkins, E. J., Dore, R. A., Smith, E. D., & Palmquist, C. M. (2013). The impact of pretend play on children's development: A review of the evidence. Psychological Bulletin, 139(1), 1-34.
 

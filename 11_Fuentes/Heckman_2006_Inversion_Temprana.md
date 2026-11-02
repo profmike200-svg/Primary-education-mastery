@@ -5,7 +5,9 @@ anio: 2006
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Heckman, J. J. (2006). Skill formation and the economics of investing in disadvantaged children. Science, 312(5782), 1900-1902."
-verificado: pendiente
+verificado: si
+identificador: "10.1126/science.1128898"
+fecha_verificacion: 2026-11-02
 ---
 # Heckman, J. J. (2006). Skill formation and the economics of investing in disadvantaged children. Science, 312(5782), 1900-1902.
 

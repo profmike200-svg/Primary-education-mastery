@@ -5,7 +5,9 @@ anio: 2016
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. Educational Psychology Review, 28, 225-265."
-verificado: pendiente
+verificado: si
+identificador: "10.1007/s10648-015-9335-1"
+fecha_verificacion: 2026-11-02
 ---
 # Santangelo, T., & Graham, S. (2016). A comprehensive meta-analysis of handwriting instruction. Educational Psychology Review, 28, 225-265.
 
@@ -15,6 +17,7 @@ Metaanálisis sobre la enseñanza de la escritura a mano.
 ## Ideas clave
 - La enseñanza explícita de la caligrafía mejora la legibilidad y la fluidez, y también la calidad y la longitud de los textos.
 - La escritura a mano automatizada libera recursos para la composición.
+- La instrucción centrada solo en ejercicios motores (sin practicar las letras) no fue más eficaz que la enseñanza directa de la caligrafía.
 
 ## Notas que la citan
 <!-- Backlinks de Obsidian -->

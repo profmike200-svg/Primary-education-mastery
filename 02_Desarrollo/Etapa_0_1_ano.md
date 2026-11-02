@@ -5,7 +5,7 @@ edad_min: 0
 edad_max: 1
 dimension: [cognitiva, linguistica, socioemocional, motora]
 fuentes: [Zubler_2022_Hitos_CDC, OMS_2019_Menores_5, Paruthi_2016_Sueno, Bakermans_2003_Sensibilidad_Apego]
-estado: borrador
+estado: verificado_ia
 ---
 # Etapa de 0 a 1 año
 

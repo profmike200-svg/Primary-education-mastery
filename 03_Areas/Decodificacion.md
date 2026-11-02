@@ -8,7 +8,7 @@ requisitos_previos: [Conciencia_Fonologica]
 metodologias_recomendadas: [Ensenanza_Fonetica_Sistematica]
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura, Castles_2018_Reading_Wars, Ehri_2005_Fases_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Decodificación
 

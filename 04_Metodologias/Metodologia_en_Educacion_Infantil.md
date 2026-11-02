@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: [Montessori, Froebel, Malaguzzi]
 necesidades_compatibles: [tea, tdl, incorporacion_tardia]
 fuentes: [Sylva_2004_EPPE, Lillard_2013_Juego_Simbolico]
-estado: borrador
+estado: verificado_ia
 ---
 # Metodología en Educación Infantil
 

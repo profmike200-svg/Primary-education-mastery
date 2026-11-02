@@ -8,7 +8,7 @@ requisitos_previos: [Decodificacion]
 metodologias_recomendadas: [Tutoria_entre_Iguales, Instruccion_Explicita]
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Fluidez lectora
 

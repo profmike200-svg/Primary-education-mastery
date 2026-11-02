@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "B"
 fuentes: [Lillard_2013_Juego_Simbolico, OMS_2019_Menores_5]
-estado: borrador
+estado: verificado_ia
 ---
 # El juego en la infancia
 

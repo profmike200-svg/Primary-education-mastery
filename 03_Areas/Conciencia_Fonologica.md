@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Ensenanza_Fonetica_Sistematica, Instruccion_Explicita]
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Conciencia fonológica
 

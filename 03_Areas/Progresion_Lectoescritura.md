@@ -5,7 +5,7 @@ area: [lectoescritura]
 edad_min: 5
 edad_max: 12
 fuentes: [NRP_2000_Lectura, Castles_2018_Reading_Wars, Ehri_2005_Fases_Lectura, Seymour_2003_Ortografias_Europeas]
-estado: borrador
+estado: verificado_ia
 ---
 # Progresión de la lectoescritura
 

@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Baby Einstein, Vídeos para bebés, Apps educativas para bebés]
 nivel_evidencia: M
 fuentes: [DeLoache_2010_Videos_Bebes, AAP_2016_Pantallas]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: Los vídeos y apps educativos enseñan a los bebés
 

@@ -5,7 +5,7 @@ necesidad: disgrafia
 prevalencia_aprox: "≈5-20 % según la definición"
 nivel_evidencia: "B"
 fuentes: [Santangelo_2016_Caligrafia, Graham_2014_Ortografia]
-estado: borrador
+estado: verificado_ia
 ---
 # Disgrafía (dificultad específica en la escritura)
 

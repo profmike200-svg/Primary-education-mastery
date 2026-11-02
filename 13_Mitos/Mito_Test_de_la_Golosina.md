@@ -3,7 +3,7 @@ tipo: mito
 aliases: [Test del malvavisco, Marshmallow test, Gratificación aplazada como destino]
 nivel_evidencia: M
 fuentes: [Watts_2018_Malvavisco]
-estado: borrador
+estado: verificado_ia
 ---
 # Mito: El test de la golosina predice el éxito en la vida
 

@@ -13,7 +13,7 @@ necesidades_contempladas: [dislexia, tdah, tdl]
 materiales: [tarjeta de letra con imagen, pizarras individuales, fichas de colores, texto decodificable]
 nivel_evidencia: "A"
 fuentes: [NRP_2000_Lectura]
-estado: borrador
+estado: verificado_ia
 ---
 # Sesión: presentación del grafema «m»
 

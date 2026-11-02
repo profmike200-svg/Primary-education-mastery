@@ -5,7 +5,9 @@ anio: 2000
 tipo_fuente: informe
 fiabilidad: alta
 referencia_apa: "National Reading Panel. (2000). Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction. NICHD."
-verificado: pendiente
+verificado: si
+identificador: "NICHD 2000"
+fecha_verificacion: 2026-11-02
 ---
 # National Reading Panel. (2000). Teaching children to read: An evidence-based assessment of the scientific research literature on reading and its implications for reading instruction. NICHD.
 

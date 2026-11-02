@@ -5,7 +5,9 @@ anio: 2011
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698."
-verificado: pendiente
+verificado: si
+identificador: "10.1073/pnas.1010076108"
+fecha_verificacion: 2026-11-02
 ---
 # Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.
 

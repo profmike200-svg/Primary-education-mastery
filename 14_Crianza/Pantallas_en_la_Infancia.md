@@ -6,7 +6,7 @@ edad_min: 0
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [OMS_2019_Menores_5, AAP_2016_Pantallas, DeLoache_2010_Videos_Bebes]
-estado: borrador
+estado: verificado_ia
 ---
 # Pantallas en la infancia
 

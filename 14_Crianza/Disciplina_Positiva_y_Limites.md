@@ -6,7 +6,7 @@ edad_min: 1
 edad_max: 12
 nivel_evidencia: "A"
 fuentes: [Gershoff_2016_Castigo_Fisico, Sanders_2014_Triple_P]
-estado: borrador
+estado: verificado_ia
 ---
 # Disciplina positiva y límites
 

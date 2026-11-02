@@ -8,7 +8,7 @@ requisitos_previos: []
 metodologias_recomendadas: [Ensenanza_Comunicativa_con_Foco_en_la_Forma]
 nivel_evidencia: "B"
 fuentes: [Lyster_2010_Feedback_Oral_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Comprensión y expresión oral en lengua extranjera
 

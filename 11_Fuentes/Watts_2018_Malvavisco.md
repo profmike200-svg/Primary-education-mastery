@@ -5,7 +5,9 @@ anio: 2018
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177."
-verificado: pendiente
+verificado: si
+identificador: "10.1177/0956797618761661"
+fecha_verificacion: 2026-11-02
 ---
 # Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. Psychological Science, 29(7), 1159-1177.
 

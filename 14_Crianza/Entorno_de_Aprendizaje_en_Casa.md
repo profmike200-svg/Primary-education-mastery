@@ -11,7 +11,7 @@ estado: borrador
 # Entorno de aprendizaje en casa
 
 ## Lo que más influye
-El estudio EPPE encontró que **lo que se hace en casa** (leer, cantar, jugar con letras y números, pintar, visitar bibliotecas y lugares) influye en el desarrollo más que la profesión o los ingresos de los padres ([[Sylva_2004_EPPE]]). Son actividades cotidianas y gratuitas.
+El estudio EPPE encontró que **lo que se hace en casa** (leer, cantar, jugar con letras y números, pintar, visitar bibliotecas y lugares) influye en el desarrollo tanto como el nivel educativo de los padres: *lo que hacen los padres importa más que quiénes son* ([[Sylva_2004_EPPE]]). Son actividades cotidianas y gratuitas.
 
 ## Por edades
 - **0-3**: conversación, canciones, rimas, cuentos, juego con objetos, salir y nombrar el mundo.

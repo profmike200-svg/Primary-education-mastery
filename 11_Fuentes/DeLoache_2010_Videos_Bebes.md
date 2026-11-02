@@ -5,7 +5,9 @@ anio: 2010
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "DeLoache, J. S., Chiong, C., Sherman, K., et al. (2010). Do babies learn from baby media? Psychological Science, 21(11), 1570-1574."
-verificado: pendiente
+verificado: si
+identificador: "10.1177/0956797610384145"
+fecha_verificacion: 2026-11-02
 ---
 # DeLoache, J. S., Chiong, C., Sherman, K., et al. (2010). Do babies learn from baby media? Psychological Science, 21(11), 1570-1574.
 

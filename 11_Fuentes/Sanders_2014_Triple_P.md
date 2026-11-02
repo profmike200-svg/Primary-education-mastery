@@ -5,7 +5,9 @@ anio: 2014
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34(4), 337-357."
-verificado: pendiente
+verificado: si
+identificador: "10.1016/j.cpr.2014.04.003"
+fecha_verificacion: 2026-11-02
 ---
 # Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34(4), 337-357.
 

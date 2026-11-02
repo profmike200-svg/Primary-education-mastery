@@ -8,7 +8,7 @@ nivel_evidencia: "B"
 autores: []
 necesidades_compatibles: [tdl, dislexia]
 fuentes: [Norris_2000_Instruccion_L2, Lyster_2010_Feedback_Oral_L2]
-estado: borrador
+estado: verificado_ia
 ---
 # Enseñanza comunicativa con foco en la forma
 

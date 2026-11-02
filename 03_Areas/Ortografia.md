@@ -8,7 +8,7 @@ requisitos_previos: [Decodificacion]
 metodologias_recomendadas: [Instruccion_Explicita, Practica_Espaciada, Practica_de_Recuperacion]
 nivel_evidencia: "A"
 fuentes: [Graham_2014_Ortografia]
-estado: borrador
+estado: verificado_ia
 ---
 # Ortografía
 

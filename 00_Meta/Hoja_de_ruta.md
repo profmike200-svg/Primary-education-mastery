@@ -30,7 +30,8 @@ aliases: [Roadmap, Pendientes]
 
 ## Verificación de fuentes (IA)
 - [x] Tanda 1 (2026-11-02): 22 fuentes clave verificadas en línea (Dunlosky, Pashler, Kirschner, Rosenshine, Hattie y Timperley, Black y Wiliam, Castles, Ehri, Seymour, Graham ×2, Siegler, Fuchs, Durlak, Gershoff, Paruthi, OMS 2019, AAP 2016, Steenbergen-Hu, Melby-Lervåg, Zubler, Mol 2008). Correcciones: autores de Fuchs 2021, matiz en Gershoff 2016, título de Dunlosky, páginas de Black y Wiliam. 15 notas promovidas a `verificado_ia`.
-- [ ] Tanda 2: EEF Toolkit y guías EEF, NRP 2000, Sweller 1988, Santangelo 2016, Graham y Santangelo 2014, Johnson 2009, Norris y Ortega 2000, Lyster y Saito 2010, Nation 2013, Bakermans-Kranenburg 2003, Sanders 2014, Moffitt 2011, Heckman 2006, Ryan y Deci 2000, Sylva 2004 (EPPE), DeLoache 2010, Watts 2018, Lillard 2013, Byers-Heinlein 2013, Baumrind 1971
+- [x] Tanda 2 (2026-11-02): 16 fuentes verificadas (NRP 2000, Sweller 1988, Santangelo 2016, Graham y Santangelo 2014, Johnson 2009, Norris y Ortega 2000, Lyster y Saito 2010, Bakermans-Kranenburg 2003, Sanders 2014, Moffitt 2011, Heckman 2006, Ryan y Deci 2000, Sylva 2004, DeLoache 2010, Watts 2018, Lillard 2013). Corrección importante: la enseñanza de la ortografía **no** mejora la calidad de los textos largos (Graham y Santangelo 2014). Matiz en EPPE. 22 notas más en `verificado_ia` (total: 37).
+- [ ] Tanda 3: EEF Toolkit y guías EEF (5), Nation 2013, Byers-Heinlein 2013, Baumrind 1971, Mol 2011, Cooper 2006, Panadero 2013, Bishop 2017, Lazonder 2016, Furtak 2012, Klahr 2004, Vosniadou 1992, Recht 1988, Muñoz 2006, Scherer 2019, Wineburg 2019, OCDE 2015, Dekker 2012, Diamond 2011
 - [ ] Tanda 3: resto de fuentes y normativa (BOE / DOCM)
 
 ## Tareas del docente

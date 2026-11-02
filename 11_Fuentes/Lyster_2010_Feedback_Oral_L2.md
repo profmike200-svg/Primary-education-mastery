@@ -5,12 +5,14 @@ anio: 2010
 tipo_fuente: metaanalisis
 fiabilidad: alta
 referencia_apa: "Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. Studies in Second Language Acquisition, 32(2), 265-302."
-verificado: pendiente
+verificado: si
+identificador: "SSLA 32(2):265-302"
+fecha_verificacion: 2026-11-02
 ---
 # Lyster, R., & Saito, K. (2010). Oral feedback in classroom SLA: A meta-analysis. Studies in Second Language Acquisition, 32(2), 265-302.
 
 ## Resumen (con palabras propias)
-Metaanálisis sobre la corrección oral en el aula de segunda lengua.
+Metaanálisis de 15 estudios (827 alumnos) sobre la corrección oral en el aula de segunda lengua.
 
 ## Ideas clave
 - La retroalimentación correctiva oral tiene efectos significativos y duraderos.

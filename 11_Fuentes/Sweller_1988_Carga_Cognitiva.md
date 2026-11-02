@@ -5,7 +5,9 @@ anio: 1988
 tipo_fuente: articulo
 fiabilidad: alta
 referencia_apa: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257-285."
-verificado: pendiente
+verificado: si
+identificador: "10.1207/s15516709cog1202_4"
+fecha_verificacion: 2026-11-02
 ---
 # Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257-285.
 
