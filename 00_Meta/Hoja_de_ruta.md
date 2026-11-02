@@ -23,6 +23,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Autores clásicos y metodologías alternativas
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
+- [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
 - [x] Vista "qué se trabaja en cada curso" ([[MOC_Por_Curso]])
 
 ## Tareas del docente
@@ -31,6 +32,8 @@ aliases: [Roadmap, Pendientes]
 - [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
 
 ## Próximos bloques
+- [ ] España: añadir la normativa de la comunidad autónoma del docente (decreto de currículo, órdenes de evaluación y diversidad)
+- [ ] Capa equivalente para EE. UU.: funcionamiento del distrito y de la escuela, IDEA, Section 504, ESSA, FERPA, licencias estatales
 - [ ] Búsqueda semántica (RAG con embeddings) o servidor MCP
 - [ ] Currículos: educación física, artística y socioemocional (ES/US)
 - [ ] Diversidad: fuentes para discapacidades sensoriales y motora, y vulnerabilidad

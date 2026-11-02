@@ -28,5 +28,6 @@ Esta bóveda es una base de conocimiento pedagógico para Educación Primaria (6
 | ¿Cómo enseñar X? | nota del contenido → `metodologias_recomendadas` |
 | ¿Cómo adaptar para un alumno con TDAH? | MOC_Diversidad → nota de la necesidad → estrategias |
 | Dame una sesión o actividad para X | `12_Practica/` filtrando por `area`, edad y `necesidades` |
+| Normativa, evaluación, oposiciones o documentos en España | `01_MOCs/MOC_Sistema_Educativo_Espanol.md` (avisar siempre de que la comunidad autónoma concreta la norma) |
 | ¿Qué significa este término en otro país? | `00_Meta/Glosario_entre_sistemas.md` |
 | ¿Funciona la metodología Y? | nota de la metodología → `nivel_evidencia` + sección Evidencia |

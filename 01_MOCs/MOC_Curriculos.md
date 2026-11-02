@@ -7,6 +7,7 @@ estado: borrador
 Capa local: cada nota se enlaza con el núcleo universal mediante `equivale_a`.
 
 ## España: LOMLOE
+- **[[MOC_Sistema_Educativo_Espanol]]**: todo lo que debe saber un maestro en España
 - [[ES_LOMLOE_Lengua_Lectoescritura]]
 - [[ES_LOMLOE_Matematicas]]
 - [[ES_LOMLOE_Conocimiento_del_Medio]]

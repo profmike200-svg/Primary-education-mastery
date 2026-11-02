@@ -36,6 +36,9 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 ## Libros
 - [[Hattie_2009_Visible_Learning]] · [[Willingham_2009_Por_que_no_gusta]] · [[Clements_2014_Trayectorias]]
 
+## Normativa española
+- [[ES_LOE_LOMLOE]] · [[ES_RD_157_2022]] · [[ES_LOPIVI_2021]] · [[ES_LOPDGDD_2018]] · [[ES_RD_276_2007]]
+
 ## Organismos e informes
 - [[EEF_Toolkit]] · [[NRP_2000_Lectura]] · [[CAST_2018_DUA]]
 - EEF, guías: [[EEF_2017_Matematicas_KS2_KS3]] · [[EEF_2020_Matematicas_Infantil_KS1]] · [[EEF_2019_Conducta]] · [[EEF_2021_Familias]]

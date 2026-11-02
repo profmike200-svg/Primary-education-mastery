@@ -132,7 +132,11 @@ def texto_nota(nota):
 
 
 CURRICULO = ["lomloe", "ley", "curricul", "decreto", "common core", "ngss", "wida", "estandar", "eeuu",
-             "estados unidos", "espana", "normativa"]
+             "estados unidos", "espana", "normativa", "repetir", "repeticion", "promocion", "promocionar",
+             "oposicion", "interin", "pga", "pec", "nof", "acneae", "nee", "lopivi", "programacion didactica",
+             "situacion de aprendizaje", "situaciones de aprendizaje", "calificacion", "competencias clave",
+             "claustro", "consejo escolar", "tutoria", "profesores visitantes", "proteccion de datos",
+             "custodia", "excursion", "medicacion", "evaluacion de diagnostico", "adaptacion curricular"]
 
 
 def expandir(pregunta):

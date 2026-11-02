@@ -57,6 +57,22 @@ CASOS = [
      ["Discapacidad_Auditiva"], []),
     ("¿Cómo trabajo el pensamiento histórico en 6º?",
      ["Pensamiento_Historico"], []),
+    ("¿Puede repetir curso un alumno de 3º según la LOMLOE?",
+     ["ES_Evaluacion_y_Promocion"], []),
+    ("¿Cómo se estructura una situación de aprendizaje?",
+     ["ES_Programacion_y_Situaciones_de_Aprendizaje"], []),
+    ("¿Qué hago si sospecho que un alumno sufre maltrato en casa? Protocolo LOPIVI",
+     ["ES_Proteccion_Infancia_y_Datos"], []),
+    ("¿Cómo son las oposiciones de maestro de primaria?",
+     ["ES_Acceso_a_la_Profesion"], []),
+    ("¿Qué es un ACNEAE y qué es una adaptación curricular significativa?",
+     ["ES_Atencion_a_la_Diversidad"], []),
+    ("¿Cuáles son las competencias clave de la LOMLOE?",
+     ["ES_Marco_Curricular_LOMLOE"], []),
+    ("¿Qué es la PGA y el PEC del centro?",
+     ["ES_Documentos_de_Centro"], []),
+    ("Quiero irme a enseñar a Estados Unidos con el programa de profesores visitantes",
+     ["ES_Acceso_a_la_Profesion"], []),
 ]
 
 

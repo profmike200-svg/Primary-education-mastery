@@ -37,6 +37,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "00_INICIO",
+    "ES_Proteccion_Infancia_y_Datos",
     "README",
     "Relacion_con_las_Familias"
    ]
@@ -95,6 +96,9 @@
     "Discapacidad_Visual",
     "Disgrafia",
     "Dislexia",
+    "ES_Acceso_a_la_Profesion",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Estructura_del_Sistema",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "ES_LOMLOE_Matematicas",
@@ -133,7 +137,8 @@
     "Próximos bloques"
    ],
    "enlaces": [
-    "MOC_Por_Curso"
+    "MOC_Por_Curso",
+    "MOC_Sistema_Educativo_Espanol"
    ],
    "enlazada_desde": [
     "00_INICIO",
@@ -261,6 +266,7 @@
     "MOC_Mitos",
     "MOC_Por_Curso",
     "MOC_Practica",
+    "MOC_Sistema_Educativo_Espanol",
     "Panel_de_control",
     "Taxonomia",
     "Uso_con_LLM"
@@ -279,6 +285,7 @@
     "MOC_Mitos",
     "MOC_Por_Curso",
     "MOC_Practica",
+    "MOC_Sistema_Educativo_Espanol",
     "README"
    ]
   },
@@ -352,6 +359,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "ES_Marco_Curricular_LOMLOE",
     "Progresion_Ciencias_Naturales",
     "Progresion_Ciencias_Sociales",
     "Progresion_Ciudadania_y_Valores",
@@ -501,6 +509,7 @@
     "ES_LOMLOE_Lengua_Lectoescritura",
     "ES_LOMLOE_Matematicas",
     "Glosario_entre_sistemas",
+    "MOC_Sistema_Educativo_Espanol",
     "US_C3_Estudios_Sociales",
     "US_CCSS_Math",
     "US_CCSS_Reading_Foundational_Skills",
@@ -509,7 +518,8 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
-    "Glosario_entre_sistemas"
+    "Glosario_entre_sistemas",
+    "MOC_Sistema_Educativo_Espanol"
    ]
   },
   "MOC_Desarrollo": {
@@ -650,6 +660,7 @@
     "Evaluación, deberes y lectura",
     "Artículos",
     "Libros",
+    "Normativa española",
     "Organismos e informes"
    ],
    "enlaces": [
@@ -678,6 +689,11 @@
     "EEF_2021_Familias",
     "EEF_2021_Lectoescritura_KS2",
     "EEF_Toolkit",
+    "ES_LOE_LOMLOE",
+    "ES_LOPDGDD_2018",
+    "ES_LOPIVI_2021",
+    "ES_RD_157_2022",
+    "ES_RD_276_2007",
     "Ehri_2005_Fases_Lectura",
     "Fuchs_2021_Intervencion_Matematicas_IES",
     "Furtak_2012_Indagacion_Ciencias",
@@ -1002,6 +1018,8 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Hoja_de_ruta"
    ]
   },
@@ -1037,6 +1055,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Juego_Tablero_Numerico",
     "Rutina_Lectura_en_Parejas",
@@ -1046,6 +1065,65 @@
     "Sesion_Fracciones_Recta_Numerica",
     "Sesion_Presentacion_Grafema_m",
     "Sesion_Prueba_Justa_Rampas"
+   ]
+  },
+  "MOC_Sistema_Educativo_Espanol": {
+   "ruta": "01_MOCs/MOC_Sistema_Educativo_Espanol.md",
+   "titulo": "Sistema educativo español: lo que debe saber un maestro",
+   "tipo": "moc",
+   "aliases": [
+    "Sistema educativo español",
+    "España",
+    "Capa España",
+    "Spain"
+   ],
+   "metadatos": {
+    "estado": "borrador"
+   },
+   "resumen": "- ES_Estructura_del_Sistema: leyes, competencias del Estado y de las comunidades, etapas, ciclos, ratios - ES_Marco_Curricular_LOMLOE: competencias clave, áreas, saberes básicos, situaciones de aprendizaje",
+   "secciones": [
+    "Marco general",
+    "En el día a día",
+    "El docente",
+    "Currículo por áreas",
+    "Normativa de referencia"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "ES_Acceso_a_la_Profesion",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Documentos_de_Centro",
+    "ES_Estructura_del_Sistema",
+    "ES_Evaluacion_y_Promocion",
+    "ES_Funciones_Derechos_y_Deberes_del_Docente",
+    "ES_LOE_LOMLOE",
+    "ES_LOMLOE_Conocimiento_del_Medio",
+    "ES_LOMLOE_Lengua_Lectoescritura",
+    "ES_LOMLOE_Matematicas",
+    "ES_LOPDGDD_2018",
+    "ES_LOPIVI_2021",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_Organizacion_del_Centro",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "ES_Proteccion_Infancia_y_Datos",
+    "ES_RD_157_2022",
+    "ES_RD_276_2007",
+    "MOC_Curriculos"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "ES_Acceso_a_la_Profesion",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Documentos_de_Centro",
+    "ES_Estructura_del_Sistema",
+    "ES_Evaluacion_y_Promocion",
+    "ES_Funciones_Derechos_y_Deberes_del_Docente",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_Organizacion_del_Centro",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "ES_Proteccion_Infancia_y_Datos",
+    "Hoja_de_ruta",
+    "MOC_Curriculos"
    ]
   },
   "Etapa_10_12_anos": {
@@ -1163,6 +1241,7 @@
     "Clima_y_Relacion",
     "Conciencia_Fonologica",
     "Decodificacion",
+    "ES_Atencion_a_la_Diversidad",
     "Erikson",
     "Etapa_8_10_anos",
     "Fluidez_Lectora",
@@ -1884,6 +1963,7 @@
    ],
    "enlazada_desde": [
     "Deberes_y_Tareas_Inacabadas",
+    "ES_Documentos_de_Centro",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Lectoescritura"
@@ -2819,6 +2899,7 @@
    "enlazada_desde": [
     "Aprendizaje_Servicio",
     "Asamblea_de_Aula",
+    "ES_Marco_Curricular_LOMLOE",
     "Freire",
     "MOC_Areas",
     "MOC_Por_Curso"
@@ -2866,6 +2947,7 @@
    "enlazada_desde": [
     "Alfabetizacion_Mediatica_e_Informacional",
     "Ciudadania_Digital_y_Seguridad",
+    "ES_Documentos_de_Centro",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Pensamiento_Computacional"
@@ -2910,6 +2992,7 @@
     "Winner_2013_Educacion_Artistica"
    ],
    "enlazada_desde": [
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Areas",
     "Reggio_Emilia",
     "Rutinas_de_Pensamiento"
@@ -2958,6 +3041,7 @@
    ],
    "enlazada_desde": [
     "Competencia_Motriz",
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Areas",
     "Pausas_Activas"
    ]
@@ -3138,6 +3222,7 @@
    "enlazada_desde": [
     "AICLE_CLIL",
     "Comprension_Oral_L2",
+    "ES_Marco_Curricular_LOMLOE",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Incorporacion_Tardia",
     "Lectoescritura_en_Ingles",
@@ -3267,6 +3352,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Areas",
     "Mito_Efecto_Mozart"
    ]
@@ -4582,6 +4668,7 @@
     "Discalculia",
     "Discapacidad_Intelectual",
     "Diseno_Universal_para_el_Aprendizaje",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "MOC_Metodologias",
     "MOC_Por_Curso",
@@ -5071,6 +5158,7 @@
     "Practica_de_Recuperacion"
    ],
    "enlazada_desde": [
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Ideas_Previas_y_Cambio_Conceptual",
     "Instruccion_Explicita",
     "MOC_Metodologias",
@@ -6309,6 +6397,7 @@
     "Aprendizaje_Basado_en_Proyectos",
     "Aprendizaje_Cooperativo",
     "Composicion_Escrita",
+    "ES_Atencion_a_la_Diversidad",
     "Geometria",
     "Indagacion_Guiada",
     "MOC_Diversidad",
@@ -6369,6 +6458,7 @@
     "Siegler_2008_Juegos_Numericos"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "Ejemplos_Resueltos",
     "Enfoque_CPA",
     "Etapa_8_10_anos",
@@ -6425,6 +6515,7 @@
     "RTI_MTSS"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad",
     "Progresion_Musica"
    ]
@@ -6468,6 +6559,7 @@
     "Schalock_2021_Discapacidad_Intelectual"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad"
    ]
   },
@@ -6508,6 +6600,7 @@
     "RTI_MTSS"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad",
     "Progresion_Educacion_Artistica",
     "Progresion_Educacion_Fisica",
@@ -6551,6 +6644,7 @@
     "RTI_MTSS"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "Geometria",
     "MOC_Diversidad"
    ]
@@ -6618,7 +6712,9 @@
     "Discapacidad_Visual",
     "Disgrafia",
     "Dislexia",
+    "ES_Estructura_del_Sistema",
     "ES_LOMLOE_Lengua_Lectoescritura",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Incorporacion_Tardia",
     "MOC_Diversidad",
     "MOC_Metodologias",
@@ -6676,6 +6772,7 @@
     "Santangelo_2016_Caligrafia"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad",
     "Progresion_Educacion_Artistica"
    ]
@@ -6732,6 +6829,7 @@
     "Conciencia_Fonologica",
     "Decodificacion",
     "Disgrafia",
+    "ES_Atencion_a_la_Diversidad",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Ensenanza_Estrategica_Escritura_SRSD",
@@ -6798,6 +6896,7 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
     "MOC_Diversidad"
    ]
@@ -6859,6 +6958,8 @@
     "Diseno_Universal_para_el_Aprendizaje",
     "Disgrafia",
     "Dislexia",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Evaluacion_y_Promocion",
     "Evaluacion_Formativa",
     "Gestion_de_la_Conducta",
     "Incorporacion_Tardia",
@@ -6918,6 +7019,7 @@
     "Autorregulacion_Emocional",
     "Composicion_Escrita",
     "Deberes_y_Tareas_Inacabadas",
+    "ES_Atencion_a_la_Diversidad",
     "Ejemplos_Resueltos",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "Etapa_6_8_anos",
@@ -6990,6 +7092,7 @@
     "Comprension_Lectora",
     "Conciencia_Fonologica",
     "Construccion_de_Oraciones",
+    "ES_Atencion_a_la_Diversidad",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "Etapa_6_8_anos",
     "Expresion_Oral",
@@ -7046,6 +7149,7 @@
     "Aprendizaje_Basado_en_Proyectos",
     "Aprendizaje_Cooperativo",
     "Autorregulacion_Emocional",
+    "ES_Atencion_a_la_Diversidad",
     "Etapa_6_8_anos",
     "Expresion_Oral",
     "Gestion_de_la_Conducta",
@@ -7108,6 +7212,8 @@
    ],
    "enlazada_desde": [
     "Deberes_y_Tareas_Inacabadas",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Proteccion_Infancia_y_Datos",
     "MOC_Diversidad",
     "Progresion_Socioemocional"
    ]
@@ -7153,6 +7259,7 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_para_el_Dominio",
+    "ES_Evaluacion_y_Promocion",
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
     "MOC_Por_Curso",
@@ -7208,6 +7315,8 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "ES_Evaluacion_y_Promocion",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "MOC_Evaluacion"
    ]
   },
@@ -7300,6 +7409,8 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
+    "ES_Evaluacion_y_Promocion",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
     "MOC_Por_Curso"
@@ -7343,6 +7454,7 @@
     "Progresion_Ciudadania_y_Valores"
    ],
    "enlazada_desde": [
+    "ES_Organizacion_del_Centro",
     "Freinet",
     "MOC_Gestion_Aula",
     "Pedagogia_Freinet",
@@ -7390,6 +7502,7 @@
    ],
    "enlazada_desde": [
     "Convivencia_y_Acoso",
+    "ES_Organizacion_del_Centro",
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
     "MOC_Por_Curso",
@@ -7439,6 +7552,8 @@
    ],
    "enlazada_desde": [
     "Ciudadania_Digital_y_Seguridad",
+    "ES_Documentos_de_Centro",
+    "ES_Proteccion_Infancia_y_Datos",
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
     "Progresion_Ciudadania_y_Valores",
@@ -7679,6 +7794,8 @@
    "enlazada_desde": [
     "Ciudadania_Digital_y_Seguridad",
     "Deberes_y_Tareas_Inacabadas",
+    "ES_Evaluacion_y_Promocion",
+    "ES_Organizacion_del_Centro",
     "MOC_Gestion_Aula"
    ]
   },
@@ -7869,6 +7986,7 @@
     "Willingham"
    ],
    "enlazada_desde": [
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "MOC_Conceptos",
     "Progresion_Ciencias_Sociales",
     "Rutinas_de_Pensamiento",
@@ -7959,6 +8077,7 @@
    ],
    "enlazada_desde": [
     "Conocimiento_Previo",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Indagacion_Guiada",
     "MOC_Conceptos",
     "Progresion_Ciencias_Naturales",
@@ -8121,6 +8240,319 @@
     "Vygotsky"
    ]
   },
+  "ES_Acceso_a_la_Profesion": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Acceso_a_la_Profesion.md",
+   "titulo": "España: acceso a la profesión, oposiciones y movilidad (también al extranjero)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Oposiciones de maestro",
+    "Cuerpo de maestros",
+    "Interinidades",
+    "Especialidades",
+    "Profesores visitantes",
+    "Trabajar en el extranjero"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [],
+    "fuentes": [
+     "ES_RD_276_2007"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Grado en Educación Primaria (4 años), con posibilidad de mención (inglés, educación física, música, pedagogía terapéutica, audición y lenguaje, etc.). - Especialidades del cuerpo de maestros: Educación Infantil, Educación Primaria, Lengua Extranjera (Inglés, Francés, Alemán), Educación Física, Mús…",
+   "secciones": [
+    "Formación inicial",
+    "Enseñanza pública: concurso-oposición ([[ES_RD_276_2007]])",
+    "Otras vías",
+    "Trabajar en el extranjero desde España",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "ES_RD_276_2007",
+    "Glosario_entre_sistemas",
+    "MOC_Sistema_Educativo_Espanol",
+    "US_CCSS_Math",
+    "US_WIDA_ELD"
+   ],
+   "enlazada_desde": [
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Atencion_a_la_Diversidad": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Atencion_a_la_Diversidad.md",
+   "titulo": "España: atención a la diversidad (ACNEAE, NEE y medidas)",
+   "tipo": "curriculo",
+   "aliases": [
+    "ACNEAE",
+    "NEE",
+    "Alumnado con necesidad específica de apoyo educativo",
+    "Adaptación curricular",
+    "Evaluación psicopedagógica",
+    "Dictamen de escolarización",
+    "PT",
+    "AL"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [
+     "Diseno_Universal_para_el_Aprendizaje",
+     "RTI_MTSS"
+    ],
+    "fuentes": [
+     "ES_LOE_LOMLOE",
+     "ES_RD_157_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Categorías recogidas en la LOE tras la LOMLOE: | Categoría | Notas del núcleo universal | |---|---| | Necesidades educativas especiales (NEE): discapacidad o trastornos graves de conducta, de la comunicación y del lenguaje | Discapacidad_Intelectual · Discapacidad_Auditiva · Discapacidad_Visual · Di…",
+   "secciones": [
+    "Alumnado con necesidad específica de apoyo educativo (ACNEAE)",
+    "Proceso habitual",
+    "Medidas (de menor a mayor intensidad)",
+    "Equivalencias internacionales",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "Discalculia",
+    "Discapacidad_Auditiva",
+    "Discapacidad_Intelectual",
+    "Discapacidad_Motora",
+    "Discapacidad_Visual",
+    "Disgrafia",
+    "Dislexia",
+    "Etapa_6_8_anos",
+    "Glosario_entre_sistemas",
+    "Incorporacion_Tardia",
+    "MOC_Sistema_Educativo_Espanol",
+    "RTI_MTSS",
+    "TDAH",
+    "TDL",
+    "TEA",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "ES_Documentos_de_Centro",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Documentos_de_Centro": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Documentos_de_Centro.md",
+   "titulo": "España: documentos de centro y de planificación",
+   "tipo": "curriculo",
+   "aliases": [
+    "Documentos de centro",
+    "PEC",
+    "PGA",
+    "NOF",
+    "ROF",
+    "Plan de convivencia",
+    "Plan de atención a la diversidad",
+    "Plan de acción tutorial",
+    "Memoria",
+    "Plan lector",
+    "Plan digital"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [],
+    "fuentes": [
+     "ES_LOE_LOMLOE"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Programación didáctica de área y ciclo o curso, y programación de aula con sus situaciones de aprendizaje (ES_Programacion_y_Situaciones_de_Aprendizaje). - Registros de evaluación, actas de las sesiones de evaluación, informes a las familias. - Plan de refuerzo y adaptaciones del alumnado (ES_Aten…",
+   "secciones": [
+    "Documentos institucionales (de todo el centro)",
+    "Documentos del docente",
+    "Consejo práctico",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Convivencia_y_Acoso",
+    "ES_Atencion_a_la_Diversidad",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "MOC_Sistema_Educativo_Espanol",
+    "Progresion_Competencia_Digital"
+   ],
+   "enlazada_desde": [
+    "ES_Estructura_del_Sistema",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Estructura_del_Sistema": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Estructura_del_Sistema.md",
+   "titulo": "España: estructura del sistema educativo y reparto de competencias",
+   "tipo": "curriculo",
+   "aliases": [
+    "Sistema educativo español",
+    "Estructura del sistema educativo",
+    "Spanish education system"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [
+     "Glosario_entre_sistemas"
+    ],
+    "fuentes": [
+     "ES_LOE_LOMLOE",
+     "ES_RD_157_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Estado: enseñanzas mínimas, títulos, requisitos básicos. Las enseñanzas mínimas ocupan un porcentaje del horario y la comunidad autónoma completa el resto (con más margen en las que tienen lengua cooficial). - Comunidades autónomas: currículo completo, organización de los centros, profesorado, cal…",
+   "secciones": [
+    "Marco legal básico",
+    "Reparto de competencias",
+    "Etapas",
+    "Primaria en la LOMLOE: datos clave",
+    "Tipos de centros",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Diseno_Universal_para_el_Aprendizaje",
+    "ES_Documentos_de_Centro",
+    "ES_Evaluacion_y_Promocion",
+    "ES_LOE_LOMLOE",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_RD_157_2022",
+    "Glosario_entre_sistemas",
+    "MOC_Sistema_Educativo_Espanol"
+   ],
+   "enlazada_desde": [
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Evaluacion_y_Promocion": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Evaluacion_y_Promocion.md",
+   "titulo": "España: evaluación, promoción y documentos oficiales de evaluación",
+   "tipo": "curriculo",
+   "aliases": [
+    "Evaluación en Primaria LOMLOE",
+    "Promoción",
+    "Repetir curso",
+    "Calificaciones",
+    "Informe final de etapa",
+    "Evaluación de diagnóstico"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [
+     "Evaluacion_Formativa"
+    ],
+    "fuentes": [
+     "ES_RD_157_2022",
+     "ES_LOE_LOMLOE"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Continua, global y formativa, con los criterios de evaluación como referente (Evaluacion_Formativa). - Se evalúan los aprendizajes del alumnado y los procesos de enseñanza y la propia práctica docente. - Uso de instrumentos variados y adaptados a la diversidad (Instrumentos_de_Evaluacion, Rubricas…",
+   "secciones": [
+    "Características de la evaluación",
+    "Calificaciones",
+    "Promoción",
+    "Informes y documentos",
+    "Evaluaciones externas",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "EEF_Toolkit",
+    "Evaluacion_Formativa",
+    "Instrumentos_de_Evaluacion",
+    "MOC_Sistema_Educativo_Espanol",
+    "RTI_MTSS",
+    "Relacion_con_las_Familias",
+    "Rubricas"
+   ],
+   "enlazada_desde": [
+    "ES_Estructura_del_Sistema",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Funciones_Derechos_y_Deberes_del_Docente": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Funciones_Derechos_y_Deberes_del_Docente.md",
+   "titulo": "España: funciones, derechos, deberes y responsabilidad del maestro",
+   "tipo": "curriculo",
+   "aliases": [
+    "Funciones del profesorado",
+    "Derechos y deberes del docente",
+    "Autoridad pública",
+    "Deber de custodia",
+    "Responsabilidad civil",
+    "Horario docente"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [],
+    "fuentes": [
+     "ES_LOE_LOMLOE"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "1. Programar y enseñar las áreas encomendadas. 2. Evaluar el proceso de aprendizaje del alumnado y los procesos de enseñanza. 3. Tutoría, dirección y orientación del aprendizaje, en colaboración con las familias. 4. Orientación educativa, académica y profesional, con los servicios especializados. 5.…",
+   "secciones": [
+    "Funciones del profesorado (LOE, art. 91, resumen)",
+    "Condición de autoridad pública",
+    "Horario (orientativo; lo fija cada comunidad)",
+    "Responsabilidad y deber de vigilancia",
+    "Derechos",
+    "Deberes clave en la práctica",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "ES_Proteccion_Infancia_y_Datos",
+    "MOC_Sistema_Educativo_Espanol"
+   ],
+   "enlazada_desde": [
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
   "ES_LOMLOE_Conocimiento_del_Medio": {
    "ruta": "10_Curriculos/ES_LOMLOE/ES_LOMLOE_Conocimiento_del_Medio.md",
    "titulo": "España (LOMLOE): Conocimiento del Medio Natural, Social y Cultural",
@@ -8161,7 +8593,9 @@
    ],
    "enlazada_desde": [
     "AICLE_CLIL",
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Curriculos",
+    "MOC_Sistema_Educativo_Espanol",
     "Progresion_Ciencias_Naturales",
     "Progresion_Ciencias_Sociales"
    ]
@@ -8205,7 +8639,9 @@
     "Glosario_entre_sistemas"
    ],
    "enlazada_desde": [
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Curriculos",
+    "MOC_Sistema_Educativo_Espanol",
     "Progresion_Lectoescritura"
    ]
   },
@@ -8249,8 +8685,218 @@
     "Valor_Posicional"
    ],
    "enlazada_desde": [
+    "ES_Marco_Curricular_LOMLOE",
     "MOC_Curriculos",
+    "MOC_Sistema_Educativo_Espanol",
     "Progresion_Matematicas"
+   ]
+  },
+  "ES_Marco_Curricular_LOMLOE": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Marco_Curricular_LOMLOE.md",
+   "titulo": "España: marco curricular de Primaria (LOMLOE)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Currículo LOMLOE",
+    "Competencias clave",
+    "Perfil de salida",
+    "Situaciones de aprendizaje",
+    "Saberes básicos",
+    "Áreas de Primaria"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [
+     "Progresion_Lectoescritura",
+     "Progresion_Matematicas"
+    ],
+    "fuentes": [
+     "ES_RD_157_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Conocimiento del Medio Natural, Social y Cultural → ES_LOMLOE_Conocimiento_del_Medio - Educación Artística (Educación Plástica y Visual; Música y Danza) → Progresion_Musica · Progresion_Educacion_Artistica - Educación Física → Progresion_Educacion_Fisica - Lengua Castellana y Literatura (y, en su …",
+   "secciones": [
+    "Elementos del currículo",
+    "Las 8 competencias clave",
+    "Áreas de Primaria",
+    "Elementos transversales",
+    "Equivalencia con el núcleo universal",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "ES_LOMLOE_Conocimiento_del_Medio",
+    "ES_LOMLOE_Lengua_Lectoescritura",
+    "ES_LOMLOE_Matematicas",
+    "ES_Programacion_y_Situaciones_de_Aprendizaje",
+    "MOC_Areas",
+    "MOC_Por_Curso",
+    "MOC_Sistema_Educativo_Espanol",
+    "Progresion_Ciudadania_y_Valores",
+    "Progresion_Educacion_Artistica",
+    "Progresion_Educacion_Fisica",
+    "Progresion_Lengua_Extranjera",
+    "Progresion_Musica"
+   ],
+   "enlazada_desde": [
+    "ES_Estructura_del_Sistema",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Organizacion_del_Centro": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Organizacion_del_Centro.md",
+   "titulo": "España: organización y órganos del centro",
+   "tipo": "curriculo",
+   "aliases": [
+    "Órganos de gobierno",
+    "Consejo escolar",
+    "Claustro",
+    "Equipo directivo",
+    "Equipo docente",
+    "Tutoría",
+    "CCP"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [],
+    "fuentes": [
+     "ES_LOE_LOMLOE"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Equipo directivo: director o directora, jefatura de estudios y secretaría. - Consejo escolar: órgano de participación de la comunidad educativa (profesorado, familias, personal no docente, ayuntamiento y, según el centro, alumnado). - Claustro de profesores: todo el profesorado; competencias pedag…",
+   "secciones": [
+    "Órganos de gobierno",
+    "Órganos de coordinación docente (los nombres varían según la comunidad)",
+    "Funciones de la tutoría",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Asamblea_de_Aula",
+    "Clima_y_Relacion",
+    "ES_Proteccion_Infancia_y_Datos",
+    "MOC_Sistema_Educativo_Espanol",
+    "Relacion_con_las_Familias"
+   ],
+   "enlazada_desde": [
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Programacion_y_Situaciones_de_Aprendizaje": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Programacion_y_Situaciones_de_Aprendizaje.md",
+   "titulo": "España: programación didáctica y situaciones de aprendizaje",
+   "tipo": "curriculo",
+   "aliases": [
+    "Programación didáctica",
+    "Situación de aprendizaje",
+    "Unidad didáctica",
+    "Programación de aula",
+    "Diseño inverso",
+    "Backward design"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [
+     "Aprendizaje_Basado_en_Proyectos"
+    ],
+    "fuentes": [
+     "ES_RD_157_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "Conjunto de actividades contextualizadas y significativas que plantean un reto o problema y que movilizan los saberes básicos para desarrollar las competencias específicas. El RD 157/2022 da orientaciones para diseñarlas (Anexo III).",
+   "secciones": [
+    "Qué es una situación de aprendizaje",
+    "Estructura habitual de una situación de aprendizaje",
+    "Cómo diseñarla con buena pedagogía (no solo con buen formato)",
+    "Programación didáctica (de área y ciclo o curso)",
+    "Errores frecuentes",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Conocimiento_Previo",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "ES_Acceso_a_la_Profesion",
+    "Ideas_Previas_y_Cambio_Conceptual",
+    "Instruccion_Explicita",
+    "Instrumentos_de_Evaluacion",
+    "MOC_Por_Curso",
+    "MOC_Practica",
+    "MOC_Sistema_Educativo_Espanol",
+    "Practica_Espaciada",
+    "Rubricas"
+   ],
+   "enlazada_desde": [
+    "ES_Acceso_a_la_Profesion",
+    "ES_Documentos_de_Centro",
+    "ES_Marco_Curricular_LOMLOE",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_Proteccion_Infancia_y_Datos": {
+   "ruta": "10_Curriculos/ES_LOMLOE/ES_Proteccion_Infancia_y_Datos.md",
+   "titulo": "España: protección de la infancia y protección de datos en el centro",
+   "tipo": "curriculo",
+   "aliases": [
+    "LOPIVI",
+    "Coordinador de bienestar y protección",
+    "Protocolo de maltrato",
+    "Protección de datos",
+    "LOPDGDD",
+    "Imágenes del alumnado"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "equivale_a": [],
+    "fuentes": [
+     "ES_LOPIVI_2021",
+     "ES_LOPDGDD_2018"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Todos los centros deben tener una persona coordinadora de bienestar y protección del alumnado y protocolos frente a cualquier forma de violencia (acoso, ciberacoso, maltrato, violencia sexual, autolesiones…). - Deber de comunicación: cualquier persona que conozca una situación de violencia sobre u…",
+   "secciones": [
+    "Protección de la infancia (LOPIVI)",
+    "Protección de datos (RGPD y LOPDGDD)",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Convenciones",
+    "Convivencia_y_Acoso",
+    "MOC_Sistema_Educativo_Espanol",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "ES_Funciones_Derechos_y_Deberes_del_Docente",
+    "ES_Organizacion_del_Centro",
+    "MOC_Sistema_Educativo_Espanol"
    ]
   },
   "US_C3_Estudios_Sociales": {
@@ -8331,6 +8977,7 @@
     "Valor_Posicional"
    ],
    "enlazada_desde": [
+    "ES_Acceso_a_la_Profesion",
     "MOC_Curriculos",
     "Progresion_Matematicas"
    ]
@@ -8455,6 +9102,7 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "ES_Acceso_a_la_Profesion",
     "Incorporacion_Tardia",
     "MOC_Curriculos",
     "Progresion_Lengua_Extranjera"
@@ -9159,6 +9807,7 @@
     "Aprendizaje_Cooperativo",
     "Aprendizaje_para_el_Dominio",
     "Deberes_y_Tareas_Inacabadas",
+    "ES_Evaluacion_y_Promocion",
     "Ensenanza_Fonetica_Sistematica",
     "Estrategias_Comprension_Lectora",
     "Expresion_Oral",
@@ -9167,6 +9816,144 @@
     "Retroalimentacion",
     "TDL",
     "Tutoria_entre_Iguales"
+   ]
+  },
+  "ES_LOE_LOMLOE": {
+   "ruta": "11_Fuentes/ES_LOE_LOMLOE.md",
+   "titulo": "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE). BOE.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Jefatura del Estado"
+    ],
+    "anio": "2020",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE). BOE.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Ley marco del sistema educativo español, en su redacción tras la LOMLOE.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "ES_Estructura_del_Sistema",
+    "MOC_Fuentes",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_LOPDGDD_2018": {
+   "ruta": "11_Fuentes/ES_LOPDGDD_2018.md",
+   "titulo": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD). BOE; y Reglamento (UE) 2016/679 (RGPD).",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Jefatura del Estado"
+    ],
+    "anio": "2018",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD). BOE; y Reglamento (UE) 2016/679 (RGPD).",
+    "verificado": "pendiente"
+   },
+   "resumen": "Marco de protección de datos aplicable a los centros educativos.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_LOPIVI_2021": {
+   "ruta": "11_Fuentes/ES_LOPIVI_2021.md",
+   "titulo": "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI). BOE.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Jefatura del Estado"
+    ],
+    "anio": "2021",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI). BOE.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Ley de protección de la infancia frente a cualquier forma de violencia.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_RD_157_2022": {
+   "ruta": "11_Fuentes/ES_RD_157_2022.md",
+   "titulo": "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. BOE núm. 52, de 2 de marzo de 2022.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Ministerio de Educación y Formación Profesional"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. BOE núm. 52, de 2 de marzo de 2022.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Norma estatal que fija la ordenación y las enseñanzas mínimas de Primaria. Cada comunidad autónoma la desarrolla con su propio decreto.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "ES_Estructura_del_Sistema",
+    "MOC_Fuentes",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
+  "ES_RD_276_2007": {
+   "ruta": "11_Fuentes/ES_RD_276_2007.md",
+   "titulo": "Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes. BOE.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Ministerio de Educación y Ciencia"
+    ],
+    "anio": "2007",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes. BOE.",
+    "verificado": "pendiente"
+   },
+   "resumen": "Regula el sistema de ingreso en los cuerpos docentes (oposiciones).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "ES_Acceso_a_la_Profesion",
+    "MOC_Fuentes",
+    "MOC_Sistema_Educativo_Espanol"
    ]
   },
   "Ehri_2005_Fases_Lectura": {

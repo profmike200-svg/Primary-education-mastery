@@ -16,7 +16,7 @@ aliases: [Inicio, Home]
 | ¿Cómo organizo el aula? | [[MOC_Gestion_Aula]] |
 | ¿De dónde viene esta idea? | [[MOC_Autores]] · [[MOC_Conceptos]] |
 | ¿Es cierto? | [[MOC_Mitos]] · [[Escala de evidencia]] |
-| ¿Qué exige la ley de mi país? | [[MOC_Curriculos]] |
+| ¿Qué exige la ley de mi país? | [[MOC_Curriculos]] · 🇪🇸 [[MOC_Sistema_Educativo_Espanol]] |
 | ¿Qué fuente lo respalda? | [[MOC_Fuentes]] |
 | Dame algo concreto para clase | [[MOC_Practica]] |
 
