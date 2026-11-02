@@ -24,6 +24,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
 - [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
+- [x] Embarazo y riesgos para el desarrollo: etapa prenatal, riesgos y cuidados en el embarazo, riesgos 0-12 (estrés tóxico, maltrato, sueño seguro, tóxicos), errores frecuentes de crianza, resiliencia; 12 fuentes nuevas (8 verificadas, 4 parciales)
 - [x] Inglés en profundidad (LOMLOE: 6 competencias, 3 bloques): interacción oral, lectura y escritura, pronunciación, mediación, plurilingüismo e interculturalidad, evaluación, TPR, uso de la lengua materna; situaciones de aprendizaje de 2º y 6º; 6 fuentes nuevas verificadas
 - [x] Bóveda lista para Obsidian como segundo cerebro: grafo por colores, marcadores, mapa visual (canvas), nota diaria, guía de uso ([[Guia_Obsidian]]); enlaces por alias corregidos y validador que lo impide
 - [x] Ampliación a 0-12 años: etapas 0-1, 1-3 y 3-6, líneas de desarrollo 0-12, Educación Infantil, bloque de crianza ([[MOC_Crianza]], [[MOC_Infantil]])

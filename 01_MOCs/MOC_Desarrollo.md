@@ -7,6 +7,7 @@ estado: borrador
 > Las franjas son orientativas: la variabilidad individual es grande y las edades se solapan.
 
 ## Etapas por edad
+- [[Etapa_Prenatal]]: de la concepción al nacimiento
 - [[Etapa_0_1_ano]]: vínculo, sentidos y movimiento
 - [[Etapa_1_3_anos]]: marcha, explosión del lenguaje, autonomía
 - [[Etapa_3_6_anos]]: juego simbólico, preguntas, bases de la lectoescritura y el número
@@ -24,6 +25,9 @@ estado: borrador
 - [[Kohlberg]]: desarrollo moral (revisada)
 - [[Bruner]]: modos de representación
 - [[Bowlby]] · [[Ainsworth]]: apego
+
+## Riesgos y protección
+- [[Riesgos_para_el_Desarrollo_Infantil]] · [[Resiliencia_y_Factores_de_Proteccion]] · [[Embarazo_Riesgos_y_Cuidados]]
 
 ## Conceptos clave
 - [[Apego]] · [[Funciones_Ejecutivas]] · [[Memoria_de_trabajo]] · [[Metacognicion]] · [[Zona_de_Desarrollo_Proximo]]

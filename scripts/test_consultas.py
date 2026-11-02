@@ -109,6 +109,18 @@ CASOS = [
      ["Mediacion_en_L2"], []),
     ("¿Debo hablar solo en inglés en clase o puedo usar el español?",
      ["Uso_de_la_Lengua_Materna_en_Clase_de_Ingles"], []),
+    ("¿Qué debo evitar durante el embarazo para que mi bebé se desarrolle bien?",
+     ["Embarazo_Riesgos_y_Cuidados"], []),
+    ("¿Se puede beber una copa de vino estando embarazada?",
+     ["Embarazo_Riesgos_y_Cuidados"], []),
+    ("¿Qué errores cometemos los padres al educar a nuestros hijos?",
+     ["Errores_Frecuentes_en_la_Crianza"], []),
+    ("¿Qué experiencias en la infancia dañan el desarrollo de un niño?",
+     ["Riesgos_para_el_Desarrollo_Infantil"], []),
+    ("Mi bebé llora mucho y estoy desbordado",
+     ["Riesgos_para_el_Desarrollo_Infantil"], []),
+    ("¿Cómo ayudar a un niño a superar una situación difícil?",
+     ["Resiliencia_y_Factores_de_Proteccion"], []),
 ]
 
 

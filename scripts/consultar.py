@@ -86,6 +86,12 @@ SINONIMOS = {
         "pilares desarrollo integral",
     ("no habla", "habla poco", "primeras palabras"): "lenguaje desarrollo hitos",
     ("dos idiomas", "bilingue", "bilinguismo"): "bilingue crianza",
+    ("embaraz", "gestacion", "prenatal", "feto", "acido folico"): "embarazo riesgos cuidados prenatal",
+    ("alcohol", "fumar", "tabaco", "cannabis", "porros", "drogas"): "embarazo riesgos riesgo",
+    ("errores", "que no hacer", "que evitar", "me equivoco", "hago mal"): "errores frecuentes crianza riesgos",
+    ("trauma", "maltrato", "abandono", "negligencia", "estres toxico", "adversidad"): "riesgos desarrollo resiliencia proteccion",
+    ("sacudir", "zarandear", "llora mucho", "muerte subita", "colecho"): "riesgos desarrollo sueno seguro",
+    ("resiliencia", "proteger", "superar"): "resiliencia factores proteccion",
     ("solo en ingles", "usar el espanol", "lengua materna", "en espanol", "english only", "traducir"):
         "uso lengua materna clase ingles",
     ("no entiende lo que lee", "comprension"): "comprension lectora estrategias",
@@ -212,6 +218,13 @@ def consultar(pregunta, maximo=8):
     orden = sorted(puntos, key=puntos.get, reverse=True)
     mitos = [n for n in orden if indice[n]["tipo"] == "mito"][:3]
     claves = [n for n in orden if indice[n]["tipo"] not in ("mito", "practica")][:maximo]
+    # Preguntas de familias con edad: la etapa evolutiva correspondiente siempre es contexto clave.
+    if det["edad"] is not None and "crianza" in det["areas"]:
+        e = det["edad"]
+        etapa = ("Etapa_0_1_ano" if e < 1 else "Etapa_1_3_anos" if e < 3 else "Etapa_3_6_anos" if e < 6
+                 else "Etapa_6_8_anos" if e < 8 else "Etapa_8_10_anos" if e < 10 else "Etapa_10_12_anos")
+        if etapa in indice and etapa not in claves[:maximo]:
+            claves.insert(0, etapa)
     for nec in det["necesidades"]:
         nota = NOTA_NECESIDAD.get(nec)
         if nota in indice and nota not in claves:

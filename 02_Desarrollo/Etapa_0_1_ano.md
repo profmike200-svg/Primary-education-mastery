@@ -36,4 +36,5 @@ No sonríe a los 2-3 meses, no sostiene la cabeza a los 4, no balbucea ni respon
 
 ## Relacionado
 - MOC padre: [[MOC_Desarrollo]] · [[MOC_Crianza]]
-- Siguiente: [[Etapa_1_3_anos]]
+- Anterior: [[Etapa_Prenatal]] · Siguiente: [[Etapa_1_3_anos]]
+- Riesgos a evitar: [[Riesgos_para_el_Desarrollo_Infantil]] (sueño seguro, no sacudir al bebé)

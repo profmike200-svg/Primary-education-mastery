@@ -13,6 +13,7 @@ aliases: [Crianza, Familias, Parenting, Educar a un hijo]
 ## Por edad
 | Edad | Etapa |
 |---|---|
+| Embarazo | [[Etapa_Prenatal]] |
 | 0-1 | [[Etapa_0_1_ano]] |
 | 1-3 | [[Etapa_1_3_anos]] |
 | 3-6 | [[Etapa_3_6_anos]] |
@@ -31,6 +32,12 @@ aliases: [Crianza, Familias, Parenting, Educar a un hijo]
 
 ## Familia y escuela
 - [[Relacion_con_las_Familias]] · [[Deberes_y_Tareas_Inacabadas]] · [[ES_Educacion_Infantil]]
+
+## ⚠️ Riesgos y errores a evitar
+- [[Embarazo_Riesgos_y_Cuidados]]: qué evitar y qué protege durante el embarazo
+- [[Riesgos_para_el_Desarrollo_Infantil]]: adversidad, estrés tóxico, maltrato, sueño seguro, tóxicos…
+- [[Errores_Frecuentes_en_la_Crianza]]: errores bienintencionados y sus alternativas
+- [[Resiliencia_y_Factores_de_Proteccion]]: lo que protege
 
 ## Si hay dificultades
 - Señales de alerta en cada etapa · [[MOC_Diversidad]] · [[Vulnerabilidad_Socioemocional]]

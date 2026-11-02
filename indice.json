@@ -680,6 +680,7 @@
     "Lenguaje, juego y aprendizaje",
     "Salud y hábitos",
     "Familia y escuela",
+    "⚠️ Riesgos y errores a evitar",
     "Si hay dificultades",
     "Mitos de crianza"
    ],
@@ -692,7 +693,9 @@
     "Deberes_y_Tareas_Inacabadas",
     "Disciplina_Positiva_y_Limites",
     "ES_Educacion_Infantil",
+    "Embarazo_Riesgos_y_Cuidados",
     "Entorno_de_Aprendizaje_en_Casa",
+    "Errores_Frecuentes_en_la_Crianza",
     "Estilos_Parentales",
     "Etapa_0_1_ano",
     "Etapa_10_12_anos",
@@ -700,6 +703,7 @@
     "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
+    "Etapa_Prenatal",
     "Juego_en_la_Infancia",
     "Lectura_Compartida_en_Familia",
     "Linea_Desarrollo_Motor",
@@ -714,6 +718,8 @@
     "Pilares_del_Desarrollo_Integral",
     "Rabietas_y_Regulacion_Emocional_Temprana",
     "Relacion_con_las_Familias",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Sueno_Infantil",
     "Vulnerabilidad_Socioemocional"
    ],
@@ -725,11 +731,14 @@
     "Bowlby",
     "Crianza_Bilingue",
     "Disciplina_Positiva_y_Limites",
+    "Embarazo_Riesgos_y_Cuidados",
     "Entorno_de_Aprendizaje_en_Casa",
+    "Errores_Frecuentes_en_la_Crianza",
     "Estilos_Parentales",
     "Etapa_0_1_ano",
     "Etapa_1_3_anos",
     "Etapa_3_6_anos",
+    "Etapa_Prenatal",
     "Hoja_de_ruta",
     "Juego_en_la_Infancia",
     "Lectura_Compartida_en_Familia",
@@ -737,6 +746,8 @@
     "Pilares_del_Desarrollo_Integral",
     "README",
     "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Sueno_Infantil"
    ]
   },
@@ -781,11 +792,12 @@
    "metadatos": {
     "estado": "borrador"
    },
-   "resumen": "- Etapa_0_1_ano: vínculo, sentidos y movimiento - Etapa_1_3_anos: marcha, explosión del lenguaje, autonomía - Etapa_3_6_anos: juego simbólico, preguntas, bases de la lectoescritura y el número - Etapa_6_8_anos: aprender las herramientas (leer, escribir, contar) - Etapa_8_10_anos: consolidar y automa…",
+   "resumen": "- Etapa_Prenatal: de la concepción al nacimiento - Etapa_0_1_ano: vínculo, sentidos y movimiento - Etapa_1_3_anos: marcha, explosión del lenguaje, autonomía - Etapa_3_6_anos: juego simbólico, preguntas, bases de la lectoescritura y el número - Etapa_6_8_anos: aprender las herramientas (leer, escribi…",
    "secciones": [
     "Etapas por edad",
     "Líneas de desarrollo (0-12)",
     "Teorías del desarrollo",
+    "Riesgos y protección",
     "Conceptos clave"
    ],
    "enlaces": [
@@ -794,6 +806,7 @@
     "Apego",
     "Bowlby",
     "Bruner",
+    "Embarazo_Riesgos_y_Cuidados",
     "Erikson",
     "Etapa_0_1_ano",
     "Etapa_10_12_anos",
@@ -801,6 +814,7 @@
     "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
+    "Etapa_Prenatal",
     "Funciones_Ejecutivas",
     "Kohlberg",
     "Linea_Desarrollo_Cognitivo",
@@ -810,6 +824,8 @@
     "Memoria_de_trabajo",
     "Metacognicion",
     "Piaget",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Vygotsky",
     "Zona_de_Desarrollo_Proximo"
    ],
@@ -821,6 +837,7 @@
     "Etapa_3_6_anos",
     "Etapa_6_8_anos",
     "Etapa_8_10_anos",
+    "Etapa_Prenatal",
     "Linea_Desarrollo_Cognitivo",
     "Linea_Desarrollo_Lenguaje",
     "Linea_Desarrollo_Motor",
@@ -934,6 +951,7 @@
     "Artículos",
     "Libros",
     "Desarrollo temprano y crianza",
+    "Embarazo, riesgos y protección",
     "Normativa española",
     "Normativa de Castilla-La Mancha y oposiciones",
     "Organismos e informes"
@@ -941,6 +959,8 @@
    "enlaces": [
     "00_INICIO",
     "AAP_2016_Pantallas",
+    "AAP_2022_Sueno_Seguro",
+    "ACOG_Cannabis_Embarazo",
     "Anderson_2001_Taxonomia_Bloom",
     "Asher_1969_TPR",
     "Baker_2014_IES_English_Learners",
@@ -952,6 +972,9 @@
     "Bruer_1999_Primeros_Tres_Anos",
     "Byers_Heinlein_2013_Bilinguismo",
     "CAST_2018_DUA",
+    "CDC_Alcohol_Embarazo",
+    "CDC_Infecciones_Embarazo",
+    "CDC_Traumatismo_Craneal_Abusivo",
     "CLM_Convivencia_y_Autoridad",
     "CLM_Convocatoria_Maestros_2026",
     "CLM_Decreto_81_2022",
@@ -988,6 +1011,7 @@
     "ES_RD_276_2007",
     "ES_RD_95_2022",
     "Ehri_2005_Fases_Lectura",
+    "Felitti_1998_ACE",
     "Fuchs_2021_Intervencion_Matematicas_IES",
     "Furtak_2012_Indagacion_Ciencias",
     "Gershoff_2016_Castigo_Fisico",
@@ -1013,6 +1037,7 @@
     "Lillard_2013_Juego_Simbolico",
     "Lillard_2017_Montessori",
     "Lyster_2010_Feedback_Oral_L2",
+    "Masten_2001_Resiliencia",
     "Melby_Lervag_2013_Entrenamiento_MT",
     "Moffitt_2011_Autocontrol",
     "Mol_2008_Lectura_Dialogica",
@@ -1020,11 +1045,13 @@
     "Munoz_2006_Edad_L2",
     "NRP_2000_Lectura",
     "Nation_2013_Vocabulario_L2",
+    "Nelson_2007_Bucarest",
     "Nielsen_2013_Hemisferios",
     "Norris_2000_Instruccion_L2",
     "OCDE_2015_Ordenadores",
     "OMS_2019_Menores_5",
     "OMS_2020_Actividad_Fisica",
+    "OMS_Plomo",
     "Panadero_2013_Rubricas",
     "Paruthi_2016_Sueno",
     "Pashler_2008_Estilos_Aprendizaje",
@@ -1046,6 +1073,7 @@
     "Scherer_2019_Programacion",
     "Seixas_2013_Pensamiento_Historico",
     "Seymour_2003_Ortografias_Europeas",
+    "Shonkoff_2012_Estres_Toxico",
     "Siegler_2008_Juegos_Numericos",
     "Siegler_2010_Fracciones_IES",
     "Sisk_2018_Mentalidad_Crecimiento",
@@ -1053,6 +1081,8 @@
     "Sweller_1988_Carga_Cognitiva",
     "Sylva_2004_EPPE",
     "Taylor_2017_ASE_Seguimiento",
+    "USPSTF_2019_Depresion_Perinatal",
+    "USPSTF_2023_Acido_Folico",
     "Van_Hiele_1986_Geometria",
     "Vosniadou_1992_Modelos_Mentales",
     "Vuorikari_2022_DigComp",
@@ -1553,16 +1583,19 @@
    "enlaces": [
     "Apego",
     "Etapa_1_3_anos",
+    "Etapa_Prenatal",
     "Linea_Desarrollo_Lenguaje",
     "MOC_Crianza",
     "MOC_Desarrollo",
     "OMS_2019_Menores_5",
     "Paruthi_2016_Sueno",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Zubler_2022_Hitos_CDC"
    ],
    "enlazada_desde": [
     "Apego",
     "Etapa_1_3_anos",
+    "Etapa_Prenatal",
     "Linea_Desarrollo_Cognitivo",
     "Linea_Desarrollo_Lenguaje",
     "Linea_Desarrollo_Motor",
@@ -1933,6 +1966,54 @@
     "Valor_Posicional"
    ]
   },
+  "Etapa_Prenatal": {
+   "ruta": "02_Desarrollo/Etapa_Prenatal.md",
+   "titulo": "Etapa prenatal (de la concepción al nacimiento)",
+   "tipo": "etapa",
+   "aliases": [
+    "Etapa prenatal",
+    "Embarazo",
+    "Desarrollo prenatal",
+    "Gestación",
+    "Prenatal development"
+   ],
+   "metadatos": {
+    "edad_min": "0",
+    "edad_max": "0",
+    "dimension": [
+     "cognitiva",
+     "motora",
+     "socioemocional"
+    ],
+    "fuentes": [
+     "USPSTF_2023_Acido_Folico",
+     "CDC_Alcohol_Embarazo"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "El desarrollo humano empieza mucho antes del nacimiento. El embarazo dura unas 40 semanas y se divide en: | Periodo | Semanas (aprox.) | Qué ocurre | Sensibilidad | |---|---|---|---| | Germinal | 1-2 | Fecundación, división celular, implantación | Efecto de \"todo o nada\" ante muchas agresiones | | E…",
+   "secciones": [
+    "Visión general",
+    "Capacidades del feto",
+    "Lo esencial",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CDC_Alcohol_Embarazo",
+    "Embarazo_Riesgos_y_Cuidados",
+    "Etapa_0_1_ano",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "Mito_Efecto_Mozart",
+    "USPSTF_2023_Acido_Folico"
+   ],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "Etapa_0_1_ano",
+    "MOC_Crianza",
+    "MOC_Desarrollo"
+   ]
+  },
   "Linea_Desarrollo_Cognitivo": {
    "ruta": "02_Desarrollo/Linea_Desarrollo_Cognitivo.md",
    "titulo": "Línea de desarrollo: cognitivo (0-12)",
@@ -2089,6 +2170,7 @@
     "MOC_Desarrollo",
     "MOC_Infantil",
     "Pilares_del_Desarrollo_Integral",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Sueno_Infantil"
    ]
   },
@@ -2250,6 +2332,7 @@
     "Mindfulness_Escolar",
     "Progresion_Socioemocional",
     "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Resiliencia_y_Factores_de_Proteccion",
     "Rutina_Semaforo_de_Emociones",
     "Vulnerabilidad_Socioemocional"
    ]
@@ -2303,7 +2386,8 @@
     "MOC_Areas",
     "MOC_Por_Curso",
     "Pantallas_en_la_Infancia",
-    "Progresion_Competencia_Digital"
+    "Progresion_Competencia_Digital",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "Competencia_Motriz": {
@@ -6602,6 +6686,7 @@
     "MOC_Metodologias",
     "Mindfulness_Escolar",
     "Progresion_Socioemocional",
+    "Resiliencia_y_Factores_de_Proteccion",
     "Rutina_Semaforo_de_Emociones",
     "Vulnerabilidad_Socioemocional"
    ]
@@ -8763,7 +8848,9 @@
     "ES_Proteccion_Infancia_y_Datos",
     "MOC_Crianza",
     "MOC_Diversidad",
-    "Progresion_Socioemocional"
+    "Progresion_Socioemocional",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "Evaluacion_Formativa": {
@@ -8916,6 +9003,7 @@
     "Autonomia_y_Responsabilidades",
     "Clima_y_Relacion",
     "Dweck",
+    "Errores_Frecuentes_en_la_Crianza",
     "Evaluacion_Formativa",
     "Hattie",
     "Instrumentos_de_Evaluacion",
@@ -9069,6 +9157,7 @@
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
     "MOC_Por_Curso",
+    "Resiliencia_y_Factores_de_Proteccion",
     "Vulnerabilidad_Socioemocional"
    ]
   },
@@ -9121,7 +9210,8 @@
     "Gestion_de_la_Conducta",
     "MOC_Gestion_Aula",
     "Progresion_Ciudadania_y_Valores",
-    "Progresion_Socioemocional"
+    "Progresion_Socioemocional",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "Deberes_y_Tareas_Inacabadas": {
@@ -9174,6 +9264,7 @@
    ],
    "enlazada_desde": [
     "Entorno_de_Aprendizaje_en_Casa",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Gestion_Aula",
     "Plan_de_Lectura",
@@ -9368,6 +9459,7 @@
     "ES_Evaluacion_y_Promocion",
     "ES_Organizacion_del_Centro",
     "Entorno_de_Aprendizaje_en_Casa",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Gestion_Aula"
    ]
@@ -9453,6 +9545,7 @@
    "enlazada_desde": [
     "Ainsworth",
     "Bowlby",
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_0_1_ano",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Conceptos",
@@ -9460,7 +9553,8 @@
     "MOC_Desarrollo",
     "MOC_Infantil",
     "Metodologia_en_Educacion_Infantil",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Aprendizaje_significativo": {
@@ -9538,7 +9632,8 @@
     "Bandura",
     "Deberes_y_Tareas_Inacabadas",
     "Linea_Desarrollo_Socioemocional",
-    "MOC_Conceptos"
+    "MOC_Conceptos",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Carga_cognitiva": {
@@ -9677,7 +9772,8 @@
     "Plan_de_Lectura",
     "Progresion_Musica",
     "Progresion_Socioemocional",
-    "Rabietas_y_Regulacion_Emocional_Temprana"
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Ideas_Previas_y_Cambio_Conceptual": {
@@ -10926,7 +11022,8 @@
     "ES_Funciones_Derechos_y_Deberes_del_Docente",
     "ES_Organizacion_del_Centro",
     "MOC_Sistema_Educativo_Espanol",
-    "Mito_Un_Cachete_a_Tiempo"
+    "Mito_Un_Cachete_a_Tiempo",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "US_C3_Estudios_Sociales": {
@@ -11163,9 +11260,70 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Fuentes",
     "Mito_Videos_Educativos_Bebes",
     "Pantallas_en_la_Infancia"
+   ]
+  },
+  "AAP_2022_Sueno_Seguro": {
+   "ruta": "11_Fuentes/AAP_2022_Sueno_Seguro.md",
+   "titulo": "Moon, R. Y., Carlin, R. F., Hand, I., & AAP Task Force on Sudden Infant Death Syndrome. (2022). Sleep-related infant deaths: Updated 2022 recommendations for reducing infant deaths in the sleep environment. Pediatrics, 150(1), e2022057990.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Moon",
+     "Carlin",
+     "Hand; AAP Task Force on SIDS"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "Moon, R. Y., Carlin, R. F., Hand, I., & AAP Task Force on Sudden Infant Death Syndrome. (2022). Sleep-related infant deaths: Updated 2022 recommendations for reducing infant deaths in the sleep environment. Pediatrics, 150(1), e2022057990.",
+    "verificado": "parcial",
+    "identificador": "10.1542/peds.2022-057990",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Recomendaciones de la Academia Americana de Pediatría sobre sueño seguro del lactante.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
+  "ACOG_Cannabis_Embarazo": {
+   "ruta": "11_Fuentes/ACOG_Cannabis_Embarazo.md",
+   "titulo": "American College of Obstetricians and Gynecologists. (2023). Cannabis use during pregnancy and lactation (Clinical Consensus). ACOG.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "American College of Obstetricians and Gynecologists"
+    ],
+    "anio": "2023",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "American College of Obstetricians and Gynecologists. (2023). Cannabis use during pregnancy and lactation (Clinical Consensus). ACOG.",
+    "verificado": "parcial",
+    "identificador": "ACOG 2023",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Posición del ACOG sobre el cannabis en el embarazo y la lactancia.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "MOC_Fuentes"
    ]
   },
   "Anderson_2001_Taxonomia_Bloom": {
@@ -11503,6 +11661,94 @@
    "enlazada_desde": [
     "Diseno_Universal_para_el_Aprendizaje",
     "MOC_Fuentes"
+   ]
+  },
+  "CDC_Alcohol_Embarazo": {
+   "ruta": "11_Fuentes/CDC_Alcohol_Embarazo.md",
+   "titulo": "Centers for Disease Control and Prevention. (2016). Alcohol and pregnancy: No known safe amount. CDC (cdc.gov/fasd). Posición coincidente de la AAP y del ACOG.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "CDC; American Academy of Pediatrics; ACOG"
+    ],
+    "anio": "2016",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "Centers for Disease Control and Prevention. (2016). Alcohol and pregnancy: No known safe amount. CDC (cdc.gov/fasd). Posición coincidente de la AAP y del ACOG.",
+    "verificado": "si",
+    "identificador": "cdc.gov/fasd",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Posición de los CDC y de las principales sociedades médicas de EE. UU. sobre el alcohol en el embarazo.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "Etapa_Prenatal",
+    "MOC_Fuentes"
+   ]
+  },
+  "CDC_Infecciones_Embarazo": {
+   "ruta": "11_Fuentes/CDC_Infecciones_Embarazo.md",
+   "titulo": "Centers for Disease Control and Prevention. (s. f.). Preventing infections in pregnancy. CDC (consultada en versiones archivadas).",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Centers for Disease Control and Prevention"
+    ],
+    "anio": "2012",
+    "tipo_fuente": "informe",
+    "fiabilidad": "media",
+    "referencia_apa": "Centers for Disease Control and Prevention. (s. f.). Preventing infections in pregnancy. CDC (consultada en versiones archivadas).",
+    "verificado": "parcial",
+    "identificador": "cdc.gov (archivo)",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Recomendaciones de los CDC para prevenir infecciones durante el embarazo.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "MOC_Fuentes"
+   ]
+  },
+  "CDC_Traumatismo_Craneal_Abusivo": {
+   "ruta": "11_Fuentes/CDC_Traumatismo_Craneal_Abusivo.md",
+   "titulo": "Centers for Disease Control and Prevention. (2020). Preventing abusive head trauma. CDC; y Barr, R. G. (2012). Preventing abusive head trauma resulting from a failure of normal interaction between infants and their caregivers. PNAS, 109(Suppl. 2), 17294-17301.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Centers for Disease Control and Prevention; Barr"
+    ],
+    "anio": "2020",
+    "tipo_fuente": "informe",
+    "fiabilidad": "media",
+    "referencia_apa": "Centers for Disease Control and Prevention. (2020). Preventing abusive head trauma. CDC; y Barr, R. G. (2012). Preventing abusive head trauma resulting from a failure of normal interaction between infants and their caregivers. PNAS, 109(Suppl. 2), 17294-17301.",
+    "verificado": "parcial",
+    "identificador": "cdc.gov (archivo); PNAS 2012",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Prevención del traumatismo craneal por maltrato (síndrome del bebé zarandeado).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "CLM_Convivencia_y_Autoridad": {
@@ -12615,6 +12861,38 @@
     "MOC_Fuentes"
    ]
   },
+  "Felitti_1998_ACE": {
+   "ruta": "11_Fuentes/Felitti_1998_ACE.md",
+   "titulo": "Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. American Journal of Preventive Medicine, 14(4), 245-258.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Felitti",
+     "Anda",
+     "Nordenberg",
+     "et al."
+    ],
+    "anio": "1998",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Felitti, V. J., Anda, R. F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. American Journal of Preventive Medicine, 14(4), 245-258.",
+    "verificado": "si",
+    "identificador": "10.1016/S0749-3797(98)00017-8",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Estudio clásico sobre las experiencias adversas en la infancia (ACE) con más de 9.500 adultos.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
   "Fuchs_2021_Intervencion_Matematicas_IES": {
    "ruta": "11_Fuentes/Fuchs_2021_Intervencion_Matematicas_IES.md",
    "titulo": "Fuchs, L. S., Newman-Gonchar, R., Schumacher, R., Dougherty, B., Bucka, N., Karp, K. S., Woodward, J., Clarke, B., Jordan, N. C., Gersten, R., Jayanthi, M., Keating, B., & Morgan, S. (2021). Assisting students struggling with mathematics: Intervention in the elementary grades (WWC 2021006). Institute of Education Sciences, U.S. Department of Education.",
@@ -12717,8 +12995,10 @@
    "enlaces": [],
    "enlazada_desde": [
     "Disciplina_Positiva_y_Limites",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Fuentes",
-    "Mito_Un_Cachete_a_Tiempo"
+    "Mito_Un_Cachete_a_Tiempo",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "Gopnik_2016_Jardinero": {
@@ -13418,6 +13698,35 @@
     "MOC_Fuentes"
    ]
   },
+  "Masten_2001_Resiliencia": {
+   "ruta": "11_Fuentes/Masten_2001_Resiliencia.md",
+   "titulo": "Masten, A. S. (2001). Ordinary magic: Resilience processes in development. American Psychologist, 56(3), 227-238.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Masten"
+    ],
+    "anio": "2001",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Masten, A. S. (2001). Ordinary magic: Resilience processes in development. American Psychologist, 56(3), 227-238.",
+    "verificado": "si",
+    "identificador": "10.1037/0003-066X.56.3.227",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Artículo clave sobre la resiliencia infantil.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Resiliencia_y_Factores_de_Proteccion"
+   ]
+  },
   "Melby_Lervag_2013_Entrenamiento_MT": {
    "ruta": "11_Fuentes/Melby_Lervag_2013_Entrenamiento_MT.md",
    "titulo": "Melby-Lervåg, M., & Hulme, C. (2013). Is working memory training effective? A meta-analytic review. Developmental Psychology, 49(2), 270-291.",
@@ -13479,7 +13788,8 @@
     "Linea_Desarrollo_Socioemocional",
     "MOC_Fuentes",
     "Mito_Test_de_la_Golosina",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Mol_2008_Lectura_Dialogica": {
@@ -13643,6 +13953,40 @@
     "Vocabulario_L2"
    ]
   },
+  "Nelson_2007_Bucarest": {
+   "ruta": "11_Fuentes/Nelson_2007_Bucarest.md",
+   "titulo": "Nelson, C. A., Zeanah, C. H., Fox, N. A., Marshall, P. J., Smyke, A. T., & Guthrie, D. (2007). Cognitive recovery in socially deprived young children: The Bucharest Early Intervention Project. Science, 318(5858), 1937-1940.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Nelson",
+     "Zeanah",
+     "Fox",
+     "Marshall",
+     "Smyke",
+     "Guthrie"
+    ],
+    "anio": "2007",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Nelson, C. A., Zeanah, C. H., Fox, N. A., Marshall, P. J., Smyke, A. T., & Guthrie, D. (2007). Cognitive recovery in socially deprived young children: The Bucharest Early Intervention Project. Science, 318(5858), 1937-1940.",
+    "verificado": "si",
+    "identificador": "PMID 18096809",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Primer ensayo aleatorizado sobre el efecto del acogimiento familiar en niños criados en instituciones (orfanatos de Bucarest).",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
   "Nielsen_2013_Hemisferios": {
    "ruta": "11_Fuentes/Nielsen_2013_Hemisferios.md",
    "titulo": "Nielsen, J. A., Zielinski, B. A., Ferguson, M. A., Lainhart, J. E., & Anderson, J. S. (2013). An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging. PLoS ONE, 8(8), e71275.",
@@ -13802,6 +14146,36 @@
     "Progresion_Educacion_Fisica"
    ]
   },
+  "OMS_Plomo": {
+   "ruta": "11_Fuentes/OMS_Plomo.md",
+   "titulo": "World Health Organization. (2025). No safe level: act now to end lead exposure. WHO.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Organización Mundial de la Salud"
+    ],
+    "anio": "2025",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "World Health Organization. (2025). No safe level: act now to end lead exposure. WHO.",
+    "verificado": "si",
+    "identificador": "who.int 2025",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Posición de la OMS sobre la exposición al plomo.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
   "Panadero_2013_Rubricas": {
    "ruta": "11_Fuentes/Panadero_2013_Rubricas.md",
    "titulo": "Panadero, E., & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. Educational Research Review, 9, 129-144.",
@@ -13860,6 +14234,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_0_1_ano",
     "MOC_Fuentes",
     "Sueno_Infantil"
@@ -14237,6 +14612,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Autonomia_y_Responsabilidades",
+    "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Fuentes",
     "Pilares_del_Desarrollo_Integral"
@@ -14459,6 +14835,38 @@
     "Progresion_Lectoescritura"
    ]
   },
+  "Shonkoff_2012_Estres_Toxico": {
+   "ruta": "11_Fuentes/Shonkoff_2012_Estres_Toxico.md",
+   "titulo": "Shonkoff, J. P., Garner, A. S., et al. (2012). The lifelong effects of early childhood adversity and toxic stress. Pediatrics, 129(1), e232-e246.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Shonkoff",
+     "Garner",
+     "et al. (American Academy of Pediatrics)"
+    ],
+    "anio": "2012",
+    "tipo_fuente": "articulo",
+    "fiabilidad": "alta",
+    "referencia_apa": "Shonkoff, J. P., Garner, A. S., et al. (2012). The lifelong effects of early childhood adversity and toxic stress. Pediatrics, 129(1), e232-e246.",
+    "verificado": "si",
+    "identificador": "10.1542/peds.2011-2663",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Informe técnico de la Academia Americana de Pediatría sobre la adversidad temprana y el estrés tóxico.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "MOC_Fuentes",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
   "Siegler_2008_Juegos_Numericos": {
    "ruta": "11_Fuentes/Siegler_2008_Juegos_Numericos.md",
    "titulo": "Siegler, R. S., & Ramani, G. B. (2008). Playing linear numerical board games promotes low-income children's numerical development. Developmental Science, 11(5), 655-661.",
@@ -14556,6 +14964,7 @@
    "enlaces": [],
    "enlazada_desde": [
     "Dweck",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Fuentes"
    ]
   },
@@ -14686,6 +15095,66 @@
    "enlazada_desde": [
     "MOC_Fuentes",
     "Programas_de_Aprendizaje_Socioemocional"
+   ]
+  },
+  "USPSTF_2019_Depresion_Perinatal": {
+   "ruta": "11_Fuentes/USPSTF_2019_Depresion_Perinatal.md",
+   "titulo": "US Preventive Services Task Force. (2019). Interventions to prevent perinatal depression: Recommendation statement. JAMA, 321(6), 580-587.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "US Preventive Services Task Force"
+    ],
+    "anio": "2019",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "US Preventive Services Task Force. (2019). Interventions to prevent perinatal depression: Recommendation statement. JAMA, 321(6), 580-587.",
+    "verificado": "parcial",
+    "identificador": "JAMA 321(6):580-587",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Recomendación (grado B) sobre la prevención de la depresión perinatal.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "MOC_Fuentes",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
+  "USPSTF_2023_Acido_Folico": {
+   "ruta": "11_Fuentes/USPSTF_2023_Acido_Folico.md",
+   "titulo": "US Preventive Services Task Force. (2023). Folic acid supplementation to prevent neural tube defects: Recommendation statement. JAMA, 330(5), 454-459.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "US Preventive Services Task Force"
+    ],
+    "anio": "2023",
+    "tipo_fuente": "informe",
+    "fiabilidad": "alta",
+    "referencia_apa": "US Preventive Services Task Force. (2023). Folic acid supplementation to prevent neural tube defects: Recommendation statement. JAMA, 330(5), 454-459.",
+    "verificado": "si",
+    "identificador": "USPSTF 2023",
+    "fecha_verificacion": "2026-11-02"
+   },
+   "resumen": "Recomendación de grado A sobre el ácido fólico para prevenir defectos del tubo neural.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "Etapa_Prenatal",
+    "MOC_Fuentes"
    ]
   },
   "Van_Hiele_1986_Geometria": {
@@ -15779,6 +16248,7 @@
    ],
    "enlazada_desde": [
     "Crianza_Bilingue",
+    "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Lenguaje",
     "MOC_Crianza",
     "MOC_Mitos"
@@ -15854,6 +16324,8 @@
     "Sala_2020_Musica"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
+    "Etapa_Prenatal",
     "MOC_Crianza",
     "MOC_Mitos",
     "Pilares_del_Desarrollo_Integral",
@@ -15966,9 +16438,11 @@
     "Pilares_del_Desarrollo_Integral"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Mitos",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "Mito_Test_de_la_Golosina": {
@@ -16003,6 +16477,7 @@
     "Watts_2018_Malvavisco"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Mitos"
    ]
@@ -16079,6 +16554,7 @@
    ],
    "enlazada_desde": [
     "Disciplina_Positiva_y_Limites",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Mitos"
    ]
@@ -16116,6 +16592,7 @@
     "MOC_Mitos"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "MOC_Mitos",
     "Pilares_del_Desarrollo_Integral"
@@ -16163,6 +16640,7 @@
     "Ryan_2000_Autodeterminacion"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "MOC_Crianza",
     "MOC_Infantil",
@@ -16257,11 +16735,68 @@
     "Sanders_2014_Triple_P"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Estilos_Parentales",
     "MOC_Crianza",
     "Mito_Un_Cachete_a_Tiempo",
     "Pilares_del_Desarrollo_Integral",
-    "Rabietas_y_Regulacion_Emocional_Temprana"
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
+  "Embarazo_Riesgos_y_Cuidados": {
+   "ruta": "14_Crianza/Embarazo_Riesgos_y_Cuidados.md",
+   "titulo": "Embarazo: riesgos que evitar y cuidados que protegen",
+   "tipo": "crianza",
+   "aliases": [
+    "Riesgos en el embarazo",
+    "Cuidados en el embarazo",
+    "Qué evitar en el embarazo",
+    "Teratógenos",
+    "Pregnancy risks"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "0",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "CDC_Alcohol_Embarazo",
+     "USPSTF_2023_Acido_Folico",
+     "ACOG_Cannabis_Embarazo",
+     "CDC_Infecciones_Embarazo",
+     "OMS_Plomo",
+     "USPSTF_2019_Depresion_Perinatal"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Ácido fólico 400-800 µg diarios desde al menos 1 mes antes (USPSTF_2023_Acido_Folico). Muchas personas descubren el embarazo cuando el tubo neural ya se ha cerrado: por eso hay que empezar antes. - Revisar con el médico los medicamentos habituales y las enfermedades crónicas (diabetes, epilepsia, …",
+   "secciones": [
+    "Antes del embarazo (si se planifica)",
+    "Qué evitar durante el embarazo",
+    "Lo que protege",
+    "Matiz importante",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "ACOG_Cannabis_Embarazo",
+    "CDC_Alcohol_Embarazo",
+    "CDC_Infecciones_Embarazo",
+    "Etapa_Prenatal",
+    "MOC_Crianza",
+    "OMS_Plomo",
+    "Riesgos_para_el_Desarrollo_Infantil",
+    "USPSTF_2019_Depresion_Perinatal",
+    "USPSTF_2023_Acido_Folico"
+   ],
+   "enlazada_desde": [
+    "Etapa_Prenatal",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "Pilares_del_Desarrollo_Integral"
    ]
   },
   "Entorno_de_Aprendizaje_en_Casa": {
@@ -16304,6 +16839,77 @@
     "Relacion_con_las_Familias",
     "Siegler_2008_Juegos_Numericos",
     "Sylva_2004_EPPE"
+   ],
+   "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
+    "MOC_Crianza",
+    "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Errores_Frecuentes_en_la_Crianza": {
+   "ruta": "14_Crianza/Errores_Frecuentes_en_la_Crianza.md",
+   "titulo": "Errores frecuentes (y bienintencionados) en la crianza",
+   "tipo": "crianza",
+   "aliases": [
+    "Errores de crianza",
+    "Errores a evitar",
+    "Parenting mistakes",
+    "Qué no hacer"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Gershoff_2016_Castigo_Fisico",
+     "Ryan_2000_Autodeterminacion",
+     "Sisk_2018_Mentalidad_Crecimiento",
+     "AAP_2016_Pantallas",
+     "Paruthi_2016_Sueno"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "Mito_Un_Cachete_a_Tiempo · Mito_Primeros_Tres_Anos · Mito_Videos_Educativos_Bebes · Mito_Bilinguismo_Confunde · Mito_Efecto_Mozart · Mito_Test_de_la_Golosina",
+   "secciones": [
+    "Vínculo y emociones",
+    "Disciplina",
+    "Autonomía y motivación",
+    "Aprendizaje y salud",
+    "Creencias que conviene revisar",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AAP_2016_Pantallas",
+    "Apego",
+    "Autonomia_y_Responsabilidades",
+    "Deberes_y_Tareas_Inacabadas",
+    "Disciplina_Positiva_y_Limites",
+    "Entorno_de_Aprendizaje_en_Casa",
+    "Estilos_Parentales",
+    "Gershoff_2016_Castigo_Fisico",
+    "Juego_en_la_Infancia",
+    "MOC_Crianza",
+    "Mito_Bilinguismo_Confunde",
+    "Mito_Efecto_Mozart",
+    "Mito_Primeros_Tres_Anos",
+    "Mito_Test_de_la_Golosina",
+    "Mito_Un_Cachete_a_Tiempo",
+    "Mito_Videos_Educativos_Bebes",
+    "Pantallas_en_la_Infancia",
+    "Paruthi_2016_Sueno",
+    "Pilares_del_Desarrollo_Integral",
+    "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Relacion_con_las_Familias",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Retroalimentacion",
+    "Riesgos_para_el_Desarrollo_Infantil",
+    "Ryan_2000_Autodeterminacion",
+    "Sisk_2018_Mentalidad_Crecimiento",
+    "Sueno_Infantil"
    ],
    "enlazada_desde": [
     "MOC_Crianza",
@@ -16349,9 +16955,11 @@
    "enlazada_desde": [
     "Autonomia_y_Responsabilidades",
     "Disciplina_Positiva_y_Limites",
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "MOC_Crianza",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Juego_en_la_Infancia": {
@@ -16395,6 +17003,7 @@
     "Rutina_Juego_Tablero_Numerico"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "Etapa_3_6_anos",
     "MOC_Crianza",
@@ -16500,9 +17109,11 @@
     "Progresion_Competencia_Digital"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "MOC_Crianza",
     "Pilares_del_Desarrollo_Integral",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Sueno_Infantil"
    ]
   },
@@ -16539,6 +17150,7 @@
     "Una idea previa: humildad",
     "Los pilares (con su evidencia)",
     "Por qué los primeros años importan (sin dramatismo)",
+    "Qué evitar",
     "Qué no hace falta",
     "Por edad",
     "Relacionado"
@@ -16547,7 +17159,9 @@
     "Apego",
     "Autonomia_y_Responsabilidades",
     "Disciplina_Positiva_y_Limites",
+    "Embarazo_Riesgos_y_Cuidados",
     "Entorno_de_Aprendizaje_en_Casa",
+    "Errores_Frecuentes_en_la_Crianza",
     "Estilos_Parentales",
     "Etapa_0_1_ano",
     "Etapa_10_12_anos",
@@ -16572,6 +17186,8 @@
     "Plomin_2018_Genetica",
     "Progresion_Ciudadania_y_Valores",
     "Rabietas_y_Regulacion_Emocional_Temprana",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Riesgos_para_el_Desarrollo_Infantil",
     "Ryan_2000_Autodeterminacion",
     "Sanders_2014_Triple_P",
     "Sueno_Infantil",
@@ -16580,9 +17196,11 @@
    "enlazada_desde": [
     "Apego",
     "Autonomia_y_Responsabilidades",
+    "Errores_Frecuentes_en_la_Crianza",
     "MOC_Crianza",
     "Mito_Primeros_Tres_Anos",
-    "Plan_de_Lectura"
+    "Plan_de_Lectura",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Rabietas_y_Regulacion_Emocional_Temprana": {
@@ -16626,12 +17244,139 @@
    ],
    "enlazada_desde": [
     "Disciplina_Positiva_y_Limites",
+    "Errores_Frecuentes_en_la_Crianza",
     "Etapa_1_3_anos",
     "Linea_Desarrollo_Socioemocional",
     "MOC_Crianza",
     "MOC_Infantil",
     "Mito_Test_de_la_Golosina",
     "Pilares_del_Desarrollo_Integral"
+   ]
+  },
+  "Resiliencia_y_Factores_de_Proteccion": {
+   "ruta": "14_Crianza/Resiliencia_y_Factores_de_Proteccion.md",
+   "titulo": "Resiliencia y factores de protección",
+   "tipo": "crianza",
+   "aliases": [
+    "Resiliencia",
+    "Factores de protección",
+    "Resilience",
+    "Protective factors"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Masten_2001_Resiliencia",
+     "Shonkoff_2012_Estres_Toxico",
+     "Moffitt_2011_Autocontrol"
+    ],
+    "estado": "verificado_ia"
+   },
+   "resumen": "La capacidad de desarrollarse bien a pesar de la adversidad. No es un \"superpoder\" de unos pocos niños: es el resultado de procesos ordinarios que se pueden proteger y fortalecer (Masten_2001_Resiliencia).",
+   "secciones": [
+    "Qué es",
+    "Los factores de protección con más evidencia",
+    "Qué pueden hacer padres y docentes",
+    "Ver también",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Apego",
+    "Autoeficacia",
+    "Autorregulacion_Emocional",
+    "Clima_y_Relacion",
+    "Estilos_Parentales",
+    "Funciones_Ejecutivas",
+    "MOC_Crianza",
+    "Masten_2001_Resiliencia",
+    "Moffitt_2011_Autocontrol",
+    "Pilares_del_Desarrollo_Integral",
+    "Programas_de_Aprendizaje_Socioemocional",
+    "Riesgos_para_el_Desarrollo_Infantil",
+    "Shonkoff_2012_Estres_Toxico",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "Pilares_del_Desarrollo_Integral",
+    "Riesgos_para_el_Desarrollo_Infantil"
+   ]
+  },
+  "Riesgos_para_el_Desarrollo_Infantil": {
+   "ruta": "14_Crianza/Riesgos_para_el_Desarrollo_Infantil.md",
+   "titulo": "Riesgos para el desarrollo infantil (0-12) y cómo prevenirlos",
+   "tipo": "crianza",
+   "aliases": [
+    "Factores de riesgo",
+    "Adversidad temprana",
+    "Estrés tóxico",
+    "Experiencias adversas en la infancia",
+    "ACE",
+    "Qué daña el desarrollo"
+   ],
+   "metadatos": {
+    "area": [
+     "crianza"
+    ],
+    "edad_min": "0",
+    "edad_max": "12",
+    "nivel_evidencia": "A",
+    "fuentes": [
+     "Felitti_1998_ACE",
+     "Shonkoff_2012_Estres_Toxico",
+     "Nelson_2007_Bucarest",
+     "Gershoff_2016_Castigo_Fisico",
+     "OMS_Plomo",
+     "AAP_2022_Sueno_Seguro",
+     "CDC_Traumatismo_Craneal_Abusivo",
+     "USPSTF_2019_Depresion_Perinatal"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "No todo estrés es malo (Shonkoff_2012_Estres_Toxico): - Positivo: breve y manejable (la primera vacuna, empezar el colegio). Forma parte del crecimiento. - Tolerable: grave (una pérdida, un accidente), pero amortiguado por adultos que apoyan. - Tóxico: intenso o prolongado sin un adulto que proteja.…",
+   "secciones": [
+    "La idea clave: el estrés que no se amortigua",
+    "Principales riesgos",
+    "Cómo leer esto sin alarmarse",
+    "Para docentes",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AAP_2022_Sueno_Seguro",
+    "CDC_Traumatismo_Craneal_Abusivo",
+    "Ciudadania_Digital_y_Seguridad",
+    "Convivencia_y_Acoso",
+    "Disciplina_Positiva_y_Limites",
+    "ES_Proteccion_Infancia_y_Datos",
+    "Felitti_1998_ACE",
+    "Gershoff_2016_Castigo_Fisico",
+    "Linea_Desarrollo_Motor",
+    "MOC_Crianza",
+    "Mito_Primeros_Tres_Anos",
+    "Nelson_2007_Bucarest",
+    "OMS_Plomo",
+    "Pantallas_en_la_Infancia",
+    "Resiliencia_y_Factores_de_Proteccion",
+    "Shonkoff_2012_Estres_Toxico",
+    "Sueno_Infantil",
+    "USPSTF_2019_Depresion_Perinatal",
+    "Vulnerabilidad_Socioemocional"
+   ],
+   "enlazada_desde": [
+    "Embarazo_Riesgos_y_Cuidados",
+    "Errores_Frecuentes_en_la_Crianza",
+    "Etapa_0_1_ano",
+    "MOC_Crianza",
+    "MOC_Desarrollo",
+    "Pilares_del_Desarrollo_Integral",
+    "Resiliencia_y_Factores_de_Proteccion"
    ]
   },
   "Sueno_Infantil": {
@@ -16675,9 +17420,11 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "Errores_Frecuentes_en_la_Crianza",
     "Linea_Desarrollo_Motor",
     "MOC_Crianza",
-    "Pilares_del_Desarrollo_Integral"
+    "Pilares_del_Desarrollo_Integral",
+    "Riesgos_para_el_Desarrollo_Infantil"
    ]
   },
   "AGENTS": {

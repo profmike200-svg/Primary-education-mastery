@@ -35,6 +35,11 @@ Ningún padre ni maestro "fabrica" a un niño. Cada niño nace con un **temperam
 ## Por qué los primeros años importan (sin dramatismo)
 Las habilidades se construyen sobre habilidades anteriores, y la inversión temprana rinde más ([[Heckman_2006_Inversion_Temprana]]). Pero **no** todo se decide antes de los 3 años: el desarrollo sigue toda la vida ([[Mito_Primeros_Tres_Anos]]).
 
+## Qué evitar
+- Riesgos con evidencia sólida: [[Embarazo_Riesgos_y_Cuidados]] · [[Riesgos_para_el_Desarrollo_Infantil]]
+- Errores bienintencionados: [[Errores_Frecuentes_en_la_Crianza]]
+- Lo que protege: [[Resiliencia_y_Factores_de_Proteccion]]
+
 ## Qué no hace falta
 Tarjetas de estimulación, vídeos para bebés ([[Mito_Videos_Educativos_Bebes]]), Mozart ([[Mito_Efecto_Mozart]]), agendas llenas de extraescolares, adelantar contenidos escolares a presión.
 
