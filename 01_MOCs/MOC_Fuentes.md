@@ -39,6 +39,9 @@ Todas tienen `verificado: pendiente` hasta que el docente las compruebe.
 ## Normativa española
 - [[ES_LOE_LOMLOE]] · [[ES_RD_157_2022]] · [[ES_LOPIVI_2021]] · [[ES_LOPDGDD_2018]] · [[ES_RD_276_2007]]
 
+## Normativa de Castilla-La Mancha y oposiciones
+- [[CLM_Decreto_81_2022]] · [[CLM_Orden_185_2022]] · [[CLM_Decreto_85_2018]] · [[CLM_Orden_121_2022]] · [[CLM_Convivencia_y_Autoridad]] · [[CLM_Programas_Bilingues]] · [[CLM_Convocatoria_Maestros_2026]] · [[Reforma_Oposiciones_2026]]
+
 ## Organismos e informes
 - [[EEF_Toolkit]] · [[NRP_2000_Lectura]] · [[CAST_2018_DUA]]
 - EEF, guías: [[EEF_2017_Matematicas_KS2_KS3]] · [[EEF_2020_Matematicas_Infantil_KS1]] · [[EEF_2019_Conducta]] · [[EEF_2021_Familias]]

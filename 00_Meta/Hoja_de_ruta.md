@@ -24,6 +24,7 @@ aliases: [Roadmap, Pendientes]
 - [x] Deberes y tareas inacabadas, educación literaria, instrumentos de evaluación, fuentes de TDL
 - [x] Herramienta de consulta para LLM (`indice.json`, `consultar.py`, sinónimos, 24 pruebas)
 - [x] Capa del sistema educativo español ([[MOC_Sistema_Educativo_Espanol]]): estructura, currículo, evaluación, diversidad, documentos, organización, docente, protección, programación, acceso
+- [x] Castilla-La Mancha: normativa, inclusión y bloque de oposiciones de Inglés 2028 ([[MOC_Castilla_La_Mancha]])
 - [x] Vista "qué se trabaja en cada curso" ([[MOC_Por_Curso]])
 
 ## Tareas del docente
@@ -32,7 +33,9 @@ aliases: [Roadmap, Pendientes]
 - [ ] Añadir los códigos oficiales de la LOMLOE (decreto autonómico) y del Common Core
 
 ## Próximos bloques
-- [ ] España: añadir la normativa de la comunidad autónoma del docente (decreto de currículo, órdenes de evaluación y diversidad)
+- [ ] CLM: contrastar con el DOCM las normas marcadas `verificado: parcial` (número del nuevo decreto de bilingüismo, fechas de convivencia y autoridad)
+- [ ] Oposiciones: listado oficial de los 25 temas de Inglés en [[CLM_Mapa_Temario_Ingles]]; banco de supuestos prácticos; más situaciones de aprendizaje en inglés (una por curso)
+- [ ] Vigilar la reforma estatal de las oposiciones ([[Reforma_Oposiciones_2026]])
 - [ ] Capa equivalente para EE. UU.: funcionamiento del distrito y de la escuela, IDEA, Section 504, ESSA, FERPA, licencias estatales
 - [ ] Búsqueda semántica (RAG con embeddings) o servidor MCP
 - [ ] Currículos: educación física, artística y socioemocional (ES/US)

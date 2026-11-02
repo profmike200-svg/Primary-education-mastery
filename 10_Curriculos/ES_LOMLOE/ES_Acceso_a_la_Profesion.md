@@ -26,6 +26,7 @@ estado: borrador
 - **Fase de concurso**: méritos (experiencia, formación, otros méritos).
 - **Fase de prácticas** tras aprobar con plaza.
 - La estructura ha tenido regímenes transitorios en los últimos años: **lee siempre la convocatoria de tu comunidad**.
+- Castilla-La Mancha, Inglés: [[CLM_Oposiciones_Ingles_2028]]. Reforma estatal en negociación: [[Reforma_Oposiciones_2026]].
 - **Listas de interinos**: formadas a partir de las oposiciones y, según la comunidad, por otras vías.
 
 ## Otras vías

@@ -137,8 +137,11 @@
     "Próximos bloques"
    ],
    "enlaces": [
+    "CLM_Mapa_Temario_Ingles",
+    "MOC_Castilla_La_Mancha",
     "MOC_Por_Curso",
-    "MOC_Sistema_Educativo_Espanol"
+    "MOC_Sistema_Educativo_Espanol",
+    "Reforma_Oposiciones_2026"
    ],
    "enlazada_desde": [
     "00_INICIO",
@@ -255,6 +258,7 @@
     "Hoja_de_ruta",
     "MOC_Areas",
     "MOC_Autores",
+    "MOC_Castilla_La_Mancha",
     "MOC_Conceptos",
     "MOC_Curriculos",
     "MOC_Desarrollo",
@@ -274,6 +278,7 @@
    "enlazada_desde": [
     "MOC_Areas",
     "MOC_Autores",
+    "MOC_Castilla_La_Mancha",
     "MOC_Conceptos",
     "MOC_Curriculos",
     "MOC_Desarrollo",
@@ -445,6 +450,53 @@
     "Willingham"
    ]
   },
+  "MOC_Castilla_La_Mancha": {
+   "ruta": "01_MOCs/MOC_Castilla_La_Mancha.md",
+   "titulo": "Castilla-La Mancha y oposiciones de Inglés",
+   "tipo": "moc",
+   "aliases": [
+    "Castilla-La Mancha",
+    "CLM",
+    "Oposiciones CLM"
+   ],
+   "metadatos": {
+    "estado": "borrador"
+   },
+   "resumen": "- CLM_Normativa_Educativa: currículo, evaluación, inclusión, organización, convivencia, bilingüismo - CLM_Inclusion_Educativa: Decreto 85/2018, medidas y procedimiento",
+   "secciones": [
+    "Normativa",
+    "Oposiciones de Inglés (horizonte 2028)",
+    "Fuentes"
+   ],
+   "enlaces": [
+    "00_INICIO",
+    "CLM_Convivencia_y_Autoridad",
+    "CLM_Convocatoria_Maestros_2026",
+    "CLM_Decreto_81_2022",
+    "CLM_Decreto_85_2018",
+    "CLM_Inclusion_Educativa",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Orden_121_2022",
+    "CLM_Orden_185_2022",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Programas_Bilingues",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "MOC_Sistema_Educativo_Espanol",
+    "Reforma_Oposiciones_2026"
+   ],
+   "enlazada_desde": [
+    "00_INICIO",
+    "CLM_Inclusion_Educativa",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Hoja_de_ruta",
+    "MOC_Sistema_Educativo_Espanol"
+   ]
+  },
   "MOC_Conceptos": {
    "ruta": "01_MOCs/MOC_Conceptos.md",
    "titulo": "Conceptos transversales",
@@ -597,6 +649,7 @@
    "enlazada_desde": [
     "00_INICIO",
     "Altas_Capacidades",
+    "CLM_Mapa_Temario_Ingles",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -661,6 +714,7 @@
     "Artículos",
     "Libros",
     "Normativa española",
+    "Normativa de Castilla-La Mancha y oposiciones",
     "Organismos e informes"
    ],
    "enlaces": [
@@ -671,6 +725,13 @@
     "Bishop_2017_CATALISE",
     "Black_1998_Black_Box",
     "CAST_2018_DUA",
+    "CLM_Convivencia_y_Autoridad",
+    "CLM_Convocatoria_Maestros_2026",
+    "CLM_Decreto_81_2022",
+    "CLM_Decreto_85_2018",
+    "CLM_Orden_121_2022",
+    "CLM_Orden_185_2022",
+    "CLM_Programas_Bilingues",
     "Castles_2018_Reading_Wars",
     "Celio_2011_Aprendizaje_Servicio",
     "Chen_2019_ABP",
@@ -730,6 +791,7 @@
     "Pietschnig_2010_Efecto_Mozart",
     "Randolph_2023_Montessori",
     "Recht_1988_Conocimiento_Previo",
+    "Reforma_Oposiciones_2026",
     "Ritchhart_2011_Rutinas_Pensamiento",
     "Rosenshine_2012_Principios",
     "Sala_2020_Musica",
@@ -1043,6 +1105,7 @@
    ],
    "enlaces": [
     "00_INICIO",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Juego_Tablero_Numerico",
     "Rutina_Lectura_en_Parejas",
@@ -1055,6 +1118,7 @@
    ],
    "enlazada_desde": [
     "00_INICIO",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Rutina_Cuentacuentos_en_Ingles",
     "Rutina_Juego_Tablero_Numerico",
@@ -1108,6 +1172,7 @@
     "ES_Proteccion_Infancia_y_Datos",
     "ES_RD_157_2022",
     "ES_RD_276_2007",
+    "MOC_Castilla_La_Mancha",
     "MOC_Curriculos"
    ],
    "enlazada_desde": [
@@ -1123,6 +1188,7 @@
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "ES_Proteccion_Infancia_y_Datos",
     "Hoja_de_ruta",
+    "MOC_Castilla_La_Mancha",
     "MOC_Curriculos"
    ]
   },
@@ -1171,6 +1237,7 @@
     "Piaget"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Clima_y_Relacion",
     "Composicion_Escrita",
     "Comprension_Lectora",
@@ -1238,6 +1305,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Clima_y_Relacion",
     "Conciencia_Fonologica",
     "Decodificacion",
@@ -1308,6 +1376,7 @@
     "Willingham"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Composicion_Escrita",
     "Comprension_Lectora",
     "Etapa_10_12_anos",
@@ -1573,6 +1642,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Educacion_Literaria_y_Lectura_por_Placer",
     "Ensenanza_Estrategica_Escritura_SRSD",
     "MOC_Areas",
@@ -1634,6 +1704,7 @@
    ],
    "enlazada_desde": [
     "Alfabetizacion_Mediatica_e_Informacional",
+    "CLM_Mapa_Temario_Ingles",
     "Conocimiento_Previo",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Estrategias_Comprension_Lectora",
@@ -1682,6 +1753,8 @@
     "Progresion_Lengua_Extranjera"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "Rutina_Cuentacuentos_en_Ingles"
@@ -1735,6 +1808,7 @@
     "TDL"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Dislexia",
     "ES_LOMLOE_Lengua_Lectoescritura",
     "Ensenanza_Fonetica_Sistematica",
@@ -1789,6 +1863,7 @@
     "TDL"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Mito_Gramatica_Aislada_Mejora_Escritura",
@@ -1962,6 +2037,7 @@
     "Progresion_Lectoescritura"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Documentos_de_Centro",
     "MOC_Areas",
@@ -2013,6 +2089,7 @@
    ],
    "enlazada_desde": [
     "Alfabetizacion_Mediatica_e_Informacional",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Areas",
     "MOC_Metodologias",
     "MOC_Por_Curso",
@@ -2064,6 +2141,7 @@
     "TEA"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Ciudadania_y_Valores",
@@ -2331,6 +2409,7 @@
     "TDL"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "Construccion_de_Oraciones",
     "MOC_Areas",
     "MOC_Por_Curso",
@@ -2490,6 +2569,8 @@
     "Seymour_2003_Ortografias_Europeas"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Areas",
     "MOC_Por_Curso",
     "Progresion_Lengua_Extranjera"
@@ -2946,6 +3027,7 @@
    ],
    "enlazada_desde": [
     "Alfabetizacion_Mediatica_e_Informacional",
+    "CLM_Mapa_Temario_Ingles",
     "Ciudadania_Digital_y_Seguridad",
     "ES_Documentos_de_Centro",
     "MOC_Areas",
@@ -3221,6 +3303,8 @@
    ],
    "enlazada_desde": [
     "AICLE_CLIL",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Oposiciones_Ingles_2028",
     "Comprension_Oral_L2",
     "ES_Marco_Curricular_LOMLOE",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
@@ -3725,6 +3809,8 @@
     "Progresion_Lengua_Extranjera"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Areas",
     "Progresion_Lengua_Extranjera",
     "Rutina_Cuentacuentos_en_Ingles"
@@ -3774,6 +3860,9 @@
     "TDL"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
     "ES_LOMLOE_Conocimiento_del_Medio",
     "MOC_Metodologias",
     "Progresion_Lengua_Extranjera"
@@ -3892,6 +3981,9 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_Basado_en_Proyectos",
+    "CLM_Inclusion_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Estrategias_Comprension_Lectora",
     "Habilidades_Sociales",
     "Instruccion_Explicita",
@@ -4246,6 +4338,9 @@
     "TDL"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Metodologias",
     "Mito_Cuanto_Antes_Mejor_L2",
     "Progresion_Lengua_Extranjera"
@@ -4662,6 +4757,7 @@
     "Aprendizaje_Cooperativo",
     "Aprendizaje_para_el_Dominio",
     "Aprendizaje_por_Descubrimiento",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Carga_cognitiva",
     "Conciencia_Fonologica",
     "Deberes_y_Tareas_Inacabadas",
@@ -4906,6 +5002,7 @@
     "Pashler_2008_Estilos_Aprendizaje"
    ],
    "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
     "Diseno_Universal_para_el_Aprendizaje",
     "Dislexia",
     "Gardner",
@@ -5158,6 +5255,8 @@
     "Practica_de_Recuperacion"
    ],
    "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Ideas_Previas_y_Cambio_Conceptual",
     "Instruccion_Explicita",
@@ -5214,6 +5313,8 @@
    ],
    "enlazada_desde": [
     "Autoeficacia",
+    "CLM_Oposiciones_Ingles_2028",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Deberes_y_Tareas_Inacabadas",
     "Evaluacion_Formativa",
     "Gamificacion",
@@ -5376,6 +5477,7 @@
     "Ritchhart_2011_Rutinas_Pensamiento"
    ],
    "enlazada_desde": [
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Metodologias"
    ]
   },
@@ -5421,6 +5523,7 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_Cooperativo",
+    "CLM_Inclusion_Educativa",
     "MOC_Metodologias",
     "Mito_Piramide_del_Aprendizaje",
     "Rutina_Lectura_en_Parejas"
@@ -5577,6 +5680,7 @@
    "enlazada_desde": [
     "Andamiaje",
     "Aprendizaje_por_Descubrimiento",
+    "CLM_Mapa_Temario_Ingles",
     "Enfoque_CPA",
     "Etapa_6_8_anos",
     "MOC_Autores",
@@ -6310,6 +6414,7 @@
     "Andamiaje",
     "Aprendizaje_Cooperativo",
     "Bruner",
+    "CLM_Mapa_Temario_Ingles",
     "MOC_Autores",
     "MOC_Desarrollo",
     "Piaget",
@@ -6396,6 +6501,8 @@
    "enlazada_desde": [
     "Aprendizaje_Basado_en_Proyectos",
     "Aprendizaje_Cooperativo",
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Composicion_Escrita",
     "ES_Atencion_a_la_Diversidad",
     "Geometria",
@@ -6559,6 +6666,7 @@
     "Schalock_2021_Discapacidad_Intelectual"
    ],
    "enlazada_desde": [
+    "CLM_Inclusion_Educativa",
     "ES_Atencion_a_la_Diversidad",
     "MOC_Diversidad"
    ]
@@ -6705,6 +6813,9 @@
    ],
    "enlazada_desde": [
     "Altas_Capacidades",
+    "CLM_Inclusion_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -6824,6 +6935,8 @@
    ],
    "enlazada_desde": [
     "AICLE_CLIL",
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Composicion_Escrita",
     "Comprension_Lectora",
     "Conciencia_Fonologica",
@@ -6896,6 +7009,8 @@
     "Vocabulario"
    ],
    "enlazada_desde": [
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Atencion_a_la_Diversidad",
     "Instrumentos_de_Evaluacion",
     "MOC_Diversidad"
@@ -6950,6 +7065,7 @@
    "enlazada_desde": [
     "Altas_Capacidades",
     "Aprendizaje_para_el_Dominio",
+    "CLM_Inclusion_Educativa",
     "Discalculia",
     "Discapacidad_Auditiva",
     "Discapacidad_Intelectual",
@@ -7017,6 +7133,8 @@
    "enlazada_desde": [
     "Aprendizaje_Basado_en_Proyectos",
     "Autorregulacion_Emocional",
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Composicion_Escrita",
     "Deberes_y_Tareas_Inacabadas",
     "ES_Atencion_a_la_Diversidad",
@@ -7149,6 +7267,8 @@
     "Aprendizaje_Basado_en_Proyectos",
     "Aprendizaje_Cooperativo",
     "Autorregulacion_Emocional",
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Atencion_a_la_Diversidad",
     "Etapa_6_8_anos",
     "Expresion_Oral",
@@ -7259,6 +7379,8 @@
    ],
    "enlazada_desde": [
     "Aprendizaje_para_el_Dominio",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
     "ES_Evaluacion_y_Promocion",
     "Instrumentos_de_Evaluacion",
     "MOC_Evaluacion",
@@ -7315,6 +7437,7 @@
     "TDAH"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
     "ES_Evaluacion_y_Promocion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "MOC_Evaluacion"
@@ -7409,6 +7532,9 @@
     "Retroalimentacion"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Evaluacion_y_Promocion",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "Instrumentos_de_Evaluacion",
@@ -7551,6 +7677,7 @@
     "MOC_Gestion_Aula"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "Ciudadania_Digital_y_Seguridad",
     "ES_Documentos_de_Centro",
     "ES_Proteccion_Infancia_y_Datos",
@@ -7986,6 +8113,7 @@
     "Willingham"
    ],
    "enlazada_desde": [
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "MOC_Conceptos",
     "Progresion_Ciencias_Sociales",
@@ -8240,6 +8368,299 @@
     "Vygotsky"
    ]
   },
+  "CLM_Inclusion_Educativa": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Inclusion_Educativa.md",
+   "titulo": "Castilla-La Mancha: inclusión educativa (Decreto 85/2018)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Inclusión educativa CLM",
+    "Decreto 85/2018",
+    "Medidas de inclusión",
+    "Plan de trabajo",
+    "EOA"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE - Castilla-La Mancha",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Decreto_85_2018"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "La inclusión se entiende como el conjunto de actuaciones y medidas para identificar y superar las barreras para el aprendizaje y la participación de todo el alumnado, no solo del alumnado con necesidades específicas (CLM_Decreto_85_2018). Encaja con el Diseno_Universal_para_el_Aprendizaje y con el m…",
+   "secciones": [
+    "Enfoque",
+    "Medidas por niveles (de menor a mayor intensidad)",
+    "Procedimiento",
+    "Para las oposiciones",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "Aprendizaje_Cooperativo",
+    "CLM_Decreto_85_2018",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Discapacidad_Intelectual",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Dislexia",
+    "Incorporacion_Tardia",
+    "MOC_Castilla_La_Mancha",
+    "RTI_MTSS",
+    "TDAH",
+    "TEA",
+    "Tutoria_entre_Iguales"
+   ],
+   "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Mapa_Temario_Ingles": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Mapa_Temario_Ingles.md",
+   "titulo": "Mapa del temario de Inglés (maestros) con la biblioteca",
+   "tipo": "curriculo",
+   "aliases": [
+    "Temario inglés maestros",
+    "Mapa del temario",
+    "English syllabus map"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Convocatoria_Maestros_2026"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "El temario de Inglés (Orden de 9 de septiembre de 1993, 25 temas) se agrupa en grandes bloques. No se transcriben aquí los títulos literales de los temas hasta contrastarlos con el BOE: cuando tengas el listado oficial, añade cada tema a la tabla y enlaza las notas.",
+   "secciones": [
+    "Cómo usar esta nota",
+    "Consejo para redactar los temas",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AICLE_CLIL",
+    "Bruner",
+    "CLM_Inclusion_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Composicion_Escrita",
+    "Comprension_Lectora",
+    "Comprension_Oral_L2",
+    "Conciencia_Fonologica",
+    "Construccion_de_Oraciones",
+    "Educacion_Literaria_y_Lectura_por_Placer",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Etapa_10_12_anos",
+    "Etapa_6_8_anos",
+    "Etapa_8_10_anos",
+    "Evaluacion_Formativa",
+    "Expresion_Oral",
+    "Gramatica_y_Reflexion_Linguistica",
+    "Instrumentos_de_Evaluacion",
+    "Lectoescritura_en_Ingles",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Diversidad",
+    "Mito_Cuanto_Antes_Mejor_L2",
+    "Progresion_Competencia_Digital",
+    "Progresion_Lengua_Extranjera",
+    "Rubricas",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "Vocabulario_L2",
+    "Vygotsky"
+   ],
+   "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
+    "Hoja_de_ruta",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Normativa_Educativa": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Normativa_Educativa.md",
+   "titulo": "Castilla-La Mancha: normativa educativa de Primaria",
+   "tipo": "curriculo",
+   "aliases": [
+    "Normativa Castilla-La Mancha",
+    "CLM",
+    "Normativa educativa CLM",
+    "DOCM"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE - Castilla-La Mancha",
+    "area": [
+     "transversal"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Decreto_81_2022",
+     "CLM_Orden_185_2022",
+     "CLM_Decreto_85_2018",
+     "CLM_Orden_121_2022",
+     "CLM_Convivencia_y_Autoridad",
+     "CLM_Programas_Bilingues"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Los centros elaboran Normas de Convivencia, Organización y Funcionamiento (NCOF) según el artículo 11 de la Orden 121/2022. - La orientación en los colegios la realiza el Equipo de Orientación y Apoyo (EOA) *(denominación a verificar en la normativa vigente)*. - El Anexo III del Decreto 81/2022 in…",
+   "secciones": [
+    "Normas de referencia",
+    "Particularidades de Castilla-La Mancha",
+    "Dónde consultar",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AICLE_CLIL",
+    "CLM_Convivencia_y_Autoridad",
+    "CLM_Decreto_81_2022",
+    "CLM_Decreto_85_2018",
+    "CLM_Inclusion_Educativa",
+    "CLM_Orden_121_2022",
+    "CLM_Orden_185_2022",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Programas_Bilingues",
+    "Convivencia_y_Acoso",
+    "ES_Documentos_de_Centro",
+    "ES_Evaluacion_y_Promocion",
+    "ES_Funciones_Derechos_y_Deberes_del_Docente",
+    "ES_Marco_Curricular_LOMLOE",
+    "ES_Organizacion_del_Centro",
+    "ES_Proteccion_Infancia_y_Datos",
+    "MOC_Castilla_La_Mancha"
+   ],
+   "enlazada_desde": [
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Oposiciones_Ingles_2028": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Oposiciones_Ingles_2028.md",
+   "titulo": "Oposiciones de maestro de Inglés en Castilla-La Mancha (horizonte 2028)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Oposiciones inglés Castilla-La Mancha",
+    "Oposiciones 2028",
+    "Oposiciones maestro inglés CLM"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Convocatoria_Maestros_2026",
+     "Reforma_Oposiciones_2026",
+     "ES_RD_276_2007"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "En julio de 2026 el Ministerio presentó a los sindicatos una reforma del acceso a la función docente (Reforma_Oposiciones_2026): temarios nuevos para todas las especialidades, un bloque común (sistema educativo, currículo competencial, programación, metodologías, evaluación, diversidad, tutoría) y p…",
+   "secciones": [
+    "⚠️ Lo primero: la reforma estatal",
+    "Modelo de referencia: convocatoria de 2026 ([[CLM_Convocatoria_Maestros_2026]])",
+    "Temario",
+    "La parte práctica",
+    "Plan de preparación (noviembre 2026 → junio 2028)",
+    "Fase de concurso: qué puedes sumar desde ahora",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "CLM_Convocatoria_Maestros_2026",
+    "CLM_Mapa_Temario_Ingles",
+    "Dunlosky_2013_Tecnicas_Estudio",
+    "MOC_Castilla_La_Mancha",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
+    "Progresion_Lengua_Extranjera",
+    "Reforma_Oposiciones_2026"
+   ],
+   "enlazada_desde": [
+    "ES_Acceso_a_la_Profesion",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Programacion_Oposiciones_Ingles": {
+   "ruta": "10_Curriculos/ES_CLM/CLM_Programacion_Oposiciones_Ingles.md",
+   "titulo": "Programación didáctica de Inglés para las oposiciones (Castilla-La Mancha)",
+   "tipo": "curriculo",
+   "aliases": [
+    "Programación didáctica oposiciones inglés",
+    "Teaching programme",
+    "Programación inglés primaria CLM"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "LOMLOE - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "CLM_Convocatoria_Maestros_2026",
+     "CLM_Decreto_81_2022",
+     "CLM_Decreto_85_2018",
+     "ES_RD_157_2022"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Referida a un curso escolar de Primaria en el que la especialidad tiene competencia docente. - Ajustada al anexo III de la convocatoria; Arial 12 sin comprimir, interlineado sencillo, portada identificativa. - Redactada y defendida íntegramente en inglés. - Extensión y número mínimo de unidades o …",
+   "secciones": [
+    "Requisitos formales (referencia 2026, verificar en 2028)",
+    "Estructura recomendada (en inglés)",
+    "Cómo convertir la biblioteca en una programación sólida",
+    "Errores frecuentes en las programaciones",
+    "Ejemplo",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "AICLE_CLIL",
+    "Aprendizaje_Cooperativo",
+    "CLM_Inclusion_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "Comprension_Oral_L2",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Evaluacion_Formativa",
+    "Lectoescritura_en_Ingles",
+    "Lyster_2010_Feedback_Oral_L2",
+    "MOC_Castilla_La_Mancha",
+    "Mito_Cuanto_Antes_Mejor_L2",
+    "Mito_Estilos_de_Aprendizaje",
+    "Nation_2013_Vocabulario_L2",
+    "Norris_2000_Instruccion_L2",
+    "Rubricas",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "Vocabulario_L2"
+   ],
+   "enlazada_desde": [
+    "CLM_Inclusion_Educativa",
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Normativa_Educativa",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
   "ES_Acceso_a_la_Profesion": {
    "ruta": "10_Curriculos/ES_LOMLOE/ES_Acceso_a_la_Profesion.md",
    "titulo": "España: acceso a la profesión, oposiciones y movilidad (también al extranjero)",
@@ -8276,10 +8697,12 @@
     "Relacionado"
    ],
    "enlaces": [
+    "CLM_Oposiciones_Ingles_2028",
     "ES_Programacion_y_Situaciones_de_Aprendizaje",
     "ES_RD_276_2007",
     "Glosario_entre_sistemas",
     "MOC_Sistema_Educativo_Espanol",
+    "Reforma_Oposiciones_2026",
     "US_CCSS_Math",
     "US_WIDA_ELD"
    ],
@@ -8401,6 +8824,7 @@
     "Progresion_Competencia_Digital"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -8504,6 +8928,7 @@
     "Rubricas"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -8550,6 +8975,7 @@
     "MOC_Sistema_Educativo_Espanol"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "MOC_Sistema_Educativo_Espanol"
    ]
   },
@@ -8745,6 +9171,7 @@
     "Progresion_Musica"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "ES_Estructura_del_Sistema",
     "MOC_Sistema_Educativo_Espanol"
    ]
@@ -8792,6 +9219,7 @@
     "Relacion_con_las_Familias"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "MOC_Sistema_Educativo_Espanol"
    ]
   },
@@ -8894,6 +9322,7 @@
     "Vulnerabilidad_Socioemocional"
    ],
    "enlazada_desde": [
+    "CLM_Normativa_Educativa",
     "ES_Funciones_Derechos_y_Deberes_del_Docente",
     "ES_Organizacion_del_Centro",
     "MOC_Sistema_Educativo_Espanol"
@@ -9287,6 +9716,210 @@
     "MOC_Fuentes"
    ]
   },
+  "CLM_Convivencia_y_Autoridad": {
+   "ruta": "11_Fuentes/CLM_Convivencia_y_Autoridad.md",
+   "titulo": "Decreto 3/2008, de 8 de enero, de la convivencia escolar en Castilla-La Mancha; Ley 3/2012, de 10 de mayo, de autoridad del profesorado; y Decreto 13/2013, de 21 de marzo, de autoridad del profesorado en Castilla-La Mancha.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2008",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Decreto 3/2008, de 8 de enero, de la convivencia escolar en Castilla-La Mancha; Ley 3/2012, de 10 de mayo, de autoridad del profesorado; y Decreto 13/2013, de 21 de marzo, de autoridad del profesorado en Castilla-La Mancha.",
+    "url": "https://ceip-ciudaddeaquisgran.centros.castillalamancha.es/sites/ceip-ciudaddeaquisgran.centros.castillalamancha.es/files/documentos/nofc_2025-2026_actualizadas.pdf",
+    "verificado": "parcial"
+   },
+   "resumen": "Marco autonómico de convivencia escolar y de autoridad del profesorado.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Convocatoria_Maestros_2026": {
+   "ruta": "11_Fuentes/CLM_Convocatoria_Maestros_2026.md",
+   "titulo": "Resolución de 20/01/2026 por la que se convoca procedimiento selectivo de ingreso y acceso al Cuerpo de Maestros en Castilla-La Mancha. DOCM de 28 de enero de 2026.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2026",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Resolución de 20/01/2026 por la que se convoca procedimiento selectivo de ingreso y acceso al Cuerpo de Maestros en Castilla-La Mancha. DOCM de 28 de enero de 2026.",
+    "url": "https://anpecastillalamancha.es/notices/204602/Opositoresas-Maestrosas-2026.-Segunda-Prueba.-Recordatorio-formato-de-la-programaci%C3%B3n-did%C3%A1ctica.",
+    "verificado": "parcial"
+   },
+   "resumen": "Convocatoria de oposiciones de maestros de 2026 en Castilla-La Mancha. Es la referencia más reciente para preparar la de 2028, salvo que la reforma estatal cambie el modelo.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Decreto_81_2022": {
+   "ruta": "11_Fuentes/CLM_Decreto_81_2022.md",
+   "titulo": "Decreto 81/2022, de 12 de julio, por el que se establece la ordenación y el currículo de Educación Primaria en la comunidad autónoma de Castilla-La Mancha. DOCM de 14 de julio de 2022.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Decreto 81/2022, de 12 de julio, por el que se establece la ordenación y el currículo de Educación Primaria en la comunidad autónoma de Castilla-La Mancha. DOCM de 14 de julio de 2022.",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1224514",
+    "verificado": "parcial"
+   },
+   "resumen": "Currículo completo de Primaria en Castilla-La Mancha, en desarrollo del Real Decreto 157/2022. Incluye también medidas de inclusión educativa.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Decreto_85_2018": {
+   "ruta": "11_Fuentes/CLM_Decreto_85_2018.md",
+   "titulo": "Decreto 85/2018, de 20 de noviembre, por el que se regula la inclusión educativa del alumnado en la comunidad autónoma de Castilla-La Mancha.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2018",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Decreto 85/2018, de 20 de noviembre, por el que se regula la inclusión educativa del alumnado en la comunidad autónoma de Castilla-La Mancha.",
+    "url": "https://www.campuseducacion.com/blog/wp-content/uploads/2020/02/Decreto-Inclusi%C3%B3n-CLM.pdf",
+    "verificado": "parcial"
+   },
+   "resumen": "Norma de inclusión educativa de Castilla-La Mancha: se aplica a todo el alumnado y organiza las medidas para identificar y superar las barreras para el aprendizaje y la participación.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Inclusion_Educativa",
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Orden_121_2022": {
+   "ruta": "11_Fuentes/CLM_Orden_121_2022.md",
+   "titulo": "Orden 121/2022, de 14 de junio, de la Consejería de Educación, Cultura y Deportes, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil y Primaria en Castilla-La Mancha.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Orden 121/2022, de 14 de junio, de la Consejería de Educación, Cultura y Deportes, de regulación de la organización y el funcionamiento de los centros públicos que imparten enseñanzas de Educación Infantil y Primaria en Castilla-La Mancha.",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1223771",
+    "verificado": "parcial"
+   },
+   "resumen": "Organización y funcionamiento de los CEIP de Castilla-La Mancha.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Orden_185_2022": {
+   "ruta": "11_Fuentes/CLM_Orden_185_2022.md",
+   "titulo": "Orden 185/2022, de 27 de septiembre, de la Consejería de Educación, Cultura y Deportes, por la que se regula la evaluación en la etapa de Educación Primaria en Castilla-La Mancha.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2022",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Orden 185/2022, de 27 de septiembre, de la Consejería de Educación, Cultura y Deportes, por la que se regula la evaluación en la etapa de Educación Primaria en Castilla-La Mancha.",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1226427",
+    "verificado": "parcial"
+   },
+   "resumen": "Desarrolla la evaluación de Primaria en Castilla-La Mancha según el capítulo III del Decreto 81/2022.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
+  "CLM_Programas_Bilingues": {
+   "ruta": "11_Fuentes/CLM_Programas_Bilingues.md",
+   "titulo": "Decreto de programas bilingües y plurilingües en las etapas educativas no universitarias de Castilla-La Mancha (2025-2026) y orden de desarrollo (DOCM de 3 de junio de 2026). Sustituye al Decreto 47/2017.",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2026",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Decreto de programas bilingües y plurilingües en las etapas educativas no universitarias de Castilla-La Mancha (2025-2026) y orden de desarrollo (DOCM de 3 de junio de 2026). Sustituye al Decreto 47/2017.",
+    "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1263320",
+    "verificado": "parcial"
+   },
+   "resumen": "Nuevo marco de los programas bilingües y plurilingües en los centros sostenidos con fondos públicos.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Normativa_Educativa",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Fuentes"
+   ]
+  },
   "Castles_2018_Reading_Wars": {
    "ruta": "11_Fuentes/Castles_2018_Reading_Wars.md",
    "titulo": "Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert. Psychological Science in the Public Interest, 19(1), 5-51.",
@@ -9579,6 +10212,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
     "MOC_Fuentes",
     "Practica_Espaciada",
     "Practica_de_Recuperacion"
@@ -10573,6 +11207,8 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "Comprension_Oral_L2",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "MOC_Fuentes"
@@ -10717,6 +11353,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Fuentes",
     "Rutina_Cuentacuentos_en_Ingles",
     "Vocabulario_L2"
@@ -10777,6 +11414,7 @@
    ],
    "enlaces": [],
    "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
     "MOC_Fuentes"
    ]
@@ -11016,6 +11654,37 @@
    "enlaces": [],
    "enlazada_desde": [
     "Conocimiento_Previo",
+    "MOC_Fuentes"
+   ]
+  },
+  "Reforma_Oposiciones_2026": {
+   "ruta": "11_Fuentes/Reforma_Oposiciones_2026.md",
+   "titulo": "Ministerio de Educación, Formación Profesional y Deportes. (2026, julio). Documento de trabajo para la reforma del sistema de acceso a la función pública docente (en negociación con los sindicatos).",
+   "tipo": "fuente",
+   "aliases": [],
+   "metadatos": {
+    "autores": [
+     "Junta de Comunidades de Castilla-La Mancha"
+    ],
+    "anio": "2026",
+    "tipo_fuente": "ley",
+    "fiabilidad": "alta",
+    "referencia_apa": "Ministerio de Educación, Formación Profesional y Deportes. (2026, julio). Documento de trabajo para la reforma del sistema de acceso a la función pública docente (en negociación con los sindicatos).",
+    "url": "https://www.stes.es/echa-a-andar-la-reforma-de-las-oposiciones-y-temarios-docentes/",
+    "verificado": "parcial"
+   },
+   "resumen": "Propuesta de reforma de las oposiciones docentes presentada a los sindicatos el 30 de julio de 2026. No aprobada a fecha de noviembre de 2026.",
+   "secciones": [
+    "Resumen (con palabras propias)",
+    "Ideas clave",
+    "Notas que la citan"
+   ],
+   "enlaces": [],
+   "enlazada_desde": [
+    "CLM_Oposiciones_Ingles_2028",
+    "ES_Acceso_a_la_Profesion",
+    "Hoja_de_ruta",
+    "MOC_Castilla_La_Mancha",
     "MOC_Fuentes"
    ]
   },
@@ -11599,6 +12268,94 @@
     "Progresion_Educacion_Artistica"
    ]
   },
+  "CLM_Situacion_Aprendizaje_Ingles_Ejemplo": {
+   "ruta": "12_Practica/CLM_Situacion_Aprendizaje_Ingles_Ejemplo.md",
+   "titulo": "Learning situation: \"Our Healthy Lunchbox\" (4º de Primaria, Inglés)",
+   "tipo": "practica",
+   "aliases": [
+    "Situación de aprendizaje de inglés",
+    "Learning situation example",
+    "Our Healthy Lunchbox"
+   ],
+   "metadatos": {
+    "formato": "secuencia",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "edad_min": "8",
+    "edad_max": "10",
+    "duracion_min": "360",
+    "agrupamiento": "pequeno_grupo",
+    "contenidos": [
+     "Comprension_Oral_L2",
+     "Vocabulario_L2",
+     "Lectoescritura_en_Ingles"
+    ],
+    "metodologias": [
+     "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+     "Aprendizaje_Cooperativo",
+     "Instruccion_Explicita"
+    ],
+    "necesidades_contempladas": [
+     "tdah",
+     "dislexia",
+     "tea",
+     "altas_capacidades",
+     "incorporacion_tardia"
+    ],
+    "materiales": [
+     "flashcards",
+     "real food packaging",
+     "picture dictionary",
+     "tablets for recording",
+     "rubric"
+    ],
+    "nivel_evidencia": "B",
+    "fuentes": [
+     "Norris_2000_Instruccion_L2",
+     "Nation_2013_Vocabulario_L2",
+     "Lyster_2010_Feedback_Oral_L2"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "- Year: 4º (second cycle) · Timing: 6 sessions of 60 minutes (2 weeks, third term). - Linked areas: Conocimiento del Medio (healthy habits), Educación Física. - Challenge: *The school canteen wants ideas for healthy break-time snacks. Each team will design a healthy lunchbox and present it in Englis…",
+   "secciones": [
+    "1. Identification",
+    "2. Curricular references",
+    "3. Learning objectives (observable)",
+    "4. Sequence of activities",
+    "5. Inclusion (Decreto 85/2018, [[CLM_Inclusion_Educativa]])",
+    "6. Assessment",
+    "Relacionado"
+   ],
+   "enlaces": [
+    "Altas_Capacidades",
+    "Aprendizaje_Cooperativo",
+    "CLM_Inclusion_Educativa",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "Conocimiento_Previo",
+    "Diseno_Universal_para_el_Aprendizaje",
+    "Dislexia",
+    "Ensenanza_Comunicativa_con_Foco_en_la_Forma",
+    "Estadistica_y_Probabilidad",
+    "Incorporacion_Tardia",
+    "Instruccion_Explicita",
+    "Lyster_2010_Feedback_Oral_L2",
+    "MOC_Practica",
+    "Practica_Espaciada",
+    "Practica_de_Recuperacion",
+    "Rubricas",
+    "Rutina_Cuentacuentos_en_Ingles",
+    "Rutinas_de_Pensamiento",
+    "TDAH",
+    "TEA"
+   ],
+   "enlazada_desde": [
+    "CLM_Programacion_Oposiciones_Ingles",
+    "MOC_Castilla_La_Mancha",
+    "MOC_Practica"
+   ]
+  },
   "Rutina_Cuentacuentos_en_Ingles": {
    "ruta": "12_Practica/Rutina_Cuentacuentos_en_Ingles.md",
    "titulo": "Rutina: *story time* (cuento semanal en inglés)",
@@ -11656,6 +12413,9 @@
     "Vocabulario_L2"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
+    "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "MOC_Practica",
     "Progresion_Lengua_Extranjera"
    ]
@@ -12178,6 +12938,8 @@
     "Munoz_2006_Edad_L2"
    ],
    "enlazada_desde": [
+    "CLM_Mapa_Temario_Ingles",
+    "CLM_Programacion_Oposiciones_Ingles",
     "MOC_Mitos",
     "Progresion_Lengua_Extranjera"
    ]

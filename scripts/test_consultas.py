@@ -73,6 +73,14 @@ CASOS = [
      ["ES_Documentos_de_Centro"], []),
     ("Quiero irme a enseñar a Estados Unidos con el programa de profesores visitantes",
      ["ES_Acceso_a_la_Profesion"], []),
+    ("¿Cómo son las oposiciones de inglés en Castilla-La Mancha para 2028?",
+     ["CLM_Oposiciones_Ingles_2028"], []),
+    ("¿Cómo hago la programación didáctica de inglés para las oposiciones?",
+     ["CLM_Programacion_Oposiciones_Ingles"], []),
+    ("¿Qué medidas de inclusión recoge el decreto 85/2018 de Castilla-La Mancha?",
+     ["CLM_Inclusion_Educativa"], []),
+    ("Ejemplo de situación de aprendizaje de inglés para 4º",
+     ["CLM_Situacion_Aprendizaje_Ingles_Ejemplo"], []),
 ]
 
 

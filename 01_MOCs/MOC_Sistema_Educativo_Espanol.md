@@ -28,7 +28,7 @@ aliases: [Sistema educativo español, España, Capa España, Spain]
 
 ## Normativa de referencia
 - [[ES_LOE_LOMLOE]] · [[ES_RD_157_2022]] · [[ES_LOPIVI_2021]] · [[ES_LOPDGDD_2018]] · [[ES_RD_276_2007]]
-- **Pendiente**: añadir el decreto de currículo y las órdenes de evaluación y diversidad de tu comunidad autónoma.
+- Comunidad autónoma: **[[MOC_Castilla_La_Mancha]]** (normativa y oposiciones de Inglés)
 
 ---
 ↑ [[00_INICIO]] · [[MOC_Curriculos]]
