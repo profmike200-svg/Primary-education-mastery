@@ -71,7 +71,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 - **Cambios**: numeración; matiz sobre Mehrabian; diversidad explícita.
 
 ### Topic 3 · Developing linguistic skills. Communicative competence in English
-> 📝 Guion de desarrollo: [[CLM_Tema_03_Guion]]
+> 📘 Tema completo: [[CLM_Tema_03]] · 📝 Guion: [[CLM_Tema_03_Guion]]
 1. Introduction
 2. Linguistic skills
    2.1. Classification (receptive/productive; oral/written; Harmer)
@@ -141,7 +141,7 @@ Estructura tipo: **1. Introduction · 2-5. Development (uno por epígrafe del t�
 ## Bloque II · The English language: oral, written, phonology, spelling, lexis, grammar
 
 ### Topic 7 · Oral language. Global listening comprehension. From imitation to free production
-> 📝 Guion de desarrollo: [[CLM_Tema_07_Guion]]
+> 📘 Tema completo: [[CLM_Tema_07]] · 📝 Guion: [[CLM_Tema_07_Guion]]
 1. Introduction
 2. Oral language: components (phonological, lexical, grammatical, pragmatic, non-verbal)
 3. The complexity of global listening comprehension: from hearing to active and selective understanding

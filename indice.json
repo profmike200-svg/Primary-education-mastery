@@ -603,7 +603,9 @@
     "CLM_Programas_Bilingues",
     "CLM_Situacion_Aprendizaje_Ingles_Ejemplo",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09_Guion",
     "CLM_Tema_11_Guion",
@@ -10204,7 +10206,9 @@
     "CLM_Supuesto_04_Cuento_Literatura",
     "CLM_Supuesto_06_Analisis_de_Material",
     "CLM_Supuestos_Practicos_Ingles",
+    "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09_Guion",
     "CLM_Tema_11_Guion",
@@ -10282,6 +10286,8 @@
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Mapa_Temario_Ingles",
+    "CLM_Tema_03",
+    "CLM_Tema_07",
     "Hoja_de_ruta",
     "MOC_Castilla_La_Mancha"
    ]
@@ -11041,10 +11047,12 @@
    "secciones": [
     "1. Qué distingue un tema de 10 de uno de 6",
     "2. Estructura y peso aproximado (2 horas, a mano)",
-    "3. Recursos que suman en todos los temas",
-    "4. Errores frecuentes que restan nota",
-    "5. Cómo memorizar los temas (con evidencia)",
-    "Guiones de desarrollo disponibles",
+    "3. Estilo de los temas de la biblioteca",
+    "4. Recursos que suman en todos los temas",
+    "5. Errores frecuentes que restan nota",
+    "6. Cómo memorizar los temas (con evidencia)",
+    "Temas desarrollados (texto completo)",
+    "Guiones de desarrollo",
     "Relacionado"
    ],
    "enlaces": [
@@ -11052,7 +11060,9 @@
     "CLM_Indices_Temario_Ingles",
     "CLM_Mapa_Temario_Ingles",
     "CLM_Oposiciones_Ingles_2028",
+    "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09_Guion",
     "CLM_Tema_11_Guion",
@@ -11067,11 +11077,64 @@
    ],
    "enlazada_desde": [
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03",
     "CLM_Tema_03_Guion",
+    "CLM_Tema_07",
     "CLM_Tema_07_Guion",
     "CLM_Tema_09_Guion",
     "CLM_Tema_11_Guion",
     "CLM_Tema_14_Guion",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_03": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_03.md",
+   "titulo": "Topic 3",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 3",
+    "Topic 3",
+    "Topic 3 full text",
+    "Linguistic skills and communicative competence"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Consejo_Europa_2020_MCER",
+     "Cameron_2001_Ninos_Lenguas",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Nation_2013_Vocabulario_L2",
+     "Graham_2012_Metaanalisis_Escritura"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "DEVELOPING LINGUISTIC SKILLS: LISTENING COMPREHENSION AND EXPRESSION, WRITTEN COMPREHENSION AND EXPRESSION. COMMUNICATIVE COMPETENCE IN ENGLISH",
+   "secciones": [
+    "1. Introduction",
+    "2. Linguistic skills",
+    "3. Oral comprehension and expression",
+    "4. Written comprehension and expression",
+    "5. Communicative competence in English",
+    "6. Attention to diversity and assessment",
+    "7. Conclusion",
+    "8. References"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03_Guion"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03_Guion",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11115,6 +11178,7 @@
    ],
    "enlaces": [
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_03",
     "Cameron_2001_Ninos_Lenguas",
     "Consejo_Europa_2020_MCER",
     "Diseno_Universal_para_el_Aprendizaje",
@@ -11126,6 +11190,58 @@
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_03",
+    "MOC_Castilla_La_Mancha"
+   ]
+  },
+  "CLM_Tema_07": {
+   "ruta": "10_Curriculos/ES_CLM/Temas/CLM_Tema_07.md",
+   "titulo": "Topic 7",
+   "tipo": "curriculo",
+   "aliases": [
+    "Tema 7",
+    "Topic 7",
+    "Topic 7 full text",
+    "Oral language listening and speaking"
+   ],
+   "metadatos": {
+    "pais": "ES",
+    "marco": "Oposiciones Maestros Inglés - Castilla-La Mancha",
+    "area": [
+     "lengua_extranjera"
+    ],
+    "curso": "1º-6º",
+    "edad_min": "6",
+    "edad_max": "12",
+    "fuentes": [
+     "Cameron_2001_Ninos_Lenguas",
+     "Lyster_2010_Feedback_Oral_L2",
+     "Consejo_Europa_2020_MCER",
+     "Asher_1969_TPR"
+    ],
+    "estado": "borrador"
+   },
+   "resumen": "ORAL LANGUAGE. THE COMPLEXITY OF GLOBAL LISTENING COMPREHENSION: FROM HEARING TO ACTIVE AND SELECTIVE UNDERSTANDING. FROM IMITATION TO FREE PRODUCTION",
+   "secciones": [
+    "1. Introduction",
+    "2. Oral language",
+    "3. The complexity of global listening comprehension",
+    "4. Didactic application of the listening skill",
+    "5. Speaking: from imitation to free production",
+    "6. Didactic application of the speaking skill",
+    "7. Attention to diversity and assessment",
+    "8. Conclusion",
+    "9. References"
+   ],
+   "enlaces": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_07_Guion"
+   ],
+   "enlazada_desde": [
+    "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_07_Guion",
     "MOC_Castilla_La_Mancha"
    ]
   },
@@ -11169,6 +11285,7 @@
    ],
    "enlaces": [
     "CLM_Como_Escribir_un_Tema_de_10",
+    "CLM_Tema_07",
     "Evaluacion_en_Lengua_Extranjera",
     "Incorporacion_Tardia",
     "Lyster_2010_Feedback_Oral_L2",
@@ -11180,6 +11297,7 @@
    "enlazada_desde": [
     "CLM_Como_Escribir_un_Tema_de_10",
     "CLM_Indices_Temario_Ingles",
+    "CLM_Tema_07",
     "MOC_Castilla_La_Mancha"
    ]
   },

@@ -14,6 +14,8 @@ estado: borrador
 
 **Title**: Developing linguistic skills: listening comprehension and expression, written comprehension and expression. Communicative competence in English.
 
+> 📘 **Texto completo del tema: [[CLM_Tema_03]]**
+
 > Guion para redactar el tema: ideas clave, autores y ejemplos por apartado. No es un texto para memorizar palabra por palabra: escríbelo con tu voz. Antes de citar, comprueba las referencias marcadas como *clásico*. Ver [[CLM_Como_Escribir_un_Tema_de_10]].
 
 ## 1. Introduction

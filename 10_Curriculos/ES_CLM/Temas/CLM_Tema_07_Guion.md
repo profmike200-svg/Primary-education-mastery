@@ -14,6 +14,8 @@ estado: borrador
 
 **Title**: Oral language. The complexity of global listening comprehension: from hearing to active and selective understanding. From imitation to free production.
 
+> 📘 **Texto completo del tema: [[CLM_Tema_07]]**
+
 > Guion para redactar el tema. Comprueba antes de citar las referencias marcadas como *clásico*. Ver [[CLM_Como_Escribir_un_Tema_de_10]].
 
 ## 1. Introduction

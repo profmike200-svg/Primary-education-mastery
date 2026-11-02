@@ -37,7 +37,13 @@ estado: borrador
 
 **Extensión realista**: escribir a mano durante 2 horas da para unas 2.000-2.800 palabras. Si tus temas desarrollados son más largos, prepara una **versión de examen** algo más condensada y entrena con tiempo real.
 
-## 3. Recursos que suman en todos los temas
+## 3. Estilo de los temas de la biblioteca
+- **Inglés excelente y ameno**: frases claras y de longitud variada, conectores (*first, moreover, however, therefore, finally*), ejemplos con escenas de aula y un hilo narrativo que empieza en la introducción y se cierra en la conclusión.
+- **Fácil de aprender**: cada tema empieza con un **mapa de memoria** (una línea por apartado) y termina con **puntos clave**. Aprende primero el mapa y después el texto.
+- **APA 7.ª edición**: citas en el texto (Autor, año) y lista final ordenada alfabéticamente en tres bloques: normativa, bibliografía y recursos web.
+- **Autores con su aportación**: nunca un nombre suelto; siempre qué dijo y para qué sirve en el aula.
+
+## 4. Recursos que suman en todos los temas
 - **Normativa**: LOMLOE (LO 3/2020); RD 157/2022; Decreto 81/2022 (currículo de Castilla-La Mancha); Orden 185/2022 (evaluación); Decreto 85/2018 (inclusión); normativa de programas bilingües de Castilla-La Mancha si procede. Cítala **con lo que aporta** (p. ej. las seis competencias específicas del área, las situaciones de aprendizaje, el DUA).
 - **Marco europeo**: Council of Europe (2001) CEFR y *Companion Volume* (2020): comprensión, producción, interacción y mediación ([[Consejo_Europa_2020_MCER]]).
 - **Infancia**: Cameron (2001) y Pinter (2017) sobre la enseñanza a niños ([[Cameron_2001_Ninos_Lenguas]], [[Pinter_2017_Jovenes_Aprendices]]).
@@ -45,7 +51,7 @@ estado: borrador
 - **Diversidad**: DUA (CAST) + Decreto 85/2018 + un ejemplo concreto (dislexia, TDAH, incorporación tardía, altas capacidades).
 - **Webgrafía fiable**: British Council *LearnEnglish Kids*, eTwinning, CAST UDL Guidelines, la web de la Consejería.
 
-## 4. Errores frecuentes que restan nota
+## 5. Errores frecuentes que restan nota
 - Saltarse una parte del título o cambiar su orden sin motivo.
 - Introducciones largas y vacías ("Education is very important…").
 - Listas de autores sin explicar qué aporta cada uno.
@@ -54,13 +60,16 @@ estado: borrador
 - Olvidar la normativa autonómica.
 - Letra ilegible, falta de márgenes y de epígrafes visibles.
 
-## 5. Cómo memorizar los temas (con evidencia)
+## 6. Cómo memorizar los temas (con evidencia)
 - **No releer**: escribir de memoria el esquema y las ideas clave, y después comparar ([[Practica_de_Recuperacion]], [[Dunlosky_2013_Tecnicas_Estudio]]).
 - **Repaso espaciado** de todos los temas a lo largo de meses, no en bloque ([[Practica_Espaciada]]).
 - **Simulacros** de 2 horas a mano, al menos uno por semana en los últimos meses.
 - Memorizar primero el **esqueleto** (índice + 1 autor + 1 ejemplo por apartado); el texto completo después.
 
-## Guiones de desarrollo disponibles
+## Temas desarrollados (texto completo)
+[[CLM_Tema_03]] · [[CLM_Tema_07]]
+
+## Guiones de desarrollo
 [[CLM_Tema_03_Guion]] · [[CLM_Tema_07_Guion]] · [[CLM_Tema_09_Guion]] · [[CLM_Tema_11_Guion]] · [[CLM_Tema_14_Guion]]
 
 ## Relacionado
