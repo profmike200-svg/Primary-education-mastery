@@ -86,6 +86,8 @@ SINONIMOS = {
         "pilares desarrollo integral",
     ("no habla", "habla poco", "primeras palabras"): "lenguaje desarrollo hitos",
     ("dos idiomas", "bilingue", "bilinguismo"): "bilingue crianza",
+    ("solo en ingles", "usar el espanol", "lengua materna", "en espanol", "english only", "traducir"):
+        "uso lengua materna clase ingles",
     ("no entiende lo que lee", "comprension"): "comprension lectora estrategias",
 }
 PESO_EVIDENCIA = {"A": 1.5, "B": 1.25, "C": 1.0, "D": 0.85, "?": 0.9, "M": 1.0}
